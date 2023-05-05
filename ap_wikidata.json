@@ -772,7 +772,7 @@
   "https://en.m.wikipedia.org/wiki/Calstock": {
     "qid": "http://www.wikidata.org/entity/Q744317",
     "label": "Calstock",
-    "lang": "en.m"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Rame_Head": {
     "qid": "http://www.wikidata.org/entity/Q7289331",
@@ -1997,7 +1997,7 @@
   "https://en.wikipedia.org/wiki/Cape_St._Vincent": {
     "qid": "http://www.wikidata.org/entity/Q4103",
     "label": "Cape St. Vincent",
-    "lang": "en.wikipedia.org/wiki/Cape_St"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Lacobriga": {
     "qid": "http://www.wikidata.org/entity/Q5668237",
@@ -2277,7 +2277,7 @@
   "https://es.wikipedia.org/wiki/Sierra_minera_de_Cartagena-La_Uni%C3%B3n#Las_minas_de_Cartagena_en_la_antig.C3.BCedad": {
     "qid": "http://www.wikidata.org/entity/Q6128054",
     "label": "Sierra minera de Cartagena-La Uni%C3%B3n#Las minas de Cartagena en la antig.C3.BCedad",
-    "lang": "es.wikipedia.org/wiki/Sierra_minera_de_Cartagena-La_Uni%C3%B3n#Las_minas_de_Cartagena_en_la_antig.C3"
+    "lang": "es"
   },
   "https://en.wikipedia.org/wiki/Segura": {
     "qid": "http://www.wikidata.org/entity/Q18612",
@@ -2717,7 +2717,7 @@
   "https://en.wikipedia.org/wiki/St._Brieux": {
     "qid": "http://www.wikidata.org/entity/Q1917109",
     "label": "St. Brieux",
-    "lang": "en.wikipedia.org/wiki/St"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Lannion": {
     "qid": "http://www.wikidata.org/entity/Q207581",
@@ -2902,7 +2902,7 @@
   "https://fr.m.wikipedia.org/wiki/Sallertaine": {
     "qid": "http://www.wikidata.org/entity/Q509991",
     "label": "Sallertaine",
-    "lang": "fr.m"
+    "lang": "fr"
   },
   "https://en.wikipedia.org/wiki/%C3%8Ele_d%27Yeu": {
     "qid": "http://www.wikidata.org/entity/Q1970151",
@@ -2917,12 +2917,12 @@
   "https://fr.wikisource.org/wiki/Site_du_Haut_de_Pampin": {
     "qid": "http://www.wikidata.org/entity/Q19232138",
     "label": "Site du Haut de Pampin",
-    "lang": "fr.wikisource"
+    "lang": "fr"
   },
   "https://fr.wikisource.org/wiki/Site_des_Minimes": {
     "qid": "http://www.wikidata.org/entity/Q19232110",
     "label": "Site des Minimes",
-    "lang": "fr.wikisource"
+    "lang": "fr"
   },
   "https://en.wikipedia.org/wiki/Fouras": {
     "qid": "http://www.wikidata.org/entity/Q745213",
@@ -2937,7 +2937,7 @@
   "https://fr.wikisource.org/wiki/Site_du_P%C3%A9r%C3%A9_Maillard": {
     "qid": "http://www.wikidata.org/entity/Q19232141",
     "label": "Site du P%C3%A9r%C3%A9 Maillard",
-    "lang": "fr.wikisource"
+    "lang": "fr"
   },
   "https://en.wikipedia.org/wiki/Ol%C3%A9ron": {
     "qid": "http://www.wikidata.org/entity/Q292568",
@@ -3142,7 +3142,7 @@
   "http://fr.wikipedia.org/wiki/Oppidum_du_Castellan": {
     "qid": "http://www.wikidata.org/entity/Q3354393",
     "label": "Oppidum du Castellan",
-    "lang": "http://fr"
+    "lang": "fr"
   },
   "https://fr.wikipedia.org/wiki/Martigues": {
     "qid": "http://www.wikidata.org/entity/Q237516",
@@ -4997,7 +4997,7 @@
   "https://en.wikipedia.org/wiki/St._Paul%27s_Bay": {
     "qid": "http://www.wikidata.org/entity/Q39521",
     "label": "St. Paul%27s Bay",
-    "lang": "en.wikipedia.org/wiki/St"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Burmarrad": {
     "qid": "http://www.wikidata.org/entity/Q852182",
@@ -5007,7 +5007,7 @@
   "https://en.wikipedia.org/wiki/St._Julian%27s,_Malta": {
     "qid": "http://www.wikidata.org/entity/Q669979",
     "label": "St. Julian%27s, Malta",
-    "lang": "en.wikipedia.org/wiki/St"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Manoel_Island": {
     "qid": "http://www.wikidata.org/entity/Q949457",
@@ -7247,7 +7247,7 @@
   "https://en.wikipedia.org/wiki/Cape_St._George_(Greece)": {
     "qid": "http://www.wikidata.org/entity/Q60790477",
     "label": "Cape St. George (Greece)",
-    "lang": "en.wikipedia.org/wiki/Cape_St"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Thaumacia": {
     "qid": "http://www.wikidata.org/entity/Q16637978",
@@ -12977,7 +12977,7 @@
   "https://en.m.wikipedia.org/wiki/Atlit_Yam": {
     "qid": "http://www.wikidata.org/entity/Q2896085",
     "label": "Atlit Yam",
-    "lang": "en.m"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Atlit": {
     "qid": "http://www.wikidata.org/entity/Q116859775",
@@ -13142,7 +13142,7 @@
   "https://de.m.wikipedia.org/wiki/Wadi_Gasus": {
     "qid": "http://www.wikidata.org/entity/Q1397227",
     "label": "Wadi Gasus",
-    "lang": "de.m"
+    "lang": "de"
   },
   "https://en.wikipedia.org/wiki/Mersa_Gawasis": {
     "qid": "http://www.wikidata.org/entity/Q1536350",

@@ -17,7 +17,7 @@ bodyofwater={"Hanerau":"http://www.wikidata.org/entity/Q985282","Kreutzsee":"htt
 
 def resolveWikidataIDFromArticleName(wikipediaurl):
     pagename=wikipediaurl[wikipediaurl.rfind("wiki/")+5:]
-    lang=wikipediaurl[0:wikipediaurl.rfind(".")].replace("https://","").replace("http://","")
+    lang=wikipediaurl[0:wikipediaurl.find(".")].replace("https://","").replace("http://","")
     resturl=wikipediaurl[0:wikipediaurl.rfind("/wiki/")]
     resolveurl=resturl+"/w/api.php?action=query&prop=pageprops&ppprop=wikibase_item&redirects=1&format=json&titles="+pagename
     qid=None
@@ -137,9 +137,9 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> <"+countries[str(row["COUNTRY"])]+"> .\n <"+countries[str(row["COUNTRY"])]+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["COUNTRY"])+"\"@en .\n")
         else:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> \""+str(row["COUNTRY"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
-        if row["PLEIADES"]!="":
+        if row["PLEIADES"]!="" and "http" in row["PLEIADES"]:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1584> <"+str(row["PLEIADES"])+"> .\n <"+str(row["PLEIADES"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["PLEIADES"])+"\"@en .\n")
-        if row["TRISMEGISTOS"]!="":
+        if row["TRISMEGISTOS"]!="" and "http" in row["TRISMEGISTOS"]:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1958> <"+str(row["TRISMEGISTOS"])+"> .\n <"+str(row["TRISMEGISTOS"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TRISMEGISTOS"])+"\"@en .\n")
         if row["WIKIPEDIA"]!="":
             if str(row["WIKIPEDIA"]) not in wikidatacache:
@@ -150,7 +150,7 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
                 wikidatacache[str(row["WIKIPEDIA"])]=qid
                 triples.add("<"+str(cururi)+"> <http://www.w3.org/2002/07/owl#sameAs> <"+str(qid["qid"])+"> .\n <"+str(qid["qid"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(qid["label"])+"\"@"+str(qid["lang"])+" .\n")
         if "FOUNDATION" in row and row["FOUNDATION"].strip()!="":
-            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_min> \""+str(row["FOUNDATION"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
+            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_min> \"\"\""+str(row["FOUNDATION"])+"\"\"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "Date_max" in row and row["Date_max"].strip()!="":
             triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_max> \""+str(row["Date_max"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "Place_technique" in row and row["Place_technique"].strip()!="":
@@ -187,5 +187,5 @@ with open("ap_result.ttl","w",encoding="utf-8") as resfile:
     resfile.close()
 
 #g=Graph()
-#g.parse("spp_result.ttl")
-#g.serialize("spp_result.ttl")
+#g.parse("ap_result.ttl")
+#g.serialize("ap_result.ttl")
