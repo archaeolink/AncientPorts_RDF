@@ -17,7 +17,7 @@ bodyofwater={"Hanerau":"http://www.wikidata.org/entity/Q985282","Kreutzsee":"htt
 
 def resolveWikidataIDFromArticleName(wikipediaurl):
     pagename=wikipediaurl[wikipediaurl.rfind("wiki/")+5:]
-    lang=wikipediaurl[0:wikipediaurl.rfind(".")].replace("https://","")
+    lang=wikipediaurl[0:wikipediaurl.rfind(".")].replace("https://","").replace("http://","")
     resturl=wikipediaurl[0:wikipediaurl.rfind("/wiki/")]
     resolveurl=resturl+"/w/api.php?action=query&prop=pageprops&ppprop=wikibase_item&redirects=1&format=json&titles="+pagename
     qid=None
@@ -132,7 +132,7 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/creator> <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> .\n")
         triples.add("<http://data.archaeology.link/data/spphaefen/arthur_de_graauw> <http://www.w3.org/2000/01/rdf-schema#label> \"Arthur de Graauw\"@en  .\n")
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/created> \"2023\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
-        triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["NAME_MOD"]).replace("\"","'")+"\"@en .\n")
+        triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+"\"\"\"@en .\n")
         if row["COUNTRY"] in countries:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> <"+countries[str(row["COUNTRY"])]+"> .\n <"+countries[str(row["COUNTRY"])]+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["COUNTRY"])+"\"@en .\n")
         else:

@@ -642,7 +642,7 @@
   "http://en.wikipedia.org/wiki/Bucknowle_Farm": {
     "qid": "http://www.wikidata.org/entity/Q999861",
     "label": "Bucknowle Farm",
-    "lang": "http://en"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/East_Creech": {
     "qid": "http://www.wikidata.org/entity/Q14956366",
@@ -1677,12 +1677,12 @@
   "http://en.wikipedia.org/wiki/Lambay_Island": {
     "qid": "http://www.wikidata.org/entity/Q1520062",
     "label": "Lambay Island",
-    "lang": "http://en"
+    "lang": "en"
   },
   "http://en.wikipedia.org/wiki/Howth_Head": {
     "qid": "http://www.wikidata.org/entity/Q774374",
     "label": "Howth Head",
-    "lang": "http://en"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Dalkey_Island": {
     "qid": "http://www.wikidata.org/entity/Q3776791",
@@ -11502,7 +11502,7 @@
   "http://en.wikipedia.org/wiki/Cape_Gata": {
     "qid": "http://www.wikidata.org/entity/Q3564507",
     "label": "Cape Gata",
-    "lang": "http://en"
+    "lang": "en"
   },
   "https://en.wikipedia.org/wiki/Aetokremnos": {
     "qid": "http://www.wikidata.org/entity/Q1752701",
