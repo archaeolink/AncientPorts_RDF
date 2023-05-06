@@ -12,6 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3085_1_geom> ;
-    ns1:P17 "Cyprus"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q229> ;
     ns1:P1958 <https://www.trismegistos.org/place/60870> .
 

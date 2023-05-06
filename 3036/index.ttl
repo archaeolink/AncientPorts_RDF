@@ -13,5 +13,5 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3036_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/707458> ;
-    ns1:P17 "Cyprus"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

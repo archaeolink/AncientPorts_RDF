@@ -6,24 +6,24 @@ var minivowlresult={
  ],
  "nodes": [
   {
-   "name": "Point",
-   "type": "class",
-   "uri": "http://www.opengis.net/ont/sf#Point"
-  },
-  {
    "name": "Harbour",
    "type": "class",
    "uri": "http://www.ancientports.com/ont#Harbour"
   },
   {
-   "name": "Class",
+   "name": "Point",
    "type": "class",
-   "uri": "http://www.w3.org/2002/07/owl#Class"
+   "uri": "http://www.opengis.net/ont/sf#Point"
   },
   {
    "name": "DatatypeProperty",
    "type": "class",
    "uri": "http://www.w3.org/2002/07/owl#DatatypeProperty"
+  },
+  {
+   "name": "Class",
+   "type": "class",
+   "uri": "http://www.w3.org/2002/07/owl#Class"
   },
   {
    "name": "ObjectProperty",
@@ -33,8 +33,8 @@ var minivowlresult={
  ],
  "links": [
   {
-   "source": 1,
-   "target": 0,
+   "source": 0,
+   "target": 1,
    "valueTo": "hasGeometry",
    "propertyTo": "class",
    "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"

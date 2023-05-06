@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-10.000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3079_geom> ;
-    ns2:P17 "Cyprus"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q229> .
 

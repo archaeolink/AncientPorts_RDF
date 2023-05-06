@@ -15,5 +15,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3057_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1404714> ;
     ns1:P1584 <http://pleiades.stoa.org/places/707544> ;
-    ns1:P17 "Cyprus"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q229> .
 
