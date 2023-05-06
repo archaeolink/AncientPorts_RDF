@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.archaeology.link/data/ancientports/Person_collection> a skos:Collection ;
+    rdfs:label "Person Instances Collection" ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    rdfs:member <http://data.archaeology.link/data/ancientports/author_Bjerck_Hein_B.>,
+        <http://data.archaeology.link/data/ancientports/author_Breivik_Heidi_Mjelva>,
+        <http://data.archaeology.link/data/ancientports/author_Glørstad_Håkon>,
+        <http://data.archaeology.link/data/ancientports/author_Green_Jeremy>,
+        <http://data.archaeology.link/data/ancientports/author_Uhner_Claes_>,
+        <http://data.archaeology.link/data/ancientports/author_Wickler_Stephen>,
+        <http://data.archaeology.link/data/ancientports/author__Ling_Johan> .
+

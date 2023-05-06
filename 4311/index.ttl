@@ -1,17 +1,17 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4311> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/4311> a ns1:Harbour ;
     rdfs:label "Quarry and fish processing factory and possible salt production near outlet of wadi Tahadart, wadi Hachef"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-330"^^xsd:gYear ;
+    ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4311_geom> ;
-    ns1:P1584 <http://pleiades.stoa.org/places/275731> ;
-    ns1:P17 "Morocco"^^xsd:string .
+    ns2:P1584 <http://pleiades.stoa.org/places/275731> ;
+    ns2:P17 "Morocco"^^xsd:string .
 

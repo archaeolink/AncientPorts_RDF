@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Håkon_2013_Where> a ns1:Article ;
+    dc:created "2013"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Glørstad_Håkon> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Where are the Missing Boats? The Pioneer Settlement of Norway as Long-Term History"@en ;
+    ns1:doi "10.1080/00293652.2013.777095"^^xsd:anyURI ;
+    ns1:number 1 ;
+    ns1:publisher "Routledge" ;
+    ns1:volume "46"^^xsd:string .
+

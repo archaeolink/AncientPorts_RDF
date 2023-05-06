@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Wickler_2019_Early> a ns1:Article ;
+    dc:created "2019"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Wickler_Stephen> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Early boats in Scandinavia: new evidence from Early Iron Age bog finds in Arctic Norway"@en ;
+    ns1:number 2 ;
+    ns1:pageEnd 204 ;
+    ns1:pageStart 183 ;
+    ns1:publisher "Springer" ;
+    ns1:volume "14"^^xsd:string .
+

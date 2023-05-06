@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Breivik_2014_Palaeo> a ns1:Article ;
+    dc:created "2014"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Breivik_Heidi_Mjelva> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Palaeo-oceanographic development and human adaptive strategies in the Pleistocene--Holocene transition: A study from the Norwegian coast"@en ;
+    ns1:number 11 ;
+    ns1:pageEnd 1490 ;
+    ns1:pageStart 1478 ;
+    ns1:publisher "Sage Publications Sage UK: London, England" ;
+    ns1:volume "24"^^xsd:string .
+

@@ -1,0 +1,12 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Uhner_2015_Rock> a ns1:Article ;
+    dc:created "2015"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Uhner_Claes_>,
+        <http://data.archaeology.link/data/ancientports/author__Ling_Johan> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Rock Art and Metal Trade"@en ;
+    ns1:volume "2014"^^xsd:string .
+
