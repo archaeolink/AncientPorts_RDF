@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/2856_1> a <http://www.ancientports.com/ont#Harbour> ;
+    rdfs:label "Isle of Büyük Adasi in the Prince islands"@en ;
+    dc:created "2023"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/2856_1_geom> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q989883> ;
+    ns1:P1584 <http://pleiades.stoa.org/places/521078> ;
+    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P1958 <https://www.trismegistos.org/place/57994> .
+

@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/3101_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "promontory NW of Kumkale with Achille's tomb: the port may have been located in a plain, now silted up by R Scamandre (R Karamenderes) somewhere between Sigeum and Kumtepe Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(26,17800 39,97300)"^^geo:wktLiteral .
+

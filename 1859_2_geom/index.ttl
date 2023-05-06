@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/1859_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Lychnari bay, near Kato Vayia fort Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(23,06450 37,84000)"^^geo:wktLiteral .
+

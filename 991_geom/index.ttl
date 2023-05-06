@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/991_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Pozzuoli, Pouzzoles, Puteoles, in the Campi Flegrei volcano district, pilae of arched mole are under modern breakwater (Molo Caligoliano) Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(14,11540 40,82160)"^^geo:wktLiteral .
+

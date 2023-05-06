@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/2318> a ns1:Harbour ;
+    rdfs:label "Naval base at Port Mandraki with its supposed Colossus of Rhodes (acting as a lighthouse?). Diodorus (Hist, 20, 85-86) distinguishes a « small port » and a « large port » during the siege of Demetrius in 303 BC. The small port would thus be the port of Mandraki now protected by jetties decorated with a deer on each side."@en ;
+    dc:created "2023"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    ns1:date_min "-335"^^xsd:gYear ;
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/2318_geom> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q188731> ;
+    ns2:P1584 <http://pleiades.stoa.org/places/590030> ;
+    ns2:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns2:P1958 <https://www.trismegistos.org/place/2057> .
+

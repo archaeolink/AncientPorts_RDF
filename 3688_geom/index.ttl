@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/3688_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Dhuba, Duba, Sharm Qafafah, south of Jebel as-Sar, Ash-Shar, shaped like a horse Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(35,69420 27,34520)"^^geo:wktLiteral .
+

@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/3859_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Tharro Hill, Kervran suggests that Bibacta insula and Cilluta insula are both located here Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(67,74270 24,72950)"^^geo:wktLiteral .
+

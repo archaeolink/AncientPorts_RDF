@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/997_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Santa Lucia, near Pizzofalcone in Naples, but port probably at Piazza Municipio since early times Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(14,25220 40,83980)"^^geo:wktLiteral .
+

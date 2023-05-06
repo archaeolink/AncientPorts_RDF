@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/1960_1> a ns2:Harbour ;
+    rdfs:label "Nikoleika, between R Selinous and R Kerynites"@en ;
+    dc:created "2023"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    ns2:date_min "-1500"^^xsd:gYear ;
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/1960_1_geom> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1432654> ;
+    ns1:P1584 <http://pleiades.stoa.org/places/570281> ;
+    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P1958 <https://www.trismegistos.org/place/37596> .
+

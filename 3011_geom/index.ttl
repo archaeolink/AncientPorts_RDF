@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/3011_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Plakias, note the whole area between Matala and Frangokastello is not well protected from northern winds Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(24,40050 35,19220)"^^geo:wktLiteral .
+

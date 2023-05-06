@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/3735_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Zeila, Saylac, in Somalia, 50 km east of Djibouti. Avalites seems to be located with some certainty at Zeila (in Somalia) on a former island protected by a sand spit Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(43,47187 11,35739)"^^geo:wktLiteral .
+

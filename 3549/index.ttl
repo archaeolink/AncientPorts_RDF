@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/3549> a ns1:Harbour ;
+    rdfs:label "Quseir al-Qadim, at the Mövenpick hotel, 8 km north of Quseir. Ptolemy locates Myos-Hormos at 3°25’ of latitude (380 km) north of Berenike, which leads to Hurghada. The Periplus Maris Erythraei indicates that this site is at 1800 stadia (330 km) from Berenike, which would lead near Safaga. However, modern authors agree to locate this port 8 km north of Quseir on the West side of the road, and a jetty made of amphorae was found by Peacock & Blue. Napoleon's team identified it as 'Vieux Qoséïr'. Roman fort at Qasr Hadie and road to Nile valley"@en ;
+    dc:created "2023"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    ns1:date_min "-275"^^xsd:gYear ;
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3549_geom> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1956723> ;
+    ns2:P1584 <http://pleiades.stoa.org/places/786069> ;
+    ns2:P17 "Egypt: Red Sea"^^xsd:string ;
+    ns2:P1958 <https://www.trismegistos.org/place/3156> .
+

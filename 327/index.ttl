@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/327> a ns2:Harbour ;
+    rdfs:label "Cortijo de Ebora, near Las Marismas"@en ;
+    dc:created "2023"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    ns2:date_min "-750"^^xsd:gYear ;
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/327_geom> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3108639> ;
+    ns1:P1584 <http://pleiades.stoa.org/places/255962> ;
+    ns1:P17 "Spain South"^^xsd:string .
+

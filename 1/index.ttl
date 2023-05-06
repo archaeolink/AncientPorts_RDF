@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/1> a <http://www.ancientports.com/ont#Harbour> ;
+    rdfs:label "Iceland? Pliny and Strabo, who cite Pytheas (ca 325 BC?), place Thule at 6 navigation days from (Great) Britain, which may be 400-600 nautical miles. Iceland is at 450 miles north of Scotland. The mention of six months long days and nights means a position beyond the Arctic Circle, which corresponds better to Iceland than to the Shetland islands."@en ;
+    dc:created "2023"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_geom> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q671008> ;
+    ns1:P1584 <https://pleiades.stoa.org/places/20624> ;
+    ns1:P17 "Iceland?"^^xsd:string ;
+    ns1:P1958 <https://www.trismegistos.org/place/19731> .
+

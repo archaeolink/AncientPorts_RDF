@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/4296_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Belyounech, Beliunes, in the bay of Benzu, at the toe of Jebel Mousa, Djebel Moussa, near Ceuta, which is generally assimilated with one of the Pillars of Hercules, possible fish processing factory Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(-5,38937 35,90845)"^^geo:wktLiteral .
+

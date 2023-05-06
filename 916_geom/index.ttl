@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/916_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    rdfs:label "Ostia, with probable lighthouse at Tor Boacciana. It may be noted that Dionysius is more positive on the use of this port than Strabo, although they both lived in the same period Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    geo:asWKT "POINT(12,27985 41,75343)"^^geo:wktLiteral .
+
