@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4060_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "about 20 km east of Syrte Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,82950 31,19650)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.82950 31.19650)"^^geo:wktLiteral .
 

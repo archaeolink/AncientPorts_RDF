@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(14,76500 44,36260)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Banjve, on the isle of Olib Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(14.76500 44.36260)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Banjve, on the isle of Olib Geometry"]}

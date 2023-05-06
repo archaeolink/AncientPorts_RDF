@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3818_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tepeh Sabzabad, Tol-e Peytul, near Rishir, Rishahr, Rayshahr, Rivard Ardashir, Bokht Ardeshir Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(50,82555 28,89603)"^^geo:wktLiteral .
+    geo:asWKT "POINT(50.82555 28.89603)"^^geo:wktLiteral .
 

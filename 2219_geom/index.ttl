@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2219_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Petra, Kabaki, on the isle of Lesbos, Lesvos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,17980 39,34100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.17980 39.34100)"^^geo:wktLiteral .
 

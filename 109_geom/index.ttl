@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/109_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Penhale Point oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,15570 50,38880)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.15570 50.38880)"^^geo:wktLiteral .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(10,11960 34,31017)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Bir Flaguess 2.5 km SW of the TRAPSA oil terminal Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(10.11960 34.31017)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Bir Flaguess 2.5 km SW of the TRAPSA oil terminal Geometry"]}

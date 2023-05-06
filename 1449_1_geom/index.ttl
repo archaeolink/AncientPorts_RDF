@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1449_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vlacilo, on Stipanska island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,17570 43,39940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.17570 43.39940)"^^geo:wktLiteral .
 

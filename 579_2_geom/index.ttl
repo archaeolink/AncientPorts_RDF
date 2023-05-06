@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/579_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Several Roman villas at Arradon: Mane Bourgerel, Lodo, Keran Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,81300 47,61900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.81300 47.61900)"^^geo:wktLiteral .
 

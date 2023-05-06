@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3775_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cuscan according to Forster, Haffah Bay?? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(56,29684 25,73025)"^^geo:wktLiteral .
+    geo:asWKT "POINT(56.29684 25.73025)"^^geo:wktLiteral .
 

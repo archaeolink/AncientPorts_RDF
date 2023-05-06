@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2369_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "South of Lake Suvla, Tuz Gölü in Besyol plain, west of Büyükanafarta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,29470 40,26940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.29470 40.26940)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1685_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fort at Pyles, Thermopyles  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,53650 38,79680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.53650 38.79680)"^^geo:wktLiteral .
 

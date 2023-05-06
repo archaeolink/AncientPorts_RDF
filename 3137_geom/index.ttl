@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3137_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nemrut Limani, south of Aliaga Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,93620 38,75940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.93620 38.75940)"^^geo:wktLiteral .
 

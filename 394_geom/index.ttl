@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/394_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Picola, plaza Aljibes, near parque Palmeral, at Santa Pola, near Elche Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,56068 38,19496)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.56068 38.19496)"^^geo:wktLiteral .
 

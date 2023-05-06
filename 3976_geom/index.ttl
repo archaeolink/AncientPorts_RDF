@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3976_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bardia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,10202 31,75919)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.10202 31.75919)"^^geo:wktLiteral .
 

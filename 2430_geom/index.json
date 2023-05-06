@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(29,04200 41,16000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["B\u00fcy\u00fckdere Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(29.04200 41.16000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["B\u00fcy\u00fckdere Geometry"]}

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/796_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Torres, Piazza di Colombo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,40160 40,83920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.40160 40.83920)"^^geo:wktLiteral .
 

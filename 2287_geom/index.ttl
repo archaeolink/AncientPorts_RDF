@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2287_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arki, Port Augusta, with Hellenistic tower, on the isle of Arkoi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,73603 37,38025)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.73603 37.38025)"^^geo:wktLiteral .
 

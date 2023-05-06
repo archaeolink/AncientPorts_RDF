@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2791_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sakalli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,08560 41,94140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.08560 41.94140)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3378_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Yumuktepe, near Mersin, on R Müftü, R Efrenk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,60410 36,80130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.60410 36.80130)"^^geo:wktLiteral .
 

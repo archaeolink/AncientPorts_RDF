@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-1,29180 50,69420)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Isle of Wight, probably Newport, with Roman villa on R Medina Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-1.29180 50.69420)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Isle of Wight, probably Newport, with Roman villa on R Medina Geometry"]}

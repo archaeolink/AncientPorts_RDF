@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1144_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isola delle Correnti Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,07830 36,64800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.07830 36.64800)"^^geo:wktLiteral .
 

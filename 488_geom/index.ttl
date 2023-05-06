@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/488_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mahon Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,28010 39,88788)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.28010 39.88788)"^^geo:wktLiteral .
 

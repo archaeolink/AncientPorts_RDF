@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3732_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Heis, Xiis, with anchorage at Salweyn behind Heis island. Other possible locations for Punt are Adulis and Opone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(46,92950 10,91400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(46.92950 10.91400)"^^geo:wktLiteral .
 

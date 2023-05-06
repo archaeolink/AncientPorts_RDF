@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/738_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Campomoro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,81300 41,63500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.81300 41.63500)"^^geo:wktLiteral .
 

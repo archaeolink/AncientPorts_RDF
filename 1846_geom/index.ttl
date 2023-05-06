@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1846_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "south of Porto Lagos, near Xanthia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,15040 40,97820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.15040 40.97820)"^^geo:wktLiteral .
 

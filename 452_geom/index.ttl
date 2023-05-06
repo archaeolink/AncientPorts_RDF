@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/452_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gymnesic (or Balearic) Islands: Mallorca and Minorca Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,51592 39,89869)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.51592 39.89869)"^^geo:wktLiteral .
 

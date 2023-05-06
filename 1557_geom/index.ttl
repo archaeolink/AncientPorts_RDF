@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1557_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Anoixiatiko Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,15038 38,97820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.15038 38.97820)"^^geo:wktLiteral .
 

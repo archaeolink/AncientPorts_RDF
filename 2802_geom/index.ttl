@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2802_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Eren Limani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,90000 41,52580)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.90000 41.52580)"^^geo:wktLiteral .
 

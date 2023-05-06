@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/532_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tumulus at Colombiers, on R Seule Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,49460 49,29680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.49460 49.29680)"^^geo:wktLiteral .
 

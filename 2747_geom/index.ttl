@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2747_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aziziye? near Yason Burnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,70500 41,11600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.70500 41.11600)"^^geo:wktLiteral .
 

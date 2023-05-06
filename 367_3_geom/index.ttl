@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/367_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lagos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,01410 36,74310)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.01410 36.74310)"^^geo:wktLiteral .
 

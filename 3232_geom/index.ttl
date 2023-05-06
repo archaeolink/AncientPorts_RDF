@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3232_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kapicikada Tepesi  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,05250 36,82590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.05250 36.82590)"^^geo:wktLiteral .
 

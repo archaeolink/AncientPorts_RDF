@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/273_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Martinhal and Baleeira islet, with a Roman amphora kiln Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,92510 37,01970)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.92510 37.01970)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/285_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cerro da Rocha Branca, near Silves Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,44246 37,18241)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.44246 37.18241)"^^geo:wktLiteral .
 

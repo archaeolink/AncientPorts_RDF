@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2141_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chora, with port at Karavostasi, on the isle of Folegandros  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,92550 36,63020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.92550 36.63020)"^^geo:wktLiteral .
 

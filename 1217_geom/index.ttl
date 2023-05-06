@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1217_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa of San Pawl Milqi, near Burmarrad, near Salina bay with  salt production Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,41170 35,93330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.41170 35.93330)"^^geo:wktLiteral .
 

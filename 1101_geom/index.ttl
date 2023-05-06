@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1101_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Masseria Caronella, near Tarento Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,31499 40,50047)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.31499 40.50047)"^^geo:wktLiteral .
 

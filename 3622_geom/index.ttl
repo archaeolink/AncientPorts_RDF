@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3622_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Howakil bay, Hauakil bay, near Ghelaelo, with Harena, Arena island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(40,06500 15,19000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(40.06500 15.19000)"^^geo:wktLiteral .
 

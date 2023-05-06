@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/998_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Naples, Piazza Municipio, onshore Roman quay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,25240 40,83926)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.25240 40.83926)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1505_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mlinima Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,20560 42,62130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.20560 42.62130)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3193_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Milet, Lion Harbour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,27950 37,53170)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.27950 37.53170)"^^geo:wktLiteral .
 

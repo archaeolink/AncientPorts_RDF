@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2971_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "due south of the isle of Psira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,85980 35,15230)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.85980 35.15230)"^^geo:wktLiteral .
 

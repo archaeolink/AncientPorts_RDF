@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3286_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gavur Agli and Bükses, near Karadere Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,23164 36,33320)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.23164 36.33320)"^^geo:wktLiteral .
 

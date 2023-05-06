@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1411_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Luka Krivica, on the isle of Losinj Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,49522 44,50067)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.49522 44.50067)"^^geo:wktLiteral .
 

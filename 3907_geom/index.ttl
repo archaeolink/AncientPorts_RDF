@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3907_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sahgrat el-Kubra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,26660 30,71280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.26660 30.71280)"^^geo:wktLiteral .
 

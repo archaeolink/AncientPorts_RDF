@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2496_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dunavatu de Sus Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,22400 45,01300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.22400 45.01300)"^^geo:wktLiteral .
 

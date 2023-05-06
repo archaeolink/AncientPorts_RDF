@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4285_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sidi Abdesalam del Behar, possible fish processing factory and salt production and amphora kilns on old wadi Martil outlet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,25851 35,58616)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.25851 35.58616)"^^geo:wktLiteral .
 

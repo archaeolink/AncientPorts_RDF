@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1859_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Beach south of Loutra Oreas Elenis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,99900 37,86200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.99900 37.86200)"^^geo:wktLiteral .
 

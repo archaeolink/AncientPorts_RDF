@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4293_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Santa Catalina, at northern tip of Monte Hacho at Ceuta  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,28567 35,90490)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.28567 35.90490)"^^geo:wktLiteral .
 

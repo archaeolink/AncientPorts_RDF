@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2135_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stoloi, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,47990 36,67230)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.47990 36.67230)"^^geo:wktLiteral .
 

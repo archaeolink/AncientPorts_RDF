@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2553_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pugach Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,06370 46,61280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.06370 46.61280)"^^geo:wktLiteral .
 

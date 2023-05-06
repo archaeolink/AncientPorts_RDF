@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/117_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Great Witcombe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,14730 51,82670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.14730 51.82670)"^^geo:wktLiteral .
 

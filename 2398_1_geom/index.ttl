@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2398_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Little harbour, Firuzköy, on Lake Kücükcekmece Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,73520 41,03410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.73520 41.03410)"^^geo:wktLiteral .
 

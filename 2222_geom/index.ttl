@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2222_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Aspropotamos, on the isle of Lesbos, Lesvos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,36780 39,26530)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.36780 39.26530)"^^geo:wktLiteral .
 

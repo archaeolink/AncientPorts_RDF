@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1113_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Pistunina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,53658 38,14513)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.53658 38.14513)"^^geo:wktLiteral .
 

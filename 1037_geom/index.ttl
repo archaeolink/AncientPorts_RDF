@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1037_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Lucido  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,04230 39,30127)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.04230 39.30127)"^^geo:wktLiteral .
 

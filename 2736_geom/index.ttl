@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2736_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tirebolu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,82144 41,00809)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.82144 41.00809)"^^geo:wktLiteral .
 

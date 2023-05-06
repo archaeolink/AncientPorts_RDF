@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2372_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neolithic settlement at Karaagactepe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,19280 40,05820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.19280 40.05820)"^^geo:wktLiteral .
 

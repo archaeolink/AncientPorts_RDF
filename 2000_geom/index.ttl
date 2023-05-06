@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2000_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "isle of Atokos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,81246 38,48580)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.81246 38.48580)"^^geo:wktLiteral .
 

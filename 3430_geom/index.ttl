@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3430_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "islet of el-Habbes, with smaller Abou Ali and Nussonie islets further south Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,87349 34,82336)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.87349 34.82336)"^^geo:wktLiteral .
 

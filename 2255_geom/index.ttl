@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2255_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Vourlidia, near Cape Mastikho, south of fort of Dotia, on the isle of Chios Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,00800 38,15500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.00800 38.15500)"^^geo:wktLiteral .
 

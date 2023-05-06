@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4268_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sidi Djeloul at the outlet of wadi Ghazer Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,28903 35,35630)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.28903 35.35630)"^^geo:wktLiteral .
 

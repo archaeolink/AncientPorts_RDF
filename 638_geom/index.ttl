@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/638_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lattes, on R Lez, with ancient lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,90700 43,56462)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.90700 43.56462)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3770_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sohar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(56,74800 24,36020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(56.74800 24.36020)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/98_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Bucknowle farm, with shale quarries (ball clay, marble & black shale), on Purbeck island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,06700 50,63280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.06700 50.63280)"^^geo:wktLiteral .
 

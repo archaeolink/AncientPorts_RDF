@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31,27800 46,61000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Mors'ke? Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31.27800 46.61000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Mors'ke? Geometry"]}

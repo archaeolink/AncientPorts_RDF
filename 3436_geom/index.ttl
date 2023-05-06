@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3436_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Abde, on R Nahr al-Berid Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,95790 34,51500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.95790 34.51500)"^^geo:wktLiteral .
 

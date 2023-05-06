@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3746_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Geziret Sikha island, mentioned by PME 27 Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(48,38700 13,93400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(48.38700 13.93400)"^^geo:wktLiteral .
 

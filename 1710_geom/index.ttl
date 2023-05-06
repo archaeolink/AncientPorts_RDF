@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1710_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Petalio islands Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,25639 37,99450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.25639 37.99450)"^^geo:wktLiteral .
 

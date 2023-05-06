@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1337_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Costanziaco, near isola Torcello Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,42673 45,49907)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.42673 45.49907)"^^geo:wktLiteral .
 

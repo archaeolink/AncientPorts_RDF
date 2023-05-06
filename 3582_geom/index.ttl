@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3582_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Zabargat, Geziret Seberget, St John’s Island, the island with topaz, off Berenike. The isle of Ophiodes is well located as it seems to be the only one producing topaz in this area. No good shelter here! Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,19667 23,60815)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.19667 23.60815)"^^geo:wktLiteral .
 

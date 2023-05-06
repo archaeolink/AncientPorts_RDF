@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2036_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "BA settlement at Mikrogiali, Vitali, on the isle of Andros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,78500 37,98270)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.78500 37.98270)"^^geo:wktLiteral .
 

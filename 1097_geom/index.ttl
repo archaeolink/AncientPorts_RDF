@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1097_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "on left bank of R Sinni Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,66820 40,16580)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.66820 40.16580)"^^geo:wktLiteral .
 

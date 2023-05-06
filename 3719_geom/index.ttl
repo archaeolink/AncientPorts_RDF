@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3719_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Hafun, Xaafuun, with bay of Khor Hordiyo, Hurdiyo? Other possible locations for Punt are Mundus, Mosylium and Adulis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(51,27070 10,40410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(51.27070 10.40410)"^^geo:wktLiteral .
 

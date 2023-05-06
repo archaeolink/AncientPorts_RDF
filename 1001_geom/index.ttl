@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1001_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Villa di Poppea, near Torre Annunziata Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,45250 40,75755)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.45250 40.75755)"^^geo:wktLiteral .
 

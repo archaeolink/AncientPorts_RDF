@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1425_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Zadar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,22720 44,11670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.22720 44.11670)"^^geo:wktLiteral .
 

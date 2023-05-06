@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "in The Netherlands between R Vidrus (R Oude Rijn?) and R Amisius (R Eems), possibly at Hoge Berg near Den Burg, on the isle of Texel that was still connected to the mainland Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,82515 53,04149)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.82515 53.04149)"^^geo:wktLiteral .
 

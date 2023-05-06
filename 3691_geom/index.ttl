@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3691_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Muwaylih, Muwaila, Muweilah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,46800 27,67500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.46800 27.67500)"^^geo:wktLiteral .
 

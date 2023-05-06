@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/141_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bryn Euryn oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,75480 53,30300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.75480 53.30300)"^^geo:wktLiteral .
 

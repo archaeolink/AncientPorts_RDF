@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/293_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tejo do Praio, Quinta do Lago, Almancil, Roman kiln Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,01146 37,02840)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.01146 37.02840)"^^geo:wktLiteral .
 

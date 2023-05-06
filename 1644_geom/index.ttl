@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1644_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Silver melting kilns at Pounta Zeza Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,06800 37,68100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.06800 37.68100)"^^geo:wktLiteral .
 

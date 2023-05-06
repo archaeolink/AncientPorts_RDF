@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4196_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sidi Mechrig  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,11984 37,16208)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.11984 37.16208)"^^geo:wktLiteral .
 

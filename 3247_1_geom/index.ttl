@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3247_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sögüt Saranda Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,09070 36,65080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.09070 36.65080)"^^geo:wktLiteral .
 

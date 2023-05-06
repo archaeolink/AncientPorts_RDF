@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2944_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "West side of Rethymno, note the slipways located west of the castle, still partly visible under the coastal boulevard Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,46869 35,37107)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.46869 35.37107)"^^geo:wktLiteral .
 

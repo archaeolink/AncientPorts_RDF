@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2931_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kastelli, Chania, Khania, la Canee Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,02150 35,51900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.02150 35.51900)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1359_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Koper, Capodistria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,72380 45,54683)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.72380 45.54683)"^^geo:wktLiteral .
 

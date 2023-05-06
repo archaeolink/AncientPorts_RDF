@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2884_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Apolyont, Gölyazi on Lake Uluabat Gölü, near R Kocasu, near Aktopraklik Neolithic settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,67536 40,16385)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.67536 40.16385)"^^geo:wktLiteral .
 

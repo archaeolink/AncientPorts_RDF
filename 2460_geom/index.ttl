@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2460_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nessebar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,74020 42,65810)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.74020 42.65810)"^^geo:wktLiteral .
 

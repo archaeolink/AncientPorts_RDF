@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2673_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dyurso Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,56000 44,67580)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.56000 44.67580)"^^geo:wktLiteral .
 

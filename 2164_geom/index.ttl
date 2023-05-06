@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2164_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort near Arhangelou monastry, on the isle of Thasos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,71750 40,60660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.71750 40.60660)"^^geo:wktLiteral .
 

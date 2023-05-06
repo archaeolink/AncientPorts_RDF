@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4086_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Gargaresc Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,07900 32,86400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.07900 32.86400)"^^geo:wktLiteral .
 

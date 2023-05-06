@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4185_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ile Cani, Dziret el-Ikleb, north of Raf Raf? These two islands are mentioned by Antonine between La Galite and Egimure (Zembra). These two small islands, located offshore Raf Raf, are the only ones to be seen during the trip from La Galite to Zembra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,12375 37,35532)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.12375 37.35532)"^^geo:wktLiteral .
 

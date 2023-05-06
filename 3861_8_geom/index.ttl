@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3861_8_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Diva Dandi lighthouse at Mul Dwarka, near Kodinar, on R Shinghoda Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(70,66130 20,75930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(70.66130 20.75930)"^^geo:wktLiteral .
 

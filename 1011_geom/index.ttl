@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1011_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Scoglio del Monacone, near the isle of Capri Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,25620 40,54310)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.25620 40.54310)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3070_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Zephyros, south of Mandria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,53300 34,69600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.53300 34.69600)"^^geo:wktLiteral .
 

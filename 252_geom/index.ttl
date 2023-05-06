@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/252_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa, Povos, at Vila Franca de Xira on R Tage  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,98503 38,96686)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.98503 38.96686)"^^geo:wktLiteral .
 

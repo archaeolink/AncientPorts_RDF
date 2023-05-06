@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2934_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marathi, on the North side of the entrance to the bay of Souda, in front of Palaiosouda islet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,17553 35,50418)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.17553 35.50418)"^^geo:wktLiteral .
 

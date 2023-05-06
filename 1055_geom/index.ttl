@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1055_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marina di Palmi, Porto Ravaglioso Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,83360 38,35100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.83360 38.35100)"^^geo:wktLiteral .
 

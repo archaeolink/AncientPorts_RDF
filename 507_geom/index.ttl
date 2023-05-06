@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/507_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pont de Briques, Audisque, St Etienne au Mont Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,62760 50,68330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.62760 50.68330)"^^geo:wktLiteral .
 

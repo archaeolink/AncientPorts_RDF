@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2674_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Yuzhnaya Ozereyka Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,63900 44,66600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.63900 44.66600)"^^geo:wktLiteral .
 

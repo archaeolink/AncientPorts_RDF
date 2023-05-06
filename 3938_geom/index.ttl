@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3938_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mariout lake-port Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,90864 31,17829)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.90864 31.17829)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/119_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Caerwent Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,76980 51,61190)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.76980 51.61190)"^^geo:wktLiteral .
 

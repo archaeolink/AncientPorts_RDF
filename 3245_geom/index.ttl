@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3245_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kargincik Köyü Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,01930 36,70800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.01930 36.70800)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/76_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Rochester, on R Medway Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,50140 51,39000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.50140 51.39000)"^^geo:wktLiteral .
 

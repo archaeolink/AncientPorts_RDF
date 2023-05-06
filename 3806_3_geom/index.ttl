@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3806_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tel Abu Shahrain Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(45,99590 30,81690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(45.99590 30.81690)"^^geo:wktLiteral .
 

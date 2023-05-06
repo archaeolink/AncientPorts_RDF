@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1805_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ptolemy locates Ambelos at 10' of latitude north of Derrhis (modern Cape Ambelos), possibly at Kalamitsi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,01549 39,96956)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.01549 39.96956)"^^geo:wktLiteral .
 

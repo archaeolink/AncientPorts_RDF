@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/580_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porte Saint Patern, Vannes, capital city of the Venetes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,76225 47,62647)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.76225 47.62647)"^^geo:wktLiteral .
 

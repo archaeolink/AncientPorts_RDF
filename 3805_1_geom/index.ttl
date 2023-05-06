@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3805_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Zurghul Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(46,49500 31,37700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(46.49500 31.37700)"^^geo:wktLiteral .
 

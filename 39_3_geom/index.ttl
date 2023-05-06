@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/39_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nieuwpoort, on R IJzer, Yzer Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,74900 51,13700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.74900 51.13700)"^^geo:wktLiteral .
 

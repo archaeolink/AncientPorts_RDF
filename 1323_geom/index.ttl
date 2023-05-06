@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1323_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Basilio, near Ariano nel Polesine Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,17741 44,94566)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.17741 44.94566)"^^geo:wktLiteral .
 

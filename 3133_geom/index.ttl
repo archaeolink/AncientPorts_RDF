@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3133_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "disappeared city near Yenisakran Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,06220 38,87600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.06220 38.87600)"^^geo:wktLiteral .
 

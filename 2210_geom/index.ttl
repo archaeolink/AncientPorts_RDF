@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2210_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "SW of the isle of Lesbos, Lesvos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,93389 39,13028)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.93389 39.13028)"^^geo:wktLiteral .
 

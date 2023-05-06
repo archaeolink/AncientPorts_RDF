@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/82_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stutfall Castle, near Lympne castle Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,02030 51,06820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.02030 51.06820)"^^geo:wktLiteral .
 

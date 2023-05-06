@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/702_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa Le Reydissart on Lagune de Villepey, St Aygulf Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,71400 43,40000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.71400 43.40000)"^^geo:wktLiteral .
 

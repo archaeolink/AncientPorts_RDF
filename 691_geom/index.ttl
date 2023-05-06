@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/691_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Anse de La Palud (Port-Cros) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,38740 43,01355)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.38740 43.01355)"^^geo:wktLiteral .
 

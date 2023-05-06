@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1000_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa Sora, near Torre del Greco Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,37469 40,77828)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.37469 40.77828)"^^geo:wktLiteral .
 

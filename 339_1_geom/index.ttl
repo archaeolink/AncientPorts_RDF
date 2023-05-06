@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/339_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cadiz, Cadix. Remains of ancient city are visible under the modern theatre 'Gadir', fish processing factory at Teatro Andalucia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,29700 36,53220)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.29700 36.53220)"^^geo:wktLiteral .
 

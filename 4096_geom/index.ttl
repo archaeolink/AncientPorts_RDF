@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4096_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Abu Kammash, 25 km from Tunisia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,81630 33,06920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.81630 33.06920)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2364_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Baklaburnu, north of Bolayir Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,75355 40,55155)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.75355 40.55155)"^^geo:wktLiteral .
 

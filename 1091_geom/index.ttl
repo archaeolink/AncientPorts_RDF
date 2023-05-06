@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1091_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Broglio di Trebisacce  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,53806 39,86511)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.53806 39.86511)"^^geo:wktLiteral .
 

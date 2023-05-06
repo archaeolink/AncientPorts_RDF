@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/934_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa del Discobolo, Pantan di Lauro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,39840 41,67350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.39840 41.67350)"^^geo:wktLiteral .
 

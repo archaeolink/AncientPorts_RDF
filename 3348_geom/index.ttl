@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3348_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pasabeleni Tepesi, Bozyasi, at outlet of R Sini Cayi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,97850 36,10000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.97850 36.10000)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3469_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Palestinian camp on Rachidiye's ancient Tell Habesh Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,21400 33,24100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.21400 33.24100)"^^geo:wktLiteral .
 

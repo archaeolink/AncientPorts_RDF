@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/132_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Tremadoc, on R Dwyryd Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,14817 52,93920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.14817 52.93920)"^^geo:wktLiteral .
 

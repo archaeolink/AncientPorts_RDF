@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3106_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Besiktepe, Besik-Tepe, near Tavakli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,16170 39,71650)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.16170 39.71650)"^^geo:wktLiteral .
 

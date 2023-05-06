@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/610_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Guethary, fish processing unit Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,61000 43,42640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.61000 43.42640)"^^geo:wktLiteral .
 

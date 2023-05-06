@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2249_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "breakwater between the islet Daskalion and Arxontiki, on the isle of Psara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,55814 38,56680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.55814 38.56680)"^^geo:wktLiteral .
 

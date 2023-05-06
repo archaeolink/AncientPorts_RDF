@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1329_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "at the confluent of both R Medoacus, at Vallonga Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,07582 45,27356)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.07582 45.27356)"^^geo:wktLiteral .
 

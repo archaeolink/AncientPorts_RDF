@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3550_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bir el-Uwaynah, Quseir port, at the outlet of wadi Hammamat leading to ancient Coptos on the Nile. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,28500 26,10000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.28500 26.10000)"^^geo:wktLiteral .
 

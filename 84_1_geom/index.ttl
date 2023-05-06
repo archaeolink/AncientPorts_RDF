@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/84_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Newhaven Castle Hill, on Seaford bay, at outlet of R Ouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,05070 50,78320)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.05070 50.78320)"^^geo:wktLiteral .
 

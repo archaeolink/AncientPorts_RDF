@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3020_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Suia, shingle beach of Sougia, at outlet of R Tsikalaria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,81390 35,25200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.81390 35.25200)"^^geo:wktLiteral .
 

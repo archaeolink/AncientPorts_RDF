@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2583_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dandace, near Peschanoye? on R Alma Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,56757 44,85367)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.56757 44.85367)"^^geo:wktLiteral .
 

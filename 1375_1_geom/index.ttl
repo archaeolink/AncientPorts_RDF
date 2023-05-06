@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1375_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Val Saline, on R Limski Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,62320 45,11700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.62320 45.11700)"^^geo:wktLiteral .
 

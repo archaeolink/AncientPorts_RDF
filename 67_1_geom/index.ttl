@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/67_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Martlesham Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,28040 52,07300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.28040 52.07300)"^^geo:wktLiteral .
 

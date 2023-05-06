@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3618_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Irafalo, Irafayle, Erafaile, Arafali  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,69700 15,11100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.69700 15.11100)"^^geo:wktLiteral .
 

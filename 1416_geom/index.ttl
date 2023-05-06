@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1416_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Uvala Lukovo-Sugarje Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,18564 44,44389)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.18564 44.44389)"^^geo:wktLiteral .
 

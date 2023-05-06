@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1659_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Grammatiko, on R Choune Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,02598 38,22456)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.02598 38.22456)"^^geo:wktLiteral .
 

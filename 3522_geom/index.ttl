@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3522_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ayn Sukhna, at Portrait Hotel, with ship remains in galleries Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,34400 29,58430)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.34400 29.58430)"^^geo:wktLiteral .
 

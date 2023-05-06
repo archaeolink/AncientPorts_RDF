@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3819_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bay of Halileh, north of Delvar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(50,99449 28,81763)"^^geo:wktLiteral .
+    geo:asWKT "POINT(50.99449 28.81763)"^^geo:wktLiteral .
 

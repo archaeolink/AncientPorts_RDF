@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3450_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Jbeil, bay of Chamiye Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,64361 34,11948)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.64361 34.11948)"^^geo:wktLiteral .
 

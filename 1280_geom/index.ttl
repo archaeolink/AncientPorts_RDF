@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1280_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Masseria Amorusi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,42795 41,84148)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.42795 41.84148)"^^geo:wktLiteral .
 

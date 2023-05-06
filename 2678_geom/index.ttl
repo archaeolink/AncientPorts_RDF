@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2678_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gelendzhik Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,03444 44,57164)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.03444 44.57164)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1275_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Santa Maria di Merino Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,11140 41,91500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.11140 41.91500)"^^geo:wktLiteral .
 

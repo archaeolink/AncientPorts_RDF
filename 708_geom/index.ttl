@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/708_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa on the Isle of St Honorat in the isles of Lerins Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,04494 43,50970)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.04494 43.50970)"^^geo:wktLiteral .
 

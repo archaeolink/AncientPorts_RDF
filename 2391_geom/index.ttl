@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2391_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aytepe, near Karaevli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,73936 41,00839)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.73936 41.00839)"^^geo:wktLiteral .
 

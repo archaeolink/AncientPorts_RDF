@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/980_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Capo Miseno, west of Naples Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,08500 40,79000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.08500 40.79000)"^^geo:wktLiteral .
 

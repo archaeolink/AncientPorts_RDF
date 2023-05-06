@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3917_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Damanhur Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,42080 31,02160)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.42080 31.02160)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/98_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Oppidum at Cleavel Point, on Ower peninsula, in front of Green island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,99900 50,67380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.99900 50.67380)"^^geo:wktLiteral .
 

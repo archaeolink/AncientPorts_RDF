@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/171_15_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tullynavinn, oppidum, on R Roe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,14040 55,17030)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.14040 55.17030)"^^geo:wktLiteral .
 

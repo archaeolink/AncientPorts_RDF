@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3876_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell el-Borg, el-Burdj Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,41300 30,92400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.41300 30.92400)"^^geo:wktLiteral .
 

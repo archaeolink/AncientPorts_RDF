@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1109_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torre San Gregorio Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,31000 39,81380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.31000 39.81380)"^^geo:wktLiteral .
 

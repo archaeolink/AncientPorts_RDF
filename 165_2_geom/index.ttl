@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/165_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Larbrax oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,17210 54,90250)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.17210 54.90250)"^^geo:wktLiteral .
 

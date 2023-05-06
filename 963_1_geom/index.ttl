@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/963_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa Rubino, Villa di Cicerone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,60000 41,25140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.60000 41.25140)"^^geo:wktLiteral .
 

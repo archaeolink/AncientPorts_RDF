@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Björke Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,19020 60,76600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.19020 60.76600)"^^geo:wktLiteral .
 

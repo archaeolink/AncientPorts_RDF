@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/978_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Punta d'Alaca & Punta di Mezzogiorno, on the isle of Vivara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,99200 40,74000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.99200 40.74000)"^^geo:wktLiteral .
 

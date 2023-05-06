@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1342_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman cistern of Canal de San Felice, at Ca'Ballarin, near Lio Piccolo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,47525 45,48296)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.47525 45.48296)"^^geo:wktLiteral .
 

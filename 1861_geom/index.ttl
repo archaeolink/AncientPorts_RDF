@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1861_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aghios Petros islet? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,17200 37,76100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.17200 37.76100)"^^geo:wktLiteral .
 

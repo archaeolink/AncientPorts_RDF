@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1265_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Trinitapoli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,99650 41,39930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.99650 41.39930)"^^geo:wktLiteral .
 

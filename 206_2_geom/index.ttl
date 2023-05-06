@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/206_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castro Grande de Neixon Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,84270 42,66380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.84270 42.66380)"^^geo:wktLiteral .
 

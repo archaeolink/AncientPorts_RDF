@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3921_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cairo, at Hanging Church Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,23010 30,00510)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.23010 30.00510)"^^geo:wktLiteral .
 

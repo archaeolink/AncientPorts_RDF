@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3408_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Karabicak, Qarabdjaq, near Meydan? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,98940 36,05080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.98940 36.05080)"^^geo:wktLiteral .
 

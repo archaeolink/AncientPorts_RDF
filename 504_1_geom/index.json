@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(2,05020 50,82470)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Wolphus, near Zouafques, on R Hem Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(2.05020 50.82470)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Wolphus, near Zouafques, on R Hem Geometry"]}

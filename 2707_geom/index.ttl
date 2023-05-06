@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2707_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Supsa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(41,74261 42,01135)"^^geo:wktLiteral .
+    geo:asWKT "POINT(41.74261 42.01135)"^^geo:wktLiteral .
 

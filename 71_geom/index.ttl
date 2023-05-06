@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/71_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bradwell on Sea, south of Colchester Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,94020 51,73540)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.94020 51.73540)"^^geo:wktLiteral .
 

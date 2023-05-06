@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/61_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Denver, on R Ouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,34950 52,58380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.34950 52.58380)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2771_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kösk Höyük, near Gerze Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,20145 41,79204)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.20145 41.79204)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1489_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Korcula, on the isle of Korcula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,13700 42,96320)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.13700 42.96320)"^^geo:wktLiteral .
 

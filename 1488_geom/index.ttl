@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1488_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Uvala Luka, near Loviste Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,02711 43,02957)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.02711 43.02957)"^^geo:wktLiteral .
 

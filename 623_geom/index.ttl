@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/623_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Jetty of Port La Nautique, on the Etang de Bages Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,00463 43,14180)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.00463 43.14180)"^^geo:wktLiteral .
 

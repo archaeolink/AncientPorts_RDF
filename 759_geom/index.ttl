@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/759_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Giovanni di Saralat, Foxi Manna Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,66413 39,69438)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.66413 39.69438)"^^geo:wktLiteral .
 

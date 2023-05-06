@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1024_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Velia, near R Alento Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,15700 40,16020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.15700 40.16020)"^^geo:wktLiteral .
 

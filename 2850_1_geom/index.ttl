@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2850_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Moda iskelesi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,02540 40,97900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.02540 40.97900)"^^geo:wktLiteral .
 

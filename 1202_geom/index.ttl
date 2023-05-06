@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1202_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Alicudi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,35119 38,54280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.35119 38.54280)"^^geo:wktLiteral .
 

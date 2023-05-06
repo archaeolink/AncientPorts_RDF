@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2475_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Jajlata, Yalata Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,54590 43,43780)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.54590 43.43780)"^^geo:wktLiteral .
 

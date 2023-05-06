@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/353_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Los Castillejos de Alcorrin, with BA settlement, on R Alcorrin Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,26430 36,34450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.26430 36.34450)"^^geo:wktLiteral .
 

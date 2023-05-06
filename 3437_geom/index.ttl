@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3437_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ard Artusi, on R Nahr al-Berid Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,94620 34,50770)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.94620 34.50770)"^^geo:wktLiteral .
 

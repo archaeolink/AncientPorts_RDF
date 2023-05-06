@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/145_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Wilderspool, on R Mersey Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,58550 53,37420)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.58550 53.37420)"^^geo:wktLiteral .
 

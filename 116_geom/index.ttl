@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/116_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Combwich, might have had a Roman port on R Parrett? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,05970 51,17430)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.05970 51.17430)"^^geo:wktLiteral .
 

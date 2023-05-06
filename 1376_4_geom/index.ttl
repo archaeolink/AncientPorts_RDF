@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1376_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sveti Pavle, Pavao, Paolo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,71200 45,02040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.71200 45.02040)"^^geo:wktLiteral .
 

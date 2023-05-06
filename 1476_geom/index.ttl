@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1476_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Krajicina Spilja, on the isle of Vis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,09772 43,07442)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.09772 43.07442)"^^geo:wktLiteral .
 

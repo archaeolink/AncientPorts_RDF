@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4252_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kherbet Ramoul Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,68880 36,33630)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.68880 36.33630)"^^geo:wktLiteral .
 

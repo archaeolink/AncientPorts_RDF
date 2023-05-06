@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2107_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Panagia Virgin Mary church, on isle of Kato Koufonisia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,59400 36,91480)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.59400 36.91480)"^^geo:wktLiteral .
 

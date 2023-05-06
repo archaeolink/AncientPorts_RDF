@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1995_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pig Cave, near Evgiros, on the isle of Lefkada, this place was supposed to be Eumaeus' swineherd, which is now located at Pigadi on the isle of Ithaka Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,65508 38,61806)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.65508 38.61806)"^^geo:wktLiteral .
 

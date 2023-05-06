@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/98_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bindon hill oppidum and Roman villa, between Lulworth Cove and Mupe Bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,23300 50,62200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.23300 50.62200)"^^geo:wktLiteral .
 

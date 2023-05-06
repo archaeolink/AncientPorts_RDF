@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/582_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Islands now inland at Penestin (?)  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,51210 47,47025)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.51210 47.47025)"^^geo:wktLiteral .
 

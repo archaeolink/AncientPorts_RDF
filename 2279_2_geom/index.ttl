@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2279_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman marble quarry at Petrokopio, on the isle of Fournoi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,48830 37,56080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.48830 37.56080)"^^geo:wktLiteral .
 

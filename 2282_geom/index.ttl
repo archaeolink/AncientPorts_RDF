@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2282_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Evdilos, on the isle of Ikaria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,17740 37,63060)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.17740 37.63060)"^^geo:wktLiteral .
 

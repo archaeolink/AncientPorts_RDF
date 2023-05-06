@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3521_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ayn Musa, north of Ras Misallah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,62920 29,84120)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.62920 29.84120)"^^geo:wktLiteral .
 

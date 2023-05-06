@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3168_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ahmetbeyli, near R Avci Cayi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,19400 37,99200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.19400 37.99200)"^^geo:wktLiteral .
 

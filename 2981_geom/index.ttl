@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2981_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Paralia Chiona, at Roussolakos Palekastro, Eleia Chora, Mount Dicte, Dikti, east of Crete Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,27560 35,19530)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.27560 35.19530)"^^geo:wktLiteral .
 

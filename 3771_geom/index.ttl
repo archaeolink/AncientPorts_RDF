@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3771_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Liwa, Lua Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(56,61710 24,52516)"^^geo:wktLiteral .
+    geo:asWKT "POINT(56.61710 24.52516)"^^geo:wktLiteral .
 

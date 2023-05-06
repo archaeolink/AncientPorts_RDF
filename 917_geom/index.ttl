@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/917_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ostia river port in ancient Tiber meander 'Fiume Morto' Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,29091 41,75752)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.29091 41.75752)"^^geo:wktLiteral .
 

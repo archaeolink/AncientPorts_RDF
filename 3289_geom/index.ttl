@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3289_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tepecik hill, near Gelemis, with ancient lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,31500 36,26500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.31500 36.26500)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/706_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "St Cassien, near Mandelieu, on R Siagne Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,95500 43,54930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.95500 43.54930)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3278_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gulf of Fethiye Körfesi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,08055 36,65916)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.08055 36.65916)"^^geo:wktLiteral .
 

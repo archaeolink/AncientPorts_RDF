@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1653_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Askitario, near Raphina, Rafina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,01791 38,02298)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.01791 38.02298)"^^geo:wktLiteral .
 

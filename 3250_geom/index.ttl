@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3250_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arsenal Bay, Bozukkale in front of Rhodes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,00930 36,57610)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.00930 36.57610)"^^geo:wktLiteral .
 

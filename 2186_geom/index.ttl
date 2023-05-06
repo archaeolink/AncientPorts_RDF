@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2186_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ifalos Keros, Charos reef Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,55000 39,92000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.55000 39.92000)"^^geo:wktLiteral .
 

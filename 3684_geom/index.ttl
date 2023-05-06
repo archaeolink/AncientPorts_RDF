@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3684_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sharm Wejh, al-Wajh, on wadi al-Zurayb, this location for Leuke Kome is preferred by Nappo and Nehmé Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,46100 26,22500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.46100 26.22500)"^^geo:wktLiteral .
 

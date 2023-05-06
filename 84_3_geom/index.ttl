@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/84_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "The Caburn oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,05100 50,86170)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.05100 50.86170)"^^geo:wktLiteral .
 

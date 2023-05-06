@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2132_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry at Rema, Theioricheio, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,54460 36,69950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.54460 36.69950)"^^geo:wktLiteral .
 

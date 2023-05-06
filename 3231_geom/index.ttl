@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3231_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ingilizi Limani, inside Degirmen Bükü Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,15691 36,92347)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.15691 36.92347)"^^geo:wktLiteral .
 

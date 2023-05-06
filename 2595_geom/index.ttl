@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2595_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hurzuf? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,30130 44,54640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.30130 44.54640)"^^geo:wktLiteral .
 

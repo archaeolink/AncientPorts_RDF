@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/120_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tredegar oppidum, on R Usk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,02590 51,57560)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.02590 51.57560)"^^geo:wktLiteral .
 

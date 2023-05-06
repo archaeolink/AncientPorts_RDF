@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3328_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Selimiye, with possible ancient lighthouse, famous for its sedimentation Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,38261 36,76754)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.38261 36.76754)"^^geo:wktLiteral .
 

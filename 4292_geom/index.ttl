@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4292_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Playa de la Ribera, in the South bay of Ceuta  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,31791 35,88337)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.31791 35.88337)"^^geo:wktLiteral .
 

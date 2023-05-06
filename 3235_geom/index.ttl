@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3235_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cnide East, former isle of Triopion now connected to mainland, Cape Kriou, with possible ancient lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,37643 36,68371)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.37643 36.68371)"^^geo:wktLiteral .
 

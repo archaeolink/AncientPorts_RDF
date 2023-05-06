@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(16,60549 43,37757)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Quarry at Splitska, on the isle of Brac Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(16.60549 43.37757)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Quarry at Splitska, on the isle of Brac Geometry"]}

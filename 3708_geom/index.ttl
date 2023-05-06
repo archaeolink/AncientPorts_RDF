@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3708_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aqaba Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,99400 29,53700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.99400 29.53700)"^^geo:wktLiteral .
 

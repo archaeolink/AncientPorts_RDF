@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/413_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Burriana, port of Onda Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,07524 39,85362)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.07524 39.85362)"^^geo:wktLiteral .
 

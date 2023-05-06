@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1058_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Scilla Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,71559 38,25924)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.71559 38.25924)"^^geo:wktLiteral .
 

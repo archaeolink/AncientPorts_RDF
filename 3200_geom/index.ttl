@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3200_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kovala Köyü, Mavisehir Mah. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,22332 37,40383)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.22332 37.40383)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/105_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Lostwithiel, near Restormel Castle, on R Fowey (export of tin) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,67370 50,41860)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.67370 50.41860)"^^geo:wktLiteral .
 

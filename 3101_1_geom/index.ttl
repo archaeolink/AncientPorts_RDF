@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3101_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kumtepe, Neolithic settlement, now inland Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,19660 39,97930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.19660 39.97930)"^^geo:wktLiteral .
 

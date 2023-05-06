@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(0,86223 40,76499)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["R Ebro navigable over 200 km  Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(0.86223 40.76499)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["R Ebro navigable over 200 km  Geometry"]}

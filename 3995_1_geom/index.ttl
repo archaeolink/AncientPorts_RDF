@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3995_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aleut Berruman, at outlet of wadi bu Msafer, possible Bronze Age anchorage? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,58650 32,78370)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.58650 32.78370)"^^geo:wktLiteral .
 

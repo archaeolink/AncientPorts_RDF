@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2536_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ovidiopol, on R Dniester Liman Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,44546 46,24426)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.44546 46.24426)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4174_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tunis, Sebkha el-Bahira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,21494 36,80715)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.21494 36.80715)"^^geo:wktLiteral .
 

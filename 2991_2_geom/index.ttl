@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2991_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pyrgos, near Myrtos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,59070 35,00690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.59070 35.00690)"^^geo:wktLiteral .
 

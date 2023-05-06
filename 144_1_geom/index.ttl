@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/144_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fortlet at Ince on R Mersey Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,82150 53,28300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.82150 53.28300)"^^geo:wktLiteral .
 

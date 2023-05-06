@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2130_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tria Pigadia, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,53929 36,72827)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.53929 36.72827)"^^geo:wktLiteral .
 

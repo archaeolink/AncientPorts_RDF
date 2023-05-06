@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3614_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dahlak Kebir village on the Dahlak islands, with many rock-cut cisterns on Dahlak Kebir Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(40,01300 15,61220)"^^geo:wktLiteral .
+    geo:asWKT "POINT(40.01300 15.61220)"^^geo:wktLiteral .
 

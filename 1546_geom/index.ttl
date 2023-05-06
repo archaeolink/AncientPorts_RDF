@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1546_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Riza Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,60840 39,11900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.60840 39.11900)"^^geo:wktLiteral .
 

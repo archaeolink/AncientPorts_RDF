@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/864_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Portiglione Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,78280 42,88440)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.78280 42.88440)"^^geo:wktLiteral .
 

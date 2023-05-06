@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1892_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cheronisos, Paralia Agios Andreas, with Neolithic settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,77390 37,38320)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.77390 37.38320)"^^geo:wktLiteral .
 

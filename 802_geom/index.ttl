@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/802_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Longone, at Santa Teresa Gallura Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,19526 41,23722)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.19526 41.23722)"^^geo:wktLiteral .
 

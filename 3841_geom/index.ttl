@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3841_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tiz, Churbar bay, Chabahar bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(60,58900 25,36300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(60.58900 25.36300)"^^geo:wktLiteral .
 

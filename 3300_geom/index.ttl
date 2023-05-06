@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3300_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Andraki, near R Demre Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,95618 36,22647)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.95618 36.22647)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1237_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Xlendi, south port of Victoria Citadella, with  salt production at +7 m, on the isle of Gozo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,21900 36,03080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.21900 36.03080)"^^geo:wktLiteral .
 

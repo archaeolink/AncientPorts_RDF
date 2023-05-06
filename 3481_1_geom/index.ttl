@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3481_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Ḥreiz, with unique seawall structure, 1.6 km south of outlet of R Galim, with other submerged Neolithic sites at Kfar Samir, Hishuley Carmel, Kfar Galim, Nahal Galim, Hahotrim  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,94860 32,74580)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.94860 32.74580)"^^geo:wktLiteral .
 

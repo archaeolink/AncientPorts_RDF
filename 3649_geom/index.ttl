@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3649_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Saiban island, at-Tair vulcano island NW of Hodeidah, not a port but a major landmark Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(41,83366 15,54064)"^^geo:wktLiteral .
+    geo:asWKT "POINT(41.83366 15.54064)"^^geo:wktLiteral .
 

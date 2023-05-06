@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2025_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stamphanion and Harpyia islands Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,01005 37,25616)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.01005 37.25616)"^^geo:wktLiteral .
 

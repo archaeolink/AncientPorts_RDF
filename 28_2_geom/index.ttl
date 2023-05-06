@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/28_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Ockenburgh Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,21050 52,05660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.21050 52.05660)"^^geo:wktLiteral .
 

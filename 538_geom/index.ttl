@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/538_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "The Nunnery, on Longis bay, on the Isle of Alderney, Aurigny Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,17600 49,72095)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.17600 49.72095)"^^geo:wktLiteral .
 

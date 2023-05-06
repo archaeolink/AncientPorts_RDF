@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3865_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kirinda, port of Tissamaharama, near R Kirindi Oya, on Sri Lanka island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(81,28600 6,28200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(81.28600 6.28200)"^^geo:wktLiteral .
 

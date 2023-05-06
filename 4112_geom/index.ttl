@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4112_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Segala, North jetty with platform, in the gulf of Boughrara, near Henchir Zian Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,92768 33,53664)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.92768 33.53664)"^^geo:wktLiteral .
 

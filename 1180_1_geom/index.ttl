@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1180_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cala Minnola, on the isle of Levanzo, smallest of the Egadi islands Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,35100 37,99240)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.35100 37.99240)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/34_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Domburg, submerged votive altars to Nehalennia goddess Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,48730 51,56800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.48730 51.56800)"^^geo:wktLiteral .
 

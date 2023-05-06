@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1964_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sikionas, near R Elisson  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,71140 37,98410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.71140 37.98410)"^^geo:wktLiteral .
 

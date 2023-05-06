@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2134_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry at Agios Kyriake, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,49490 36,67270)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.49490 36.67270)"^^geo:wktLiteral .
 

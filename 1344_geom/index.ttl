@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1344_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Turris di Piave, Torre de Caligo, near Jesolo, with possible lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,63852 45,54283)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.63852 45.54283)"^^geo:wktLiteral .
 

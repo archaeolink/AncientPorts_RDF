@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2827_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Domali Neolithic settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,43600 41,20300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.43600 41.20300)"^^geo:wktLiteral .
 

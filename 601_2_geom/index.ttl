@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/601_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Brion, in Marais de Reysson at Saint Germain d'Esteuil Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,83653 45,28115)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.83653 45.28115)"^^geo:wktLiteral .
 

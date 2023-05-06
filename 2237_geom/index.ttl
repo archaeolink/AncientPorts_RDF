@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2237_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "4 Roman forts: Mauragani, Hellinikon, Priounos, Sindouka probably sharing one port, possibly near Sindouka? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,61590 39,19870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.61590 39.19870)"^^geo:wktLiteral .
 

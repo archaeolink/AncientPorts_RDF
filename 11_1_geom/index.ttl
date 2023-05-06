@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/11_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Westervaartpark, near Hazerswoude-Rijndijk, on R Oude Rijn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,57790 52,12700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.57790 52.12700)"^^geo:wktLiteral .
 

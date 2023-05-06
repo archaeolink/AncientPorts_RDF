@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1232_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Santa Marija bay, on the isle of Comino Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,33706 36,01703)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.33706 36.01703)"^^geo:wktLiteral .
 

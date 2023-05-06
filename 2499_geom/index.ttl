@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2499_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "2.5 km NW of Mahmudia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,06750 45,10100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.06750 45.10100)"^^geo:wktLiteral .
 

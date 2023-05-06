@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/197_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Longaras, at Gandara beach, and 3 castros on this Ria de Ferrol Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,18420 43,49270)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.18420 43.49270)"^^geo:wktLiteral .
 

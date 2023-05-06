@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3861_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Dwarka, in Gulf of Kutch, with possible port near Rupen Bandar. Acc. to Mar Erythr Periplus, Baraca bay (Gulf of Kutch) is very dangerous sailing and ships should stop at its entrance (Dwarka).  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(68,95700 22,25700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(68.95700 22.25700)"^^geo:wktLiteral .
 

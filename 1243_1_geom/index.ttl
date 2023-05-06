@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1243_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torre San Stefano Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,47320 40,18410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.47320 40.18410)"^^geo:wktLiteral .
 

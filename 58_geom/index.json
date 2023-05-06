@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-0,34250 53,74040)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Trinity Burial Ground, Hull, on R Humber Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-0.34250 53.74040)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Trinity Burial Ground, Hull, on R Humber Geometry"]}

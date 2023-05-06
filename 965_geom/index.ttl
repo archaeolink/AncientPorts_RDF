@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/965_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa Comunale at Formia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,60878 41,25546)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.60878 41.25546)"^^geo:wktLiteral .
 

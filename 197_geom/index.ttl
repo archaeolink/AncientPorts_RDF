@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/197_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "El Ferrol (Mela's description fits best to El Ferrol) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,25508 43,47677)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.25508 43.47677)"^^geo:wktLiteral .
 

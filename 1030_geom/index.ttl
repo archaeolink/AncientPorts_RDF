@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1030_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Santo Janni, Santoianni  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,71600 39,96730)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.71600 39.96730)"^^geo:wktLiteral .
 

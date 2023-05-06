@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2289_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Patmos, on the isle of Patmos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,54500 37,33040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.54500 37.33040)"^^geo:wktLiteral .
 

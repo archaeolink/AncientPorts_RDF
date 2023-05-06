@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1123_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Probably Piazza del Duomo, Catania, ancient port now under lava Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,08730 37,50240)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.08730 37.50240)"^^geo:wktLiteral .
 

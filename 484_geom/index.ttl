@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/484_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Puerto Nitge, Sanitja Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,08639 40,07448)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.08639 40.07448)"^^geo:wktLiteral .
 

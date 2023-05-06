@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3892_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Koubri, 4th stela of Darius (Xerxes) on Nile to Red Sea canal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,56050 30,03060)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.56050 30.03060)"^^geo:wktLiteral .
 

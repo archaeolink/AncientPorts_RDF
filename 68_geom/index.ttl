@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/68_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Little Oakley Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,23090 51,91510)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.23090 51.91510)"^^geo:wktLiteral .
 

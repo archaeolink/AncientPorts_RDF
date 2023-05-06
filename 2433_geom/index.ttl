@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2433_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Altinkum, near Karatasburnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,08131 41,18688)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.08131 41.18688)"^^geo:wktLiteral .
 

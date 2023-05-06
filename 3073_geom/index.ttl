@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3073_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Geroskipou, near Paphos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,45000 34,74000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.45000 34.74000)"^^geo:wktLiteral .
 

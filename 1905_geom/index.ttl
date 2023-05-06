@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1905_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agia Marina, possible quarry west of Maleas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,14200 36,43900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.14200 36.43900)"^^geo:wktLiteral .
 

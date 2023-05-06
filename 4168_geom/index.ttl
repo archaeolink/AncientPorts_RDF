@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4168_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ain Atrous, near Korbous, Qurbus Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,56900 36,82770)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.56900 36.82770)"^^geo:wktLiteral .
 

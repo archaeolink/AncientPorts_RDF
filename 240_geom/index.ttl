@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/240_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Parreitas, Lagoa de Pederneira, near Nazare, Alcobaca  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,02520 39,57536)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.02520 39.57536)"^^geo:wktLiteral .
 

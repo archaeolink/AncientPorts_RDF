@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/184_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castillo de Prellezo, Val de San Vicente Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,45218 43,39422)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.45218 43.39422)"^^geo:wktLiteral .
 

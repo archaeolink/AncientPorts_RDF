@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/972_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Starza di Mondragone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,91250 41,12280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.91250 41.12280)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3292_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Limanagzi, Bayindir Liman Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,65120 36,17390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.65120 36.17390)"^^geo:wktLiteral .
 

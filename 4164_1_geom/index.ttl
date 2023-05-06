@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4164_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry, about 3 km SW of modern port of Sidi Daoud-Thonara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,89280 36,99670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.89280 36.99670)"^^geo:wktLiteral .
 

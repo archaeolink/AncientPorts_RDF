@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27,09090 31,40340)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Umm el-Rakham reefs, 15 km west of Marsa Matrouh Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27.09090 31.40340)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Umm el-Rakham reefs, 15 km west of Marsa Matrouh Geometry"]}

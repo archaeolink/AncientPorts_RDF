@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4176_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cothon of Carthage: circular naval base Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,32550 36,84500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.32550 36.84500)"^^geo:wktLiteral .
 

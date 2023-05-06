@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/558_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Brest, on R Penfeld Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,49500 48,37800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.49500 48.37800)"^^geo:wktLiteral .
 

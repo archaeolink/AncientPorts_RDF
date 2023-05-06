@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3483_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Atlit-Yam, submerged Neolithic settlement at 12 m depth, in front of outlet of R Oren Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,93515 32,71080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.93515 32.71080)"^^geo:wktLiteral .
 

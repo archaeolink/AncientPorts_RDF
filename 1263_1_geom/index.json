@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(16,08110 41,35920)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Hypogea of Trinitapoli, Madonna di Loreto church Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(16.08110 41.35920)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Hypogea of Trinitapoli, Madonna di Loreto church Geometry"]}

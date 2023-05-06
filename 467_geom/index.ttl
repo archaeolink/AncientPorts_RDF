@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/467_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Son Real, 500 m ESE of megalithic necropolis, and in front of Illot des Porros islet with more ruins Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,18800 39,75330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.18800 39.75330)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1076_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torre di Catanzaro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,71387 38,85776)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.71387 38.85776)"^^geo:wktLiteral .
 

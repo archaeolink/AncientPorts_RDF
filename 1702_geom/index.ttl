@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1702_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pasas island, in front of Aulis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,60347 38,44504)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.60347 38.44504)"^^geo:wktLiteral .
 

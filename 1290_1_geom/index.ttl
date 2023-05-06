@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1290_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Masseria Mayer, at outlet of R Sangro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,54460 42,23875)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.54460 42.23875)"^^geo:wktLiteral .
 

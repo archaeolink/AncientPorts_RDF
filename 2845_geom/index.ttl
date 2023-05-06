@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2845_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kuleli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,05170 41,05821)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.05170 41.05821)"^^geo:wktLiteral .
 

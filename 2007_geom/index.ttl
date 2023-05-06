@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2007_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Aetos, on the isle of Ithaca Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,68357 38,35543)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.68357 38.35543)"^^geo:wktLiteral .
 

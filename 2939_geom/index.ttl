@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2939_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kalami, on the South side of the entrance to the bay of Souda. There are thus two 'Kisamos' homonym sites Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,14070 35,47020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.14070 35.47020)"^^geo:wktLiteral .
 

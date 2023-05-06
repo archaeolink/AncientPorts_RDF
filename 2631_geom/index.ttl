@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2631_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "several places close to Sukho-Chaltyrskoye Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,49956 47,24430)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.49956 47.24430)"^^geo:wktLiteral .
 

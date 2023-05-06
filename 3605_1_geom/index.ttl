@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3605_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Kuwai, on wadi Handub Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,33740 19,21050)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.33740 19.21050)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4306_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tanja el-Balia, Gandori, Roman (or Portuguese?) fort at Malabata, possible fish processing factory and salt production Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,76979 35,78034)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.76979 35.78034)"^^geo:wktLiteral .
 

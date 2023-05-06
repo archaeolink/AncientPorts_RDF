@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(24,71750 40,60660)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman fort near Arhangelou monastry, on the isle of Thasos Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(24.71750 40.60660)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman fort near Arhangelou monastry, on the isle of Thasos Geometry"]}

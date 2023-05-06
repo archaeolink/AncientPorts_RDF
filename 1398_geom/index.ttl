@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1398_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Zaton Soline, on the isle of Krk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,60858 45,15599)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.60858 45.15599)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/57_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bridlington? with Roman villas at Rudston & Harpham Grange Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,15982 54,08313)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.15982 54.08313)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1383_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Otocic Frasker, Frascher islet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,84600 44,82100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.84600 44.82100)"^^geo:wktLiteral .
 

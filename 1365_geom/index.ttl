@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1365_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Zambratija, with Neolithic settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,51151 45,47136)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.51151 45.47136)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1465_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Uvala Rasotica, on the isle of Brac Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,88588 43,30775)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.88588 43.30775)"^^geo:wktLiteral .
 

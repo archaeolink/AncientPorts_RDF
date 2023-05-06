@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2291_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agia Marina, on the isle of Leros  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,85470 37,15800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.85470 37.15800)"^^geo:wktLiteral .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(21,53330 38,37260)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Evinochori, in front of Patras, on R Evinos Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(21.53330 38.37260)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Evinochori, in front of Patras, on R Evinos Geometry"]}

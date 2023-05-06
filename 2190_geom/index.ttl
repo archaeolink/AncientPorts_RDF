@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2190_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Skala ton Loutron, on the isle of Lesbos, Lesvos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,52870 39,04920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.52870 39.04920)"^^geo:wktLiteral .
 

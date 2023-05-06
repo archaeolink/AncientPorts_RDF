@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4180_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Utique, with arched structure near ancient water edge, said to be a cistern Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,05930 37,05890)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.05930 37.05890)"^^geo:wktLiteral .
 

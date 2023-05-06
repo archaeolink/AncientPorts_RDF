@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4149_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Selloum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,49700 36,27200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.49700 36.27200)"^^geo:wktLiteral .
 

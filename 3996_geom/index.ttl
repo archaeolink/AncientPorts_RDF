@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3996_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Bu Meddad, Emilia resort, 8 km west of Derna Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,56400 32,79330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.56400 32.79330)"^^geo:wktLiteral .
 

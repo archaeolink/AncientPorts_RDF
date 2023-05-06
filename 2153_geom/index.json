@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(26,27600 36,58700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Panormos, on the isle of Astypalaia, Stampalia   Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(26.27600 36.58700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Panormos, on the isle of Astypalaia, Stampalia   Geometry"]}

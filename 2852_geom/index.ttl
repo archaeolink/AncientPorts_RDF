@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2852_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Imperial port at Fenerbahce Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,03660 40,97080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.03660 40.97080)"^^geo:wktLiteral .
 

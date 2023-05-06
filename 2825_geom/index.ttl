@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2825_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Bagirganli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,01974 41,14076)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.01974 41.14076)"^^geo:wktLiteral .
 

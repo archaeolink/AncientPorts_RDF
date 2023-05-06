@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4163_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Causeway/jetty to Djilia islet, about 2 km SW of modern port of Sidi Daoud-Thonara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,89742 37,00543)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.89742 37.00543)"^^geo:wktLiteral .
 

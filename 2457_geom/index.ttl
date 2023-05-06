@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2457_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "between the airport and Lake Atanasovo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,49390 42,55616)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.49390 42.55616)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/171_18_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lyles Hill, Ballymartin, oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,06620 54,67870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.06620 54.67870)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2786_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Doganyurt Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,46612 42,00996)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.46612 42.00996)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4333_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Moulay Abdallah with possible salt production pits Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,59758 33,19359)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.59758 33.19359)"^^geo:wktLiteral .
 

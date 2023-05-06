@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3174_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Canakgöl, near Selcuk, with possible lighthouse on top of hill, on R Kücük Menderes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,29540 37,94540)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.29540 37.94540)"^^geo:wktLiteral .
 

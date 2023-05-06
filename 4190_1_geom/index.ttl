@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4190_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tinja, near Menzel Bourgiba Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,76554 37,16552)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.76554 37.16552)"^^geo:wktLiteral .
 

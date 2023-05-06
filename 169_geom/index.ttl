@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/169_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Arran, in the Firth of Clyde near Glasgow Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,25844 55,61249)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.25844 55.61249)"^^geo:wktLiteral .
 

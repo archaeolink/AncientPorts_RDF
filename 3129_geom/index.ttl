@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3129_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Denizköy Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,85060 38,92570)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.85060 38.92570)"^^geo:wktLiteral .
 

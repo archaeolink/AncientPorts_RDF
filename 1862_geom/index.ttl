@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1862_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kalamianos, at Cape Trelli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,15410 37,75830)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.15410 37.75830)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1502_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Crkvine, on the isle of Mljet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,74360 42,70450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.74360 42.70450)"^^geo:wktLiteral .
 

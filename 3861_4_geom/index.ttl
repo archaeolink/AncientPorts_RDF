@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3861_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porbandar, on Saurashtra peninsula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(69,60900 21,65300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(69.60900 21.65300)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2611_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Karantynnyi, east of Kerch  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,52250 45,35340)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.52250 45.35340)"^^geo:wktLiteral .
 

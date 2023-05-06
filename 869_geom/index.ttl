@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/869_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa Le Grotte, on the isle of Elba Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,33050 42,80060)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.33050 42.80060)"^^geo:wktLiteral .
 

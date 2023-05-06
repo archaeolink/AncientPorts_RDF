@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2575_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Karadji, Karadzhinskoye near Olenivka  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,52300 45,38300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.52300 45.38300)"^^geo:wktLiteral .
 

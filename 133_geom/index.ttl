@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/133_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castell Odo oppidum, at Aberdaron Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(52,82319 -4,69208)"^^geo:wktLiteral .
+    geo:asWKT "POINT(52.82319 -4.69208)"^^geo:wktLiteral .
 

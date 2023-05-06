@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3463_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Phoenician port at Ras al-Qantara, near Sarafand Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,29780 33,46470)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.29780 33.46470)"^^geo:wktLiteral .
 

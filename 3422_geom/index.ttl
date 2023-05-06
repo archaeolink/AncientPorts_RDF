@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3422_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arab al-Mulk, Belda al-Mulk, Belde el-Melek, in the outlet of Nahr es-Sinn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,92459 35,26437)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.92459 35.26437)"^^geo:wktLiteral .
 

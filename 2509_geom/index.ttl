@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2509_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Turcoaia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,18628 45,14545)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.18628 45.14545)"^^geo:wktLiteral .
 

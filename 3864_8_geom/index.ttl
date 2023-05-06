@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3864_8_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vetrivel Amman temple tank, Korkai, near R Thamirabarani, Tamraparni Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(78,06180 8,64380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(78.06180 8.64380)"^^geo:wktLiteral .
 

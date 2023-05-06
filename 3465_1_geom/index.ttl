@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3465_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman bridge near outlet of R Litani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,25100 33,33970)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.25100 33.33970)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2443_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kiten, at Cape Urdoviza, with submerged BA settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,78200 42,23600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.78200 42.23600)"^^geo:wktLiteral .
 

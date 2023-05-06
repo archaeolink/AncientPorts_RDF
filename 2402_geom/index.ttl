@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2402_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Imperial port at Bakirköy, near Ataköy Marina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,87730 40,97380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.87730 40.97380)"^^geo:wktLiteral .
 

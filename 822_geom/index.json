@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(8,44476 44,23420)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Isola di Bergeggi with ancient lighthouse, near Vado Ligure Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(8.44476 44.23420)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Isola di Bergeggi with ancient lighthouse, near Vado Ligure Geometry"]}

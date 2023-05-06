@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3218_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bodrum, small naval base inside modern marina? with Mycenaean settlement at Ortakent-Müsgebi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,42900 37,03395)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.42900 37.03395)"^^geo:wktLiteral .
 

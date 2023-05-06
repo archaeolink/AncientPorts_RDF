@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1408_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gonar beach, near Lopar, on the isle of Rab Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,69880 44,80150)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.69880 44.80150)"^^geo:wktLiteral .
 

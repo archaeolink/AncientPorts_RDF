@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3308_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Besadalar, five islands in front of cape Gelidonya Burnu, Taslik Burnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,40416 36,19395)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.40416 36.19395)"^^geo:wktLiteral .
 

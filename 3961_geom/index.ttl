@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3961_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Berek, Kom Nadoura Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,34610 31,34450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.34610 31.34450)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3981_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa el-Afarid, Bu al-Ilfrit, about 30 km east of Tobrouk: sandy creeks Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,41897 31,99766)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.41897 31.99766)"^^geo:wktLiteral .
 

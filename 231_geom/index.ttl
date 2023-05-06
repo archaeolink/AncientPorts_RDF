@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/231_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Casa do Infante Dom Henrique, Porto Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,61450 41,14080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.61450 41.14080)"^^geo:wktLiteral .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(10,68204 33,53255)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Bou Ghrara, Roman jetty with platform Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(10.68204 33.53255)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Bou Ghrara, Roman jetty with platform Geometry"]}

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1990_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "in front of Nydri, on Geni peninsula, on the isle of Lefkada, with lighthouse near the Agia Kiriaki church Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,71520 38,70190)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.71520 38.70190)"^^geo:wktLiteral .
 

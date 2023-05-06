@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3062_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Akrotiri-Aetokremnos, Mesolithic settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,99070 34,57050)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.99070 34.57050)"^^geo:wktLiteral .
 

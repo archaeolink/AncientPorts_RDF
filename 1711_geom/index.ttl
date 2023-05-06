@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1711_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Karystos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,41890 38,01280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.41890 38.01280)"^^geo:wktLiteral .
 

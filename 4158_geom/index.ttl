@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4158_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kerkouane  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,10050 36,94425)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.10050 36.94425)"^^geo:wktLiteral .
 

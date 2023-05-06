@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/748_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "St Florent, Strette Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,29330 42,67520)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.29330 42.67520)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3222_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cökertme? near Gökbel Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,79230 37,00340)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.79230 37.00340)"^^geo:wktLiteral .
 

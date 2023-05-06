@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2735_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry at Halkavala, at outlet of R Harsit Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,85000 41,00800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.85000 41.00800)"^^geo:wktLiteral .
 

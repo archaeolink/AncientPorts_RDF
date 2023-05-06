@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4286_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Metrouna, fish processing factory on old wadi Martil outlet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,26298 35,58695)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.26298 35.58695)"^^geo:wktLiteral .
 

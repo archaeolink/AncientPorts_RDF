@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1612_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Thisvi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,96880 38,26710)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.96880 38.26710)"^^geo:wktLiteral .
 

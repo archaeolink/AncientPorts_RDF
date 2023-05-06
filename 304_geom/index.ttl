@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/304_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Sao Bartolomeu, near Castro Marim Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,48000 37,19385)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.48000 37.19385)"^^geo:wktLiteral .
 

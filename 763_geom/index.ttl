@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/763_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cuccureddus Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,49090 39,13590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.49090 39.13590)"^^geo:wktLiteral .
 

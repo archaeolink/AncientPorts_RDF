@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2900_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sirincavus, with additional breakwater 500 m east of the port Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,72600 40,30950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.72600 40.30950)"^^geo:wktLiteral .
 

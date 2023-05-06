@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4234_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fouka  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,75313 36,68034)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.75313 36.68034)"^^geo:wktLiteral .
 

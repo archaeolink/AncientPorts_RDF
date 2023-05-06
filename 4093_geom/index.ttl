@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4093_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Zuwarah? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,12786 32,91934)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.12786 32.91934)"^^geo:wktLiteral .
 

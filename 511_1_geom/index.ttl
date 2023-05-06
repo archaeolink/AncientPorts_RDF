@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/511_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Le Crotoy Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,63140 50,21390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.63140 50.21390)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1348_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "BA settlement near Ara del Gorgo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,15420 45,77050)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.15420 45.77050)"^^geo:wktLiteral .
 

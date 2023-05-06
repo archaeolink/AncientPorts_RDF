@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1787_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bergia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,12600 40,28900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.12600 40.28900)"^^geo:wktLiteral .
 

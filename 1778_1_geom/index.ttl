@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1778_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Thessaloniki, in between Octogone and White Tower Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,94820 40,62890)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.94820 40.62890)"^^geo:wktLiteral .
 

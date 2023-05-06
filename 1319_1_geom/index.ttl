@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1319_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Comacchio, former group of islands in front of outlet of ancient branch of R Po, now called Canale di Porto Garibaldi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,18230 44,69400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.18230 44.69400)"^^geo:wktLiteral .
 

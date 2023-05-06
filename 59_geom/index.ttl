@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/59_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Brough on R Humber, Roman naval base Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,57840 53,72880)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.57840 53.72880)"^^geo:wktLiteral .
 

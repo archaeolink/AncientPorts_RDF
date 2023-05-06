@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3511_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell al-Ajjul, Bethaglaim, on wadi Gaza, Ghazzeh, Nahal Habesor, another candidate is Tell el-Farah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,40360 31,46710)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.40360 31.46710)"^^geo:wktLiteral .
 

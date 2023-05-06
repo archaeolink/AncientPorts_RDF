@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2746_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Hoynat Adasi, Persembe Adasi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,72872 41,11739)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.72872 41.11739)"^^geo:wktLiteral .
 

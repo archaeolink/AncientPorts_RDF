@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2102_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stelida, Mesolithic settlement, on the isle of Naxos, Naksa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,34500 37,08690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.34500 37.08690)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/376_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Playa de Los Bajos, Ribera de la Algaida Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,58550 36,79140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.58550 36.79140)"^^geo:wktLiteral .
 

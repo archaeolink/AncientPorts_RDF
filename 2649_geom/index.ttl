@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2649_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Belikov, SE of Achuyevo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,00175 45,51754)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.00175 45.51754)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3994_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa el-Chalig at outlet of wadi al-Khaleej, other possible location: Marsa al-Chabda at outlet of wadi Hamsa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,92943 32,67225)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.92943 32.67225)"^^geo:wktLiteral .
 

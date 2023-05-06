@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4269_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Takembrit, maritime port at outlet of wadi Tafna Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,47300 35,29800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.47300 35.29800)"^^geo:wktLiteral .
 

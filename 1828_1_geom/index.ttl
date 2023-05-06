@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1828_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Kafkanas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,80390 40,61590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.80390 40.61590)"^^geo:wktLiteral .
 

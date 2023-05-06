@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/796_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Torres, north-south Molo di Ponente 2009 & 2012 Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,39410 40,83910)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.39410 40.83910)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4245_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hadjret en-Nous Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,05300 36,57590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.05300 36.57590)"^^geo:wktLiteral .
 

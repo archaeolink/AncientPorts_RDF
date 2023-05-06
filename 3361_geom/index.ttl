@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3361_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Dana Adasi, with quarries and/or slipways in the northern coast Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,77200 36,19700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.77200 36.19700)"^^geo:wktLiteral .
 

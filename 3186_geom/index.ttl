@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3186_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Güllübahce on the silted up outlet of R Meandre, Meander Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,29666 37,65915)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.29666 37.65915)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4322_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sidi Ali bou Jenoun on wadi Sebou, fish processing factory and Roman amphora kilns Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,11526 34,60207)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.11526 34.60207)"^^geo:wktLiteral .
 

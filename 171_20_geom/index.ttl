@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/171_20_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Knockagh, oppidum, and two other forts, on R Castletown Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,48310 54,03560)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.48310 54.03560)"^^geo:wktLiteral .
 

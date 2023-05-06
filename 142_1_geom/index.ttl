@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/142_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neolithic settlement at Prestatyn, might have had a Roman port? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,40965 53,34675)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.40965 53.34675)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2074_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Serifos, on the isle of Seriphos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,50600 37,15400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.50600 37.15400)"^^geo:wktLiteral .
 

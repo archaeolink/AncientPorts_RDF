@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/168_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Whitemoss Farm, near Bishopton, on R Clyde Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,53250 55,91590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.53250 55.91590)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/17_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Wijk bij Duurstede, on R Rijn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,35278 51,96250)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.35278 51.96250)"^^geo:wktLiteral .
 

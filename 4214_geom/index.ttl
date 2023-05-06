@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4214_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mers el-Zitoun, at the outlet of wadi Zhour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,24961 36,93151)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.24961 36.93151)"^^geo:wktLiteral .
 

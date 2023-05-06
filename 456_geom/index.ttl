@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/456_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Puerto de Santa Ponsa, near Puig de Sa Morisca, Santa Ponsa, Calviá Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,48070 39,50750)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.48070 39.50750)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3352_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Soguksu near Yenikas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,29180 36,13720)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.29180 36.13720)"^^geo:wktLiteral .
 

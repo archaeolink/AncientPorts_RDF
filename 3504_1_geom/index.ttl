@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3504_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Mor, Ashdod, on R Lachish Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,65640 31,82320)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.65640 31.82320)"^^geo:wktLiteral .
 

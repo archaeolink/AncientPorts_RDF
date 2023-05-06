@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2314_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Sfyrna, near Rhodes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,67700 36,26400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.67700 36.26400)"^^geo:wktLiteral .
 

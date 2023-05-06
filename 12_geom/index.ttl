@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/12_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alphen a/d Rijn, on R Oude Rijn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,66139 52,12917)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.66139 52.12917)"^^geo:wktLiteral .
 

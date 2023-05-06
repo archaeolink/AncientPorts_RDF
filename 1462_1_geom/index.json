@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(16,74280 43,34680)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Stipanska Luka, near Pucisca, on the isle of Brac Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(16.74280 43.34680)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Stipanska Luka, near Pucisca, on the isle of Brac Geometry"]}

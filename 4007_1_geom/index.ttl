@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4007_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tolmeita, Tulmaythah, port of al-Marj Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,94260 32,71140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.94260 32.71140)"^^geo:wktLiteral .
 

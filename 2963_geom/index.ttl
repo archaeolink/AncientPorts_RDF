@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2963_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Poros isthmus to Kalydon-Spinalonga peninsula, at the south end of large Elounda bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,73583 35,25577)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.73583 35.25577)"^^geo:wktLiteral .
 

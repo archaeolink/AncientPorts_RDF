@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1468_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Makarska Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,01613 43,29403)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.01613 43.29403)"^^geo:wktLiteral .
 

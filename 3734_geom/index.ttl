@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3734_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Berbera, can be seen as the port of Hargeisa (inland) where Neolithic cave paintings have been found Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(44,99440 10,43018)"^^geo:wktLiteral .
+    geo:asWKT "POINT(44.99440 10.43018)"^^geo:wktLiteral .
 

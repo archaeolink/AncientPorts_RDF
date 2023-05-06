@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2027_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mikri Dragonera, Antidragonera, is probably not a port but just a wreckage area! Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,07553 36,26709)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.07553 36.26709)"^^geo:wktLiteral .
 

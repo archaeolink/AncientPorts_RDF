@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/811_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman Villa Eva, near Ventimiglia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,56400 43,79020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.56400 43.79020)"^^geo:wktLiteral .
 

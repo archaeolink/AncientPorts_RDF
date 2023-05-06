@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/495_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cala Llonga, Puig de ses Torretes, Cap des Llibrell Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,52150 38,94600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.52150 38.94600)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1842_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chrysopouli, in R Nestos delta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,69000 40,99000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.69000 40.99000)"^^geo:wktLiteral .
 

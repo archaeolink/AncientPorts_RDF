@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2183_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Louri, on the isle of Lemnos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,35840 39,79637)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.35840 39.79637)"^^geo:wktLiteral .
 

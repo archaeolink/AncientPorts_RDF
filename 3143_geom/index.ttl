@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3143_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Konak, Izmir, near Mount Kadifekale, with ancient lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,13360 38,41980)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.13360 38.41980)"^^geo:wktLiteral .
 

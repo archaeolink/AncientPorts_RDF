@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1774_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "south of Pella Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,50290 40,73230)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.50290 40.73230)"^^geo:wktLiteral .
 

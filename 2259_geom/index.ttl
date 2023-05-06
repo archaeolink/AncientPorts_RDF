@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2259_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Metokhi, on the isle of Chios Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,95890 38,42630)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.95890 38.42630)"^^geo:wktLiteral .
 

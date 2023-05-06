@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1725_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Oraioi, with 900 m (?) breakwater acc. to Lehmann-Hartleben Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,08700 38,94850)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.08700 38.94850)"^^geo:wktLiteral .
 

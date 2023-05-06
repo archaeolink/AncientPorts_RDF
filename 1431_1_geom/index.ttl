@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1431_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bosana, near Biograd Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,44100 43,94900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.44100 43.94900)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/32_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "“Oude Wereld” probably submerged offshore of Goedereede, on the isle of Goeree, remains were seen last in 1618 at a place called 'Windglap' located in the Zandgors dunes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,93384 51,84284)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.93384 51.84284)"^^geo:wktLiteral .
 

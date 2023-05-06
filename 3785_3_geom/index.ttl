@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3785_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Barbar temple, Bahrain Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(50,48420 26,22620)"^^geo:wktLiteral .
+    geo:asWKT "POINT(50.48420 26.22620)"^^geo:wktLiteral .
 

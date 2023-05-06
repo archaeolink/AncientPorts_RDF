@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4280_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Penon de Alhucema, near al-Hoceima Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,88940 35,21350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.88940 35.21350)"^^geo:wktLiteral .
 

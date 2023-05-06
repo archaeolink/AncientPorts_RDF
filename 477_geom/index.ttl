@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/477_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Conejera Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,96481 39,18356)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.96481 39.18356)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/191_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castro Vilela, on Ria del Barqueiro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,68840 43,75240)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.68840 43.75240)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/735_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Tonnara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,10618 41,42740)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.10618 41.42740)"^^geo:wktLiteral .
 

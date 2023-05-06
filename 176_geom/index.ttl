@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/176_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Berreaga, with possible beaching at Plencia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,90927 43,41542)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.90927 43.41542)"^^geo:wktLiteral .
 

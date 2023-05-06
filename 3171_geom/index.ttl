@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3171_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "North side of Panayirdag hill, near Selcuk, on R Kücük Menderes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,34830 37,94760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.34830 37.94760)"^^geo:wktLiteral .
 

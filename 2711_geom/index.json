@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(41,65023 41,65612)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman fort at Batumistsikhe, on R Korolis Tskali Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(41.65023 41.65612)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman fort at Batumistsikhe, on R Korolis Tskali Geometry"]}

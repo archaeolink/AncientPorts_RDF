@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4127_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Borj Younga, Yonga, Onga, 10 km south of Mahres Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,41380 34,46599)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.41380 34.46599)"^^geo:wktLiteral .
 

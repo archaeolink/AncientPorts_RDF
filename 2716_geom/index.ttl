@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2716_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Kakuminin Deresi, near Findikli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(41,13440 41,27000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(41.13440 41.27000)"^^geo:wktLiteral .
 

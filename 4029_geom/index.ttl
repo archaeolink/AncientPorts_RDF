@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4029_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Gasr en Nfeil Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,13730 31,01370)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.13730 31.01370)"^^geo:wktLiteral .
 

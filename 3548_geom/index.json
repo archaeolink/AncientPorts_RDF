@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(34,22010 26,20550)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Abu Sawatir Rocky Valley Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(34.22010 26.20550)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Abu Sawatir Rocky Valley Geometry"]}

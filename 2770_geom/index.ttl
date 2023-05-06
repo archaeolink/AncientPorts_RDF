@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2770_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gürcüvet, near Kurzuvet Burnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,23840 41,75260)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.23840 41.75260)"^^geo:wktLiteral .
 

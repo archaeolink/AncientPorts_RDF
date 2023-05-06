@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-0,11080 50,82630)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Whitehawk Hill oppidum, Brighton Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-0.11080 50.82630)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Whitehawk Hill oppidum, Brighton Geometry"]}

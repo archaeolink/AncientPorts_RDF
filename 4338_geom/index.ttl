@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4338_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "in front of Essaouira, fish processing factory Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,78585 31,49434)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.78585 31.49434)"^^geo:wktLiteral .
 

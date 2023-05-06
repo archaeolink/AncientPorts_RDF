@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3867_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arikamedu, near Puducherry, on R Ariyankuppam Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(79,82000 11,90100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(79.82000 11.90100)"^^geo:wktLiteral .
 

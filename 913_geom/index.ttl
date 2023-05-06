@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/913_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto di Claudio, 'The Emperor's port at Ostia', near the airport of Fiumicino Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,24816 41,77970)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.24816 41.77970)"^^geo:wktLiteral .
 

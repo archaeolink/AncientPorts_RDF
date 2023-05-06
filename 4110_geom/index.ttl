@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4110_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Guellala, on the isle of Djerba  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,85462 33,70689)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.85462 33.70689)"^^geo:wktLiteral .
 

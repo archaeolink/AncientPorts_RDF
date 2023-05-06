@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2417_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Besiktas, east of Dolmabahce palace, near Barbarossa's tomb Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,00700 41,04200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.00700 41.04200)"^^geo:wktLiteral .
 

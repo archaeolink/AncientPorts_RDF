@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2728_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Akcaabat Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,59656 41,02178)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.59656 41.02178)"^^geo:wktLiteral .
 

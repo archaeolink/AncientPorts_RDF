@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/412_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Pujol de Benicato, near Nules Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,14577 39,83259)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.14577 39.83259)"^^geo:wktLiteral .
 

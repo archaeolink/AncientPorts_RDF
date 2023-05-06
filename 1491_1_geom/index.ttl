@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1491_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gradina, on the isle of Korcula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,67600 42,97200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.67600 42.97200)"^^geo:wktLiteral .
 

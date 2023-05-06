@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2411_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ayvansaray district, in the Golden Horn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,94520 41,03870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.94520 41.03870)"^^geo:wktLiteral .
 

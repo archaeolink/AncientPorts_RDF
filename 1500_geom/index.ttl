@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1500_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Luka Polace, on the isle of Mljet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,37810 42,78620)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.37810 42.78620)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3472_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Umm el-Awamid, el-Amed, on R Nahr Hamoul Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,14560 33,12920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.14560 33.12920)"^^geo:wktLiteral .
 

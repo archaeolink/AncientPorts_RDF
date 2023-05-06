@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/768_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Capo di Pula, Cala di Nora, with Molo Schmiedt Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,01256 38,98472)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.01256 38.98472)"^^geo:wktLiteral .
 

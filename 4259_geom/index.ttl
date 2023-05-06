@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4259_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Old Arzew Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,30348 35,85772)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.30348 35.85772)"^^geo:wktLiteral .
 

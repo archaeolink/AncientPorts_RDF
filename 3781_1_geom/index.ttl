@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3781_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marawah island Neolithic settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(53,28000 24,27700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(53.28000 24.27700)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1954_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Roidi, Patras Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,75550 38,27160)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.75550 38.27160)"^^geo:wktLiteral .
 

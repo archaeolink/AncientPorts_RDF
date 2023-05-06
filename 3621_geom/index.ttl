@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3621_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dellemi, Dilemmi island, SW of Port Smyth Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,88917 15,48559)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.88917 15.48559)"^^geo:wktLiteral .
 

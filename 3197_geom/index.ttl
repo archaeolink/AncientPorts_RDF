@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3197_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Milet, Eastern Harbour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,27992 37,52644)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.27992 37.52644)"^^geo:wktLiteral .
 

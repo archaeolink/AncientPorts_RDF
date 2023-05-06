@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1462_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stipanska Luka, near Pucisca, on the isle of Brac Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,74280 43,34680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.74280 43.34680)"^^geo:wktLiteral .
 

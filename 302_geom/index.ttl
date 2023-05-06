@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/302_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Quinta do Muro, Cacela Velha Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,54630 37,15780)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.54630 37.15780)"^^geo:wktLiteral .
 

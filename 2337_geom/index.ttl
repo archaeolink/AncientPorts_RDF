@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2337_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kalogeros near Apolakia, on the isle of Rhodes  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,75425 36,05907)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.75425 36.05907)"^^geo:wktLiteral .
 

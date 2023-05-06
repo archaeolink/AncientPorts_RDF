@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3095_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Melandryna  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,78300 35,40670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.78300 35.40670)"^^geo:wktLiteral .
 

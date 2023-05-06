@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3178_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kadikalesi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,27024 37,79155)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.27024 37.79155)"^^geo:wktLiteral .
 

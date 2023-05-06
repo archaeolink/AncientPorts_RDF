@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1190_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Solanto-Porticello Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,54286 38,08169)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.54286 38.08169)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1472_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Uvala Vira, on the isle of Hvar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,42786 43,19030)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.42786 43.19030)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2727_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Trabzon, on R Degirmendere, note Stephanus mentions 'Sidarus Trapezuntius'  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,73909 41,00491)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.73909 41.00491)"^^geo:wktLiteral .
 

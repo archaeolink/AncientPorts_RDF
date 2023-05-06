@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/157_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kirkbride, Angerton, on the Firth of Solway Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,20260 54,90470)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.20260 54.90470)"^^geo:wktLiteral .
 

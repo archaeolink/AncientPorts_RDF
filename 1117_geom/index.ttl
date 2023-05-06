@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1117_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Giardini-Naxos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,26940 37,82390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.26940 37.82390)"^^geo:wktLiteral .
 

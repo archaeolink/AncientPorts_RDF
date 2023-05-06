@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2250_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Chios  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,04135 38,42938)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.04135 38.42938)"^^geo:wktLiteral .
 

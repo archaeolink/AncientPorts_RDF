@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3863_92_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nethrani island, Pigeon island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(74,32700 14,01700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(74.32700 14.01700)"^^geo:wktLiteral .
 

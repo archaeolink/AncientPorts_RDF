@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/703_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Les Escaravatiers, near Puget sur Argens Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,69040 43,44050)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.69040 43.44050)"^^geo:wktLiteral .
 

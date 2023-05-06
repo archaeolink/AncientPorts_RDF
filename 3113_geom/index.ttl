@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3113_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Altinoluk, Avcilar Iskele, on R Oksijen, Sahindere Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,75050 39,56350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.75050 39.56350)"^^geo:wktLiteral .
 

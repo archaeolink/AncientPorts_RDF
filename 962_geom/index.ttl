@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/962_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gaeta, Gaète Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,58600 41,21100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.58600 41.21100)"^^geo:wktLiteral .
 

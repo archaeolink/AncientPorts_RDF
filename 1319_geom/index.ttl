@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1319_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Valpega, near Comacchio, on ancient branch of R Po, now called Canale di Porto Garibaldi, with possible lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,10256 44,69430)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.10256 44.69430)"^^geo:wktLiteral .
 

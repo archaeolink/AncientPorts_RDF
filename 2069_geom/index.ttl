@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2069_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neolithic settlement near Chalandriani, on the isle of Syros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,93400 37,49060)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.93400 37.49060)"^^geo:wktLiteral .
 

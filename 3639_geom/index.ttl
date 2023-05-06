@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3639_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Abu Zahr? 2 km north of al-Khawkhah, Khokha Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(43,23500 13,82700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(43.23500 13.82700)"^^geo:wktLiteral .
 

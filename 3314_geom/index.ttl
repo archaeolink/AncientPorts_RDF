@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3314_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fasilis Harabeleri, near Tekirova Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,55310 36,52510)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.55310 36.52510)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3633_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mayyun, on Perim island, and the second island ('Duo') may have been the Cheikh Saïd peninsula now connected to the mainland Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(43,42024 12,65310)"^^geo:wktLiteral .
+    geo:asWKT "POINT(43.42024 12.65310)"^^geo:wktLiteral .
 

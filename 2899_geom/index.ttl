@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2899_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Saraylar, on the isle of Marmara Adasi  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,65917 40,65330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.65917 40.65330)"^^geo:wktLiteral .
 

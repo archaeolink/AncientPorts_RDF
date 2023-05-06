@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3225_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Akyaka, inside the gulf of Gökova Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,32042 37,04550)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.32042 37.04550)"^^geo:wktLiteral .
 

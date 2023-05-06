@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/364_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at La Loma de Benagalbon, Rincon de la Victoria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,25980 36,71350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.25980 36.71350)"^^geo:wktLiteral .
 

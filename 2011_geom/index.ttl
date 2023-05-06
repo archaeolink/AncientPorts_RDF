@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2011_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fiskardo and Foki beach, at the northern end of the isle of Cephalonia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,57600 38,46260)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.57600 38.46260)"^^geo:wktLiteral .
 

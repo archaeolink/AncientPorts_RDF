@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/171_06_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "An Duinin, Ballymore West, oppidum, near Ventry Harbour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-10,33570 52,12160)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-10.33570 52.12160)"^^geo:wktLiteral .
 

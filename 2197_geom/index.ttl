@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2197_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Fokas, Phokas, south of the isle of Lesbos, Lesvos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,17000 39,00670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.17000 39.00670)"^^geo:wktLiteral .
 

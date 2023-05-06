@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(23,39951 39,15056)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Koukounaries, on the isle of Skiathos Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(23.39951 39.15056)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Koukounaries, on the isle of Skiathos Geometry"]}

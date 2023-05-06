@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/185_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Punta de Rodiles, on Ria de Villaviciosa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,38000 43,53700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.38000 43.53700)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3401_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ada Tepe, near Karaagac, at the toe of the Belen pass leading into Syria through the Nur Mountains, its port may have been located at Alexandretta? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,11090 36,56600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.11090 36.56600)"^^geo:wktLiteral .
 

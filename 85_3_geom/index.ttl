@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/85_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Arundel, on R Arun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,55890 50,85290)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.55890 50.85290)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1866_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "south of Kolonna hill, on Isle of Egina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,42464 37,74765)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.42464 37.74765)"^^geo:wktLiteral .
 

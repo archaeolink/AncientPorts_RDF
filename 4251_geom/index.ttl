@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4251_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Le Guelta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,84700 36,37130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.84700 36.37130)"^^geo:wktLiteral .
 

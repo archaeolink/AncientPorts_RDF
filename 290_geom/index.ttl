@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/290_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Loule Velho, Roman fish processing factory Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,07800 37,05570)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.07800 37.05570)"^^geo:wktLiteral .
 

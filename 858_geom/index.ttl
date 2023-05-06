@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/858_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Capraia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,83890 43,05054)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.83890 43.05054)"^^geo:wktLiteral .
 

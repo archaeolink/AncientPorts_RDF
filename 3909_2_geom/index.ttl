@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3909_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Shabas el-Shuhada Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,74500 31,09000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.74500 31.09000)"^^geo:wktLiteral .
 

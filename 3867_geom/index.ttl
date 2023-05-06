@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3867_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alagankulam, on R Vaigai, and Devipattinam Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(78,97120 9,35830)"^^geo:wktLiteral .
+    geo:asWKT "POINT(78.97120 9.35830)"^^geo:wktLiteral .
 

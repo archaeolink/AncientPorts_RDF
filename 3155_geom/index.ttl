@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3155_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near the cape Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,24889 38,28871)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.24889 38.28871)"^^geo:wktLiteral .
 

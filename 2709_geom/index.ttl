@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2709_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pichvnari, near Kobuleti on R Kintrish Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(41,76900 41,81600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(41.76900 41.81600)"^^geo:wktLiteral .
 

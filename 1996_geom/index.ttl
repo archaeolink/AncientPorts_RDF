@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1996_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vasiliki, Cape Doukato, on the isle of Lefkada Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,60720 38,62650)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.60720 38.62650)"^^geo:wktLiteral .
 

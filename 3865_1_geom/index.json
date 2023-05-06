@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(79,82200 8,29700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Uruvelapattna, at outlet of R Kala Oya, on Sri Lanka island Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(79.82200 8.29700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Uruvelapattna, at outlet of R Kala Oya, on Sri Lanka island Geometry"]}

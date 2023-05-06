@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/52_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "possible lighthouse at Goldsborough  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,72460 54,53974)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.72460 54.53974)"^^geo:wktLiteral .
 

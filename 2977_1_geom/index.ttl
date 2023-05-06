@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2977_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agia Photia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,14780 35,19590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.14780 35.19590)"^^geo:wktLiteral .
 

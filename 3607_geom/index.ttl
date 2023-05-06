@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3607_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Esh Sheikh Ibrahim, on wadi Tehela Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,41580 18,87537)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.41580 18.87537)"^^geo:wktLiteral .
 

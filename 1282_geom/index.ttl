@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1282_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Domino, one of the Tremiti islands, with Roman villa on San Nicola island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,49920 42,11866)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.49920 42.11866)"^^geo:wktLiteral .
 

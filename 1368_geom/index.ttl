@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1368_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Sveti Ivan, San Giovanni Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,53420 45,40050)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.53420 45.40050)"^^geo:wktLiteral .
 

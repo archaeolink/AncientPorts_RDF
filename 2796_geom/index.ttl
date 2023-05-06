@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2796_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cakraz, near Senyurt Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,48155 41,78425)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.48155 41.78425)"^^geo:wktLiteral .
 

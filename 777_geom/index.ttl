@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/777_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Golfo di Palmas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,46138 39,04831)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.46138 39.04831)"^^geo:wktLiteral .
 

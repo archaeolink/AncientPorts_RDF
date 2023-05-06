@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2891_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Rustafjaell's 'East Harbour', on the isthmus of the peninsula of Erdek, Strabo, 12, 8 mentions a closable double harbour with many shipsheds Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,89400 40,38800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.89400 40.38800)"^^geo:wktLiteral .
 

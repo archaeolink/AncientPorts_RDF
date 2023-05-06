@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/687_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa on Place d'Armes, Porquerolles village Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,20300 43,00040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.20300 43.00040)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/922_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Santa Passera, on left bank of R Tiber, south of Rome Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,47144 41,84739)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.47144 41.84739)"^^geo:wktLiteral .
 

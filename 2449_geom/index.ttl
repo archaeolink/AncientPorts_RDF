@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2449_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port Rosenets, near Cape Phoros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,53375 42,44914)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.53375 42.44914)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4202_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Annaba, on the left bank of wadi Boudjimah, nearly 1 km from the outlet, according to Elie de la Primaudaie, 1861 Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,75170 36,88200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.75170 36.88200)"^^geo:wktLiteral .
 

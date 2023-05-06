@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1348_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Muzzana Bonifica, BA settlement near Cormor Canal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,12860 45,77140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.12860 45.77140)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4186_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Safi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,08241 37,25091)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.08241 37.25091)"^^geo:wktLiteral .
 

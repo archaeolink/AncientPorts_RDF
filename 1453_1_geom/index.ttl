@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1453_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Resnik, Kastala Stafilic, near the airport of Split Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,31120 43,53870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.31120 43.53870)"^^geo:wktLiteral .
 

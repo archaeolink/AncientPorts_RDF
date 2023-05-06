@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2949_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agia Pelagia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,02030 35,40815)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.02030 35.40815)"^^geo:wktLiteral .
 

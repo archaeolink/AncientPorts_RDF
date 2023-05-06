@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(13,21565 45,83349)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Chiarisacco, near San Giorgio di Nogaro, on R Corno Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(13.21565 45.83349)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Chiarisacco, near San Giorgio di Nogaro, on R Corno Geometry"]}

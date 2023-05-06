@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(13,44977 41,25026)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman villa Grotta di Tiberio, with fresh-water fish tank Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(13.44977 41.25026)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman villa Grotta di Tiberio, with fresh-water fish tank Geometry"]}

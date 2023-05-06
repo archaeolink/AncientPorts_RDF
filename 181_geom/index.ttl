@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/181_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Calle San Fernando, Santander (note that Juliobriga is located near Reinosa) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,82010 43,46020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.82010 43.46020)"^^geo:wktLiteral .
 

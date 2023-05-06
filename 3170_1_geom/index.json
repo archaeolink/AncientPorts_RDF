@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27,35945 37,92915)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cukurici H\u00f6y\u00fck, prehistoric site, near Selcuk Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27.35945 37.92915)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cukurici H\u00f6y\u00fck, prehistoric site, near Selcuk Geometry"]}

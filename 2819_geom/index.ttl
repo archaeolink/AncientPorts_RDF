@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2819_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Melen, Buyukmelen, near Melenagzi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,96786 41,07916)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.96786 41.07916)"^^geo:wktLiteral .
 

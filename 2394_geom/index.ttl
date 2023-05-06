@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2394_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gümüsyaka, Eski Eregli, near Sultanköy Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,04100 41,04200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.04100 41.04200)"^^geo:wktLiteral .
 

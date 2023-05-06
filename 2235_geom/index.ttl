@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2235_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Panormos, on the isle of Skopelos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,66530 39,11200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.66530 39.11200)"^^geo:wktLiteral .
 

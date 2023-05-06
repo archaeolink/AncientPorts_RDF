@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/99_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman temple at Jordan hill Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,42710 50,63750)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.42710 50.63750)"^^geo:wktLiteral .
 

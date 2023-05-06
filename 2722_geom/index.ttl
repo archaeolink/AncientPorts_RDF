@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2722_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "north of Eskipazar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(40,32385 40,99088)"^^geo:wktLiteral .
+    geo:asWKT "POINT(40.32385 40.99088)"^^geo:wktLiteral .
 

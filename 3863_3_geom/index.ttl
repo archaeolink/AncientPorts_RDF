@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3863_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dabhol, on R Vashishthi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(73,13000 17,58000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(73.13000 17.58000)"^^geo:wktLiteral .
 

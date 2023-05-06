@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1029_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Capo La Timpa, near Maratea Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,70010 39,99220)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.70010 39.99220)"^^geo:wktLiteral .
 

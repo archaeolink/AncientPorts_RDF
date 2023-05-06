@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1009_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bagni di Tiberio, near Marina Grande on the isle of Capri, with lighthouse at Roman villa Jovis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,23659 40,55769)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.23659 40.55769)"^^geo:wktLiteral .
 

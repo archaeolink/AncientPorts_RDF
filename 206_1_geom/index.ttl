@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/206_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castro de Achadizo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,88720 42,61380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.88720 42.61380)"^^geo:wktLiteral .
 

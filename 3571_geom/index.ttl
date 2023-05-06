@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3571_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Nakari, 18 km south of Marsa Alam, possibly called Chaouinah by Jacotin, with road to Nile valley Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,96220 24,92490)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.96220 24.92490)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2801_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Filyos, Hisarönü, with a breakwater connected to the promontory Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,02470 41,57179)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.02470 41.57179)"^^geo:wktLiteral .
 

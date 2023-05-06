@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2056_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tinos, on the isle of Tenos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,16170 37,53800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.16170 37.53800)"^^geo:wktLiteral .
 

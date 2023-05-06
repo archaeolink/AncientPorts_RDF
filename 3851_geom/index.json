@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(63,50000 25,27000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Pasni, near outlet of R Shadi Kaur Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(63.50000 25.27000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Pasni, near outlet of R Shadi Kaur Geometry"]}

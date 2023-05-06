@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1581_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Pandeleimona, with submerged BA settlement at Limani Astakou Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,10130 38,48870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.10130 38.48870)"^^geo:wktLiteral .
 

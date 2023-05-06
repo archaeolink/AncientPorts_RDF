@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3141_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "island Kus Cenneti, at Uc Tepeler, now connected to the continent, on R Gediz Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,85600 38,54660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.85600 38.54660)"^^geo:wktLiteral .
 

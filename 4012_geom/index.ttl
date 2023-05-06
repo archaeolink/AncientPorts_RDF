@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4012_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bersis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,46665 32,44990)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.46665 32.44990)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/246_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torres Vedras on R Sizandro  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,40707 39,10806)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.40707 39.10806)"^^geo:wktLiteral .
 

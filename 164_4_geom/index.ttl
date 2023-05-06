@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/164_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Barsalloch Point oppidum, Mochrum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,56880 54,73860)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.56880 54.73860)"^^geo:wktLiteral .
 

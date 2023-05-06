@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2590_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "SE of the airport, 10 km NW of Cape Fiolent Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,40960 44,56440)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.40960 44.56440)"^^geo:wktLiteral .
 

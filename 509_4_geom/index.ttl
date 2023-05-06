@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/509_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Calotterie, Attin, on R Canche Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,72800 50,47660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.72800 50.47660)"^^geo:wktLiteral .
 

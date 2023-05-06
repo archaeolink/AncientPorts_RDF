@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2009_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "ilset of Daskalion. This Asteris island was supposed to be between the islands of Ithaca and Cephalonia and to have twin ports, according to Homer. The islet of Daskalion is all that remains today, perhaps after some tectonic movement? Cuisenier considers that Homer makes a mistake and that the twin ports are those located in Fiskardo, 2 miles from there. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,59819 38,43155)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.59819 38.43155)"^^geo:wktLiteral .
 

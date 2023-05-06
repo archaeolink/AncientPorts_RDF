@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1551_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Margarona bay, Ormos Vathy, near Preveza, in the Ambracian gulf Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,75390 38,97990)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.75390 38.97990)"^^geo:wktLiteral .
 

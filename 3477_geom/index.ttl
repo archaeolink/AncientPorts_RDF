@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3477_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell el-Fukhar, south of Tell Akko, Napoleon Hill, on R Na'aman, Na'mein Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,08780 32,91640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.08780 32.91640)"^^geo:wktLiteral .
 

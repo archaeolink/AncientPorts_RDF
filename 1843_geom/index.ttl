@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1843_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Avdira, in Thrace, east of R Nestos delta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,96961 40,94661)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.96961 40.94661)"^^geo:wktLiteral .
 

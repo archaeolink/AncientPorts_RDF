@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(60,83000 25,24800)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Lipar, on Chabahar Pink Lake Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(60.83000 25.24800)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Lipar, on Chabahar Pink Lake Geometry"]}

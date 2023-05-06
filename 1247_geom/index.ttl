@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1247_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Brindisi, with possibly two ancient lighthouses: on Barra island and at the entrance of the inner port Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,94895 40,64144)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.94895 40.64144)"^^geo:wktLiteral .
 

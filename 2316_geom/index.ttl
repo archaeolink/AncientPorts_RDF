@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2316_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Emporeio Bay, on the isle of Alimnia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,71800 36,26500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.71800 36.26500)"^^geo:wktLiteral .
 

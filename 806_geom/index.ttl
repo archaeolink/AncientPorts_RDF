@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/806_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cala Bitta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,47091 41,12562)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.47091 41.12562)"^^geo:wktLiteral .
 

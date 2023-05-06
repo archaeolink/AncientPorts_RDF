@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2155_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa & quarry at Tallara, Maltezana, on the isle of Astypalaia, Stampalia  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,38730 36,57600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.38730 36.57600)"^^geo:wktLiteral .
 

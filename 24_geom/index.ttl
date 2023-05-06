@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/24_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nijmegen, Hunnerpark, on R Waal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,87277 51,84699)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.87277 51.84699)"^^geo:wktLiteral .
 

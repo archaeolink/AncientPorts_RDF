@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/190_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castro de la Punta de Figueira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,76640 43,56670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.76640 43.56670)"^^geo:wktLiteral .
 

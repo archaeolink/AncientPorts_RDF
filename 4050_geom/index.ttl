@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4050_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "As Sidr Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,37350 30,63030)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.37350 30.63030)"^^geo:wktLiteral .
 

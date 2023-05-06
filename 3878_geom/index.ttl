@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3878_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Abu Seifa, Abou Seify, near Qantara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,35260 30,85967)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.35260 30.85967)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/205_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Noia in the Ria de Muros y Noya, on R Tambre Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,89167 42,78144)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.89167 42.78144)"^^geo:wktLiteral .
 

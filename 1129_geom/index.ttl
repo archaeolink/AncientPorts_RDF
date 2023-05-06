@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1129_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near a tower called Geleagre, at Syracuse, Santa Panagia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,27774 37,10840)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.27774 37.10840)"^^geo:wktLiteral .
 

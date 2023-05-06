@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/358_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cerro del Castillo, on the estuary of R Fuengirola Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,62894 36,52569)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.62894 36.52569)"^^geo:wktLiteral .
 

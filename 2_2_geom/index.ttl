@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Norrköping, Bronze Age rock carvings showing many ships Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,14500 58,59300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.14500 58.59300)"^^geo:wktLiteral .
 

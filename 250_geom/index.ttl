@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/250_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lisbon, Nucleo Arqueologico, 21 rua dos Correeiros, in the basement of the Millennium Bank where a garum factory was located on the left bank of a local tributary of R  Tage flowing under the present day rua Augusta. Possible location of Avienus' Ophiusa. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,13724 38,71006)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.13724 38.71006)"^^geo:wktLiteral .
 

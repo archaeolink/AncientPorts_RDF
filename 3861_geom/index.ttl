@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3861_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Bet Dwarka, in Gulf of Kutch Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(69,10540 22,45740)"^^geo:wktLiteral .
+    geo:asWKT "POINT(69.10540 22.45740)"^^geo:wktLiteral .
 

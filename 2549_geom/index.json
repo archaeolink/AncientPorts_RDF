@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31,61164 46,53639)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Pokrovskoye, near Cape Kinburns\u2019ka Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31.61164 46.53639)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Pokrovskoye, near Cape Kinburns\u2019ka Geometry"]}

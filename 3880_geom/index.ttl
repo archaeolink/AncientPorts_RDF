@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3880_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Belim Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,17200 30,97880)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.17200 30.97880)"^^geo:wktLiteral .
 

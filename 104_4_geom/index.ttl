@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/104_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mount Batten, near Plymouth, on R Plym (export of tin) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,12620 50,36040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.12620 50.36040)"^^geo:wktLiteral .
 

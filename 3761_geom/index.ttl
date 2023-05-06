@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3761_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Hasik, at western end of Khuriya Muriya bay, west of Khuriya Muriya islands Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(55,26322 17,43978)"^^geo:wktLiteral .
+    geo:asWKT "POINT(55.26322 17.43978)"^^geo:wktLiteral .
 

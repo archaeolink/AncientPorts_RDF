@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3868_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "el-Arish Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,83579 31,15709)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.83579 31.15709)"^^geo:wktLiteral .
 

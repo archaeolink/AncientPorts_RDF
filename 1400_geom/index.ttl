@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1400_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vela Luka & Mala Luka, near Korintija, on the isle of Krk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,80340 44,98640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.80340 44.98640)"^^geo:wktLiteral .
 

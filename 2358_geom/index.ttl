@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2358_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "on Gala Gölü lake? near Enez Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,17000 40,76000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.17000 40.76000)"^^geo:wktLiteral .
 

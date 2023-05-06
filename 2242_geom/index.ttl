@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2242_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Planitis, on the isle of Kyra Panagia, Pelagonisi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,07197 39,34733)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.07197 39.34733)"^^geo:wktLiteral .
 

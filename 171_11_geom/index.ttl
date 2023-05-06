@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/171_11_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Knoxspark, oppidum, on R Ballysadare Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,50200 54,20660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.50200 54.20660)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/45_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Carriden House, at the eastern end of Antonine's wall, on Firth of Forth Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,56080 56,00950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.56080 56.00950)"^^geo:wktLiteral .
 

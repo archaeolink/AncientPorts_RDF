@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1260_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Molfetta? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,59485 41,21594)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.59485 41.21594)"^^geo:wktLiteral .
 

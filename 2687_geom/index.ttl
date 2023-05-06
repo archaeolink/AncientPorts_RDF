@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2687_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Mzynta at Adler, near Sotchi airport Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,92100 43,41100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.92100 43.41100)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/921_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monti di San Paolo, near Acilia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,35306 41,80187)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.35306 41.80187)"^^geo:wktLiteral .
 

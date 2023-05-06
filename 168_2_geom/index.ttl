@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/168_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Old Kilpatrick, on R Clyde, western end of Antonine's wall Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,46640 55,92670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.46640 55.92670)"^^geo:wktLiteral .
 

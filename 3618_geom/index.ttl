@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3618_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Island located in the bay of Zula and and now included into the continent under the name « Galala Hills » 3.5 km SE of Zula. Not to be confused with Perim island bearing the same ancient name Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,69750 15,21600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.69750 15.21600)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3945_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Abusir, near Burg el-Arab, Roman canal-port located between east jetty near Plinthine and ancient west bridge over canal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,52265 30,93910)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.52265 30.93910)"^^geo:wktLiteral .
 

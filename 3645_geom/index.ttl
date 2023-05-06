@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3645_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Hodeidah, Hudaydah, near outlet of wadi Siham Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(42,93100 14,81600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(42.93100 14.81600)"^^geo:wktLiteral .
 

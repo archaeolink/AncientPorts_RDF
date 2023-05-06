@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/106_8_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lankidden oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,13380 50,00640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.13380 50.00640)"^^geo:wktLiteral .
 

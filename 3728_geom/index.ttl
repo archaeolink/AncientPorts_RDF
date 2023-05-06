@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3728_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Habo, Xabo, Abot fort? on Khor Filuk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(50,52087 11,79413)"^^geo:wktLiteral .
+    geo:asWKT "POINT(50.52087 11.79413)"^^geo:wktLiteral .
 

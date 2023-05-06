@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1430_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Polacine, on Pasman island, with submerged BA settlement near Ricul islet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,39000 43,96000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.39000 43.96000)"^^geo:wktLiteral .
 

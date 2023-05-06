@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3923_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Maadi, on wadi Degla Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,27800 29,96500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.27800 29.96500)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1502_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Okuklje, on the isle of Mljet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,67038 42,72621)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.67038 42.72621)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/594_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Pepiron, near Mauzac, and several other villas on the ridge north of R Seudre Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,06310 45,80490)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.06310 45.80490)"^^geo:wktLiteral .
 

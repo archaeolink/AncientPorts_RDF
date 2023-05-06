@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1334_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Padova Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,87836 45,41329)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.87836 45.41329)"^^geo:wktLiteral .
 

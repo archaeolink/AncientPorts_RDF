@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(34,24110 36,55710)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Byzantine fort at Limonlu, on R Limonlu Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(34.24110 36.55710)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Byzantine fort at Limonlu, on R Limonlu Geometry"]}

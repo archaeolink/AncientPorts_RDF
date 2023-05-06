@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3893_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Matariya (North Cairo), Heliopolis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,30560 30,12900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.30560 30.12900)"^^geo:wktLiteral .
 

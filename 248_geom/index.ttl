@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/248_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa, Villa dos Casais Velhos, near Guincho Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,46414 38,72635)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.46414 38.72635)"^^geo:wktLiteral .
 

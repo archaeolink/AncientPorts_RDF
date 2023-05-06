@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1204_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Portella, north of Santa Marina Salina, on the isle of Salina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,86960 38,57390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.86960 38.57390)"^^geo:wktLiteral .
 

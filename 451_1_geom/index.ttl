@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/451_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Llanca Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,16100 42,37160)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.16100 42.37160)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/793_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Sant'Imbenia, Porto Conte, Grotta Verde, Capo Caccia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,18965 40,61657)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.18965 40.61657)"^^geo:wktLiteral .
 

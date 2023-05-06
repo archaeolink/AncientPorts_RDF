@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1087_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cariati Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,96170 39,49600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.96170 39.49600)"^^geo:wktLiteral .
 

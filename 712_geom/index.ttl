@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/712_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vaugrenier shingle beach near Villeneuve Loubet, on via Julia Augusta, between outlets of R Brague and R Loup Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,12752 43,62171)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.12752 43.62171)"^^geo:wktLiteral .
 

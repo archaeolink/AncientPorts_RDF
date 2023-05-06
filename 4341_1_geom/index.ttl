@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4341_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isla de Alegranza? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-13,51000 29,39800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-13.51000 29.39800)"^^geo:wktLiteral .
 

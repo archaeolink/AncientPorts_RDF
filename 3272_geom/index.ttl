@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3272_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hamam Köyü, Ruin's Bay, where Cleopatra stopped twice, at SW end of Scopea Bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,85505 36,64025)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.85505 36.64025)"^^geo:wktLiteral .
 

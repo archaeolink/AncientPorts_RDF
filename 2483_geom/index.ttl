@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2483_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Palazu Mare Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,61000 44,22900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.61000 44.22900)"^^geo:wktLiteral .
 

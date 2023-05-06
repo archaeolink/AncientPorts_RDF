@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/333_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Martela, ca. 250 m south of Castillo de Doña Blanca, on R Guadalete, which later moved southwards Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,15840 36,62640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.15840 36.62640)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/984_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa di Lucullo, on isola Pennata Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,08840 40,79220)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.08840 40.79220)"^^geo:wktLiteral .
 

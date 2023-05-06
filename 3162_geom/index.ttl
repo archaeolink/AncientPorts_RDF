@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3162_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Teos Limani, near Akcay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,79218 38,17112)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.79218 38.17112)"^^geo:wktLiteral .
 

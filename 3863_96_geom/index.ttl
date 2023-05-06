@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3863_96_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ponnani, at outlet of R Bharathapuzha, or Beypore, at outlet of R Chaliyar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(75,90000 10,78300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(75.90000 10.78300)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2570_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chornomors’ke, in Achmechet bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,71403 45,51763)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.71403 45.51763)"^^geo:wktLiteral .
 

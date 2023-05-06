@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2089_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Oikonomou in the bay of Naousa, with Neolithic settlement, on the isle of Paros, Bara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,26490 37,12870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.26490 37.12870)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4160_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "El-Haouaria, near Cap Bon Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,99580 37,05960)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.99580 37.05960)"^^geo:wktLiteral .
 

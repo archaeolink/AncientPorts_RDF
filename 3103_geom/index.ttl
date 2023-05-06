@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3103_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bozcaada, Neolithic settlement on the island Bozcaada in front of Troy, Troie Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,08235 39,83400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.08235 39.83400)"^^geo:wktLiteral .
 

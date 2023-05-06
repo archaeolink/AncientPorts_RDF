@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1453_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Luka, Trstenik Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,43350 43,54440)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.43350 43.54440)"^^geo:wktLiteral .
 

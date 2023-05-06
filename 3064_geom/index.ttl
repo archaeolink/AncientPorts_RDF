@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3064_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Akrotiri west bays with grey sand & dunes, port of Katalymata ton Plakoton Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,93500 34,58150)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.93500 34.58150)"^^geo:wktLiteral .
 

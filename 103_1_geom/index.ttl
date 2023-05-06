@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/103_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Exeter, on R Exe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,53070 50,71800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.53070 50.71800)"^^geo:wktLiteral .
 

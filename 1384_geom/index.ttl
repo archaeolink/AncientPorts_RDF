@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1384_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Vizula, near Medulin Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,92170 44,81840)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.92170 44.81840)"^^geo:wktLiteral .
 

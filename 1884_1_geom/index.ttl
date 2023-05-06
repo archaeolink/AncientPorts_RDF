@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1884_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Platia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,93330 37,49270)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.93330 37.49270)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3376_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Erdemli, on R Sorgun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,30510 36,60750)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.30510 36.60750)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3049_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry at Mosphiloudia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,83270 34,96880)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.83270 34.96880)"^^geo:wktLiteral .
 

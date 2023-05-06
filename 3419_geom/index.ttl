@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3419_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Qalat er-Rouss Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,91680 35,41760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.91680 35.41760)"^^geo:wktLiteral .
 

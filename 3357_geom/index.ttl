@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3357_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Besparmak Adasi, Babali Adasi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,53484 36,12307)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.53484 36.12307)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4077_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "not 'Magna' anymore Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,29800 32,63820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.29800 32.63820)"^^geo:wktLiteral .
 

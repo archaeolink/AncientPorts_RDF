@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/622_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lac de Capelles, not a port but exceptional fish tank, on the Etang de Bages Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,99895 43,14386)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.99895 43.14386)"^^geo:wktLiteral .
 

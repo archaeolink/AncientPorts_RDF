@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2187_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "on North side of Mytilini, on the isle of Lesbos, Lesvos; connected to the South port by Euripos canal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,55641 39,11315)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.55641 39.11315)"^^geo:wktLiteral .
 

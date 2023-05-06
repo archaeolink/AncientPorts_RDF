@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31,83486 30,80632)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Qantir, port is north of village, famous stables are south Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31.83486 30.80632)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Qantir, port is north of village, famous stables are south Geometry"]}

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3911_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sa el-Hagar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,76850 30,96500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.76850 30.96500)"^^geo:wktLiteral .
 

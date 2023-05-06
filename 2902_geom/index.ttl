@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2902_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sahmelek Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,20419 40,43563)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.20419 40.43563)"^^geo:wktLiteral .
 

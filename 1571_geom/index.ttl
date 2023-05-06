@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1571_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Kastri Lithies, near Lugia beach Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,75950 38,78640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.75950 38.78640)"^^geo:wktLiteral .
 

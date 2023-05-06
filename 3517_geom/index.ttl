@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3517_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Ruqeish, Tell Akluk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,32000 31,40400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.32000 31.40400)"^^geo:wktLiteral .
 

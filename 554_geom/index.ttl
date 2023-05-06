@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/554_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hogolo, near Locquirec,  with several Roman villas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,63751 48,67716)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.63751 48.67716)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3620_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dissei island, Dessei, Dese  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,74650 15,47200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.74650 15.47200)"^^geo:wktLiteral .
 

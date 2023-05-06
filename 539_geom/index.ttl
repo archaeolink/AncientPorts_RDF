@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/539_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Guernesey Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,57488 49,45526)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.57488 49.45526)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/775_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Pino, access canal to the lagoon of Baiocca Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,60208 38,96315)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.60208 38.96315)"^^geo:wktLiteral .
 

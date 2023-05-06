@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3934_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alexandria, also called « Le Phare », The Pharos, includes several now submerged ports, it also includes a drydock (acc. to Athenaeus) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,89400 31,20700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.89400 31.20700)"^^geo:wktLiteral .
 

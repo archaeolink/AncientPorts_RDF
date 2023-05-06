@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/425_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Cambrils Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,05042 41,06584)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.05042 41.06584)"^^geo:wktLiteral .
 

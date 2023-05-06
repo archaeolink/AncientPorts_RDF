@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/556_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gorre-Bloue, Plouescat Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,16033 48,65427)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.16033 48.65427)"^^geo:wktLiteral .
 

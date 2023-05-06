@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4248_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "outlet of wadi Damous Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,69361 36,55505)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.69361 36.55505)"^^geo:wktLiteral .
 

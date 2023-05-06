@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2421_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bebek Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,04300 41,07700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.04300 41.07700)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2271_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neokhori, on the isle of Samos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,76800 37,70700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.76800 37.70700)"^^geo:wktLiteral .
 

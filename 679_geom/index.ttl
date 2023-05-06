@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/679_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Le Brusc, Six Fours Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,80360 43,07690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.80360 43.07690)"^^geo:wktLiteral .
 

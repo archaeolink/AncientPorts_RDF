@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/237_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ameal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,54064 40,19181)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.54064 40.19181)"^^geo:wktLiteral .
 

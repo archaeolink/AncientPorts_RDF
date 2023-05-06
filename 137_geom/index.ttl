@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/137_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "possible lighthouse at Caer y Twr on Holyhead Mountain, oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,67553 53,31335)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.67553 53.31335)"^^geo:wktLiteral .
 

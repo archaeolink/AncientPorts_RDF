@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1875_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port of Episkopi, on the isle of Idra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,43930 37,31170)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.43930 37.31170)"^^geo:wktLiteral .
 

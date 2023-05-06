@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1691_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gardikion, Paralia Pelasgias Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,85400 38,92400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.85400 38.92400)"^^geo:wktLiteral .
 

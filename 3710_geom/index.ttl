@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3710_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kilwa Kisiwani island & Songo Mnara island, this area of Swahili culture might be beyond the southern limit of pre-islamic trading ports as archaeology has not (yet?) found any older artefacts Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,49600 -8,96000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.49600 -8.96000)"^^geo:wktLiteral .
 

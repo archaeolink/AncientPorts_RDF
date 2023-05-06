@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3199_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "now inland at Batiköy, Mezar Tepe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,24220 37,53330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.24220 37.53330)"^^geo:wktLiteral .
 

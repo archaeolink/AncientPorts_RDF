@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/897_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Bagni di San Agostino, near R Mignone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,73700 42,16700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.73700 42.16700)"^^geo:wktLiteral .
 

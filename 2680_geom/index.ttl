@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2680_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Novomikhaylovskoye? on R Nechepsuho Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,83055 44,23317)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.83055 44.23317)"^^geo:wktLiteral .
 

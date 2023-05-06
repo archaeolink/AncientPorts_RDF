@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/564_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neolithic settlement at Cap Sizun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,58600 48,07900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.58600 48.07900)"^^geo:wktLiteral .
 

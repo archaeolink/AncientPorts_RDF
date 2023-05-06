@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1222_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kortin hill at Marsa, Ta'Cejlu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,50084 35,88072)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.50084 35.88072)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3652_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dumsuq island, Monfreid's Dumsuk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(42,06075 16,55317)"^^geo:wktLiteral .
+    geo:asWKT "POINT(42.06075 16.55317)"^^geo:wktLiteral .
 

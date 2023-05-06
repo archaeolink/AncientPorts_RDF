@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/94_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Brading, on the isle of Wight, now inland Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,14325 50,68143)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.14325 50.68143)"^^geo:wktLiteral .
 

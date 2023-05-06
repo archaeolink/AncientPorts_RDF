@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1111_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Capo Peloro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,64600 38,26300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.64600 38.26300)"^^geo:wktLiteral .
 

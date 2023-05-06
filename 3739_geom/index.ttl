@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3739_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Khor Omeira, Monfreid's Kor Omeira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(44,13800 12,63834)"^^geo:wktLiteral .
+    geo:asWKT "POINT(44.13800 12.63834)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3957_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras el-Kanayis, Ras Kanaïs, Ras el-Hekma Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,86690 31,23780)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.86690 31.23780)"^^geo:wktLiteral .
 

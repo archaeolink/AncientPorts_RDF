@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/329_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "? near Gades, perhaps near Rota? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,46231 36,60767)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.46231 36.60767)"^^geo:wktLiteral .
 

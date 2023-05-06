@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3601_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Arakiyai, Arequea, Port Salvadora Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,19874 20,23329)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.19874 20.23329)"^^geo:wktLiteral .
 

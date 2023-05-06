@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2072_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Finikas, on the isle of Syros, possible port where Eumaeus boarded a Phoenician ship Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,87909 37,39492)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.87909 37.39492)"^^geo:wktLiteral .
 

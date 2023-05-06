@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4316_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Asilah, possible fish processing factory. Zilil is located at Dchar Jdid, 12 km NE of Azilah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,04000 35,46700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.04000 35.46700)"^^geo:wktLiteral .
 

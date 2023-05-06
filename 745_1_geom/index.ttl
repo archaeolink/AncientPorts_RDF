@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/745_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Crovani bay, near Argentella Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,67500 42,47500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.67500 42.47500)"^^geo:wktLiteral .
 

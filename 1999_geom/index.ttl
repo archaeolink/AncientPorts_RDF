@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1999_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ormos Abelike, on the isle of Meganisi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,79032 38,66594)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.79032 38.66594)"^^geo:wktLiteral .
 

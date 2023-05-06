@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/927_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porticus Aemilia, emporium on left bank of R Tiber at Marmorata, south of Ponte Sublico. Tucci claims it could be shipsheds Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,47459 41,88244)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.47459 41.88244)"^^geo:wktLiteral .
 

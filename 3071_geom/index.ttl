@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3071_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Agios Leontios Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,47700 34,71900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.47700 34.71900)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1463_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Uvala Luka, on the isle of Brac Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,79767 43,33928)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.79767 43.33928)"^^geo:wktLiteral .
 

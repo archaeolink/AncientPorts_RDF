@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(3,67240 36,83490)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Dar Mendil, on wadi Isser, Yusr Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(3.67240 36.83490)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Dar Mendil, on wadi Isser, Yusr Geometry"]}

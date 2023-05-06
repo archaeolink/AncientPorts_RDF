@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/957_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto di Ponza, with Roman villa Grotta di Pilato, Punta della Madonna, on the isle of Ponza Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,96479 40,89478)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.96479 40.89478)"^^geo:wktLiteral .
 

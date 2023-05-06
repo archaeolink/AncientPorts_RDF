@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4223_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sidi Khaled, near Taksebt Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,17679 36,90089)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.17679 36.90089)"^^geo:wktLiteral .
 

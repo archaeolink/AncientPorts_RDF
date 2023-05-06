@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/701_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Beach of the Golfe de St Tropez? Port Cogolin Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,59412 43,27229)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.59412 43.27229)"^^geo:wktLiteral .
 

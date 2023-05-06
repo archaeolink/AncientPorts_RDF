@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/961_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa Grotta di Tiberio, with fresh-water fish tank Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,44977 41,25026)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.44977 41.25026)"^^geo:wktLiteral .
 

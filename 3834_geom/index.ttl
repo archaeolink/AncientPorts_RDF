@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3834_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Minab, R Ibrahemi, near Kolahi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(56,82000 27,04000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(56.82000 27.04000)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1482_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Blace, near R Neretva Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,48140 43,00163)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.48140 43.00163)"^^geo:wktLiteral .
 

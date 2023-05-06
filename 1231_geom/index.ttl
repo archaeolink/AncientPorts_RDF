@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1231_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Blue Lagoon, on the isle of Comino Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,32357 36,01274)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.32357 36.01274)"^^geo:wktLiteral .
 

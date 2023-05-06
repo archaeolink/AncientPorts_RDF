@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2112_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Markiani, near Mouros, on the isle of Amorgos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,84780 36,79140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.84780 36.79140)"^^geo:wktLiteral .
 

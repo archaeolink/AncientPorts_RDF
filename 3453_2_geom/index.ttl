@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3453_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Beyrouth, Beirut, quay wall in Allemby street (excavation Bey 039) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,50500 33,89940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.50500 33.89940)"^^geo:wktLiteral .
 

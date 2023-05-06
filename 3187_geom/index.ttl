@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3187_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Söke? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,41020 37,75230)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.41020 37.75230)"^^geo:wktLiteral .
 

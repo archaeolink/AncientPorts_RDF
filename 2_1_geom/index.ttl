@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torsbo, near Kville, Bronze Age rock carvings showing many ships Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,33720 58,54680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.33720 58.54680)"^^geo:wktLiteral .
 

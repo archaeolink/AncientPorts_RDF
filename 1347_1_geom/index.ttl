@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1347_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "BA settlement at Casa Zucca, near San Gaetano of Caorle Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,88720 45,63560)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.88720 45.63560)"^^geo:wktLiteral .
 

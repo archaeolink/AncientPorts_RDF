@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/591_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Motte castrale du Breuil-Bertin, Le Breuil, near Saint Ouen d'Aunis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,01580 46,22830)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.01580 46.22830)"^^geo:wktLiteral .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(38,65430 40,96270)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["G\u00fclburnu, near Espiye, near Uluburnu and Camburnu Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(38.65430 40.96270)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["G\u00fclburnu, near Espiye, near Uluburnu and Camburnu Geometry"]}

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27,65500 36,25600)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Isle of Agios Theodoros, near Rhodes Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27.65500 36.25600)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Isle of Agios Theodoros, near Rhodes Geometry"]}

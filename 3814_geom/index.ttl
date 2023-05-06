@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3814_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kharg island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(50,30762 29,24967)"^^geo:wktLiteral .
+    geo:asWKT "POINT(50.30762 29.24967)"^^geo:wktLiteral .
 

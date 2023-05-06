@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(26,55690 38,14840)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Kirkdilim K\u00f6y\u00fc near Cape Koraka Burun Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(26.55690 38.14840)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Kirkdilim K\u00f6y\u00fc near Cape Koraka Burun Geometry"]}

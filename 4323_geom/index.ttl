@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4323_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sidi Ali ben Ahmed, Roman fort with Roman amphora kilns on wadi Sebou, 12 km NE of Kenitra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,48965 34,33552)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.48965 34.33552)"^^geo:wktLiteral .
 

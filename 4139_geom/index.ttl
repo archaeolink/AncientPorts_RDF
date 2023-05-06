@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4139_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lamta, jetty with platform perpandicular to the coast Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,87235 35,68659)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.87235 35.68659)"^^geo:wktLiteral .
 

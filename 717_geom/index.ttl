@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/717_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monaco. Unlike other authors, Ptolemy distinguishes « Herculis portus » and « Monoeci portus » east of Nice, and puts around 35 km between both of them Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,43285 43,73459)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.43285 43.73459)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/109_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Wadebridge, on R Camel Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,83540 50,51750)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.83540 50.51750)"^^geo:wktLiteral .
 

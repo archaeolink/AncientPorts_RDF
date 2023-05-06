@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2748_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bolaman, on R Bolaman Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,58380 41,03480)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.58380 41.03480)"^^geo:wktLiteral .
 

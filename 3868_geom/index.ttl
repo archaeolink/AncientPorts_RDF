@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3868_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Temilat & Tell el-Sheikh & Tell Abu Salima, near Sheikh Zuweid Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,09090 31,23370)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.09090 31.23370)"^^geo:wktLiteral .
 

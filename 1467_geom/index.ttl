@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1467_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bobovisca, on the isle of Brac Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,46151 43,35286)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.46151 43.35286)"^^geo:wktLiteral .
 

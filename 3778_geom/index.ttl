@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3778_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kush, near Ras el-Khaïmah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(56,00611 25,82268)"^^geo:wktLiteral .
+    geo:asWKT "POINT(56.00611 25.82268)"^^geo:wktLiteral .
 

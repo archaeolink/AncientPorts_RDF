@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/235_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Santa Olaia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,71970 40,17075)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.71970 40.17075)"^^geo:wktLiteral .
 

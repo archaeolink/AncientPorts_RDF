@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3476_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Acre, Akko, with ancient ashlar breakwater under modern one, with ancient lighthouse on Tower of Flies Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,07000 32,91990)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.07000 32.91990)"^^geo:wktLiteral .
 

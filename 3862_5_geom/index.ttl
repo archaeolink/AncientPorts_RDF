@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3862_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kamrej, on R Tapi, Tapti, with other sites at Jokha and Dhatva, Pollet places Kammoni 12 km north at Kim Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(72,96620 21,28290)"^^geo:wktLiteral .
+    geo:asWKT "POINT(72.96620 21.28290)"^^geo:wktLiteral .
 

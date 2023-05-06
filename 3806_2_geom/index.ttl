@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3806_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tal Abu Tbeirah, 6 km south of Nasiriyah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(46,26770 30,98350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(46.26770 30.98350)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2367_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ece Limani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,32824 40,36774)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.32824 40.36774)"^^geo:wktLiteral .
 

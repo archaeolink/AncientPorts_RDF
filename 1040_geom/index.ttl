@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1040_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Piano delle Vigne, near Falerna Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,15407 38,98683)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.15407 38.98683)"^^geo:wktLiteral .
 

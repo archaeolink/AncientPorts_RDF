@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1568_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "famous naval battle in front of the outlet of the Ambracian gulf, with 10 commemorative seized ships placed in sheds Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,76820 38,95300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.76820 38.95300)"^^geo:wktLiteral .
 

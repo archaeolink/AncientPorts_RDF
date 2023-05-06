@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1883_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lambayanna beach, near Kiladha, Koilada, near Franchthi cave Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,12830 37,41230)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.12830 37.41230)"^^geo:wktLiteral .
 

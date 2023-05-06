@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2980_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kouremenos marina, with Roman breakwater Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,27178 35,21528)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.27178 35.21528)"^^geo:wktLiteral .
 

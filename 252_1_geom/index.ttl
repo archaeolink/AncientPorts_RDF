@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/252_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monte dos Castelinhos, on R Tage  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,97540 39,01200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.97540 39.01200)"^^geo:wktLiteral .
 

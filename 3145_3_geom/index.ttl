@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3145_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hekim Adasi island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,76600 38,44400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.76600 38.44400)"^^geo:wktLiteral .
 

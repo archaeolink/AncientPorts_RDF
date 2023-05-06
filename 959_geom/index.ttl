@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/959_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Stefano, islet near the isle of Ventotene Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,45447 40,78904)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.45447 40.78904)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1587_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fort at Treis Ekklesies, near Aitoliko  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,38900 38,41300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.38900 38.41300)"^^geo:wktLiteral .
 

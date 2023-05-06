@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1813_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pyrgadikia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,72900 40,34130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.72900 40.34130)"^^geo:wktLiteral .
 

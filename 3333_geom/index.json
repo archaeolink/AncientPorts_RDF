@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31,77990 36,60520)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Aynalig\u00f6l bay on cape Figla Burnu, near T\u00fcrkler Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(31.77990 36.60520)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Aynalig\u00f6l bay on cape Figla Burnu, near T\u00fcrkler Geometry"]}

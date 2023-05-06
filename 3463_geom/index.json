@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(35,29780 33,46470)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Phoenician port at Ras al-Qantara, near Sarafand Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(35.29780 33.46470)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Phoenician port at Ras al-Qantara, near Sarafand Geometry"]}

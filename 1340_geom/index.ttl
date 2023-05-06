@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1340_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "in Scanello canal, near isola Burano Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,43014 45,48820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.43014 45.48820)"^^geo:wktLiteral .
 

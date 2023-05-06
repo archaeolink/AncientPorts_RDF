@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4141_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monastir, Sidi Mansour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,84000 35,77240)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.84000 35.77240)"^^geo:wktLiteral .
 

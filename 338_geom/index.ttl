@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/338_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Cerro de los Martires, south of San Fernando Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,21973 36,44052)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.21973 36.44052)"^^geo:wktLiteral .
 

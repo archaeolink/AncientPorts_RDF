@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1379_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa in bay of Verige, on the isles of Brioni, Brijuni Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,77436 44,90980)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.77436 44.90980)"^^geo:wktLiteral .
 

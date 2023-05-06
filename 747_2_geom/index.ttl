@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/747_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lozari, at outlet of R Reginu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,00900 42,64100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.00900 42.64100)"^^geo:wktLiteral .
 

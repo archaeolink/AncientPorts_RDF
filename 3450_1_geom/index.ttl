@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3450_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Byblos offshore anchorage at Dahret-Daaret Martine reef, with many anchor stones at 25 m depth Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,62145 34,11078)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.62145 34.11078)"^^geo:wktLiteral .
 

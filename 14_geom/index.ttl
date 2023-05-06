@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/14_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Woerden, Kruittorenweg & Havenstraat, on R Oude Rijn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,88227 52,08507)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.88227 52.08507)"^^geo:wktLiteral .
 

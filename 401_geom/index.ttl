@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/401_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tossal de la Cala, Benidorm Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,16190 38,52490)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.16190 38.52490)"^^geo:wktLiteral .
 

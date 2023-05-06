@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1315_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Classe, naval base SE of Ravenna, on R Ronco, with ancient lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,21913 44,39546)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.21913 44.39546)"^^geo:wktLiteral .
 

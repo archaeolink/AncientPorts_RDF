@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1289_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Stefano, near Casalbordino Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,61524 42,20014)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.61524 42.20014)"^^geo:wktLiteral .
 

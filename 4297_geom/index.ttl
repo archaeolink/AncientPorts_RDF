@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4297_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Perejil, al-Yazira Layla Tawra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,41830 35,91406)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.41830 35.91406)"^^geo:wktLiteral .
 

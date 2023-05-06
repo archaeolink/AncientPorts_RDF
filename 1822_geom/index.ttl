@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1822_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kaliagra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,28100 40,25690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.28100 40.25690)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2989_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "East cove, on the isle of Chrysi, Chryssi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,73185 34,87713)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.73185 34.87713)"^^geo:wktLiteral .
 

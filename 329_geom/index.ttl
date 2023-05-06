@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/329_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Salmedina islet, in front of Chipiona, on the South bank of the outlet of R Guadalquivir, with possible ancient lighthouse  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,47181 36,73521)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.47181 36.73521)"^^geo:wktLiteral .
 

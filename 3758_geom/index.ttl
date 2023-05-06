@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3758_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Salalah, Raysut Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(53,99939 16,93713)"^^geo:wktLiteral .
+    geo:asWKT "POINT(53.99939 16.93713)"^^geo:wktLiteral .
 

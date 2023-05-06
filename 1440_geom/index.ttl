@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1440_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stipanac, near R Guduca Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,84667 43,82395)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.84667 43.82395)"^^geo:wktLiteral .
 

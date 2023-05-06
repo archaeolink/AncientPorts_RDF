@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3853_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Sakani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(64,41700 25,23300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(64.41700 25.23300)"^^geo:wktLiteral .
 

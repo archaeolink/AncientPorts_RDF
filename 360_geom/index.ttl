@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/360_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torreblanca del Sol Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,60251 36,56456)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.60251 36.56456)"^^geo:wktLiteral .
 

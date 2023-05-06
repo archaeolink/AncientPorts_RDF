@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4277_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chafarinas islands, from E to W : île du Roi, île d'Isabelle, île du Congres Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,43544 35,18779)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.43544 35.18779)"^^geo:wktLiteral .
 

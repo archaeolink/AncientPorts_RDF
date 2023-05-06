@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3301_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gök Liman? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,14000 36,27700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.14000 36.27700)"^^geo:wktLiteral .
 

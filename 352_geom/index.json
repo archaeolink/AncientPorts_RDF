@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-5,42340 36,19860)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cerro del Prado, on R Guadarranque Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-5.42340 36.19860)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cerro del Prado, on R Guadarranque Geometry"]}

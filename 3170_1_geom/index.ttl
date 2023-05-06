@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3170_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cukurici Höyük, prehistoric site, near Selcuk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,35945 37,92915)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.35945 37.92915)"^^geo:wktLiteral .
 

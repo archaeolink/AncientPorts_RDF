@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3488_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dor, Dora, Nahsholim Bay, South Bay, with quarry and submerged Neolithic settlement, with possible canal to Tantura bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,91550 32,61380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.91550 32.61380)"^^geo:wktLiteral .
 

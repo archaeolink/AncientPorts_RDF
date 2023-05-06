@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/630_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Saint Michel du Bagnas, on Etang du Bagnas, with amphora kilns Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,50470 43,33260)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.50470 43.33260)"^^geo:wktLiteral .
 

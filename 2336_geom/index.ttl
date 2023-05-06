@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2336_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kattavia, on the isle of Rhodes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,72784 35,96457)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.72784 35.96457)"^^geo:wktLiteral .
 

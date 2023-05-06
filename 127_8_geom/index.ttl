@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/127_8_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castell Heinif oppdum, near Porthclais harbour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,30840 51,87410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.30840 51.87410)"^^geo:wktLiteral .
 

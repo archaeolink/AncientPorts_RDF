@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/533_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fortlet at Banville, on R Seule Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,47510 49,30940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.47510 49.30940)"^^geo:wktLiteral .
 

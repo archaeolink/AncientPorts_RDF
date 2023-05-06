@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/791_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bosa Marina, at outlet of R Temo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,46942 40,28454)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.46942 40.28454)"^^geo:wktLiteral .
 

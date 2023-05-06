@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/963_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa La Caraciolo at Porto di Caposele Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,59810 41,25082)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.59810 41.25082)"^^geo:wktLiteral .
 

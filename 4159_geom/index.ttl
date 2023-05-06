@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4159_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "El-Hawaria east, near Ras ed Drek Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,06530 37,04170)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.06530 37.04170)"^^geo:wktLiteral .
 

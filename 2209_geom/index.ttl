@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2209_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Kampos Krousos, on the isle of Lesbos, Lesvos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,95680 39,11480)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.95680 39.11480)"^^geo:wktLiteral .
 

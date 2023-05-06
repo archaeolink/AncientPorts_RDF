@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/831_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Recco Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,14047 44,35804)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.14047 44.35804)"^^geo:wktLiteral .
 

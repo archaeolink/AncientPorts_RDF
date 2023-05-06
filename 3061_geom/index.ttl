@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3061_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Gata south of Limassol Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,04119 34,56657)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.04119 34.56657)"^^geo:wktLiteral .
 

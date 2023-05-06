@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/734_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bonifacio, Araguina-Sennola, Monte Leone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,16344 41,38829)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.16344 41.38829)"^^geo:wktLiteral .
 

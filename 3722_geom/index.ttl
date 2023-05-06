@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3722_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Socotra, Suqutra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(53,76735 12,45581)"^^geo:wktLiteral .
+    geo:asWKT "POINT(53.76735 12.45581)"^^geo:wktLiteral .
 

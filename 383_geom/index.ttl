@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/383_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cartagena, Cerro del Molinete, possible canal in Calle Santa Florentina, possible quay at Casa Llagostera in Calle Mayor 23-25. Export of iron, silver & lead from the sierra minera de Cartagena-La Union Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,98680 37,60072)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.98680 37.60072)"^^geo:wktLiteral .
 

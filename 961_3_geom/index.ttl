@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/961_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa San Vito, Monte a Mare, Albergo Ninfeo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,51200 41,22400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.51200 41.22400)"^^geo:wktLiteral .
 

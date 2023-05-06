@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2718_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pazar, near Hemsin Deresi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(40,88050 41,18170)"^^geo:wktLiteral .
+    geo:asWKT "POINT(40.88050 41.18170)"^^geo:wktLiteral .
 

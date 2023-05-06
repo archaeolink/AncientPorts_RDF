@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2615_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "General'skoye Vostochnoye Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,21260 45,47200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.21260 45.47200)"^^geo:wktLiteral .
 

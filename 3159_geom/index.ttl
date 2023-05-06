@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3159_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gökkovar Limani, Kokar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,60701 38,13754)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.60701 38.13754)"^^geo:wktLiteral .
 

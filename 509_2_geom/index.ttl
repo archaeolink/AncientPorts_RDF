@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/509_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neolithic settlement at Les Sablins, near Etaples, on R Canche Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,66340 50,50780)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.66340 50.50780)"^^geo:wktLiteral .
 

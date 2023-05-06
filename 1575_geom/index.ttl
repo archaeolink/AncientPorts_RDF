@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1575_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pogonia, near modern Palairos, Roman fort at Kakavoula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,84830 38,79400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.84830 38.79400)"^^geo:wktLiteral .
 

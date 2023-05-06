@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(20,75950 38,78640)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman fort at Kastri Lithies, near Lugia beach Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(20.75950 38.78640)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Roman fort at Kastri Lithies, near Lugia beach Geometry"]}

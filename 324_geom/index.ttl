@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/324_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lebrija, on R Guadalquivir  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,07819 36,91956)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.07819 36.91956)"^^geo:wktLiteral .
 

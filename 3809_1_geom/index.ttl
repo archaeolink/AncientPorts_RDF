@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3809_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Muhammad? at confluence of R Tigris and R Diyala Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(44,48289 33,29363)"^^geo:wktLiteral .
+    geo:asWKT "POINT(44.48289 33.29363)"^^geo:wktLiteral .
 

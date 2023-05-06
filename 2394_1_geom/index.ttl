@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2394_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kinaliköprü Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,11900 41,06100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.11900 41.06100)"^^geo:wktLiteral .
 

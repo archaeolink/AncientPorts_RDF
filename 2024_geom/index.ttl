@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2024_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pitch quarry at Limni Keriou, on the Isle of Zakinthos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,83440 37,68400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.83440 37.68400)"^^geo:wktLiteral .
 

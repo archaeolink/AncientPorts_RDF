@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4016_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arghous, near Benghazi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,09121 32,16959)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.09121 32.16959)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2975_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Papadiokampos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,04130 35,22460)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.04130 35.22460)"^^geo:wktLiteral .
 

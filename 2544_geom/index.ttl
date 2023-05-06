@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2544_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Nova Dofinovka Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,91359 46,56685)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.91359 46.56685)"^^geo:wktLiteral .
 

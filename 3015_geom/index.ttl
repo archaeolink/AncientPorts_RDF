@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3015_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kastro Loutrou, city near cape Moures, Ptolemy locates Phoenicis limen/portus east of Phoenix polis/civitas, BAtlas locates Phoenix at Finikas, on the west side of the promontory, Uggeri indicates that the Loutro peninsula has a typical Phoenician shape with one port on each side Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,07760 35,19680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.07760 35.19680)"^^geo:wktLiteral .
 

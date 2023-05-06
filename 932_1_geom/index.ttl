@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/932_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa di Plinio at Palombara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,34680 41,71110)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.34680 41.71110)"^^geo:wktLiteral .
 

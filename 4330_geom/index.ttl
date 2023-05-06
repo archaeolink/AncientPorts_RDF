@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4330_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Azemmour? on wadi Oum Errabiaa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,34089 33,32579)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.34089 33.32579)"^^geo:wktLiteral .
 

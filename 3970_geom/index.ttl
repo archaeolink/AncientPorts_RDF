@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3970_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Hasy Ibrahim? near Zawyet Shammas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,37900 31,52300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.37900 31.52300)"^^geo:wktLiteral .
 

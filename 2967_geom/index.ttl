@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2967_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Istro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,73120 35,12780)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.73120 35.12780)"^^geo:wktLiteral .
 

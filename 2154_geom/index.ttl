@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2154_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pyrgos at Vathi, on the isle of Astypalaia, Stampalia   Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,39580 36,61760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.39580 36.61760)"^^geo:wktLiteral .
 

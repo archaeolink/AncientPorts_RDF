@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4123_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Skhirra, ex 'Ferme Roderie' 300 m south of La Tour du Nadour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,06284 34,22828)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.06284 34.22828)"^^geo:wktLiteral .
 

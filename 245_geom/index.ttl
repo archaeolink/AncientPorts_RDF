@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/245_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lourinha  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,34358 39,25695)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.34358 39.25695)"^^geo:wktLiteral .
 

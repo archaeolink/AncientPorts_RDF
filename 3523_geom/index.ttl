@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3523_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Abu Mereir, south of Ras Matarma Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,80550 29,39843)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.80550 29.39843)"^^geo:wktLiteral .
 

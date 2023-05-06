@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/570_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Oppidum at Locmaria, at Quimper, with several Roman fortlets, and fish processing at Benodet and Kerobistin Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,11666 47,98232)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.11666 47.98232)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/650_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "ancient outlet of R Rhone near Salin de Giraud, supposed to be at about 18 nautical miles from Arelates on the ancient Rhone d'Ulmet branch Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,63484 43,46308)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.63484 43.46308)"^^geo:wktLiteral .
 

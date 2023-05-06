@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1773_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aigeai, Vergina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,32230 40,47790)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.32230 40.47790)"^^geo:wktLiteral .
 

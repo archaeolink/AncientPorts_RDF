@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3431_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "islet of Machroud Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,88677 34,78296)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.88677 34.78296)"^^geo:wktLiteral .
 

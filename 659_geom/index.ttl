@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/659_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tholon, near Martigues Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,06063 43,42048)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.06063 43.42048)"^^geo:wktLiteral .
 

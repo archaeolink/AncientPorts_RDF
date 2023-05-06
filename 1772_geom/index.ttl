@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1772_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nea Agathoupoli, on R Aliakmonas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,58360 40,46745)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.58360 40.46745)"^^geo:wktLiteral .
 

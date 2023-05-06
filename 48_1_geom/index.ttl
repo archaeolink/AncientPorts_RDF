@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/48_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kippy Heugh oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,80110 55,60530)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.80110 55.60530)"^^geo:wktLiteral .
 

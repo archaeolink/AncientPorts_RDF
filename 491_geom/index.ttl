@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/491_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Cala en Porter Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,14374 39,86056)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.14374 39.86056)"^^geo:wktLiteral .
 

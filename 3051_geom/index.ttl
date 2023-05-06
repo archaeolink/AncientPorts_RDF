@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3051_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Larnaca, with slipways at Bamboula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,63290 34,92042)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.63290 34.92042)"^^geo:wktLiteral .
 

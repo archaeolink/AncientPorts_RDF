@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/797_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Santa Filitica, near Sorso Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,62901 40,87198)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.62901 40.87198)"^^geo:wktLiteral .
 

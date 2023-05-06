@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1491_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vela Luka, on the isle of Korcula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,71424 42,96650)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.71424 42.96650)"^^geo:wktLiteral .
 

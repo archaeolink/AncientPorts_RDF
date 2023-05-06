@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3475_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Kabri, el-Qahweh, near Nahariya, on R Ga'aton Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,13760 33,00740)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.13760 33.00740)"^^geo:wktLiteral .
 

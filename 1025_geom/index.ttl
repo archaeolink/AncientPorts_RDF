@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1025_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Palinuro, near Centola Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,28223 40,03566)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.28223 40.03566)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1712_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry near Vigles Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,46000 37,98800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.46000 37.98800)"^^geo:wktLiteral .
 

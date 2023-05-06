@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/141_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Great Orme Bronze Age copper mine, near Neolithic settlement at Snail Cave Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,84720 53,33030)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.84720 53.33030)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3952_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mersa Abu Samra, behind Sambra Reef Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,25648 31,08635)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.25648 31.08635)"^^geo:wktLiteral .
 

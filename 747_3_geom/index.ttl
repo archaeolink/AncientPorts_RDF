@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/747_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Anse de Malfacu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,11800 42,72400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.11800 42.72400)"^^geo:wktLiteral .
 

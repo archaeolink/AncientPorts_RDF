@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/279_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Quinta da Abicada, near Mexilhoeira Grande Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,59694 37,15129)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.59694 37.15129)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2033_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Neolithic settlement at Strofilas, on the isle of Andros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,85562 37,78044)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.85562 37.78044)"^^geo:wktLiteral .
 

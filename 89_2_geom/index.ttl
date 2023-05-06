@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/89_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Havant Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,01850 50,86010)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.01850 50.86010)"^^geo:wktLiteral .
 

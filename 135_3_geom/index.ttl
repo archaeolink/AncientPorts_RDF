@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/135_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castell Bryn Gwyn oppidum & Neolithic settlement at Bodowyr Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,29790 53,17840)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.29790 53.17840)"^^geo:wktLiteral .
 

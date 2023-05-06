@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1897_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kyparissi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,99200 36,97190)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.99200 36.97190)"^^geo:wktLiteral .
 

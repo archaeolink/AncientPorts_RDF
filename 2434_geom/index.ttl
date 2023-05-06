@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2434_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Büyük Liman, south of Sultan Selim bridge Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,10090 41,20457)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.10090 41.20457)"^^geo:wktLiteral .
 

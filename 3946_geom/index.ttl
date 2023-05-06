@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3946_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "el-Kimo, about 30 km east of el-Alamein Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,32500 30,87700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.32500 30.87700)"^^geo:wktLiteral .
 

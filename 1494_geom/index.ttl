@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1494_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ubli, in Luka Velji Lago, on the isle of Lastovo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,82446 42,74474)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.82446 42.74474)"^^geo:wktLiteral .
 

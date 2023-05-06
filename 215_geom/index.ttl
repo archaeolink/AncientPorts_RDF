@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/215_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pintens, near La Barra and Hio Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,83200 42,28300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.83200 42.28300)"^^geo:wktLiteral .
 

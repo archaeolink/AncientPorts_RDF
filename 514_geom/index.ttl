@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/514_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Lisiere du bois de Cise, near Ault Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,42800 50,08620)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.42800 50.08620)"^^geo:wktLiteral .
 

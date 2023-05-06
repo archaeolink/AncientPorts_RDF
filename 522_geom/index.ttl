@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/522_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Camp de Cesar, Oppidum at Sandouville Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,30773 49,49359)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.30773 49.49359)"^^geo:wktLiteral .
 

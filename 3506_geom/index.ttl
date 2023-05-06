@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3506_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Ashqelon, Ashkelon Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,56200 31,69200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.56200 31.69200)"^^geo:wktLiteral .
 

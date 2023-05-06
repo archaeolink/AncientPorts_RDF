@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/29_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Naaldwijk, Zuidweg & Hoogwerf, Roman fort & naval base, near ancient outlet of R Maas, Meuse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,20610 51,98530)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.20610 51.98530)"^^geo:wktLiteral .
 

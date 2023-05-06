@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/711_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Antibes, in the Anse Saint Roch near the Fort Carre. The entrance to the ancient port was near the peninsula of the Fort Carre. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,12454 43,58934)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.12454 43.58934)"^^geo:wktLiteral .
 

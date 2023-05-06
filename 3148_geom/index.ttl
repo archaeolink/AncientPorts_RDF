@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3148_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Badembükü? near Parlak Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,35810 38,61060)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.35810 38.61060)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3375_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Byzantine fort at Limonlu, on R Limonlu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,24110 36,55710)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.24110 36.55710)"^^geo:wktLiteral .
 

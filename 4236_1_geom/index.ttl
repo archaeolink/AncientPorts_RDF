@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4236_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Demonchy fish tank Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,50030 36,59290)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.50030 36.59290)"^^geo:wktLiteral .
 

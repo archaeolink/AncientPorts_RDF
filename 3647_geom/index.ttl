@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3647_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kamaran island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(42,61408 15,33388)"^^geo:wktLiteral .
+    geo:asWKT "POINT(42.61408 15.33388)"^^geo:wktLiteral .
 

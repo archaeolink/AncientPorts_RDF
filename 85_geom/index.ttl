@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/85_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Southwick? possibly at outlet of R Adur, with a Roman villa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,24760 50,82760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.24760 50.82760)"^^geo:wktLiteral .
 

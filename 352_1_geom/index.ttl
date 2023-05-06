@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/352_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gorham's cave, Gibraltar, Jebel Tarik, settlement used during Palaeolithic, Mesolithic, Neolithic, and even by Phoenicians Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,34210 36,11740)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.34210 36.11740)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1187_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tramontana, Faraglioni, Scoglio Colombara, on the island di Ustica Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,18260 38,71968)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.18260 38.71968)"^^geo:wktLiteral .
 

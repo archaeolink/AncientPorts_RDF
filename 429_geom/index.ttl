@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/429_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Els Munts, near Altafulla Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,38590 41,13610)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.38590 41.13610)"^^geo:wktLiteral .
 

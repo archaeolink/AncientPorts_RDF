@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-5,19690 50,07120)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Halliggye oppidum, near R Helford Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-5.19690 50.07120)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Halliggye oppidum, near R Helford Geometry"]}

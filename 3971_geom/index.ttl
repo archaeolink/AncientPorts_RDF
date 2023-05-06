@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3971_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras el-Seyada? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,46460 31,51750)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.46460 31.51750)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1077_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "at crossing of R Tacina, at Steccato di Cutro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,89753 38,92634)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.89753 38.92634)"^^geo:wktLiteral .
 

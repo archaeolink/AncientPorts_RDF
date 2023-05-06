@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/661_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port des Laurons, possible quay near Roman villa of Semenes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,02466 43,35570)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.02466 43.35570)"^^geo:wktLiteral .
 

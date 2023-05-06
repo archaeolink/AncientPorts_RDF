@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1611_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chostia, near Saranti Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,88313 38,25383)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.88313 38.25383)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1328_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Brondolo, south of Chioggia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,28343 45,19576)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.28343 45.19576)"^^geo:wktLiteral .
 

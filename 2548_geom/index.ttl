@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2548_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "isle of Berezan, formerly connected to mainland at Cape Adzhyias'k, west of Ochakov Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,41208 46,59856)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.41208 46.59856)"^^geo:wktLiteral .
 

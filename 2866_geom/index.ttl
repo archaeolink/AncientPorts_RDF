@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2866_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Izmit South, with Trajan's projected connection to lake Sapanca by a canal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,92900 40,71400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.92900 40.71400)"^^geo:wktLiteral .
 

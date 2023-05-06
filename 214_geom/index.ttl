@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/214_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pontevedra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,64712 42,43610)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.64712 42.43610)"^^geo:wktLiteral .
 

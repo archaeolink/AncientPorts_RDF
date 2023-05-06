@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3864_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Niranam? on R Pampa, with famous St Mary's Orthodox Church founded by St Thomas in 54 AD. Pollet places it 26 km further north at Kottayam Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(76,52750 9,34300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(76.52750 9.34300)"^^geo:wktLiteral .
 

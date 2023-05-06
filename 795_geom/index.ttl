@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/795_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stintino Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,22522 40,93812)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.22522 40.93812)"^^geo:wktLiteral .
 

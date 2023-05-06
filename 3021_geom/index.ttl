@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3021_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Kyriakos, 2 km west of Sougia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,78500 35,24400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.78500 35.24400)"^^geo:wktLiteral .
 

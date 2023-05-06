@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3950_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Gibeisa, at Sidi Abd el-Rahman Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,76240 30,97950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.76240 30.97950)"^^geo:wktLiteral .
 

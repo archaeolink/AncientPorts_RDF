@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3089_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Palaikastro, near Agia Eirini, on R Eskikale Deresi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,94060 35,30390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.94060 35.30390)"^^geo:wktLiteral .
 

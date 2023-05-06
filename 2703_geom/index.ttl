@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2703_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Tsiva, Tsivi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(41,64220 42,26270)"^^geo:wktLiteral .
+    geo:asWKT "POINT(41.64220 42.26270)"^^geo:wktLiteral .
 

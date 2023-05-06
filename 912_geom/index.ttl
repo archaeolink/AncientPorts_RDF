@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/912_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fregene Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,18341 41,85306)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.18341 41.85306)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2964_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kolokitha bay protected by Kolokythia island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,75600 35,26100)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.75600 35.26100)"^^geo:wktLiteral .
 

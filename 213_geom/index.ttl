@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/213_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castro A Lanzada  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,88126 42,43196)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.88126 42.43196)"^^geo:wktLiteral .
 

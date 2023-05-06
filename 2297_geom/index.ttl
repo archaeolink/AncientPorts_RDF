@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2297_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sykia, Mirties, on the isle of Kalymnos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,93300 36,99210)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.93300 36.99210)"^^geo:wktLiteral .
 

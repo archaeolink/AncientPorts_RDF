@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4156_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kelibia, near Ras Mustafa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,11222 36,83307)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.11222 36.83307)"^^geo:wktLiteral .
 

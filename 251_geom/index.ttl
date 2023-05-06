@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/251_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa, Sacavem  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,08317 38,78879)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.08317 38.78879)"^^geo:wktLiteral .
 

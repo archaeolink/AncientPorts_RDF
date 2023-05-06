@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3697_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sanafir, Sinafir island?  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,67700 27,93400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.67700 27.93400)"^^geo:wktLiteral .
 

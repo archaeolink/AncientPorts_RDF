@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1252_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Egnazia, with several pilae Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,39100 40,88960)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.39100 40.88960)"^^geo:wktLiteral .
 

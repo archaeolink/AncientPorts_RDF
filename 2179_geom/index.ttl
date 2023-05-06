@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2179_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Khloe, on the isle of Lemnos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,34160 39,97930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.34160 39.97930)"^^geo:wktLiteral .
 

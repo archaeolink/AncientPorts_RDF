@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3029_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sfinari Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,56001 35,41992)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.56001 35.41992)"^^geo:wktLiteral .
 

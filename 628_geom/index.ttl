@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/628_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Boede, L'Oustalet, near Fleury Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,18702 43,19950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.18702 43.19950)"^^geo:wktLiteral .
 

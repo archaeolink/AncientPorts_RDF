@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/299_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quinta das Antas, Torre d'Aires, near Luz de Tavira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,69720 37,08290)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.69720 37.08290)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3052_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hala Sultan Tekke Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,60470 34,88740)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.60470 34.88740)"^^geo:wktLiteral .
 

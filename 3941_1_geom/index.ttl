@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3941_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ancient quarry Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,73535 31,01870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.73535 31.01870)"^^geo:wktLiteral .
 

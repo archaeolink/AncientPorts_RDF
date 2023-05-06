@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2719_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Madenli near Cayeli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(40,70905 41,08939)"^^geo:wktLiteral .
+    geo:asWKT "POINT(40.70905 41.08939)"^^geo:wktLiteral .
 

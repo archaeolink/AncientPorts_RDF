@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/851_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stazione Ferroviaria Pisa-San Rossore, near Pisa on R Arno Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,38230 43,72200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.38230 43.72200)"^^geo:wktLiteral .
 

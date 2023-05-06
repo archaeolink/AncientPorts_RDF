@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1788_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Nea Plagia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,19255 40,24828)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.19255 40.24828)"^^geo:wktLiteral .
 

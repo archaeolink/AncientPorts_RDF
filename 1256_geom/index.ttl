@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1256_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mola di Bari Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,09040 41,06600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.09040 41.06600)"^^geo:wktLiteral .
 

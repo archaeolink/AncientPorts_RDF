@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/483_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cala Morell Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,88302 40,05408)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.88302 40.05408)"^^geo:wktLiteral .
 

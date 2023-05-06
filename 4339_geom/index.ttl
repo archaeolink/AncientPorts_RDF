@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4339_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Ghir, 50 km north of Agadir Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,88661 30,62298)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.88661 30.62298)"^^geo:wktLiteral .
 

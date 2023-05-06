@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/854_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Santo Stefano ai Lupi, Livorno. This port was connected to the city of Pisa by a series of marshes. A lighthouse was on the Secche della Meloria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,33430 43,57330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.33430 43.57330)"^^geo:wktLiteral .
 

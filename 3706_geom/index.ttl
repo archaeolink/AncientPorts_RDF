@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3706_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa al-Marakh, Fjord bay Taba, 5 km NE of the Taba resort, near wadi Tuweiba Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,83030 29,42880)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.83030 29.42880)"^^geo:wktLiteral .
 

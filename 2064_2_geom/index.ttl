@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2064_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Coastal houses in north area, but no port, on the isle of Dhilos, Delos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,26480 37,40170)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.26480 37.40170)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3101_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alacaligöl, Kesik plain, with so called 'Kesik canal' which is not man-made acc. to Kayan, 1995 Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,17400 39,95640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.17400 39.95640)"^^geo:wktLiteral .
 

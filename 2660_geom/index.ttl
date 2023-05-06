@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2660_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kamennaya near Zaporozhskoye  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,76477 45,35708)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.76477 45.35708)"^^geo:wktLiteral .
 

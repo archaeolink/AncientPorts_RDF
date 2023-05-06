@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/34_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "“De Roompot” submerged at the mouth of the Eastern Scheldt, between the isles of Walcheren and Schouwen Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,66000 51,64000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.66000 51.64000)"^^geo:wktLiteral .
 

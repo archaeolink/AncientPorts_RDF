@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/630_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Embonne, Cap d’Agde, with submerged BA settlement in Etang de Luno Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,51220 43,28830)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.51220 43.28830)"^^geo:wktLiteral .
 

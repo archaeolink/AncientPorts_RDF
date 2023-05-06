@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4341_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isla Tenerife Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-16,60000 28,30000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-16.60000 28.30000)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3356_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sipahili Limani, Babali Limani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,46760 36,16410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.46760 36.16410)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1770_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dium, Dion  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,49030 40,17700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.49030 40.17700)"^^geo:wktLiteral .
 

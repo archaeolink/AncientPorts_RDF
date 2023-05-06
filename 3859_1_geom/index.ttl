@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3859_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ratto Kot? 4-5th c. AD fortress, possibly older. Other possible place: Jaki Bandar (Medieval Lahori Bandar, 24.6300°N, 67.3698°E) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(67,23400 24,74720)"^^geo:wktLiteral .
+    geo:asWKT "POINT(67.23400 24.74720)"^^geo:wktLiteral .
 

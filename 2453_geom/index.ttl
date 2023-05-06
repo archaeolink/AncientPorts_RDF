@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2453_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Greek fort between the villages of Konstantinovo and Chernivrah Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,36700 42,42775)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.36700 42.42775)"^^geo:wktLiteral .
 

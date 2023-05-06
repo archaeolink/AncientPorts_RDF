@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/326_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cortijo el Rosario, Mesas de Asta, with a causeway and quay at El Muelle Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,15470 36,78930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.15470 36.78930)"^^geo:wktLiteral .
 

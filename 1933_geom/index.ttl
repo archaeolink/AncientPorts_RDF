@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1933_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vounaria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,93260 36,83580)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.93260 36.83580)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3393_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near the Sugözü power station Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,89552 36,83069)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.89552 36.83069)"^^geo:wktLiteral .
 

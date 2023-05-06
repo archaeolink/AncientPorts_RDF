@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2688_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gantiadi Monastery at Tsandripsh, between R Khashupse (East) & R Psou (West) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(40,07090 43,37930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(40.07090 43.37930)"^^geo:wktLiteral .
 

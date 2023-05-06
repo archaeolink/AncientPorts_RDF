@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3438_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Al-Mina, Tripoli, with Poidebard's ancient breakwater remains Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,81410 34,45790)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.81410 34.45790)"^^geo:wktLiteral .
 

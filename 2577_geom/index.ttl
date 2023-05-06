@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2577_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kulcuk, Kulchuk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,86396 45,36704)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.86396 45.36704)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1474_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Soline, on the isle of Sveti Klement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,36380 43,16310)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.36380 43.16310)"^^geo:wktLiteral .
 

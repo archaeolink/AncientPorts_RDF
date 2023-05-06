@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3188_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Özbasi, former island now inland Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,42640 Hybanda insula)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.42640 Hybanda insula)"^^geo:wktLiteral .
 

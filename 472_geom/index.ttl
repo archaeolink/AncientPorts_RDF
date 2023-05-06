@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/472_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Colom Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,26506 39,41931)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.26506 39.41931)"^^geo:wktLiteral .
 

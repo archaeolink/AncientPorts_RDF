@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2602_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Chauda Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,83203 45,00824)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.83203 45.00824)"^^geo:wktLiteral .
 

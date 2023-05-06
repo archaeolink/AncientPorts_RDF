@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(32,67400 31,06000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["unlocated between Gerra and Pentaschoinon Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(32.67400 31.06000)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["unlocated between Gerra and Pentaschoinon Geometry"]}

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3863_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vijayadrug Fort? at outlet of R Vaghotan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(73,31000 16,56500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(73.31000 16.56500)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3153_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dalyanköy Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,31260 38,35329)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.31260 38.35329)"^^geo:wktLiteral .
 

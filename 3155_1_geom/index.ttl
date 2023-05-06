@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3155_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Altinkum Pirlanta Sitesi? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,24000 38,26000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.24000 38.26000)"^^geo:wktLiteral .
 

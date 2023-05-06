@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2382_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kizilcaterzi, near Ince burun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,00090 40,57090)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.00090 40.57090)"^^geo:wktLiteral .
 

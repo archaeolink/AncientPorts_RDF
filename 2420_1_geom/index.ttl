@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2420_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Akinti Burnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,04690 41,06760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.04690 41.06760)"^^geo:wktLiteral .
 

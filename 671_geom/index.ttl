@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/671_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Maïre: Callelongue, on the South side of Cap Croisette Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,35238 43,21114)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.35238 43.21114)"^^geo:wktLiteral .
 

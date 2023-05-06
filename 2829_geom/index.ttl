@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2829_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "rocks 250 m NE of the Anadolu Feneri modern lighthouse, near Cape Yom Burnu, but another possible location is Sogan Adasi, 1 km west of R Riva outlet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,15380 41,21930)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.15380 41.21930)"^^geo:wktLiteral .
 

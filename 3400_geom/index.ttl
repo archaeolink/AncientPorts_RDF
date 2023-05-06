@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3400_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Iskenderun, Alexandretta, Indicatte, hypothetical location north of the Technical University, this may also have been the port of Myriandros? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,15000 36,58300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.15000 36.58300)"^^geo:wktLiteral .
 

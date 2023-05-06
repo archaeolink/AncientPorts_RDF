@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3527_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "El-Tor, el-Tur, Tor harbour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,61340 28,23950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.61340 28.23950)"^^geo:wktLiteral .
 

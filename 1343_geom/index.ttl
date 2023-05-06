@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1343_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman tower of Canal de San Felice, near Lio Piccolo, possible lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,45978 45,47473)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.45978 45.47473)"^^geo:wktLiteral .
 

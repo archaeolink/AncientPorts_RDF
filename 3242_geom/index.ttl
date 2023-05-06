@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3242_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Orhaniye, in the bay of Keci Bükü Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,13450 36,76080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.13450 36.76080)"^^geo:wktLiteral .
 

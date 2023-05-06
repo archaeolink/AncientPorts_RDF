@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3264_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sülüngür Gölü near Gökbel? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,66000 36,79200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.66000 36.79200)"^^geo:wktLiteral .
 

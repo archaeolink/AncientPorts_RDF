@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2953_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Georgios bay, on the isle of Dia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,18940 35,44070)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.18940 35.44070)"^^geo:wktLiteral .
 

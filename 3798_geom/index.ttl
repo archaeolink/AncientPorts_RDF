@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3798_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Umm an-Namel, Koweith Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(47,86800 29,38250)"^^geo:wktLiteral .
+    geo:asWKT "POINT(47.86800 29.38250)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/342_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Conil de la Frontera Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,11272 36,27654)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.11272 36.27654)"^^geo:wktLiteral .
 

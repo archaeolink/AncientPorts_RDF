@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2064_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port of Skardhana, on the isle of Dhilos, Delos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,26650 37,40470)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.26650 37.40470)"^^geo:wktLiteral .
 

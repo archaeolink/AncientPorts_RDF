@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2923_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Sostis, Apollo temple at creek on the East side of Cape Gramvousa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,60220 35,59180)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.60220 35.59180)"^^geo:wktLiteral .
 

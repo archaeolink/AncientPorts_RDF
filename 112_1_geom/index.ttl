@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/112_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hillsborough oppidum, near Ilfracombe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,10300 51,21000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.10300 51.21000)"^^geo:wktLiteral .
 

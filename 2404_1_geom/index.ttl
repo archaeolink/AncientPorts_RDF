@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2404_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "west of Mermer Kule, near Golden Gate Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,92020 40,98850)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.92020 40.98850)"^^geo:wktLiteral .
 

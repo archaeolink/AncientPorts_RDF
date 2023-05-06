@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/68_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Higham Marsh, on R Stour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,96740 51,97690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.96740 51.97690)"^^geo:wktLiteral .
 

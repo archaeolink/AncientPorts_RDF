@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3004_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Festos (near Tympaki airport), on R Geropotamos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,81400 35,05130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.81400 35.05130)"^^geo:wktLiteral .
 

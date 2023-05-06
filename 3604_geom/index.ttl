@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3604_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port Sudan, in Marsa Sheikh Barghud, Ptolemy locates Theon Soterum at 30' of latitude north of Evangelon, which corresponds to Port Sudan, on wadi Sugudet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,22748 19,60916)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.22748 19.60916)"^^geo:wktLiteral .
 

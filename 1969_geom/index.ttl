@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1969_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Agia Sotira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,04480 38,03950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.04480 38.03950)"^^geo:wktLiteral .
 

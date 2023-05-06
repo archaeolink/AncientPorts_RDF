@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1853_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alexandroupoli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,87890 40,84490)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.87890 40.84490)"^^geo:wktLiteral .
 

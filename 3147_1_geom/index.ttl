@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3147_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Buyuk Ada, in front of Karaburun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,51550 38,65890)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.51550 38.65890)"^^geo:wktLiteral .
 

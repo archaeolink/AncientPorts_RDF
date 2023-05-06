@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/593_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Le Chatelet, near Saint Agnant, on marais de Brouage, and several other villas between this one and Port des Barques Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,93230 45,85770)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.93230 45.85770)"^^geo:wktLiteral .
 

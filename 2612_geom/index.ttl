@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2612_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Zukovka Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,61560 45,36900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.61560 45.36900)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/238_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Coimbra, on R Mondego Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,42977 40,20527)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.42977 40.20527)"^^geo:wktLiteral .
 

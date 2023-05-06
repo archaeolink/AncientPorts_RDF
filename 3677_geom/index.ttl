@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3677_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Al-Hassani island? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,08500 24,97000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.08500 24.97000)"^^geo:wktLiteral .
 

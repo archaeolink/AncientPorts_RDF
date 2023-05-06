@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2230_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Koukounaries, on the isle of Skiathos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,39951 39,15056)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.39951 39.15056)"^^geo:wktLiteral .
 

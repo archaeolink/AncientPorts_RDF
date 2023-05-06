@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3293_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Yaglica Köyü, refuge shelter before sailing west around cape Uluburun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,69500 36,14700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.69500 36.14700)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/105_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Black Head oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,75440 50,29940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.75440 50.29940)"^^geo:wktLiteral .
 

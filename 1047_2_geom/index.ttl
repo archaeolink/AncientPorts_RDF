@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1047_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Scoglio Galera, near Torre Sant'Irene Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,99940 38,72540)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.99940 38.72540)"^^geo:wktLiteral .
 

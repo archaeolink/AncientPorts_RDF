@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2594_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Yalta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,18500 44,49670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.18500 44.49670)"^^geo:wktLiteral .
 

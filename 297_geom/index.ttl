@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/297_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quinta do Marim, Quelfes, near Olhao Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,81212 37,03345)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.81212 37.03345)"^^geo:wktLiteral .
 

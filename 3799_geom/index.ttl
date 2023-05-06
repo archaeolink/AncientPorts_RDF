@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3799_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nahdain, Subiyah, Koweith Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(47,93320 29,64970)"^^geo:wktLiteral .
+    geo:asWKT "POINT(47.93320 29.64970)"^^geo:wktLiteral .
 

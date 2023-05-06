@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/804_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cala Gavetta, on Isla La Maddalena Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,40402 41,21205)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.40402 41.21205)"^^geo:wktLiteral .
 

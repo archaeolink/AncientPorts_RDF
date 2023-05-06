@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/954_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Circeo, with several Roman villas, with canal outlet on R Torto Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,10520 41,24050)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.10520 41.24050)"^^geo:wktLiteral .
 

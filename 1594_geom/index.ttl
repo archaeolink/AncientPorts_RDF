@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1594_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monastiraki, near Efpalio Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,94210 38,40640)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.94210 38.40640)"^^geo:wktLiteral .
 

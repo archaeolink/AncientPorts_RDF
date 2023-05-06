@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/753_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Olbia, Porto Romano Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,50310 40,92750)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.50310 40.92750)"^^geo:wktLiteral .
 

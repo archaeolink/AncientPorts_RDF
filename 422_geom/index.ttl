@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/422_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near l’Ampola? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,72689 40,80449)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.72689 40.80449)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3520_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Suez, Qulzum, el-Gismel, on the Gulf of Suez Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,55630 29,97940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.55630 29.97940)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/395_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nueva Tabarca island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,47907 38,16679)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.47907 38.16679)"^^geo:wktLiteral .
 

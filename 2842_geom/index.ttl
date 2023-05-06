@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2842_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kücüksu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,06340 41,07700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.06340 41.07700)"^^geo:wktLiteral .
 

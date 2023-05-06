@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/156_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Beckfoot Roman fort, near Beckfoot, on the Firth of Solway Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,41861 54,82610)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.41861 54.82610)"^^geo:wktLiteral .
 

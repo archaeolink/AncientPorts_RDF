@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2333_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Germatos near Plimiri, on the isle of Rhodes  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,83871 35,91407)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.83871 35.91407)"^^geo:wktLiteral .
 

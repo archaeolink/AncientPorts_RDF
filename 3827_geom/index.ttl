@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3827_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lavan island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(53,27594 26,80248)"^^geo:wktLiteral .
+    geo:asWKT "POINT(53.27594 26.80248)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2849_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "isle of Kiz Kulezi (Maiden's Tower), near Üsküdar, with ancient lighthouse Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,00420 41,02110)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.00420 41.02110)"^^geo:wktLiteral .
 

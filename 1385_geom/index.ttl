@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1385_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Medulin, with submerged BA settlement near Cape Kasteja Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,93045 44,81621)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.93045 44.81621)"^^geo:wktLiteral .
 

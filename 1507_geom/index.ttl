@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1507_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Risan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,69048 42,51140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.69048 42.51140)"^^geo:wktLiteral .
 

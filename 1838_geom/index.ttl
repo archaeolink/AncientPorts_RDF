@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1838_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kalamitsa? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,38686 40,92133)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.38686 40.92133)"^^geo:wktLiteral .
 

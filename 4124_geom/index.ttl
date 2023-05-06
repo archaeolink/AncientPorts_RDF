@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4124_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bir Flaguess 2.5 km SW of the TRAPSA oil terminal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,11960 34,31017)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.11960 34.31017)"^^geo:wktLiteral .
 

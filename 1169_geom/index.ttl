@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1169_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Selinonte east, on R Cottone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,82500 37,58300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.82500 37.58300)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2138_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Emborio, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,39250 36,70990)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.39250 36.70990)"^^geo:wktLiteral .
 

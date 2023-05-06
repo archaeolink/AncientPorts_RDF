@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1402_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Krk, on the isle of Krk Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,57808 45,02599)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.57808 45.02599)"^^geo:wktLiteral .
 

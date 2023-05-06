@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2894_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Turan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,78467 40,51414)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.78467 40.51414)"^^geo:wktLiteral .
 

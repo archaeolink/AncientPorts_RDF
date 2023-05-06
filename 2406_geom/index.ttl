@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2406_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Yenikapi, discovered in 2004, with Neolithic settlement, at ancient outlet of R Bayrampasa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,95180 41,00600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.95180 41.00600)"^^geo:wktLiteral .
 

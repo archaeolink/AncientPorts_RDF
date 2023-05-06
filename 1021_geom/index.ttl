@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1021_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Capaccio-Paestum, possibly near Torre di Paestum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,99200 40,41500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.99200 40.41500)"^^geo:wktLiteral .
 

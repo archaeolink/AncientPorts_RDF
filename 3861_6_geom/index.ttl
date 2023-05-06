@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3861_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Somnath, Prabhas Patan, on Triveni Mahasangam creek, on R Hiran Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(70,41300 20,88200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(70.41300 20.88200)"^^geo:wktLiteral .
 

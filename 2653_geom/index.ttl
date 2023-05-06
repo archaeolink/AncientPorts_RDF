@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2653_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Golubitskoye Gorodishche, on R Kuban Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,27830 45,33421)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.27830 45.33421)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2351_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arkasa, on the isle of Carpathos, Karpathos, Kerpe Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,10970 35,47600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.10970 35.47600)"^^geo:wktLiteral .
 

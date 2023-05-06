@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/817_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Diano Marina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,08590 43,90680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.08590 43.90680)"^^geo:wktLiteral .
 

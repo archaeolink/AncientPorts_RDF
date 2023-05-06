@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3861_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Meda creek, possibly in front of Harshad Mata temple, near Miyani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(69,37300 21,83900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(69.37300 21.83900)"^^geo:wktLiteral .
 

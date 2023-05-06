@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/18_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Elst-'t Spijk, on R Rijn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,47450 51,98800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.47450 51.98800)"^^geo:wktLiteral .
 

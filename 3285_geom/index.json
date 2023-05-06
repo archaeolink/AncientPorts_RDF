@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(29,13430 36,42960)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Sancakli K\u00f6y\u00fc, or Gavur Kalesi? Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(29.13430 36.42960)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Sancakli K\u00f6y\u00fc, or Gavur Kalesi? Geometry"]}

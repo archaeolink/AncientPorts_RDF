@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/525_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Rouen, on R Seine, Opera metro station, on R Seine Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,08920 49,43960)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.08920 49.43960)"^^geo:wktLiteral .
 

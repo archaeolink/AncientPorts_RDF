@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(25,86474 35,18581)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["East bay, on the isle of Psira  Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(25.86474 35.18581)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["East bay, on the isle of Psira  Geometry"]}

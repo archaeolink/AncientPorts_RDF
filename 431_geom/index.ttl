@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/431_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Calafell Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,58070 41,19040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.58070 41.19040)"^^geo:wktLiteral .
 

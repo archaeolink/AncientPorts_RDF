@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-4,28070 48,11790)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Kervel, near Plonevez-Porzay, large fish processing factory Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-4.28070 48.11790)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Kervel, near Plonevez-Porzay, large fish processing factory Geometry"]}

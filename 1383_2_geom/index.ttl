@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1383_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa on Platana bay at Banjole Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,86800 44,81920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.86800 44.81920)"^^geo:wktLiteral .
 

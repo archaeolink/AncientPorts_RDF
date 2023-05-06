@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3721_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tohen, Tooxin? where no shelter is found today due to sedimentation, but close enough of cape Gardafui to fit PME's description, 8 km north of mighty Ras Shenarif, Chenarif, Shannaqiif Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(51,25500 11,74700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(51.25500 11.74700)"^^geo:wktLiteral .
 

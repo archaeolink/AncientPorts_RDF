@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3846_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Jiwani, inside Guttar, Gwatar bay, near outlet of R Dasht Kaur (Marcian erroneously places Carmina insula in this area) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(61,73400 25,05400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(61.73400 25.05400)"^^geo:wktLiteral .
 

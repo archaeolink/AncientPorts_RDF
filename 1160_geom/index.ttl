@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1160_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Spiaggia di Malerba: port of Castellazzo di Palma di Montechiaro and Narasette? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,78002 37,14449)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.78002 37.14449)"^^geo:wktLiteral .
 

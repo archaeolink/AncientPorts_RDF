@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/593_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman winery at Les Chapelles, near Port des Barques Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,08200 45,95000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.08200 45.95000)"^^geo:wktLiteral .
 

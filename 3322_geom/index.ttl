@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3322_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lara, Muratpasa? with submerged breakwaters? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,79750 36,84700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.79750 36.84700)"^^geo:wktLiteral .
 

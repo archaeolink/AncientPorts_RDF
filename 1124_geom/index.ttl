@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1124_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Punta Castelluccio  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,13283 37,31001)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.13283 37.31001)"^^geo:wktLiteral .
 

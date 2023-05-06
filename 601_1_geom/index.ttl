@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/601_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Estey d'Un at Mapon, port of Brion Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,76490 45,27620)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.76490 45.27620)"^^geo:wktLiteral .
 

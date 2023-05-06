@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3975_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa Murayghah? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,13516 31,70958)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.13516 31.70958)"^^geo:wktLiteral .
 

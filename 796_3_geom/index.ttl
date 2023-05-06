@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/796_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Torres, quarry at Scoglio Lungo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,40890 40,83890)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.40890 40.83890)"^^geo:wktLiteral .
 

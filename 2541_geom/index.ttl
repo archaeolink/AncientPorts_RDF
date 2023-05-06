@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2541_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Odessa, Prymorskyi Boulevard Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,74100 46,48800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.74100 46.48800)"^^geo:wktLiteral .
 

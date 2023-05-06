@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/976_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Baia di Cartaromana, on the isle of Ischia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,96050 40,72910)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.96050 40.72910)"^^geo:wktLiteral .
 

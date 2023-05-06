@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3664_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Shoaiba, ancient port of Mecca, Makka, La Mecque Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,48940 20,72860)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.48940 20.72860)"^^geo:wktLiteral .
 

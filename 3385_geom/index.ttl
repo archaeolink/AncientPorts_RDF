@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3385_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Karatas Fener Burnu, according to Arnaud Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,33220 36,55030)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.33220 36.55030)"^^geo:wktLiteral .
 

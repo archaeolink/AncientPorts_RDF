@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1007_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Marina di Puolo, at Punta della Calcarella Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,34840 40,62940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.34840 40.62940)"^^geo:wktLiteral .
 

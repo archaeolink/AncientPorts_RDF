@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2330_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ampelia near Glystra, on the isle of Rhodes  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,99872 36,06418)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.99872 36.06418)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2737_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gülburnu, near Espiye, near Uluburnu and Camburnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,65430 40,96270)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.65430 40.96270)"^^geo:wktLiteral .
 

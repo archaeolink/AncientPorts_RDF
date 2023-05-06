@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/124_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "The Knave oppidum, Deborah's Hole Camp Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,26350 51,55450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.26350 51.55450)"^^geo:wktLiteral .
 

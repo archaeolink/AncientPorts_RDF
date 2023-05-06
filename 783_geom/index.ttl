@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/783_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Pauli Putzu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,60514 39,72744)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.60514 39.72744)"^^geo:wktLiteral .
 

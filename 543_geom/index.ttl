@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/543_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Portbail  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,72776 49,31539)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.72776 49.31539)"^^geo:wktLiteral .
 

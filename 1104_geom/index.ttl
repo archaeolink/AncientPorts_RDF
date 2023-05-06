@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1104_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Torre Ovo  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,50013 40,30372)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.50013 40.30372)"^^geo:wktLiteral .
 

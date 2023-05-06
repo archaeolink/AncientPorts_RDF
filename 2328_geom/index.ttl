@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2328_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "East coast of the isle of Rhodes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,08830 36,09130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.08830 36.09130)"^^geo:wktLiteral .
 

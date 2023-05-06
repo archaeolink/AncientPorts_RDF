@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/814_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa di Bussana, near Sanremo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,83858 43,82099)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.83858 43.82099)"^^geo:wktLiteral .
 

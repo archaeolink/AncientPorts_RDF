@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/463_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Formentor-Pollensa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,09102 39,90728)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.09102 39.90728)"^^geo:wktLiteral .
 

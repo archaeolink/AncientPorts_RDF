@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1620_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Elefsina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,53720 38,04120)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.53720 38.04120)"^^geo:wktLiteral .
 

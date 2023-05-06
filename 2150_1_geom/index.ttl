@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2150_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pyrgi tower at Kammeni Langada, on the isle of Anafi, Anafiye Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,74080 36,35020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.74080 36.35020)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1739_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Soros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,93030 39,31310)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.93030 39.31310)"^^geo:wktLiteral .
 

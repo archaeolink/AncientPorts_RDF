@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/239_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Conimbriga, with port possibly near ancient bridge on R dos Mouros, R Ega Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,50290 40,09770)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.50290 40.09770)"^^geo:wktLiteral .
 

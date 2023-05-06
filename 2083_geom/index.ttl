@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2083_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Antiparos, on the isle of Antiparos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,09131 37,04465)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.09131 37.04465)"^^geo:wktLiteral .
 

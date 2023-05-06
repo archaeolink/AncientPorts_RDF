@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3484_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Athlit, Atlit, with ancient lighthouse(s) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,93485 32,70715)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.93485 32.70715)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3827_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Bandar-e Nakhilu? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(53,45000 26,92000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(53.45000 26.92000)"^^geo:wktLiteral .
 

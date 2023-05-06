@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/973_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castel Volturno, on R Volturno Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,92000 41,01860)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.92000 41.01860)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2023_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kalogeros, Gerakas, near Vassilikos, on the Isle of Zakinthos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,99220 37,71600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.99220 37.71600)"^^geo:wktLiteral .
 

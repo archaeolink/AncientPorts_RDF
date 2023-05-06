@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/956_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fondi, with possible connections to the sea via Lago di Fondi and Canale Canneto and Cannale Sant’Anastasia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,42926 41,35738)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.42926 41.35738)"^^geo:wktLiteral .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-2,76225 47,62647)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Porte Saint Patern, Vannes, capital city of the Venetes Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-2.76225 47.62647)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Porte Saint Patern, Vannes, capital city of the Venetes Geometry"]}

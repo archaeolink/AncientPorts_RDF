@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/370_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman kilns at La Canada de Vargas, near El Maraute, at Torrenueva Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,48770 36,70790)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.48770 36.70790)"^^geo:wktLiteral .
 

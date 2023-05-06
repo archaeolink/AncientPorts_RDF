@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3713_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Unguja Ukuu Kaepwani, on Unguja island (Zanzibar) ; note that Ptolemy means Madagascar when speaking about Menuthias insula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,37330 -6,31840)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.37330 -6.31840)"^^geo:wktLiteral .
 

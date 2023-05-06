@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/315_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "El Carambolo  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,03956 37,39209)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.03956 37.39209)"^^geo:wktLiteral .
 

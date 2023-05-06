@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3672_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sharm Burayqah, Buraykah, 'al-Jar' Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,53400 23,63180)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.53400 23.63180)"^^geo:wktLiteral .
 

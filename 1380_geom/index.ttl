@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1380_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa with amphora kiln, Dobriga, Val Madona, near Kolci hill, on the isles of Brioni, Brijuni Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,75560 44,90940)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.75560 44.90940)"^^geo:wktLiteral .
 

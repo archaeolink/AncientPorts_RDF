@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2848_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Area between Yeni Valide Mosque and Mihrimah Mosque at Üsküdar, at outlet of former rivers R Cavus and R Bülbül Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,01550 41,02590)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.01550 41.02590)"^^geo:wktLiteral .
 

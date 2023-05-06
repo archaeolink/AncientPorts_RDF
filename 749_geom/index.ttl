@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/749_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nonza Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,34300 42,78628)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.34300 42.78628)"^^geo:wktLiteral .
 

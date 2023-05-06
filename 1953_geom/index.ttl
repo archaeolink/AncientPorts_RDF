@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1953_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kamenitsa, Kaminia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,62000 38,14790)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.62000 38.14790)"^^geo:wktLiteral .
 

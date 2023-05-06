@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3019_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pikilassos, on R Trypiti, Tripiti Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,86600 35,24250)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.86600 35.24250)"^^geo:wktLiteral .
 

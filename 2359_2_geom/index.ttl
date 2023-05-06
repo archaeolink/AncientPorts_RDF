@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2359_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Enez, possible west harbour Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,07826 40,72353)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.07826 40.72353)"^^geo:wktLiteral .
 

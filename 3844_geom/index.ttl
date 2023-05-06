@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3844_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kushat? Arrian mentions anchoring in front of a beach with heavy surf ; Marcian mentions a port, presumably Pasabandar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(61,34600 25,06700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(61.34600 25.06700)"^^geo:wktLiteral .
 

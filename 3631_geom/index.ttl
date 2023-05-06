@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3631_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Dumeira at Rahayta? Ptolemy locates Arsinoe at 20’ of latitude south of Dire, which corresponds to the lagoon of Godoria on the North coast of Djibouti near 12°09’ of latitude. He nevertheless mentions it north of Dire on his list, as does Strabo … which makes some authors think the site is at Ras Dumeira. Monfreid's Raheita Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(43,13050 12,71110)"^^geo:wktLiteral .
+    geo:asWKT "POINT(43.13050 12.71110)"^^geo:wktLiteral .
 

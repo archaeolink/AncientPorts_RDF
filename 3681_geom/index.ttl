@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3681_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Qusayr, Qassir, on wadi al-Hamd Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,75430 25,95400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.75430 25.95400)"^^geo:wktLiteral .
 

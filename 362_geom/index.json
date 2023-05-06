@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-4,46400 36,67200)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cerro del Villar, on estuary of R Guadalorce Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-4.46400 36.67200)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cerro del Villar, on estuary of R Guadalorce Geometry"]}

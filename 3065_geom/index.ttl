@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3065_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Episkopi Phaneromeni, near R Lykos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,88358 34,66034)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.88358 34.66034)"^^geo:wktLiteral .
 

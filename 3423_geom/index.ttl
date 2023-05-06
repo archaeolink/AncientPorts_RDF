@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3423_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Baniyas, Banyas, Burj al-Sabyi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,92790 35,15350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.92790 35.15350)"^^geo:wktLiteral .
 

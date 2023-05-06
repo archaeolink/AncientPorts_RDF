@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2339_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Batoklia, on the isle of Rhodes  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,72394 36,17105)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.72394 36.17105)"^^geo:wktLiteral .
 

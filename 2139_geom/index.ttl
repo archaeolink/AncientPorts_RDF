@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2139_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry at Ribari, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,40440 36,70160)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.40440 36.70160)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3629_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Assab? Near wadi Arsile, Harsile Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(42,75543 12,97338)"^^geo:wktLiteral .
+    geo:asWKT "POINT(42.75543 12.97338)"^^geo:wktLiteral .
 

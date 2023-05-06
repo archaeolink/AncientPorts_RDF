@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1828_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Olympias, from the name of Kafkanas, Kapros islet which has a boar's shape Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,78600 40,59200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.78600 40.59200)"^^geo:wktLiteral .
 

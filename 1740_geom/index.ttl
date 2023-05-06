@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1740_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aivaliotika Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,91080 39,34768)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.91080 39.34768)"^^geo:wktLiteral .
 

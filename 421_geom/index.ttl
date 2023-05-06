@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/421_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "R Ebro navigable over 200 km  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,86223 40,76499)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.86223 40.76499)"^^geo:wktLiteral .
 

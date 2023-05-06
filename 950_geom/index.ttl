@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/950_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lago di Fogliano, near Latina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,86842 41,40192)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.86842 41.40192)"^^geo:wktLiteral .
 

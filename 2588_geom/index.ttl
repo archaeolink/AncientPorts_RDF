@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2588_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman naval base, near Karantynna Bay, La Quarantaine, with very large fish processing factory Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,49140 44,61000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.49140 44.61000)"^^geo:wktLiteral .
 

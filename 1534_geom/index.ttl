@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1534_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Diaporit Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,05126 39,76038)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.05126 39.76038)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1047_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Punta di Zambrone Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,97180 38,71350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.97180 38.71350)"^^geo:wktLiteral .
 

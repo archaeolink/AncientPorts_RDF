@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3510_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell es-Sakan, near  on wadi Gaza, Ghazzeh Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,40490 31,47480)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.40490 31.47480)"^^geo:wktLiteral .
 

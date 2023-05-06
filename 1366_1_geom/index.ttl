@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1366_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Katoro, Tiola Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,51040 45,45760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.51040 45.45760)"^^geo:wktLiteral .
 

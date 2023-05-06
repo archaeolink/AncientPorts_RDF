@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1873_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Nektarios, near Bay of Vagionia on the isle of Poros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,48393 37,53154)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.48393 37.53154)"^^geo:wktLiteral .
 

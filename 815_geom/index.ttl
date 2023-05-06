@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/815_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Riva Ligure, on R Taggia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,86910 43,83037)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.86910 43.83037)"^^geo:wktLiteral .
 

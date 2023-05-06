@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3857_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "anchorage in open sea in front of the shore, possibly near Naka Kharari? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(66,70000 25,23000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(66.70000 25.23000)"^^geo:wktLiteral .
 

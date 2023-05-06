@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/105_5_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "The Dodman oppidum, near Gorran Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,80300 50,22200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.80300 50.22200)"^^geo:wktLiteral .
 

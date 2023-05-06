@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1881_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Portocheli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,15186 37,31600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.15186 37.31600)"^^geo:wktLiteral .
 

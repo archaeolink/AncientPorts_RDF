@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3804_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell al-Hiba Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(46,40720 31,41120)"^^geo:wktLiteral .
+    geo:asWKT "POINT(46.40720 31.41120)"^^geo:wktLiteral .
 

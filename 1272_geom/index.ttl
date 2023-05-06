@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1272_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Agnuli, near Mattinata Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,07457 41,70648)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.07457 41.70648)"^^geo:wktLiteral .
 

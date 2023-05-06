@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2898_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port Marmara, on the isle of Marmara Adasi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,55750 40,58225)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.55750 40.58225)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4107_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Rhizene, near Houmt Souk, on the isle of Djerba Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,92133 33,88172)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.92133 33.88172)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/659_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Les Aymards-Couperigne, near Marignane Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(5,22700 43,43300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(5.22700 43.43300)"^^geo:wktLiteral .
 

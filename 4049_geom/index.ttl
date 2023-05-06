@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4049_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "about 11 km NW of the Ras Lanuf oil terminal Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,47660 30,56240)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.47660 30.56240)"^^geo:wktLiteral .
 

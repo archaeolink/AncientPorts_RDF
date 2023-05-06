@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1989_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "north of Karyotes, west of Levkas canal, on the isle of Lefkada, with ancient port possibly located in the marshes west of Forti island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,71700 38,81000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.71700 38.81000)"^^geo:wktLiteral .
 

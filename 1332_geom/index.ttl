@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1332_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Menai, south of Mira Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,13381 45,41901)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.13381 45.41901)"^^geo:wktLiteral .
 

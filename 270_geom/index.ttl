@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/270_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pessegueiro island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,78600 37,72140)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.78600 37.72140)"^^geo:wktLiteral .
 

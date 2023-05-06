@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1015_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Amalfi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,60290 40,62935)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.60290 40.62935)"^^geo:wktLiteral .
 

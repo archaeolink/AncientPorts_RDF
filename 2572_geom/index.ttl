@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2572_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kipchak bay, port of Kastel Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,59140 45,48120)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.59140 45.48120)"^^geo:wktLiteral .
 

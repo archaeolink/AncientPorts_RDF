@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1048_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tropea Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,90871 38,68375)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.90871 38.68375)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3682_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sharm Habban Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(36,57216 26,06742)"^^geo:wktLiteral .
+    geo:asWKT "POINT(36.57216 26.06742)"^^geo:wktLiteral .
 

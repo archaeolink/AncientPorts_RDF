@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2518_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chilia Vecche, on Pardina/Tatanir & Matita/Merhei lakes Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,28460 45,42390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.28460 45.42390)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2814_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alapli on R Alapli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,37582 41,18204)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.37582 41.18204)"^^geo:wktLiteral .
 

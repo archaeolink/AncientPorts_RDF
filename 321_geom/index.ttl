@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/321_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Las Torres de Alocaz, Las Cabezas de San Juan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,83008 36,98871)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.83008 36.98871)"^^geo:wktLiteral .
 

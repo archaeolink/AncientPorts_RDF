@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2262_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nagos, on the isle of Chios Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,08000 38,55800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.08000 38.55800)"^^geo:wktLiteral .
 

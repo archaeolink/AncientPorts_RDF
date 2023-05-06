@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/331_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Fuentebravia, with fish processing factories at Las Redes & Puerto 19 Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,30200 36,61300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.30200 36.61300)"^^geo:wktLiteral .
 

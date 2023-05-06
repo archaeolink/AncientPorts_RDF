@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1267_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Masseria Cupola  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,83780 41,51900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.83780 41.51900)"^^geo:wktLiteral .
 

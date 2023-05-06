@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(36,65100 22,24700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Marsa Halaib, Halayeb, in front of Geziret Hala'ib Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(36.65100 22.24700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Marsa Halaib, Halayeb, in front of Geziret Hala'ib Geometry"]}

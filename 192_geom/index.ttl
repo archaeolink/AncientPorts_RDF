@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/192_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Coido de Bares Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,66862 43,77166)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.66862 43.77166)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/371_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cerro de Montecristo, Adra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,00750 36,75040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.00750 36.75040)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3115_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Akcay, Magara Tepe, on R Zeytinli Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,92810 39,58510)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.92810 39.58510)"^^geo:wktLiteral .
 

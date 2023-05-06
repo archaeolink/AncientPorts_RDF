@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(39,21670 41,06950)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cesme\u00f6n\u00fc Kalesi, near Besikd\u00fcz\u00fc Liman Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(39.21670 41.06950)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Cesme\u00f6n\u00fc Kalesi, near Besikd\u00fcz\u00fc Liman Geometry"]}

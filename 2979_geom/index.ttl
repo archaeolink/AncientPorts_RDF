@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2979_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Sidero, but Uggeri claims it could be at Tenta bay & beach, 3.5 km SSW of this place Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,31140 35,31400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.31140 35.31400)"^^geo:wktLiteral .
 

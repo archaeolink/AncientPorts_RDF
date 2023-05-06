@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2545_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kosharskoye, Koshary, on Tiligulskii Liman Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,15550 46,63280)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.15550 46.63280)"^^geo:wktLiteral .
 

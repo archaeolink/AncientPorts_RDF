@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3815_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bardak-Siah Palace, on R Dalaki, near Borazjan, inland palace mentioned by Arrian Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(51,10960 29,35410)"^^geo:wktLiteral .
+    geo:asWKT "POINT(51.10960 29.35410)"^^geo:wktLiteral .
 

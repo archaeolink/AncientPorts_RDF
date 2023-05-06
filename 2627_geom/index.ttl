@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2627_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Shyrokine, east of Marioupol Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,82100 47,08600)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.82100 47.08600)"^^geo:wktLiteral .
 

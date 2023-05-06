@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2182_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agia Sophia tower Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,34590 39,83000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.34590 39.83000)"^^geo:wktLiteral .
 

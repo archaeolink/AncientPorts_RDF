@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1993_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Poros, above Mikros Gyalos on Rouda Bay, on the isle of Lefkada Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,70780 38,63720)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.70780 38.63720)"^^geo:wktLiteral .
 

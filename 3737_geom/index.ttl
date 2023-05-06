@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3737_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Guinni Koma, ile du Diable, inside Ghoubbet el-Karab, Monfreid's Gubet Karab Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(42,52355 11,53276)"^^geo:wktLiteral .
+    geo:asWKT "POINT(42.52355 11.53276)"^^geo:wktLiteral .
 

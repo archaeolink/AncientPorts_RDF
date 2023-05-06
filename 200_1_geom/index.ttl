@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/200_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Centrona, on Ria de Ares Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,19359 43,40965)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.19359 43.40965)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1420_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nin, near Zaton Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,18120 44,24450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.18120 44.24450)"^^geo:wktLiteral .
 

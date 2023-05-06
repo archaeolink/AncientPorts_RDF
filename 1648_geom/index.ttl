@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1648_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Prasies, with Roman fort at Koroni Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,04181 37,86437)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.04181 37.86437)"^^geo:wktLiteral .
 

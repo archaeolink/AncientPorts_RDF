@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/796_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Torres, outlet of R Mannu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(8,39180 40,83680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(8.39180 40.83680)"^^geo:wktLiteral .
 

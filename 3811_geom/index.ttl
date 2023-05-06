@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3811_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "submerged city, on R Zoreh, R Hendiyan, R Tab, or on an ancient eastward course of R Karun Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(49,46451 30,04969)"^^geo:wktLiteral .
+    geo:asWKT "POINT(49.46451 30.04969)"^^geo:wktLiteral .
 

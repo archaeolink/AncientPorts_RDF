@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2966_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Nikolaos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,71741 35,19043)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.71741 35.19043)"^^geo:wktLiteral .
 

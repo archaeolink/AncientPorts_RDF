@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1791_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Posidi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,38300 39,96290)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.38300 39.96290)"^^geo:wktLiteral .
 

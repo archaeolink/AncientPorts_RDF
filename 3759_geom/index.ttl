@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3759_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Salalah, al-Baleed, al-Balid Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(54,13450 17,00680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(54.13450 17.00680)"^^geo:wktLiteral .
 

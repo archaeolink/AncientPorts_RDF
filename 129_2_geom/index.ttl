@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/129_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Pen Llwyn, Dyfed, on R Rheidol Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,98560 52,40700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.98560 52.40700)"^^geo:wktLiteral .
 

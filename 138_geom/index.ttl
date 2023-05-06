@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/138_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Caer Gybi Roman fort Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,63246 53,31138)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.63246 53.31138)"^^geo:wktLiteral .
 

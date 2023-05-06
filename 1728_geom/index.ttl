@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1728_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ormos Vathikelon Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,94017 38,94090)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.94017 38.94090)"^^geo:wktLiteral .
 

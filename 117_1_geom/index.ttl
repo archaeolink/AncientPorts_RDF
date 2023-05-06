@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/117_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stokeleigh Camp oppidum, on R Avon Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,63600 51,45660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.63600 51.45660)"^^geo:wktLiteral .
 

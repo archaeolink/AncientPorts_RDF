@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/164_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Glenluce Roman camp, near R Luce Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,81846 54,87664)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.81846 54.87664)"^^geo:wktLiteral .
 

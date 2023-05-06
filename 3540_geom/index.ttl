@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3540_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ras Abu Soma Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,97852 26,84545)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.97852 26.84545)"^^geo:wktLiteral .
 

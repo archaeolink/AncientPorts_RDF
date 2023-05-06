@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2129_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Ioannes, on the isle of Milos, Melos, Degirmenlik  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,53625 36,73924)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.53625 36.73924)"^^geo:wktLiteral .
 

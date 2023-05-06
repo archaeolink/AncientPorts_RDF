@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(28,93700 41,04700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Ey\u00fcp, in the Golden Horn Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(28.93700 41.04700)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Ey\u00fcp, in the Golden Horn Geometry"]}

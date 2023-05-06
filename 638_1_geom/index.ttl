@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/638_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Les Aires de Saint-Jacques, near Maugio, near R Capouillère Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,02100 43,60980)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.02100 43.60980)"^^geo:wktLiteral .
 

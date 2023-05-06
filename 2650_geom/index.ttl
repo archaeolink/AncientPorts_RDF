@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2650_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Krasnyy October, Red October, west of Slavyansk-na-Kubani, on R Kuban Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(37,66600 45,19400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(37.66600 45.19400)"^^geo:wktLiteral .
 

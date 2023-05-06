@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/419_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "unlocated at outlet of R Ebro, perhaps Roman villa at Carrova, near Amposta? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,56160 40,74205)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.56160 40.74205)"^^geo:wktLiteral .
 

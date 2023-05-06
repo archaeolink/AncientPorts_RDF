@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1948_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Athanasios, near Kourouta Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(21,29122 37,77805)"^^geo:wktLiteral .
+    geo:asWKT "POINT(21.29122 37.77805)"^^geo:wktLiteral .
 

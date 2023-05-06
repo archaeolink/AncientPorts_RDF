@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/390_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "La Mata, at Torrevieja Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,65023 38,02913)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.65023 38.02913)"^^geo:wktLiteral .
 

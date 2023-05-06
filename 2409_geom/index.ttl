@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2409_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bukoleon Sarayi, probably built by Justinian I in the 6th century, beneath the Palace of Bucoleon built by Theodosius II in the 5th century Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,97630 41,00235)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.97630 41.00235)"^^geo:wktLiteral .
 

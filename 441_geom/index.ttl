@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/441_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tossa de Mar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,93783 41,71811)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.93783 41.71811)"^^geo:wktLiteral .
 

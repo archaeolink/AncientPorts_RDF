@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/128_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "St Nicholas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,05840 51,97800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.05840 51.97800)"^^geo:wktLiteral .
 

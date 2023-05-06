@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2030_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Slipway in the Bay of Potamos, near Kastro, on the isle of Anticythera Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,29438 35,88912)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.29438 35.88912)"^^geo:wktLiteral .
 

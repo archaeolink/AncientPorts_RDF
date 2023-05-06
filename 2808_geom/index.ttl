@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2808_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Alacaagzi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,54251 41,36536)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.54251 41.36536)"^^geo:wktLiteral .
 

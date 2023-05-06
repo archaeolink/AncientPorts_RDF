@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1185_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cala Santa Maria, on the island di Ustica Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,19570 38,70820)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.19570 38.70820)"^^geo:wktLiteral .
 

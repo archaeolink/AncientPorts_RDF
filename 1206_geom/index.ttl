@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1206_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto Vulcano, on the isle of Vulcano Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,96645 38,41636)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.96645 38.41636)"^^geo:wktLiteral .
 

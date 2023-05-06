@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3885_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Qantir, port is north of village, famous stables are south Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(31,83486 30,80632)"^^geo:wktLiteral .
+    geo:asWKT "POINT(31.83486 30.80632)"^^geo:wktLiteral .
 

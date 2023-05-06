@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3058_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Amathus, 10 km east of Limassol Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,14389 34,70958)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.14389 34.70958)"^^geo:wktLiteral .
 

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27,69490 36,73120)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Datca, Burgaz, 2 southern harbour basins (L2 & L3) Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(27.69490 36.73120)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Datca, Burgaz, 2 southern harbour basins (L2 & L3) Geometry"]}

@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-3,79470 43,41830)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["La Campanuca, isla de Oleo, near Pontejos Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-3.79470 43.41830)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["La Campanuca, isla de Oleo, near Pontejos Geometry"]}

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1502_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sipanska Luka, on the isle of Sipan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,86100 42,72800)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.86100 42.72800)"^^geo:wktLiteral .
 

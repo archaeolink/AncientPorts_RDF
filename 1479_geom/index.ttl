@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1479_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "probably Isle of Scedro, near Hvar, but might also be the Isle of Sipan near Dubrovnik Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,70416 43,08777)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.70416 43.08777)"^^geo:wktLiteral .
 

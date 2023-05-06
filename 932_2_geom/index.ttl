@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/932_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Grotta di Piastra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,35960 41,70330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.35960 41.70330)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2974_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Liopetro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,01500 35,21300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.01500 35.21300)"^^geo:wktLiteral .
 

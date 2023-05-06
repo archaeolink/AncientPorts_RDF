@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3488_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dor, Dora, Tantura lagoon, with many stone anchors Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,91540 32,60870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.91540 32.60870)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2928_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Vlikhades cove, near Cape Choironissi, on Rodopou peninsula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,76830 35,63330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.76830 35.63330)"^^geo:wktLiteral .
 

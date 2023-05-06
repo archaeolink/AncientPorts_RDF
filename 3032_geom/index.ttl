@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3032_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Altinkum plaji, Golden beach? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,53500 35,63700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.53500 35.63700)"^^geo:wktLiteral .
 

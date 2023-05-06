@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1026_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Scoglio del Coniglio? With good anchorage on the coast Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,29466 40,02679)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.29466 40.02679)"^^geo:wktLiteral .
 

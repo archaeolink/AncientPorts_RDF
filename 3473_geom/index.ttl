@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3473_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "at Lebanon-Israel border Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,10012 33,08214)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.10012 33.08214)"^^geo:wktLiteral .
 

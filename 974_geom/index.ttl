@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/974_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lago di Patria Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,02990 40,92133)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.02990 40.92133)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Aukra, on the isle of Gossa, with hundreds of Mesolithic coastal settlements in Central Norway Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,87620 62,82000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.87620 62.82000)"^^geo:wktLiteral .
 

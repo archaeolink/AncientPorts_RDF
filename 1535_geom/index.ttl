@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1535_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kalivo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,04190 39,75313)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.04190 39.75313)"^^geo:wktLiteral .
 

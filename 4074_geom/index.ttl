@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4074_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marsa at Tabiya, outlet of wadi Khaane, Kaam, Oukirre Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,44746 32,53194)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.44746 32.53194)"^^geo:wktLiteral .
 

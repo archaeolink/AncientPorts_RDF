@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/156_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Skinburness, on the Firth of Solway Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,36190 54,89000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.36190 54.89000)"^^geo:wktLiteral .
 

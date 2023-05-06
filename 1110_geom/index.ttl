@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1110_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Santa Maria di Leuca, near Punta Ristola Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(18,36268 39,79216)"^^geo:wktLiteral .
+    geo:asWKT "POINT(18.36268 39.79216)"^^geo:wktLiteral .
 

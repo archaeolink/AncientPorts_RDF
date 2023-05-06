@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3862_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ghogha, Gundigar, on Saurashtra peninsula, west of Piram Bet island, in Gulf of Khambhat Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(72,28200 21,69000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(72.28200 21.69000)"^^geo:wktLiteral .
 

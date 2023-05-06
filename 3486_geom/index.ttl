@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3486_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Dor, Dora, with several stone anchors Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,91910 32,62380)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.91910 32.62380)"^^geo:wktLiteral .
 

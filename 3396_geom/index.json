@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(36,16900 36,83090)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["near D\u00f6rtyol, outlet of R Deli Cay Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(36.16900 36.83090)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["near D\u00f6rtyol, outlet of R Deli Cay Geometry"]}

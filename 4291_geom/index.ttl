@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4291_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Los Castillejos, on wadi Fnideq, possible fish processing factory Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,35539 35,84619)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.35539 35.84619)"^^geo:wktLiteral .
 

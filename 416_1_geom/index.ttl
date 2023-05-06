@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/416_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Peniscola, probably an ancient island strikingly similar to Tyre Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,40730 40,35770)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.40730 40.35770)"^^geo:wktLiteral .
 

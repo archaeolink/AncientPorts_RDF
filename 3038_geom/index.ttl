@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3038_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Engomi, on R Pedieos, R Gialias, now inland Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,87000 35,16570)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.87000 35.16570)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2359_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hoça Cesme Neolithic settlement, near Enez Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,10330 40,71760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.10330 40.71760)"^^geo:wktLiteral .
 

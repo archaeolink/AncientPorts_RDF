@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/288_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monte da Vinha, Vinha do Casao Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,12530 37,09220)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.12530 37.09220)"^^geo:wktLiteral .
 

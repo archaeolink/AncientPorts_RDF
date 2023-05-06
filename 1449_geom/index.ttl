@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1449_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Veli Porat, near Luka Drvenik, on the isle of Drvenik Veli  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,14421 43,45020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.14421 43.45020)"^^geo:wktLiteral .
 

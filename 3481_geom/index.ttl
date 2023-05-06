@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3481_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Shiqmona, Haïfa West Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,95550 32,82450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.95550 32.82450)"^^geo:wktLiteral .
 

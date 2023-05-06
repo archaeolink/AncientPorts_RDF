@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/900_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Darsena Romana in the port of Civitavecchia, and its Torre del Lazzaretto and its Torre del Bicchiere Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(11,78781 42,09506)"^^geo:wktLiteral .
+    geo:asWKT "POINT(11.78781 42.09506)"^^geo:wktLiteral .
 

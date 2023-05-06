@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1844_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Avdira, in Thrace, at Agios Giannis Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,98840 40,93550)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.98840 40.93550)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/58_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Trinity Burial Ground, Hull, on R Humber Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,34250 53,74040)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.34250 53.74040)"^^geo:wktLiteral .
 

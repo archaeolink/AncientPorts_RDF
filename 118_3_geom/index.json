@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-2,67420 51,63100)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Bulwarks Camp oppidum, on R Wye Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-2.67420 51.63100)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Bulwarks Camp oppidum, on R Wye Geometry"]}

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2157_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Thassos, Limenas, Limenaria, on the North coast of the isle of Thasos, with its ancient lighthouse and another lighthouse at Cape Phanari Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,71220 40,78130)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.71220 40.78130)"^^geo:wktLiteral .
 

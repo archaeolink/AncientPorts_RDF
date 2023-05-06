@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2489_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ceamurlia de Jos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,72500 44,73500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.72500 44.73500)"^^geo:wktLiteral .
 

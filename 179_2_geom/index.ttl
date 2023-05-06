@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/179_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Monte Cincho Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,55580 43,47950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.55580 43.47950)"^^geo:wktLiteral .
 

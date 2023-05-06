@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4324_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mehdia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-6,65425 34,26808)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-6.65425 34.26808)"^^geo:wktLiteral .
 

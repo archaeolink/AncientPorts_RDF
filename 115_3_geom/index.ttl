@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/115_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Trendle Ring oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-3,26190 51,14660)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-3.26190 51.14660)"^^geo:wktLiteral .
 

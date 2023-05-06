@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1031_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tortora Marina, on R Noce Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,75647 39,91351)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.75647 39.91351)"^^geo:wktLiteral .
 

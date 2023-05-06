@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3608_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Adobana, 8.5 km SE of Agig, Aqiq Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,26570 18,18110)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.26570 18.18110)"^^geo:wktLiteral .
 

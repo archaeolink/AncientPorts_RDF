@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/934_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tor Paterno, inside Riserva statale Tenuta di Castelporziano Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,39150 41,68090)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.39150 41.68090)"^^geo:wktLiteral .
 

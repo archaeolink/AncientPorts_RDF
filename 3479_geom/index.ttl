@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3479_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Afek, Afik, Khirbet Kurdaneh, Kirdani, springs of R Na'aman Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,11016 32,84450)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.11016 32.84450)"^^geo:wktLiteral .
 

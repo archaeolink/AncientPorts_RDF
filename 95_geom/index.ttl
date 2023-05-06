@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/95_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Oppidum at Ventnor, on the isle of Wight Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,18400 50,59900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.18400 50.59900)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3743_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "PM: Marib, not to be confused with Shabwa located 182 km further east Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(47,03000 15,37000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(47.03000 15.37000)"^^geo:wktLiteral .
 

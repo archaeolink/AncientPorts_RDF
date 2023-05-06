@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2276_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman fort at Tsoko with port at Kerveli? on the isle of Samos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,01950 37,73110)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.01950 37.73110)"^^geo:wktLiteral .
 

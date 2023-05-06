@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3722_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hoq cave on Socotra island, with many inscriptions and a drawing of a ship Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(54,35420 12,58790)"^^geo:wktLiteral .
+    geo:asWKT "POINT(54.35420 12.58790)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/110_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tintagel oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,76200 50,66900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.76200 50.66900)"^^geo:wktLiteral .
 

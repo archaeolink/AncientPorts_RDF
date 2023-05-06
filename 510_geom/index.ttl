@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/510_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Brimeux Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,83675 50,44604)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.83675 50.44604)"^^geo:wktLiteral .
 

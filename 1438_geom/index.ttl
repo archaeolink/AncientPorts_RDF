@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1438_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Jezera, on Murter island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,64349 43,78435)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.64349 43.78435)"^^geo:wktLiteral .
 

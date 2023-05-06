@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/165_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Doon Castle oppidum, near Ardwell Bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,00560 54,75980)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.00560 54.75980)"^^geo:wktLiteral .
 

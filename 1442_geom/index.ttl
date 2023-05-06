@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1442_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Prvic Luka, on the isle of Prvic Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,79736 43,72368)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.79736 43.72368)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/603_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Le Verdon sur Mer Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,06331 45,54341)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.06331 45.54341)"^^geo:wktLiteral .
 

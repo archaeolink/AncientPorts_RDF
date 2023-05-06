@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3260_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "near Aksaz, in Karaagac Limani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(28,44550 36,88500)"^^geo:wktLiteral .
+    geo:asWKT "POINT(28.44550 36.88500)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/79_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cliffsend Farm, with Bronze Age settlement, possible landing place of Caesar in 54 BC at Pegwell Bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(1,38200 51,33000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(1.38200 51.33000)"^^geo:wktLiteral .
 

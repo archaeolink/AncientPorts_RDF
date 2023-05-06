@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1471_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Hvar, on the isle of Hvar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,44120 43,17230)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.44120 43.17230)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/77_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ospringe, south of Faversham, with several Roman villas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,86840 51,30690)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.86840 51.30690)"^^geo:wktLiteral .
 

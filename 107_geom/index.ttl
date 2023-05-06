@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/107_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "St Michael's Mount, Marazion, probably a major port for exporting tin extracted by streaming in the hills of Cornwall Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,47766 50,12079)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.47766 50.12079)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/191_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castro de Meirengos, and many other castros between this one and San Cyprien Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-7,11950 43,55390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-7.11950 43.55390)"^^geo:wktLiteral .
 

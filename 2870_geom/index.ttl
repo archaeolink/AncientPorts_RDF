@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2870_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Hersek, near Altinova, on R Yalakdere Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,50480 40,71620)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.50480 40.71620)"^^geo:wktLiteral .
 

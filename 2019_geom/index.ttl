@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2019_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isle of Zakinthos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,77974 37,79309)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.77974 37.79309)"^^geo:wktLiteral .
 

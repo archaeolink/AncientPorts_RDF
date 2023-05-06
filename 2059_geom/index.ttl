@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2059_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Phtelia, Ftelia, Neolithic settlement, on the isle of Mykonos, Mökene Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,37600 37,46390)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.37600 37.46390)"^^geo:wktLiteral .
 

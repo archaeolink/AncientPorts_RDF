@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3968_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Geziret Ishailah islet and reefs Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,63923 31,52012)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.63923 31.52012)"^^geo:wktLiteral .
 

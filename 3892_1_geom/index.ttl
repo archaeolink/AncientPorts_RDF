@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3892_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Abu Atwa?  fortress possibly in this area (within 5-10 km?) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(32,25900 30,56000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(32.25900 30.56000)"^^geo:wktLiteral .
 

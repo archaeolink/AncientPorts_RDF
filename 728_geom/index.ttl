@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/728_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Anse de Favona at Conca Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,40048 41,77511)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.40048 41.77511)"^^geo:wktLiteral .
 

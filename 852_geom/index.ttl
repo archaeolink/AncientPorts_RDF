@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/852_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at San Piero a Grado, near Pisa on R Arno Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(10,34600 43,68000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(10.34600 43.68000)"^^geo:wktLiteral .
 

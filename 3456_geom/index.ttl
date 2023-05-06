@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3456_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Khan Nebi Yunas, near Jiyeh Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,41680 33,66430)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.41680 33.66430)"^^geo:wktLiteral .
 

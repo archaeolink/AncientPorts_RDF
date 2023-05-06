@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3176_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bayraklidede, near Tusan Beach Resort Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,27000 37,90870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.27000 37.90870)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2733_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Görele Kalezi, near Eynesil Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39,16320 41,07890)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.16320 41.07890)"^^geo:wktLiteral .
 

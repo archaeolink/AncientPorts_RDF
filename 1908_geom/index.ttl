@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1908_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Elafonisos, Elafos, Vigklafia, with quarries, with submerged BA settlement Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,98819 36,51668)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.98819 36.51668)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3862_6_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bhatela Talav lake, at Nala Sopara, north of Bassein Creek on R Ulhas Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(72,80300 19,41200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(72.80300 19.41200)"^^geo:wktLiteral .
 

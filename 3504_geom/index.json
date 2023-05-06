@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(34,69460 31,92750)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Yavne-Yam, Palmachim, Minet Rubin, near R Sorek Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(34.69460 31.92750)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Yavne-Yam, Palmachim, Minet Rubin, near R Sorek Geometry"]}

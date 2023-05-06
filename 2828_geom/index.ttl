@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2828_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Riva on R Riva, near Cayagzi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(29,21015 41,22696)"^^geo:wktLiteral .
+    geo:asWKT "POINT(29.21015 41.22696)"^^geo:wktLiteral .
 

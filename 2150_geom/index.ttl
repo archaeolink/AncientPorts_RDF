@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2150_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Anafi, on the isle of Anafi, Anafiye Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,79930 36,35860)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.79930 36.35860)"^^geo:wktLiteral .
 

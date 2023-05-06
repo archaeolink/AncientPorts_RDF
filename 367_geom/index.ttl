@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/367_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Trayamar, at the outlet of R Algarrobo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,05190 36,75190)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.05190 36.75190)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/569_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Pont Croix Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,48974 48,03823)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.48974 48.03823)"^^geo:wktLiteral .
 

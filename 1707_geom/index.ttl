@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1707_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Boufalo, Voufalo Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,11946 38,30192)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.11946 38.30192)"^^geo:wktLiteral .
 

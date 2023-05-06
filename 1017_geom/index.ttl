@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1017_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Punta Fuenti, near Vietri sul Mare Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,71307 40,65773)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.71307 40.65773)"^^geo:wktLiteral .
 

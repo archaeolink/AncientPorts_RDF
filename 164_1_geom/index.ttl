@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/164_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bladnoch Roman fortlet, on R Bladnoch Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,48400 54,86300)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.48400 54.86300)"^^geo:wktLiteral .
 

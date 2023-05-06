@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/634_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Balaruc les Bains, with submerged BA settlement at St Sauveur Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(3,67878 43,44067)"^^geo:wktLiteral .
+    geo:asWKT "POINT(3.67878 43.44067)"^^geo:wktLiteral .
 

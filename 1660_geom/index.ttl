@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1660_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agioi Apostoloi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,93020 38,29060)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.93020 38.29060)"^^geo:wktLiteral .
 

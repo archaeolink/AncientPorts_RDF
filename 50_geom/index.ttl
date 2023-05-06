@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/50_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "South Shields, at the eastern end of Hadrien's wall, near Newcastle Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-1,43164 55,00481)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-1.43164 55.00481)"^^geo:wktLiteral .
 

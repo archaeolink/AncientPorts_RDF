@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2090_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ormos Lageri, inside Ormos Naousis on the isle of Paros, Bara Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,26660 37,14020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.26660 37.14020)"^^geo:wktLiteral .
 

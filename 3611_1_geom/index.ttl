@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3611_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mandalum, on wadi Asarai, mentioned by Pliny, Hist Nat, 6, 172 Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(38,72000 17,73400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(38.72000 17.73400)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2370_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Kaleköy, Yeni Bademliköy, on the island Gökceada, Imbros, Imvros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,89840 40,23360)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.89840 40.23360)"^^geo:wktLiteral .
 

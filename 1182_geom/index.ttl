@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1182_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Porto di Bonagia? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,58963 38,07044)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.58963 38.07044)"^^geo:wktLiteral .
 

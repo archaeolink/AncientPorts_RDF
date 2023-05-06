@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1459_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Omis, on R Cetina Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(16,69041 43,44418)"^^geo:wktLiteral .
+    geo:asWKT "POINT(16.69041 43.44418)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2950_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Gazi Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,06920 35,34710)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.06920 35.34710)"^^geo:wktLiteral .
 

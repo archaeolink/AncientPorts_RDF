@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(25,09131 37,04465)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Antiparos, on the isle of Antiparos Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(25.09131 37.04465)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Antiparos, on the isle of Antiparos Geometry"]}

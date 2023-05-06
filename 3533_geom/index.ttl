@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3533_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Abu Shar, Roman fort at the end of the Via Hadriana, at el-Gouna which is an excellent shelter Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(33,68286 27,36879)"^^geo:wktLiteral .
+    geo:asWKT "POINT(33.68286 27.36879)"^^geo:wktLiteral .
 

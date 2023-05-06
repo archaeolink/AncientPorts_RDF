@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(11,02904 35,08168)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Ras Boutria, jetty with platform perpandicular to the coast Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(11.02904 35.08168)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Ras Boutria, jetty with platform perpandicular to the coast Geometry"]}

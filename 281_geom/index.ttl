@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/281_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa at Baralha Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-8,54192 37,17344)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-8.54192 37.17344)"^^geo:wktLiteral .
 

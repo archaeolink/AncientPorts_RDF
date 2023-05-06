@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3013_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agios Eustratios near Frangokastello  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,23800 35,18350)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.23800 35.18350)"^^geo:wktLiteral .
 

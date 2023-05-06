@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1542_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nisida Agios and Nisida Syvota, islands in front of Sivota Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,23880 39,40760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.23880 39.40760)"^^geo:wktLiteral .
 

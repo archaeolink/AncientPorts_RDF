@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3490_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tell Taninim, near Tell Mevorach located 2400 m inland at Beit Hanania, on R Taninim Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,90180 32,53870)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.90180 32.53870)"^^geo:wktLiteral .
 

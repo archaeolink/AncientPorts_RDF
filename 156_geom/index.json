@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-3,41861 54,82610)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Beckfoot Roman fort, near Beckfoot, on the Firth of Solway Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(-3.41861 54.82610)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Beckfoot Roman fort, near Beckfoot, on the Firth of Solway Geometry"]}

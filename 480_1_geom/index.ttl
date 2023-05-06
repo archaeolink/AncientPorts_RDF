@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/480_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Na Galera islet, Can Pastilla Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(2,70850 39,53550)"^^geo:wktLiteral .
+    geo:asWKT "POINT(2.70850 39.53550)"^^geo:wktLiteral .
 

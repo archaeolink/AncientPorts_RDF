@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3867_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Poompuhar, Kaveripattinam, on R Kaveri, Cauvery, with submerged Sangam settlement offshore Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(79,86000 11,13900)"^^geo:wktLiteral .
+    geo:asWKT "POINT(79.86000 11.13900)"^^geo:wktLiteral .
 

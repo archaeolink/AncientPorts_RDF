@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1888_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tirintha, Tirynthe, with Mycenaean tombs at Mycenae & Dendra-Midea Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,80000 37,60000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.80000 37.60000)"^^geo:wktLiteral .
 

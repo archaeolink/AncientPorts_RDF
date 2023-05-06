@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/244_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Berlenga island, with possible lighthouse at Moinho Roman site Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-9,50700 39,41200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-9.50700 39.41200)"^^geo:wktLiteral .
 

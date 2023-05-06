@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/707_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman villa on the Isle of Ste Marguerite in the isles of Lerins, with ancient lighthouse of la Tour Ste Anne at the NW end of the island, and submerged BA settlement at Etang de Bateguier Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(7,03639 43,52190)"^^geo:wktLiteral .
+    geo:asWKT "POINT(7.03639 43.52190)"^^geo:wktLiteral .
 

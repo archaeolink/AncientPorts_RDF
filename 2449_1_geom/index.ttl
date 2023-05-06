@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2449_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Bay of Cenguene Skelja, Tschengeneskele Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,51700 42,43700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.51700 42.43700)"^^geo:wktLiteral .
 

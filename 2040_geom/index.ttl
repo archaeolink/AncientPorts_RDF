@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2040_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Poles bay, with 150 m breakwater to the islet, on the isle of Kea, Mürted Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(24,33020 37,56090)"^^geo:wktLiteral .
+    geo:asWKT "POINT(24.33020 37.56090)"^^geo:wktLiteral .
 

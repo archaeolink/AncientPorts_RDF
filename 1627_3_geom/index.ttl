@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1627_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Le Piree, The Piraeus Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,64100 37,94550)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.64100 37.94550)"^^geo:wktLiteral .
 

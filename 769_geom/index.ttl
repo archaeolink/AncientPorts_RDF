@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/769_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lagoon of San Efisio, north of Is Fradis Minoris peninsula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(9,01207 38,98804)"^^geo:wktLiteral .
+    geo:asWKT "POINT(9.01207 38.98804)"^^geo:wktLiteral .
 

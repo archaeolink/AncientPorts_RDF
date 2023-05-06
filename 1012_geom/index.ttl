@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1012_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Marina Piccola, on the isle of Capri Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,23487 40,54454)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.23487 40.54454)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1307_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ponte Metauro, on R Metauro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,05600 43,83080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.05600 43.83080)"^^geo:wktLiteral .
 

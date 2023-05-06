@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1080_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cape Cimiti Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,16869 38,95411)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.16869 38.95411)"^^geo:wktLiteral .
 

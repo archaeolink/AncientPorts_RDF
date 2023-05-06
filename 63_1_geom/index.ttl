@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/63_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Holkham oppidum Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(0,78950 52,96730)"^^geo:wktLiteral .
+    geo:asWKT "POINT(0.78950 52.96730)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1102_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Isole Cheradi, Isola San Paolo and San Pietro Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(17,17200 40,44700)"^^geo:wktLiteral .
+    geo:asWKT "POINT(17.17200 40.44700)"^^geo:wktLiteral .
 

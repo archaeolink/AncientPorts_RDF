@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/366_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Cerro del Mar, 1.5 km upstream the R Velez,  near Velez-Malaga Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,10872 36,73758)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.10872 36.73758)"^^geo:wktLiteral .
 

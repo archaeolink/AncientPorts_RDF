@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3027_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Stomio bay? Ptolemy locates Rhamous portus at 10’ of latitude south of Phalasarna, near the beach of Stomio Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,54097 35,32341)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.54097 35.32341)"^^geo:wktLiteral .
 

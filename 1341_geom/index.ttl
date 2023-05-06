@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1341_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "in Scanello canal, near Treporti Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(12,43885 45,46739)"^^geo:wktLiteral .
+    geo:asWKT "POINT(12.43885 45.46739)"^^geo:wktLiteral .
 

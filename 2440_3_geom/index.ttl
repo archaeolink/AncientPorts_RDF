@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2440_3_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Sinemorets, on R Veleka Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,97250 42,06770)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.97250 42.06770)"^^geo:wktLiteral .
 

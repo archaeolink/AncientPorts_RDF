@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/162_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Castle Haven oppidum, in front of Murrays Isles Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,18990 54,80950)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.18990 54.80950)"^^geo:wktLiteral .
 

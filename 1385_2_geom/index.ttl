@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1385_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Liznjan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(13,97460 44,81980)"^^geo:wktLiteral .
+    geo:asWKT "POINT(13.97460 44.81980)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3312_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Olimpos on R Göksü Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,47340 36,39630)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.47340 36.39630)"^^geo:wktLiteral .
 

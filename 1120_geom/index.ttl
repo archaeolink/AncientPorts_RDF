@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1120_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Islets of Faraglioni, in front of Aci Tressa (Cuisenier mentions this site with two other possible sites: Marettimo and Nisida, the latter clearly providing the best shelter as described by Homer) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(15,16887 37,55923)"^^geo:wktLiteral .
+    geo:asWKT "POINT(15.16887 37.55923)"^^geo:wktLiteral .
 

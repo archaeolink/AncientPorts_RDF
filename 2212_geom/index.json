@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(25,85650 39,21280)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Sigri, on the isle of Lesbos, Lesvos Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(25.85650 39.21280)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Sigri, on the isle of Lesbos, Lesvos Geometry"]}

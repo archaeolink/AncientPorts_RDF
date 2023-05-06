@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/105_7_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Pendennis Castle, Falmouth, on Carrick Roads Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,04710 50,14670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.04710 50.14670)"^^geo:wktLiteral .
 

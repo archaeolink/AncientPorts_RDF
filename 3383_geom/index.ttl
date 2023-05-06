@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3383_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Possibly around Tabaklar, near ancient outlet of R Seyhan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34,99800 36,76250)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.99800 36.76250)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2450_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Tvardica on the South bank of Lake Mandrensko Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(27,44973 42,41469)"^^geo:wktLiteral .
+    geo:asWKT "POINT(27.44973 42.41469)"^^geo:wktLiteral .
 

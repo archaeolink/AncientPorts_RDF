@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/183_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "San Vicente de la Barquera Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-4,38077 43,39505)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-4.38077 43.39505)"^^geo:wktLiteral .
 

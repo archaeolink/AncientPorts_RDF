@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/704_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Roman naval base at Frejus, with one lighthouse at the Butte St Antoine and 3 landmarks: the Lanterne d'Auguste, the Triton Monument and the Lion de Mer islet in front of St Raphael Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(6,74050 43,43132)"^^geo:wktLiteral .
+    geo:asWKT "POINT(6.74050 43.43132)"^^geo:wktLiteral .
 

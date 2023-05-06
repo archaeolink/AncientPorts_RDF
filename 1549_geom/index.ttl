@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1549_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Mytikas, just north of the Ambracian gulf, Amvrakikós kólpos, anchorage for Octavian's fleet at Actium Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(20,70790 39,00080)"^^geo:wktLiteral .
+    geo:asWKT "POINT(20.70790 39.00080)"^^geo:wktLiteral .
 

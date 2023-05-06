@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2366_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lej burnu Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(26,63640 40,50920)"^^geo:wktLiteral .
+    geo:asWKT "POINT(26.63640 40.50920)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1758_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Chorefto beach, is the only beach between Sepias and Castanea as described by Herodotus Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,12500 39,45400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.12500 39.45400)"^^geo:wktLiteral .
 

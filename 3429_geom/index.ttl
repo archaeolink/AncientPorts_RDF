@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3429_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Port of Amrit, near Tell Amrit, with temple of Melqart, Maabed, on R Nahr Amrit Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(35,90250 34,83330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(35.90250 34.83330)"^^geo:wktLiteral .
 

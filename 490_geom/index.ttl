@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/490_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Biniai Nou, Cala Biniancolla Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,25849 39,80606)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.25849 39.80606)"^^geo:wktLiteral .
 

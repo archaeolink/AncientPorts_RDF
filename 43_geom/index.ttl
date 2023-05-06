@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/43_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Laws Hill, near Monifieth, oppidum on Firth of Tay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-2,82720 56,50330)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-2.82720 56.50330)"^^geo:wktLiteral .
 

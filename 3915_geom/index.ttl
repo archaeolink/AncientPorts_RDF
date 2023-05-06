@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3915_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Nelson's island, Dissouky island, near Aboukir, Abu Qir Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(30,10650 31,35760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(30.10650 31.35760)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/109_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Trevelgue Head oppidum, Porth island near Newquay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,06330 50,42680)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.06330 50.42680)"^^geo:wktLiteral .
 

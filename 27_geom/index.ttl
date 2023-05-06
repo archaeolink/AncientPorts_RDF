@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/27_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Wassenaar, Kleine Pan Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(4,3479 52,1471)"^^geo:wktLiteral .
+    geo:asWKT "POINT(4.3479 52.1471)"^^geo:wktLiteral .
 

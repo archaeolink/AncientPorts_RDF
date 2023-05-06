@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/388_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Los Nietos, on Mar Menor. Export of iron, silver & lead from the sierra minera de Cartagena-La Union Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-0,78300 37,65400)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-0.78300 37.65400)"^^geo:wktLiteral .
 

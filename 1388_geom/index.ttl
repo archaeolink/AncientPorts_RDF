@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1388_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Arsiano, on R Rasa Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(14,08459 45,08115)"^^geo:wktLiteral .
+    geo:asWKT "POINT(14.08459 45.08115)"^^geo:wktLiteral .
 

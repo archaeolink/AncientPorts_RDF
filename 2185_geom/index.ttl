@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2185_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Ormos Moudhrou, on the isle of Lemnos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,20000 39,85670)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.20000 39.85670)"^^geo:wktLiteral .
 

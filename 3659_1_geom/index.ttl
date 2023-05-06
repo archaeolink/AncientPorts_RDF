@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/3659_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "al-Qahma, in Khor al-Wasm? 13 km SE of Dhahban Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(41,66500 18,00200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(41.66500 18.00200)"^^geo:wktLiteral .
 

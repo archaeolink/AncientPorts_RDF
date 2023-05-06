@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/4311_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Quarry and fish processing factory and possible salt production near outlet of wadi Tahadart, wadi Hachef Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(-5,98280 35,57955)"^^geo:wktLiteral .
+    geo:asWKT "POINT(-5.98280 35.57955)"^^geo:wktLiteral .
 

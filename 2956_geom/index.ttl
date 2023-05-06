@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/2956_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Agrilia bay, on the isle of Dia Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25,23100 35,43260)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.23100 35.43260)"^^geo:wktLiteral .
 

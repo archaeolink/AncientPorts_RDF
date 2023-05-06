@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1797_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Solenas, Solina, near Kallithea Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(23,46060 40,06320)"^^geo:wktLiteral .
+    geo:asWKT "POINT(23.46060 40.06320)"^^geo:wktLiteral .
 

@@ -5,5 +5,5 @@
 <http://data.archaeology.link/data/ancientports/1920_geom> a <http://www.opengis.net/ont/sf#Point> ;
     rdfs:label "Lalloudes? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(22,47910 36,54760)"^^geo:wktLiteral .
+    geo:asWKT "POINT(22.47910 36.54760)"^^geo:wktLiteral .
 
