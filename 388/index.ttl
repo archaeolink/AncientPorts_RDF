@@ -14,5 +14,5 @@
     ns1:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/388_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6128054> ;
-    ns2:P17 "Spain East"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q29> .
 

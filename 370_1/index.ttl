@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/370_1_geom> ;
-    ns2:P17 "Spain South"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q29> .
 

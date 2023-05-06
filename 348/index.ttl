@@ -13,5 +13,5 @@
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/348_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/256103> ;
-    ns2:P17 "Spain South"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q29> .
 

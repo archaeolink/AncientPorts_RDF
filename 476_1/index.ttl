@@ -13,6 +13,6 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/476_1_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/265906> ;
-    ns1:P17 "Spain Mallorca"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q8828> ;
     ns1:P1958 <https://www.trismegistos.org/place/27696> .
 

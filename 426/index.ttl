@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/426_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q662789> ;
     ns1:P1584 <https://pleiades.stoa.org/places/253703> ;
-    ns1:P17 "Spain East"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q29> .
 

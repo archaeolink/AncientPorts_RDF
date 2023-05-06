@@ -13,6 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/332_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6083280> ;
     ns1:P1584 <http://pleiades.stoa.org/places/255955> ;
-    ns1:P17 "Spain South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1958 <https://www.trismegistos.org/place/25997> .
 

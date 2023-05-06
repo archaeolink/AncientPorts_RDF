@@ -16,9 +16,9 @@ var minivowlresult={
    "uri": "http://www.opengis.net/ont/sf#Point"
   },
   {
-   "name": "DatatypeProperty",
+   "name": "ObjectProperty",
    "type": "class",
-   "uri": "http://www.w3.org/2002/07/owl#DatatypeProperty"
+   "uri": "http://www.w3.org/2002/07/owl#ObjectProperty"
   },
   {
    "name": "Class",
@@ -26,9 +26,9 @@ var minivowlresult={
    "uri": "http://www.w3.org/2002/07/owl#Class"
   },
   {
-   "name": "ObjectProperty",
+   "name": "DatatypeProperty",
    "type": "class",
-   "uri": "http://www.w3.org/2002/07/owl#ObjectProperty"
+   "uri": "http://www.w3.org/2002/07/owl#DatatypeProperty"
   }
  ],
  "links": [
