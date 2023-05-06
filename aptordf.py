@@ -161,7 +161,7 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
                 triples.add("<"+str(cururi)+"> <"+str(nsont)+"place_technique> \""+str(row["Place_technique"])+"\" .\n")
         if "Locat_precision" in row and row["Locat_precision"].strip()!="":
             triples.add("<"+str(cururi)+"> <"+str(nsont)+"precision> <"+str(nsont)+str(row["Locat_precision"])+"> .\n")
-        triples.add("<"+str(cururi)+"_geom> <http://www.opengis.net/ont/geosparql#asWKT> \"POINT("+row["LONGITUDE"]+" "+row["LATITUDE"]+")\"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .\n")
+        triples.add("<"+str(cururi)+"_geom> <http://www.opengis.net/ont/geosparql#asWKT> \"POINT("+row["LONGITUDE"].replace(",",".")+" "+row["LATITUDE"].replace(",",".")+")\"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .\n")
         triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+" Geometry\"\"\"@en .\n")
         triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/sf#Point> .\n")
         if "Comments" in row and row["Comments"]!="":
