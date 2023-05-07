@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3861_8_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2239007> ;
     skos:note "Gaur (2009)" ;
-    ns1:P17 "India"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

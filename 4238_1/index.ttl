@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4238_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3529269> ;
     skos:note "Amraoui (2014)" ;
-    ns2:P17 "Algeria"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q262> .
 

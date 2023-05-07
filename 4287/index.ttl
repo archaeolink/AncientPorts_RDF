@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4287_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7681888> ;
     ns1:P1584 <http://pleiades.stoa.org/places/275732> ;
-    ns1:P17 "Morocco"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q1028> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22242> ;
     ns1:P1958 <https://www.trismegistos.org/place/14001> .
 

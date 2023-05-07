@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q25247416> ;
     skos:note "Eggermont (1975)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/60533> ;
-    ns1:P17 "Pakistan"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q843> .
 

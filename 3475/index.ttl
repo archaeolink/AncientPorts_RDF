@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2895524> ;
     skos:note "Marcus (1998)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/678300> ;
-    ns2:P17 "Israel"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q801> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/28246> ;
     ns2:P1958 <https://www.trismegistos.org/place/37439> .
 

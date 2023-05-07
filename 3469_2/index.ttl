@@ -14,5 +14,5 @@
     ns1:date_min "-2750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3469_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q26262327> ;
-    ns2:P17 "Lebanon"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q822> .
 

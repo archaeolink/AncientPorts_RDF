@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3502671> ;
     skos:note "DeFer (1705)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/295276> ;
-    ns1:P17 "Algeria"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q262> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22131> ;
     ns1:P1958 <https://www.trismegistos.org/place/20444> .
 

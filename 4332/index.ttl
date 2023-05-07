@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4332_geom> ;
     skos:note "Bouysse (2017)" ;
-    ns1:P17 "Morocco"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q1028> .
 

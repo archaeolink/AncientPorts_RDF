@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3759_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1294439> ;
     skos:note "Andreou (2022)" ;
-    ns1:P17 "Oman"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q842> .
 

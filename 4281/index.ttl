@@ -11,5 +11,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4281_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/289945> ;
-    ns1:P17 "Morocco"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q1028> .
 

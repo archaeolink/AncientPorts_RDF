@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4178_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3095036> ;
     skos:note "Aounallah (2020:86)" ;
-    ns1:P17 "Tunisia"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q948> .
 

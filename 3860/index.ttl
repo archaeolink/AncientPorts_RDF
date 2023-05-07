@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3860_geom> ;
     skos:note "Eggermont (1975)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/60490> ;
-    ns1:P17 "Pakistan"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q843> .
 

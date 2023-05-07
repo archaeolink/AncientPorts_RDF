@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4311_geom> ;
     skos:note "Bouysse (2017)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/275731> ;
-    ns2:P17 "Morocco"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q1028> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/37954> .
 

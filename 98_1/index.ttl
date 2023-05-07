@@ -18,5 +18,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/98_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q751086> ;
     skos:note "Wilkes (2004)" ;
-    ns2:P17 "UK"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

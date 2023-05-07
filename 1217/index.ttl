@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1217_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q852182> ;
     skos:note "Azzopardi (2012)" ;
-    ns2:P17 "Malta"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q233> .
 

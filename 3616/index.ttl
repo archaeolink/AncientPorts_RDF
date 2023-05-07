@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3616_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q282350> ;
     skos:note "Glazer (2012)" ;
-    ns1:P17 "Eritrea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q986> .
 

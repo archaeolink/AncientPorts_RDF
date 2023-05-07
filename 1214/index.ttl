@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q193896> ;
     skos:note "Vella (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462311> ;
-    ns1:P17 "Malta"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q233> ;
     ns1:P1958 <https://www.trismegistos.org/place/1339> ;
     ns1:P8068 <https://topostext.org/place/359144IMel> .
 

@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4219_geom> ;
     skos:note "Elie de la Primaudaie (1860) locates it at Ziama Mansouria" ;
     ns1:P1584 <http://pleiades.stoa.org/places/305111> ;
-    ns1:P17 "Algeria"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q262> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23759> .
 

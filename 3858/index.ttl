@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3858_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3248039> ;
     skos:note "Eggermont (1975)" ;
-    ns1:P17 "Pakistan"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q843> .
 

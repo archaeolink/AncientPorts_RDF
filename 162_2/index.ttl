@@ -14,6 +14,6 @@
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/162_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4945091> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1958 <https://www.trismegistos.org/place/14923> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3711_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q713391> ;
     skos:note "Ryano (2021)" ;
-    ns1:P17 "Tanzania"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q924> .
 

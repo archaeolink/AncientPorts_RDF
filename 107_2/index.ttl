@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/107_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17644367> ;
     skos:note "Weatherhill (2009)" ;
-    ns1:P17 "UK"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

@@ -16,5 +16,5 @@ Ptolemy's Talacori might be placed near the very old Ketheeswaram temple """@en 
     owl:sameAs <http://www.wikidata.org/entity/Q15245625> ;
     skos:note "Gunawardana (2015)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/50120> ;
-    ns1:P17 "Sri Lanka"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q854> .
 

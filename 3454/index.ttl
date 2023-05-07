@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3820> ;
     skos:note "Francis-Allouche (2012)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/678060> ;
-    ns2:P17 "Lebanon"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q822> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/21113> ;
     ns2:P1958 <https://www.trismegistos.org/place/431> ;
     ns2:P8068 <https://topostext.org/place/339355UBer> .

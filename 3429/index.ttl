@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q290054> ;
     skos:note "Valois (Archeologia N° 536, 2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668306> ;
-    ns1:P17 "Syria"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q858> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21750> ;
     ns1:P1958 <https://www.trismegistos.org/place/37552> ;
     ns1:P8068 <https://topostext.org/place/348359UMar> .

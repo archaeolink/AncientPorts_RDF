@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3862_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q9443> ;
     skos:note "Mambra (2018)" ;
-    ns1:P17 "India"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

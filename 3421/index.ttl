@@ -17,6 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2402214> ;
     skos:note "Vanschoonwinkel (2006)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668383> ;
-    ns1:P17 "Syria"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q858> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/33240> .
 

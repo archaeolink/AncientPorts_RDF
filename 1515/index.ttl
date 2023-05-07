@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1515_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q169160> ;
     ns1:P1584 <http://pleiades.stoa.org/places/481896> ;
-    ns1:P17 "Albania"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q222> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21964> ;
     ns1:P1958 <https://www.trismegistos.org/place/15788> ;
     ns1:P8068 <https://topostext.org/place/418196ULis> .

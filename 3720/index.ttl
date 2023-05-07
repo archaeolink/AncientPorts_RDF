@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q7294644> ;
     skos:note "Hughes (2016)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/40245> ;
-    ns1:P17 "Somalia"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q1045> .
 

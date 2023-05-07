@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/155_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4708853> ;
     ns1:P1584 <http://pleiades.stoa.org/places/89097> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23702> ;
     ns1:P1958 <https://www.trismegistos.org/place/14569> .
 

@@ -13,6 +13,6 @@
     ns1:date_min "1001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4310_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/275716> ;
-    ns2:P17 "Morocco"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q1028> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/34979> .
 

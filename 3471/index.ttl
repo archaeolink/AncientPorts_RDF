@@ -13,6 +13,6 @@
     ns2:date_min "3001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3471_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/678013> ;
-    ns1:P17 "Lebanon"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/33251> .
 

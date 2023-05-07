@@ -18,5 +18,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/66_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2311295> ;
     skos:note "Steerwood (2003)" ;
-    ns2:P17 "UK"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

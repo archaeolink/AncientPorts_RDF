@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4005_geom> ;
     skos:note "Laronde (1983)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/373745> ;
-    ns1:P17 "Libya"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q1016> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27218> .
 

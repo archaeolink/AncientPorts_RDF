@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q127095> ;
     skos:note "Harvey (2011)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/79535> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25730.html> ;
     ns1:P1958 <https://www.trismegistos.org/place/14699> .
 

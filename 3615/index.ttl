@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3615_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q275635> ;
     skos:note "Zazzaro (2013)" ;
-    ns1:P17 "Eritrea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q986> ;
     ns1:P1958 <https://www.trismegistos.org/place/4910> .
 

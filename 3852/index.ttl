@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q6402306> ;
     skos:note "Besenval (1994)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/59857> ;
-    ns1:P17 "Pakistan"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q843> .
 

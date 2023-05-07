@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1511_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1190321> ;
     ns1:P1584 <http://pleiades.stoa.org/places/481721> ;
-    ns1:P17 "Montenegro"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q236> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/26372> .
 

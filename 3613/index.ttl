@@ -12,6 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3613_geom> ;
     skos:note "Insoll (2001)" ;
-    ns1:P17 "Eritrea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q986> ;
     ns1:P1958 <https://www.trismegistos.org/place/4911> .
 

@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3477_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2509879> ;
     skos:note "Artzy (2021)" ;
-    ns2:P17 "Israel"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q801> .
 

@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1523463> ;
     skos:note "Wilmott (2018)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79631> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/18913> ;
     ns1:P1958 <https://www.trismegistos.org/place/15423> .
 

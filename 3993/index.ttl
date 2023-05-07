@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3993_geom> ;
     skos:note "Laronde (1992)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/373773> ;
-    ns1:P17 "Libya"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q1016> .
 

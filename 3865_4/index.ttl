@@ -15,5 +15,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3865_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q319366> ;
     ns1:P1584 <https://pleiades.stoa.org/places/50172> ;
-    ns1:P17 "Sri Lanka"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q854> .
 

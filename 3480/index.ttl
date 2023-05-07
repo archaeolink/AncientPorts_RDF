@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3480_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q694326> ;
     skos:note "Vanschoonwinkel (2006)" ;
-    ns1:P17 "Israel"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q801> .
 

@@ -18,6 +18,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/66_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1820255> ;
     skos:note "Steerwood (2003)" ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25665> .
 

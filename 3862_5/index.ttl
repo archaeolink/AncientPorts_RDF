@@ -17,5 +17,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q6359640> ;
     skos:note "Gupta (2004)" ;
     ns2:P1584 <https://pleiades.stoa.org/places/50032> ;
-    ns2:P17 "India"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q668> .
 

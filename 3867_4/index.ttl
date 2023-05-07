@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2554778> ;
     skos:note "Sundaresh (2011)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/50278> ;
-    ns1:P17 "India"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

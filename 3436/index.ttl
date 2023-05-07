@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3436_geom> ;
     skos:note "Carayon (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668215> ;
-    ns1:P17 "Lebanon"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/36484> .
 

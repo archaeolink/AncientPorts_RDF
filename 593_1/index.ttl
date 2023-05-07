@@ -1,18 +1,18 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/593_1> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/593_1> a ns2:Harbour ;
     rdfs:label "La Couture, near Muron, on the marais de la Petite Flandre"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-500"^^xsd:gYear ;
+    ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/593_1_geom> ;
     skos:note "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32" ;
-    ns2:P17 "France West"^^xsd:string .
+    ns1:P17 "France West"^^xsd:string .
 

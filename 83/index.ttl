@@ -18,6 +18,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/83_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q29245> ;
     skos:note "Wilkes (2004)" ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25642> .
 

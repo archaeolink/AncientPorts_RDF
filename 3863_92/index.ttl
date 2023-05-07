@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3863_92_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q10751334> ;
     ns1:P1584 <https://pleiades.stoa.org/places/50091> ;
-    ns1:P17 "India"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

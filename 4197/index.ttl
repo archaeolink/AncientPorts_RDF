@@ -17,6 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q513565> ;
     skos:note "Boardman (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/314961> ;
-    ns1:P17 "Tunisia"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q948> ;
     ns1:P1958 <https://www.trismegistos.org/place/42398> .
 

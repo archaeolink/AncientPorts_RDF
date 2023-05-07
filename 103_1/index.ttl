@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q134672> ;
     skos:note "Exeter Museum (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79531> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/20688> ;
     ns1:P1958 <https://www.trismegistos.org/place/14538> ;
     ns1:P8068 <https://topostext.org/place/507000UIsc> .

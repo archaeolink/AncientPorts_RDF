@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3716_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q613246> ;
     skos:note "Hughes (2016)" ;
-    ns1:P17 "Somalia"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q1045> .
 

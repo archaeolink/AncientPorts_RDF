@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3714_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q208664> ;
     skos:note "J. Innes Miller (1969)" ;
-    ns1:P17 "Tanzania"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q924> .
 

@@ -14,5 +14,5 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1523_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q8075603> ;
-    ns1:P17 "Albania"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q222> .
 

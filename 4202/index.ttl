@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q858024> ;
     skos:note "Boulinguez (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/305090> ;
-    ns1:P17 "Algeria"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q262> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21626> ;
     ns1:P1958 <https://www.trismegistos.org/place/3344> ;
     ns1:P8068 <https://topostext.org/place/369077UHip> .

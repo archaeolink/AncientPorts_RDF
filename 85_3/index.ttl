@@ -14,6 +14,6 @@
     ns1:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/85_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q716667> ;
-    ns2:P17 "UK"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q145> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/25933> .
 

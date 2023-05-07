@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3488_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2777560> ;
     skos:note "Galili (2010)" ;
-    ns1:P17 "Israel"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q801> .
 

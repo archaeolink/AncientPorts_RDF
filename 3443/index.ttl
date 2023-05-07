@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3443_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4119042> ;
     skos:note "Carayon (2012)" ;
-    ns1:P17 "Lebanon"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q822> .
 

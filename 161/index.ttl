@@ -14,5 +14,5 @@
     ns2:date_min "1001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/161_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1011670> ;
-    ns1:P17 "UK"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

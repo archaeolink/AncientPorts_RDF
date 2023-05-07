@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/79_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3425604> ;
     skos:note "Ling (2014)" ;
-    ns2:P17 "UK"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

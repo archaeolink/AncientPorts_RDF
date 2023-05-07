@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/69_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2343199> ;
     ns1:P1584 <https://pleiades.stoa.org/places/155499663> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25949> .
 

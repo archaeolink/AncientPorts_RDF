@@ -17,6 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q5879023> ;
     skos:note "Ottewell (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79517> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25724> .
 

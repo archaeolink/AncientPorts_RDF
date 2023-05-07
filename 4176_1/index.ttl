@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4176_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1018648> ;
     skos:note "Hurst (2010)" ;
-    ns1:P17 "Tunisia"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q948> .
 

@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3618_geom> ;
     skos:note "Peacock & Blue (2007)" ;
-    ns1:P17 "Eritrea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q986> .
 

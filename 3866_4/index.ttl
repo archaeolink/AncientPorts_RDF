@@ -12,5 +12,5 @@ This location agrees with Ptolemy's coordinates with respect to Talacori emporiu
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3866_4_geom> ;
     ns1:P1584 <https://pleiades.stoa.org/places/50139> ;
-    ns1:P17 "Sri Lanka"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q854> .
 

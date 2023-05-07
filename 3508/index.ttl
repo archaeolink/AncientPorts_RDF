@@ -1,24 +1,24 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3508> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3508> a ns1:Harbour ;
     rdfs:label "Blakhiyah, Khirbet Teda NW of Gaza City"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-1000"^^xsd:gYear ;
+    ns1:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3508_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2377463> ;
     skos:note "Nabulsi (2010)" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/687826> ;
-    ns1:P17 "Gaza"^^xsd:string ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/21690> ;
-    ns1:P1958 <https://www.trismegistos.org/place/11116> ;
-    ns1:P8068 <https://topostext.org/place/316345UAnt> .
+    ns2:P1584 <http://pleiades.stoa.org/places/687826> ;
+    ns2:P17 "Gaza"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21690> ;
+    ns2:P1958 <https://www.trismegistos.org/place/11116> ;
+    ns2:P8068 <https://topostext.org/place/316345UAnt> .
 

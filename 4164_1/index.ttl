@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4164_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3483221> ;
     skos:note "Trabelsi (2019)" ;
-    ns2:P17 "Tunisia"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q948> .
 

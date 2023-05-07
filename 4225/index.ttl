@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3021755> ;
     skos:note "Laporte (2017)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/295334> ;
-    ns2:P17 "Algeria"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q262> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/22126> ;
     ns2:P1958 <https://www.trismegistos.org/place/18189> .
 

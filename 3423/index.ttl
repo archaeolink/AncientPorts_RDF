@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3423_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q263922> ;
     ns1:P1584 <http://pleiades.stoa.org/places/668206> ;
-    ns1:P17 "Syria"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q858> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21721> ;
     ns1:P1958 <https://www.trismegistos.org/place/3751> ;
     ns1:P8068 <https://topostext.org/place/352359UBal> .

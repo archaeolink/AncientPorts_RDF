@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q4796560> ;
     skos:note "Zazzaro (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/39295> ;
-    ns1:P17 "Eritrea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q986> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/36125> ;
     ns1:P1958 <https://www.trismegistos.org/place/3662> .
 

@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -12,12 +13,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Ellis_1987_Sea> ;
     ns2:date_min "1001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/117_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7439955> ;
     skos:note "Ellis (1987)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79280> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25604> ;
     ns1:P1958 <https://www.trismegistos.org/place/14553> ;
     ns1:P8068 <https://topostext.org/place/515000UAbo> .

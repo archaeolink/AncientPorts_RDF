@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4168_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3175885> ;
     ns1:P1584 <http://pleiades.stoa.org/places/314883> ;
-    ns1:P17 "Tunisia"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q948> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21604> ;
     ns1:P1958 <https://www.trismegistos.org/place/17311> .
 

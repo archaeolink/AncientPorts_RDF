@@ -17,6 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3395318> ;
     skos:note "Williams (2018)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/82300> ;
-    ns2:P17 "UK"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q145> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/40807> .
 

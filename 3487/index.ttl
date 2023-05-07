@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2777560> ;
     skos:note "Gambash (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678121> ;
-    ns1:P17 "Israel"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21661> ;
     ns1:P1958 <https://www.trismegistos.org/place/587> ;
     ns1:P8068 <https://topostext.org/place/326349UDor> .

@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2861278> ;
     skos:note "Pillai (2010)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/50221> ;
-    ns1:P17 "India"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

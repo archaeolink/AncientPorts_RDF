@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/144_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2280960> ;
     skos:note "Devine (2003)" ;
-    ns1:P17 "UK"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

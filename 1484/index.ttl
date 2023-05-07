@@ -14,6 +14,6 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1484_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1269635> ;
-    ns1:P17 "Bosnia"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q188736> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/44770> .
 

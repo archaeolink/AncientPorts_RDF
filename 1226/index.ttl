@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q781921> ;
     skos:note "Azzopardi (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/601235773> ;
-    ns1:P17 "Malta"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q233> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/39059> ;
     ns1:P1958 <https://www.trismegistos.org/place/22347> ;
     ns1:P8068 <https://topostext.org/place/358146SHer> .

@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q761460> ;
     skos:note "Paskoff (1991)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/963100992> ;
-    ns1:P17 "Tunisia"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q948> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/34035> ;
     ns1:P1958 <https://www.trismegistos.org/place/50347> ;
     ns1:P8068 <https://topostext.org/place/347112IKer> .

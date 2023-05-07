@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3618_1_geom> ;
     skos:note "Carannante (2015)" ;
-    ns1:P17 "Eritrea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q986> .
 

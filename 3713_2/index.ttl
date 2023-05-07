@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3713_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q106610705> ;
     skos:note "Shipton (2016)" ;
-    ns1:P17 "Tanzania"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q924> .
 

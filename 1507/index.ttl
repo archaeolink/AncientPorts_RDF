@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q994211> ;
     skos:note "Dallas (1967)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197471> ;
-    ns1:P17 "Montenegro"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q236> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21966> ;
     ns1:P1958 <https://www.trismegistos.org/place/29617> ;
     ns1:P8068 <https://topostext.org/place/425187URiz> .

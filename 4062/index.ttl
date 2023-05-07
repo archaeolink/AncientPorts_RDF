@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4062_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q162413> ;
     ns1:P1584 <http://pleiades.stoa.org/places/363959> ;
-    ns1:P17 "Libya"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q1016> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23618> ;
     ns1:P1958 <https://www.trismegistos.org/place/17009> .
 

@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3988_geom> ;
     skos:note "Howard-Carter (1963)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/716503> ;
-    ns2:P17 "Libya"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q1016> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/42471> .
 

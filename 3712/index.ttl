@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3712_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q713391> ;
     skos:note "Felix Chami (2002)" ;
-    ns2:P17 "Tanzania"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q924> .
 

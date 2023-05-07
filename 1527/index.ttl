@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q60792293> ;
     skos:note "Longhurst (2016)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/481942> ;
-    ns2:P17 "Albania"^^xsd:string ;
+    ns2:P17 <http://www.wikidata.org/entity/Q222> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/26407> ;
     ns2:P1958 <https://www.trismegistos.org/place/15800> .
 

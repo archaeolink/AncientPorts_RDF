@@ -15,7 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3492_1_geom> ;
     skos:note "Raban (200, p 69)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678401> ;
-    ns1:P17 "Israel"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21149> ;
     ns1:P1958 <https://www.trismegistos.org/place/958> ;
     ns1:P8068 <https://topostext.org/place/325349UCae> .

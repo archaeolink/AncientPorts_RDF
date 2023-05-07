@@ -14,5 +14,5 @@
     ns1:date_min "-4500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3475_2_geom> ;
     skos:note "Galili (2018)" ;
-    ns2:P17 "Israel"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q801> .
 

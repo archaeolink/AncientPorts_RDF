@@ -19,5 +19,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q4914040> ;
     skos:note "Wilkes (2004)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/689737512> ;
-    ns1:P17 "UK"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

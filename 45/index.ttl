@@ -12,6 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/45_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q24197227> ;
-    ns1:P17 "UK"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1958 <https://www.trismegistos.org/place/15039> .
 

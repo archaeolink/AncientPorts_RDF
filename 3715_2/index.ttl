@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3715_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q270787> ;
-    ns1:P17 "Somalia"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q1045> .
 

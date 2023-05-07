@@ -14,5 +14,5 @@
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4244_2_geom> ;
     skos:note "Leveau (1984)" ;
-    ns2:P17 "Algeria"^^xsd:string .
+    ns2:P17 <http://www.wikidata.org/entity/Q262> .
 
