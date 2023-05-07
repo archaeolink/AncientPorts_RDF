@@ -40,10 +40,11 @@ def resolveWikidataIDFromArticleName(wikipediaurl):
     
 
 def bibtexToRDF(triples,entries,ns,nsont):
-    typeToURI={"report":"http://purl.org/ontology/bibo/Report","inproceedings":"http://purl.org/ontology/bibo/Proceedings","article":"http://purl.org/ontology/bibo/Article","book":"http://purl.org/ontology/bibo/Book","phdthesis":"http://purl.org/ontology/bibo/Thesis","misc":"http://purl.org/ontology/bibo/Document"}
+    typeToURI={"report":"http://purl.org/ontology/bibo/Report","inbook":"http://purl.org/ontology/bibo/BookSection","inproceedings":"http://purl.org/ontology/bibo/Proceedings","article":"http://purl.org/ontology/bibo/Article","book":"http://purl.org/ontology/bibo/Book","phdthesis":"http://purl.org/ontology/bibo/Thesis","misc":"http://purl.org/ontology/bibo/Document"}
     bibmap={}
     for entry in entries:
-        bibmap[str(entry["ID"])[0:str(entry["ID"]).rfind("_")].replace("_"," ").strip()]=ns+"bib_"+str(entry["ID"])
+        bibsplit=str(entry["ID"]).split("_")
+        bibmap[bibsplit[0]+" ("+bibsplit[1]+")"]=ns+"bib_"+str(entry["ID"])
         triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(typeToURI[entry["ENTRYTYPE"]])+"> .\n")
         #if str(typeToURI[entry["ENTRYTYPE"]])!="misc":
         #    triples.add("<"+str(typeToURI[entry["ENTRYTYPE"]])+"> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/ontology/bibo/Document> .\n")
