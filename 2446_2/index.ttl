@@ -4,6 +4,7 @@
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2446_2> a ns1:Harbour ;
@@ -14,5 +15,6 @@
     ns1:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2446_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1346157> ;
+    skos:note "Flaux (2016)" ;
     ns2:P17 "Bulgaria Black S."^^xsd:string .
 

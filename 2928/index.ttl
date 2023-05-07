@@ -3,6 +3,7 @@
 @prefix ns1: <http://www.ancientports.com/ont#> .
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2928> a ns1:Harbour ;
@@ -12,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2928_geom> ;
+    skos:note "Uggeri (2003)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/589760> ;
     ns2:P17 "GR: Crete North"^^xsd:string ;
     ns2:P1958 <https://www.trismegistos.org/place/16077> .

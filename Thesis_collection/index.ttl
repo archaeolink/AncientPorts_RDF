@@ -5,5 +5,6 @@
 <http://data.archaeology.link/data/ancientports/Thesis_collection> a skos:Collection ;
     rdfs:label "Thesis Instances Collection" ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding> .
+    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding>,
+        <http://data.archaeology.link/data/ancientports/bib_Wilkes_2004_Iron> .
 

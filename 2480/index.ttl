@@ -4,6 +4,7 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2480> a ns2:Harbour ;
@@ -14,5 +15,6 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2480_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q12743458> ;
+    skos:note "Avram (2004)" ;
     ns1:P17 "Romania Black S."^^xsd:string .
 

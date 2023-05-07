@@ -2,6 +2,7 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3662> a <http://www.ancientports.com/ont#Harbour> ;
@@ -10,6 +11,7 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3662_geom> ;
+    skos:note "Cuvigny (1996)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/39438> ;
     ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string .
 

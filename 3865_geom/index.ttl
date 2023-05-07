@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3865_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, 
+    rdfs:label """Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\r
 Ptolemy's Talacori might be placed near the very old Ketheeswaram temple  Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(79.95600 8.96300)"^^geo:wktLiteral .

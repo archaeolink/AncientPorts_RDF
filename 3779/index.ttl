@@ -4,6 +4,7 @@
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3779> a ns1:Harbour ;
@@ -14,6 +15,7 @@
     ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3779_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q48969546> ;
+    skos:note "Potts (2001)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/932474> ;
     ns2:P17 "Gulf"^^xsd:string .
 

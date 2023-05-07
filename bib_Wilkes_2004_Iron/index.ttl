@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Wilkes_2004_Iron> a <http://purl.org/ontology/bibo/Thesis> ;
+    dc:created "2004"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Wilkes_Eileen> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Iron Age maritime nodes on the English Channel coast: an investigation into the location, nature and context of early ports and harbours"@en .
+

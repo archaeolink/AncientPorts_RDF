@@ -3,6 +3,7 @@
 @prefix ns1: <http://www.ancientports.com/ont#> .
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/786_1> a ns1:Harbour ;
@@ -12,5 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-4500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/786_1_geom> ;
+    skos:note "Bignon (2008)" ;
     ns2:P17 "Italy Sardinia"^^xsd:string .
 

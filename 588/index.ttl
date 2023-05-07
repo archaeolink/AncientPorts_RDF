@@ -3,6 +3,7 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/588> a ns2:Harbour ;
@@ -12,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/588_geom> ;
+    skos:note "Grenier (1934)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138591> ;
     ns1:P17 "France West"^^xsd:string .
 

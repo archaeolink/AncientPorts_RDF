@@ -4,6 +4,7 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2170> a ns2:Harbour ;
@@ -14,6 +15,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2170_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q203175> ;
+    skos:note "Famous statue" ;
     ns1:P1584 <http://pleiades.stoa.org/places/501596> ;
     ns1:P17 "GR: Eastern Isl."^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/2082> .

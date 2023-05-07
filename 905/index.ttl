@@ -4,6 +4,7 @@
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/905> a ns1:Harbour ;
@@ -14,6 +15,7 @@
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/905_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q243425> ;
+    skos:note "Enei (2022)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/432867> ;
     ns2:P17 "Italy West"^^xsd:string .
 

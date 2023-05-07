@@ -4,6 +4,7 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2745> a ns2:Harbour ;
@@ -14,6 +15,7 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2745_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1876182> ;
+    skos:note "Dan (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/857067> ;
     ns1:P17 "TR: Black Sea"^^xsd:string .
 
