@@ -13,8 +13,8 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bjerck_2017_Settlements> ;
-    ns2:date_min """-10000 \r\r
-to \r\r
+    ns2:date_min """-10000 
+to 
 -5000"""^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_3_geom> ;
     skos:note "Bjerck (2017)" ;

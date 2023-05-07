@@ -6,7 +6,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3927> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3927> a ns2:Shipyard,
+        ns2:Warehouse ;
     rdfs:label "Mit Rahina, Kom el-Qala"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

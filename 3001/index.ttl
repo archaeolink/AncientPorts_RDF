@@ -7,7 +7,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3001> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3001> a ns2:Slipway ;
     rdfs:label "Matala, N.C.Flemming and P.A. Pirazzoli, 1981 mention this slipway in the SE corner of the Matala creek, below the 'Hippies' cave'"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

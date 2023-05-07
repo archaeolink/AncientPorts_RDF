@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Hartung_2013_Some> a ns1:Article ;
+    dc:created "2013"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Ulrich_Hartung> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Some remarks on the chronological position of the Predynastic settlement at Maadi (Egypt) and its relations to the Southern Levant"@en ;
+    ns1:issn "01539345, 1957701X"^^xsd:string ;
+    ns1:number 1 ;
+    ns1:pageEnd 191 ;
+    ns1:pageStart 177 ;
+    ns1:publisher "[Paleorient and CNRS Editions, CNRS Editions]" ;
+    ns1:volume "39"^^xsd:string .
+

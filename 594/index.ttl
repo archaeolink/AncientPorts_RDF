@@ -6,7 +6,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/594> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/594> a ns2:VillaMaritima ;
     rdfs:label "Roman villa at Pepiron, near Mauzac, and several other villas on the ridge north of R Seudre"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

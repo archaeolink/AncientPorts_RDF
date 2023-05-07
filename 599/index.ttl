@@ -6,7 +6,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/599> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/599> a <http://www.ancientports.com/ont#Quay>,
+        <http://www.ancientports.com/ont#Shipyard> ;
     rdfs:label "Bordeaux, Porte Navigere, at the outlet of R Deveze, rue de la Devise"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

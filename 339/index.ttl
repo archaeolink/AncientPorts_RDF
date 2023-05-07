@@ -6,7 +6,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/339> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/339> a ns2:Quay ;
     rdfs:label "Cadiz, Cadix, with ancient lighthouse. Puerto interior on ancient canal of Bahia-Caleta. Initially, Gadir was an island as indicated by Strabo who speaks about « the Isle of the gaditans » (Geogr, 3, 2). Port remains were also found at c/ Sagasta 96-98."@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

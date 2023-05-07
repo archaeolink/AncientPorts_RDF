@@ -5,7 +5,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/994> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/994> a <http://www.ancientports.com/ont#Pila>,
+        <http://www.ancientports.com/ont#Quay>,
+        <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Roman villa at Posillipo, protected by row of pilae"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

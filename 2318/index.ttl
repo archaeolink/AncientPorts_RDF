@@ -7,7 +7,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2318> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/2318> a ns2:Shipshed,
+        ns2:Shipyard,
+        ns2:Slipway ;
     rdfs:label "Naval base at Port Mandraki with its supposed Colossus of Rhodes (acting as a lighthouse?). Diodorus (Hist, 20, 85-86) distinguishes a « small port » and a « large port » during the siege of Demetrius in 303 BC. The small port would thus be the port of Mandraki now protected by jetties decorated with a deer on each side."@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

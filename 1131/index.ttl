@@ -6,7 +6,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1131> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/1131> a <http://www.ancientports.com/ont#Shipshed>,
+        <http://www.ancientports.com/ont#Slipway> ;
     rdfs:label "Port of Arethuse, on Via Vittorio Veneto, on the isle of Ortigia"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

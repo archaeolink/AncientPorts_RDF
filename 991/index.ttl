@@ -7,7 +7,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/991> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/991> a ns2:Lighthouse,
+        ns2:Pila,
+        ns2:Quay,
+        ns2:Shipyard,
+        ns2:Warehouse ;
     rdfs:label "Pozzuoli, Pouzzoles, Puteoles, in the Campi Flegrei volcano district, pilae of arched mole are under modern breakwater (Molo Caligoliano)"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

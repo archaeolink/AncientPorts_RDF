@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/171_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r
+    rdfs:label """Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; 
 We selected the ones with a nautical shelter Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(-8.00000 53.00000)"^^geo:wktLiteral .

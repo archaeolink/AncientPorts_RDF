@@ -4,7 +4,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4192> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/4192> a <http://www.ancientports.com/ont#VillaMaritima>,
+        <http://www.ancientports.com/ont#Warehouse> ;
     rdfs:label "Horrea at Ras Bin Sekka, Ras Ghirane, and several Roman villas between Ras Angela, Ras Enghela, and Cap Blanc"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

@@ -7,7 +7,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3281> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3281> a ns2:Quay ;
     rdfs:label "Isle of Gemiler Adasi, Saint Nikolo island, pirates' stronghold attacked by Pompey in 67 BC"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

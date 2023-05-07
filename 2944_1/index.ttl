@@ -7,7 +7,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2944_1> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/2944_1> a ns2:Shipshed,
+        ns2:Slipway ;
     rdfs:label "West side of Rethymno, note the slipways located west of the castle, still partly visible under the coastal boulevard"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

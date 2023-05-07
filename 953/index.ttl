@@ -7,7 +7,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/953> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/953> a ns2:Pila,
+        ns2:VillaMaritima ;
     rdfs:label "Inside Lago di Paola, several Roman villas incl. Piscina di Lucullo, with access via canal and breakwaters"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

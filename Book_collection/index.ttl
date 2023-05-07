@@ -5,7 +5,10 @@
 <http://data.archaeology.link/data/ancientports/Book_collection> a skos:Collection ;
     rdfs:label "Book Instances Collection" ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Maarleveld_2009_Boomstamboot>,
+    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes>,
+        <http://data.archaeology.link/data/ancientports/bib_Goddio_2007_Topography>,
+        <http://data.archaeology.link/data/ancientports/bib_Maarleveld_2009_Boomstamboot>,
         <http://data.archaeology.link/data/ancientports/bib_Milne_1985_Port>,
+        <http://data.archaeology.link/data/ancientports/bib_Morris_2021_Architecture>,
         <http://data.archaeology.link/data/ancientports/bib_Pieters_2013_Het> .
 

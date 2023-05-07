@@ -7,7 +7,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1351> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/1351> a ns2:Quay,
+        ns2:Warehouse ;
     rdfs:label "Aquilea, on ancient course of R Isonzo, Soca, now R Terzo & R Natissa"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

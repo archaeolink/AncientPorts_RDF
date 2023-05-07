@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Jakubiak_2020_Marina> a ns1:Article ;
+    dc:created "2020"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Jakubiak_Krzysztof> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "marIna el-alameIn (egypt): a topographIcal study and the functIonIng of an ancIent proVIncIal toWn on the medIterranean coast"@en ;
+    ns1:pageEnd 72 ;
+    ns1:pageStart 59 ;
+    ns1:publisher "Index Copernicus" ;
+    ns1:volume "58"^^xsd:string .
+

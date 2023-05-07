@@ -9,6 +9,8 @@
     dc:title "Settlements and Seafaring: Reflections on the Integration of Boats and Settlements Among Marine Foragers in Early Mesolithic Norway and the Yámana of Tierra del Fuego"@en ;
     ns1:doi "10.1080/15564894.2016.1190425"^^xsd:anyURI ;
     ns1:number 2 ;
+    ns1:pageEnd 299 ;
+    ns1:pageStart 276 ;
     ns1:publisher "Routledge" ;
     ns1:volume "12"^^xsd:string .
 

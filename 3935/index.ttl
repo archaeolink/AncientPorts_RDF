@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -7,11 +8,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3935> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3935> a ns2:Quay ;
     rdfs:label "Ras el-Teen, Ras el-Tin, before the heptastadion was built, this was an island quite similar to Tyre, many submerged structures are described by Jondet"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Weill_1916_Ports> ;
     ns2:date_min "-1200?"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3935_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q43244> ;

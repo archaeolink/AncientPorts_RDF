@@ -6,7 +6,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1630> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/1630> a <http://www.ancientports.com/ont#Shipyard>,
+        <http://www.ancientports.com/ont#Slipway> ;
     rdfs:label "Mounikhias, with possibly one lighthouse on each breakwater"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

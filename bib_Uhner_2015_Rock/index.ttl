@@ -8,5 +8,7 @@
         <http://data.archaeology.link/data/ancientports/author__Ling_Johan> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Rock Art and Metal Trade"@en ;
+    ns1:pageEnd 43 ;
+    ns1:pageStart 23 ;
     ns1:volume "2014"^^xsd:string .
 

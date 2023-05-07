@@ -6,7 +6,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/351> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/351> a ns2:Lighthouse,
+        ns2:Shipshed,
+        ns2:Slipway ;
     rdfs:label "Carteya, El Rocadillo San Roque, outlet of R Guadarranque in the bay of Algeciras"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

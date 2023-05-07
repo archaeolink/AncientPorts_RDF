@@ -6,19 +6,29 @@ var minivowlresult={
  ],
  "nodes": [
   {
-   "name": "Point",
-   "type": "class",
-   "uri": "http://www.opengis.net/ont/sf#Point"
-  },
-  {
    "name": "Harbour",
    "type": "class",
    "uri": "http://www.ancientports.com/ont#Harbour"
   },
   {
-   "name": "Article",
+   "name": "Point",
    "type": "class",
-   "uri": "http://purl.org/ontology/bibo/Article"
+   "uri": "http://www.opengis.net/ont/sf#Point"
+  },
+  {
+   "name": "VillaMaritima",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#VillaMaritima"
+  },
+  {
+   "name": "Slipway",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Slipway"
+  },
+  {
+   "name": "Shipyard",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Shipyard"
   },
   {
    "name": "Person",
@@ -26,9 +36,59 @@ var minivowlresult={
    "uri": "http://xmlns.com/foaf/0.1/Person"
   },
   {
+   "name": "Quay",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Quay"
+  },
+  {
+   "name": "Warehouse",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Warehouse"
+  },
+  {
+   "name": "Article",
+   "type": "class",
+   "uri": "http://purl.org/ontology/bibo/Article"
+  },
+  {
+   "name": "Pila",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Pila"
+  },
+  {
+   "name": "Lighthouse",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Lighthouse"
+  },
+  {
+   "name": "Shipshed",
+   "type": "class",
+   "uri": "http://www.ancientports.com/ont#Shipshed"
+  },
+  {
+   "name": "Book",
+   "type": "class",
+   "uri": "http://purl.org/ontology/bibo/Book"
+  },
+  {
    "name": "BookSection",
    "type": "class",
    "uri": "http://purl.org/ontology/bibo/BookSection"
+  },
+  {
+   "name": "Thesis",
+   "type": "class",
+   "uri": "http://purl.org/ontology/bibo/Thesis"
+  },
+  {
+   "name": "Proceedings",
+   "type": "class",
+   "uri": "http://purl.org/ontology/bibo/Proceedings"
+  },
+  {
+   "name": "ObjectProperty",
+   "type": "class",
+   "uri": "http://www.w3.org/2002/07/owl#ObjectProperty"
   },
   {
    "name": "DatatypeProperty",
@@ -39,109 +99,341 @@ var minivowlresult={
    "name": "Class",
    "type": "class",
    "uri": "http://www.w3.org/2002/07/owl#Class"
-  },
-  {
-   "name": "Proceedings",
-   "type": "class",
-   "uri": "http://purl.org/ontology/bibo/Proceedings"
-  },
-  {
-   "name": "Thesis",
-   "type": "class",
-   "uri": "http://purl.org/ontology/bibo/Thesis"
-  },
-  {
-   "name": "ObjectProperty",
-   "type": "class",
-   "uri": "http://www.w3.org/2002/07/owl#ObjectProperty"
-  },
-  {
-   "name": "Book",
-   "type": "class",
-   "uri": "http://purl.org/ontology/bibo/Book"
   }
  ],
  "links": [
   {
-   "source": 1,
-   "target": 0,
+   "source": 2,
+   "target": 1,
    "valueTo": "hasGeometry",
    "propertyTo": "class",
    "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
    "source": 4,
-   "target": 3,
-   "valueTo": "creator",
+   "target": 1,
+   "valueTo": "hasGeometry",
    "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 7,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 0,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 11,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 3,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 6,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
    "source": 10,
-   "target": 3,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 9,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 15,
+   "target": 5,
    "valueTo": "creator",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/elements/1.1/creator"
   },
   {
    "source": 2,
-   "target": 3,
+   "target": 5,
    "valueTo": "creator",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/elements/1.1/creator"
   },
   {
-   "source": 1,
-   "target": 3,
+   "source": 4,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 14,
+   "target": 5,
    "valueTo": "creator",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/elements/1.1/creator"
   },
   {
    "source": 7,
-   "target": 3,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 0,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 11,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 12,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 13,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 3,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 6,
+   "target": 5,
    "valueTo": "creator",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/elements/1.1/creator"
   },
   {
    "source": 8,
-   "target": 3,
+   "target": 5,
    "valueTo": "creator",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/elements/1.1/creator"
   },
   {
-   "source": 1,
-   "target": 4,
+   "source": 10,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 9,
+   "target": 5,
+   "valueTo": "creator",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/elements/1.1/creator"
+  },
+  {
+   "source": 2,
+   "target": 15,
    "valueTo": "isReferencedBy",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/terms/isReferencedBy"
   },
   {
-   "source": 1,
-   "target": 10,
+   "source": 2,
+   "target": 14,
    "valueTo": "isReferencedBy",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/terms/isReferencedBy"
   },
   {
-   "source": 1,
-   "target": 2,
+   "source": 2,
+   "target": 12,
    "valueTo": "isReferencedBy",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/terms/isReferencedBy"
   },
   {
-   "source": 1,
-   "target": 7,
-   "valueTo": "isReferencedBy",
-   "propertyTo": "class",
-   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
-  },
-  {
-   "source": 1,
+   "source": 2,
    "target": 8,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 2,
+   "target": 13,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 0,
+   "target": 15,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 0,
+   "target": 14,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 0,
+   "target": 12,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 0,
+   "target": 8,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 0,
+   "target": 13,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 11,
+   "target": 15,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 11,
+   "target": 14,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 11,
+   "target": 12,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 11,
+   "target": 8,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 11,
+   "target": 13,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 3,
+   "target": 15,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 3,
+   "target": 14,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 3,
+   "target": 12,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 3,
+   "target": 8,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 3,
+   "target": 13,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 6,
+   "target": 15,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 6,
+   "target": 14,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 6,
+   "target": 12,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 6,
+   "target": 8,
+   "valueTo": "isReferencedBy",
+   "propertyTo": "class",
+   "uriTo": "http://purl.org/dc/terms/isReferencedBy"
+  },
+  {
+   "source": 6,
+   "target": 13,
    "valueTo": "isReferencedBy",
    "propertyTo": "class",
    "uriTo": "http://purl.org/dc/terms/isReferencedBy"

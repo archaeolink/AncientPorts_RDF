@@ -6,7 +6,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/4343> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbanié is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\r
+    rdfs:label """This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbanié is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...
 Note that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South."""@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

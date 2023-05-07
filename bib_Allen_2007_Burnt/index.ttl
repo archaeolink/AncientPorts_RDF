@@ -11,5 +11,7 @@
     dc:title "Burnt Kimmeridgian Shale At Early Roman Silchester, South-East England, And The Roman Poole–Purbeck Complex-Agglomerated Geomaterials Industry"@en ;
     ns1:doi "https://doi.org/10.1111/j.1468-0092.2007.00279.x"^^xsd:anyURI ;
     ns1:number 2 ;
+    ns1:pageEnd 191 ;
+    ns1:pageStart 167 ;
     ns1:volume "26"^^xsd:string .
 

@@ -7,7 +7,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3934> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3934> a ns2:Lighthouse,
+        ns2:Pila,
+        ns2:Quay,
+        ns2:Shipyard ;
     rdfs:label "Alexandria, also called « Le Phare », The Pharos, includes several now submerged ports, it also includes a drydock (acc. to Athenaeus)"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

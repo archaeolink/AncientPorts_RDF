@@ -9,6 +9,8 @@
     dc:title "Where are the Missing Boats? The Pioneer Settlement of Norway as Long-Term History"@en ;
     ns1:doi "10.1080/00293652.2013.777095"^^xsd:anyURI ;
     ns1:number 1 ;
+    ns1:pageEnd 80 ;
+    ns1:pageStart 57 ;
     ns1:publisher "Routledge" ;
     ns1:volume "46"^^xsd:string .
 
