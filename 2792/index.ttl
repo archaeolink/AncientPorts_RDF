@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65073096> ;
     skos:note "Dan (2009)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/844852> ;
-    ns2:P17 "TR: Black Sea"^^xsd:string .
+    ns2:P17 "TR: Black Sea"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27455> .
 

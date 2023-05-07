@@ -15,5 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q16548926> ;
     skos:note "Kraft (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/573287> ;
-    ns1:P17 "GR: Pelop"^^xsd:string .
+    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/46273> ;
+    ns1:P8068 <https://topostext.org/place/378213UKik> .
 

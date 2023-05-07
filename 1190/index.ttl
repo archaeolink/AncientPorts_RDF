@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q631432> ;
     ns1:P1584 <http://pleiades.stoa.org/places/462497> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/22346> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22632> ;
+    ns1:P1958 <https://www.trismegistos.org/place/22346> ;
+    ns1:P8068 <https://topostext.org/place/381135USol> .
 

@@ -18,5 +18,7 @@
     skos:note "Poidebard (1939)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678437> ;
     ns1:P17 "Lebanon"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/2491> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21116> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2491> ;
+    ns1:P8068 <https://topostext.org/place/333352PTyr> .
 

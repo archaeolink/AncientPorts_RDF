@@ -18,5 +18,7 @@
     skos:note "Cambi (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197502> ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> ;
-    ns1:P1958 <https://www.trismegistos.org/place/28797> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/10944> ;
+    ns1:P1958 <https://www.trismegistos.org/place/28797> ;
+    ns1:P8068 <https://topostext.org/place/438159USca> .
 

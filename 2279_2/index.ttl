@@ -14,5 +14,6 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2279_2_geom> ;
     skos:note "Campbell (2017)" ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/376265QPet> .
 

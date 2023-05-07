@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1379_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2572091> ;
     skos:note "Auriemma (2009)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q224> .
+    ns1:P17 <http://www.wikidata.org/entity/Q224> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/42905> .
 

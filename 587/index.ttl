@@ -18,5 +18,7 @@
     skos:note "Arthuis (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138533> ;
     ns1:P17 "France West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/14251> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/11957> ;
+    ns1:P1958 <https://www.trismegistos.org/place/14251> ;
+    ns1:P8068 <https://topostext.org/place/472000UXRa> .
 

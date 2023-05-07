@@ -18,5 +18,7 @@
     skos:note "Young (1941)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/580057> ;
     ns1:P17 "GR: Attica +"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60643> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/46589> ;
+    ns1:P1958 <https://www.trismegistos.org/place/60643> ;
+    ns1:P8068 <https://topostext.org/place/376241HPan> .
 

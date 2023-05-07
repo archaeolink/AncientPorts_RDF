@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1969_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q57777690> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60703> .
+    ns1:P1958 <https://www.trismegistos.org/place/60703> ;
+    ns1:P8068 <https://topostext.org/place/380230FOin> .
 

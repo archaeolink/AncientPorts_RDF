@@ -14,5 +14,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2124_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/589867> ;
     ns2:P17 "GR: Cyclades Isl."^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/1105> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/43617> ;
+    ns2:P1958 <https://www.trismegistos.org/place/1105> ;
+    ns2:P8068 <https://topostext.org/place/368245PKim> .
 

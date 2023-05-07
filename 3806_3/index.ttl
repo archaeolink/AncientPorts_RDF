@@ -18,5 +18,6 @@
     skos:note "Ramazzotti (2015)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/912845> ;
     ns1:P17 "Gulf"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22334> ;
     ns1:P1958 <https://www.trismegistos.org/place/54431> .
 

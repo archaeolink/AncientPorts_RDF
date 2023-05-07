@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/90_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q642227> ;
     ns2:P1584 <https://pleiades.stoa.org/places/83827> ;
-    ns2:P17 "UK"^^xsd:string .
+    ns2:P17 "UK"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/23721.html> ;
+    ns2:P8068 <https://topostext.org/place/509000UCla> .
 

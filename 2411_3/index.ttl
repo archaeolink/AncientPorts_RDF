@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1749015> ;
     ns1:P1584 <http://pleiades.stoa.org/places/520974> ;
     ns1:P17 "TR: Bosph N"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60998> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31454> ;
+    ns1:P1958 <https://www.trismegistos.org/place/60998> ;
+    ns1:P8068 <https://topostext.org/place/410289UBla> .
 

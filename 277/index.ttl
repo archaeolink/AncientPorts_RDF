@@ -17,5 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q5668237> ;
     skos:note "Teichner (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/256255> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q45> .
+    ns1:P17 <http://www.wikidata.org/entity/Q45> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31277> ;
+    ns1:P8068 <https://topostext.org/place/371000ULac> .
 

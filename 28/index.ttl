@@ -18,5 +18,6 @@
     skos:note "Zeeuws Museum (2018)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/98918> ;
     ns2:P17 <http://www.wikidata.org/entity/Q55> ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/13018> ;
     ns2:P1958 <https://www.trismegistos.org/place/24466> .
 

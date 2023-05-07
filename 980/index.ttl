@@ -18,5 +18,7 @@
     skos:note "Benini (2005)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/432941> ;
     ns2:P17 "Italy West"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/3152> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/16720> ;
+    ns2:P1958 <https://www.trismegistos.org/place/3152> ;
+    ns2:P8068 <https://topostext.org/place/408141HMis> .
 

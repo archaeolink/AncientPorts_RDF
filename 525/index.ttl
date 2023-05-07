@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q640089> ;
     ns1:P1584 <http://pleiades.stoa.org/places/109120> ;
     ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/266> ;
     ns1:P1958 <https://www.trismegistos.org/place/23770> .
 

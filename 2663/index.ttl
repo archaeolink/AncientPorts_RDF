@@ -18,5 +18,7 @@
     skos:note "Hojte (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/854695> ;
     ns1:P17 "Russia Black S."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/38269> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22017> ;
+    ns1:P1958 <https://www.trismegistos.org/place/38269> ;
+    ns1:P8068 <https://topostext.org/place/453370UKep> .
 

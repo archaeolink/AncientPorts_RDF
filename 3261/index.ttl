@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q6977885> ;
     skos:note "Arnaud (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599922> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/43383> .
 

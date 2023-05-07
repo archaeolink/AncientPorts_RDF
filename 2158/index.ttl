@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q204096> ;
     skos:note "Simossi (2000)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/501634> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41114> .
 

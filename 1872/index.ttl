@@ -14,5 +14,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1872_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/570622> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60793> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21926> ;
+    ns1:P1958 <https://www.trismegistos.org/place/60793> ;
+    ns1:P8068 <https://topostext.org/place/378233HPog> .
 

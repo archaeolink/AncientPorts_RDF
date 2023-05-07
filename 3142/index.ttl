@@ -18,5 +18,7 @@
     skos:note "Kayan (2013)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/550771> ;
     ns2:P17 "TR: West"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/41382> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/29113> ;
+    ns2:P1958 <https://www.trismegistos.org/place/41382> ;
+    ns2:P8068 <https://topostext.org/place/385272PSmy> .
 

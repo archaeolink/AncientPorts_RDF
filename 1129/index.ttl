@@ -11,5 +11,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1129_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/462526> ;
-    ns1:P17 "Italy Sicily"^^xsd:string .
+    ns1:P17 "Italy Sicily"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/46204> .
 

@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2545_geom> ;
     skos:note "Kozlovskaya (2017)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/226665> ;
-    ns2:P17 "Ukraine Black S."^^xsd:string .
+    ns2:P17 "Ukraine Black S."^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27931> .
 

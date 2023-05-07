@@ -18,5 +18,7 @@
     skos:note "Azzopardi (2012)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/170572802> ;
     ns1:P17 "Malta: Gozo"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/22304> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/25445> ;
+    ns1:P1958 <https://www.trismegistos.org/place/22304> ;
+    ns1:P8068 <https://topostext.org/place/360143IGau> .
 

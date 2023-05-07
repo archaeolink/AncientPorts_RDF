@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Terberger_Thomas> a foaf:Person ;
-    rdfs:label " Terberger, Thomas"@en ;
+    rdfs:label "Terberger, Thomas"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Terberger"@en ;
+    foaf:family_Name "Terberger"@en ;
     foaf:firstName "Thomas"@en .
 

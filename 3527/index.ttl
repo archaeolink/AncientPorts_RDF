@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q867603> ;
     ns1:P1584 <http://pleiades.stoa.org/places/746806> ;
     ns1:P17 "Egypt: G. of Suez"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28682> ;
     ns1:P1958 <https://www.trismegistos.org/place/7000> .
 

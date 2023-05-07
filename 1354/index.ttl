@@ -18,5 +18,7 @@
     skos:note "Terre di Mare (2007)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/187578> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/12317> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/10735> ;
+    ns1:P1958 <https://www.trismegistos.org/place/12317> ;
+    ns1:P8068 <https://topostext.org/place/456138UTer> .
 

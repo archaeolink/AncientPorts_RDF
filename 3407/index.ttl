@@ -18,5 +18,6 @@
     skos:note "Pamir (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/658535> ;
     ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/30384> ;
     ns1:P1958 <https://www.trismegistos.org/place/37509> .
 

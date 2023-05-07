@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1378_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1938608> ;
     skos:note "Terre di Mare (2007)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q224> .
+    ns1:P17 <http://www.wikidata.org/entity/Q224> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/44530> .
 

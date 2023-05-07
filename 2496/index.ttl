@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2496_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5113748> ;
     ns1:P1584 <http://pleiades.stoa.org/places/226508> ;
-    ns1:P17 "Romania Black S."^^xsd:string .
+    ns1:P17 "Romania Black S."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21793> .
 

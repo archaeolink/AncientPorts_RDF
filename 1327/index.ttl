@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1327_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/393429> ;
     ns2:P17 "Italy Adriatic"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/17829> ;
     ns2:P1958 <https://www.trismegistos.org/place/31380> .
 

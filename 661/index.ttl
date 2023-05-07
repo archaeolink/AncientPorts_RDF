@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/661_geom> ;
     skos:note "Moerman (1994)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/148068> ;
-    ns2:P17 "France South"^^xsd:string .
+    ns2:P17 "France South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/14038> .
 

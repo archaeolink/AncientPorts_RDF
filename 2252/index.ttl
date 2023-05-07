@@ -13,5 +13,7 @@
     ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2252_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/550662> ;
-    ns2:P17 "GR: Eastern Isl."^^xsd:string .
+    ns2:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/29074> ;
+    ns2:P8068 <https://topostext.org/place/383261XKon> .
 

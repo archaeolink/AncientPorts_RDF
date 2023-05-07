@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/751_geom> ;
     skos:note "Mattei (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/472081> ;
-    ns1:P17 "France Corsica"^^xsd:string .
+    ns1:P17 "France Corsica"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/32851> .
 

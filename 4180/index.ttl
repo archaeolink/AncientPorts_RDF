@@ -18,5 +18,7 @@
     skos:note "Pleuger (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/315248> ;
     ns1:P17 "Tunisia"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/7796> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21608> ;
+    ns1:P1958 <https://www.trismegistos.org/place/7796> ;
+    ns1:P8068 <https://topostext.org/place/371101UUti> .
 

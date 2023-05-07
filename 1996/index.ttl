@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1996_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1620506> ;
     ns1:P1584 <http://pleiades.stoa.org/places/531057> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string .
+    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31624> ;
+    ns1:P8068 <https://topostext.org/place/386206PPha> .
 

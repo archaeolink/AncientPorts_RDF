@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3649_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q978441> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39345> ;
-    ns1:P17 "Yemen: Red Sea"^^xsd:string .
+    ns1:P17 "Yemen: Red Sea"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41314> .
 

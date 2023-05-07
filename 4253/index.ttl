@@ -13,5 +13,6 @@
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4253_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/295238> ;
-    ns2:P17 "Algeria"^^xsd:string .
+    ns2:P17 "Algeria"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27050> .
 

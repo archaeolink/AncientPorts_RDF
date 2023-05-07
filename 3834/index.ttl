@@ -15,5 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q691052> ;
     skos:note "Marcotte (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/29586> ;
-    ns1:P17 "Gulf"^^xsd:string .
+    ns1:P17 "Gulf"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27101> .
 

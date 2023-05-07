@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q723091> ;
     ns1:P1584 <http://pleiades.stoa.org/places/550535> ;
     ns1:P17 "TR: West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/16207> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21201> ;
+    ns1:P1958 <https://www.trismegistos.org/place/16207> ;
+    ns1:P8068 <https://topostext.org/place/384265PEry> .
 

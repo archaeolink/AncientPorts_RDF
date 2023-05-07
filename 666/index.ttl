@@ -18,5 +18,7 @@
     skos:note "Hesnard (2004)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/148127> ;
     ns1:P17 "France South"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/1318> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/176> ;
+    ns1:P1958 <https://www.trismegistos.org/place/1318> ;
+    ns1:P8068 <https://topostext.org/place/433054PMas> .
 

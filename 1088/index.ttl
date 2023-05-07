@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q7659484> ;
     ns1:P1584 <http://pleiades.stoa.org/places/452458> ;
     ns1:P17 "Italy West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/33076> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/30489> ;
+    ns1:P1958 <https://www.trismegistos.org/place/33076> ;
+    ns1:P8068 <https://topostext.org/place/397165PSyb> .
 

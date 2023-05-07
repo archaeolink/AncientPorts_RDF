@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q7131531> ;
     ns1:P1584 <http://pleiades.stoa.org/places/481944> ;
     ns1:P17 "Albania"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/61115> .
+    ns1:P1958 <https://www.trismegistos.org/place/61115> ;
+    ns1:P8068 <https://topostext.org/place/401198HPan> .
 

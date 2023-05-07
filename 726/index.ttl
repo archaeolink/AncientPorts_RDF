@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q212399> ;
     ns1:P1584 <http://pleiades.stoa.org/places/472048> ;
     ns1:P17 "France Corsica"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/14385> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/16893> ;
+    ns1:P1958 <https://www.trismegistos.org/place/14385> ;
+    ns1:P8068 <https://topostext.org/place/421095PAla> .
 

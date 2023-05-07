@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Lyklema_E_> a foaf:Person ;
-    rdfs:label " Lyklema, E "@en ;
+    rdfs:label "Lyklema, E"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Lyklema"@en ;
+    foaf:family_Name "Lyklema"@en ;
     foaf:firstName "E"@en .
 

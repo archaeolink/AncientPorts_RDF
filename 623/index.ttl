@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/623_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q84710214> ;
     skos:note "Falguera (2003)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 "France South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/39307> .
 

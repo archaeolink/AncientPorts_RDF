@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1343280> ;
     skos:note "Devillers (2008)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
-    ns1:P1958 <https://www.trismegistos.org/place/37211> .
+    ns1:P1958 <https://www.trismegistos.org/place/37211> ;
+    ns1:P8068 <https://topostext.org/place/352339UEnk> .
 

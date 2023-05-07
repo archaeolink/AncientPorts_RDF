@@ -14,5 +14,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q173096> ;
     ns1:P1584 <http://pleiades.stoa.org/places/540775> ;
     ns1:P17 "GR: Evia"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/672> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41413> ;
+    ns1:P1958 <https://www.trismegistos.org/place/672> ;
+    ns1:P8068 <https://topostext.org/place/385239IEub> .
 

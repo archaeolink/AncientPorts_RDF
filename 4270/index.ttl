@@ -18,5 +18,6 @@
     skos:note "Laporte (2004)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/285521> ;
     ns1:P17 "Algeria"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21632> ;
     ns1:P1958 <https://www.trismegistos.org/place/20628> .
 

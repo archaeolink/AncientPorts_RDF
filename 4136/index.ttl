@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q466054> ;
     skos:note "Younes (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/324663> ;
-    ns1:P17 "Tunisia"^^xsd:string .
+    ns1:P17 "Tunisia"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/32502> .
 

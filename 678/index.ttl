@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/678_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q659484> ;
     skos:note "Bats (1992)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 "France South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/17861> .
 

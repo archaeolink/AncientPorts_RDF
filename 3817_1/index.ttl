@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3817_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q158928> ;
     ns2:P1584 <http://pleiades.stoa.org/places/922627> ;
-    ns2:P17 "Gulf"^^xsd:string .
+    ns2:P17 "Gulf"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/25235> .
 

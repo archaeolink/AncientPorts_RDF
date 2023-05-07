@@ -13,5 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1823_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17624162> ;
     ns1:P1584 <http://pleiades.stoa.org/places/507386> ;
-    ns1:P17 "GR: North-East"^^xsd:string .
+    ns1:P17 "GR: North-East"^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/99548> .
 

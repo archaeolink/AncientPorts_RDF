@@ -15,5 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q257785> ;
     skos:note "Dan (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/857148> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string .
+    ns1:P17 "TR: Black Sea"^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/416359WHal> .
 

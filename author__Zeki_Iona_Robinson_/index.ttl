@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Zeki_Iona_Robinson_> a foaf:Person ;
-    rdfs:label " Zeki, Iona Robinson "@en ;
+    rdfs:label "Zeki, Iona Robinson"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Zeki"@en ;
+    foaf:family_Name "Zeki"@en ;
     foaf:firstName "Iona Robinson"@en .
 

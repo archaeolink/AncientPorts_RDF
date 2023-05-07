@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Koehler_L> a foaf:Person ;
-    rdfs:label " Koehler, L"@en ;
+    rdfs:label "Koehler, L"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Koehler"@en ;
+    foaf:family_Name "Koehler"@en ;
     foaf:firstName "L"@en .
 

@@ -14,5 +14,6 @@
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/671_geom> ;
     skos:note "Arnaud (2004)" ;
-    ns2:P17 "France South"^^xsd:string .
+    ns2:P17 "France South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/14036> .
 

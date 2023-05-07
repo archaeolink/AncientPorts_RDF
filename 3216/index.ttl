@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3216_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q65065317> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599738> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 "TR: West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28988> .
 

@@ -16,5 +16,6 @@
     skos:note "Cirelli (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/393404> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/16621> ;
     ns1:P1958 <https://www.trismegistos.org/place/31930> .
 

@@ -18,5 +18,7 @@
     skos:note "Carlson (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550628> ;
     ns1:P17 "TR: West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60929> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/29063> ;
+    ns1:P1958 <https://www.trismegistos.org/place/60929> ;
+    ns1:P8068 <https://topostext.org/place/381266UKas> .
 

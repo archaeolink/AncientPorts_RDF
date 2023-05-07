@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Henk_Y_Raczynski_> a foaf:Person ;
-    rdfs:label " Henk, Y Raczynski "@en ;
+    rdfs:label "Henk, Y Raczynski"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Henk"@en ;
+    foaf:family_Name "Henk"@en ;
     foaf:firstName "Y Raczynski"@en .
 

@@ -11,5 +11,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2287_1_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599515> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/373268IArg> .
 

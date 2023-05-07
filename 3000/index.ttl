@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3000_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q11818846> ;
     ns2:P1584 <http://pleiades.stoa.org/places/589834> ;
-    ns2:P17 "GR: Crete South"^^xsd:string .
+    ns2:P17 "GR: Crete South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/28749> ;
+    ns2:P8068 <https://topostext.org/place/349248HKal> .
 

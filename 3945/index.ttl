@@ -18,5 +18,7 @@
     skos:note "Pichot (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727241> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/2260> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21708> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2260> ;
+    ns1:P8068 <https://topostext.org/place/309295UTap> .
 

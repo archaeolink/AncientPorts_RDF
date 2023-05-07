@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q168056> ;
     skos:note "Priestman (2013)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/29762> ;
-    ns2:P17 "Gulf"^^xsd:string .
+    ns2:P17 "Gulf"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27114> .
 

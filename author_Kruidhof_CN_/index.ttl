@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author_Kruidhof_CN_> a foaf:Person ;
-    rdfs:label "Kruidhof, CN "@en ;
+    rdfs:label "Kruidhof, CN"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     foaf:family_Name "Kruidhof"@en ;
     foaf:firstName "CN"@en .

@@ -40016,7 +40016,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Harbour",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "halfgeoclass",
-        "text": "Harbour (ns1:Harbour) [5710]",
+        "text": "Harbour (ns2:Harbour) [5710]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -40041,9 +40041,6 @@ var tree={
             "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
-            "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
-            },
             "http://www.wikidata.org/prop/direct/P17": {
               "instancecount": 1
             }
@@ -40055,7 +40052,7 @@ var tree={
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 8
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#Feature",
@@ -40128,10 +40125,10 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://data.archaeology.link/data/ancientports/bib_Allen_2007_Burnt",
+        "id": "http://data.archaeology.link/data/ancientports/bib_Wang_2016_Tin",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
-        "text": "Burnt Kimmeridgian Shale At Early Roman Silchester, South-East England, And The Roman Poole\u2013Purbeck Complex-Agglomerated Geomaterials Industry (bib_Allen_2007_Burnt)",
+        "text": "Tin ingots from a probable Bronze Age shipwreck off the coast of Salcombe, Devon: Composition and microstructure (bib_Wang_2016_Tin)",
         "data": {}
       },
       {
@@ -40191,6 +40188,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Wang_2018_Copper",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Copper ingots from a probable Bronze Age shipwreck off the coast of Salcombe, Devon: Composition and microstructure (bib_Wang_2018_Copper)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Wickler_2019_Early",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -40208,17 +40212,20 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Article",
         "parent": "#",
         "type": "class",
-        "text": "Article (bibo:Article) [20]",
+        "text": "Article (bibo:Article) [21]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1,
-              "http://xmlns.com/foaf/0.1/Person": 1
+              "instancecount": 3,
+              "http://xmlns.com/foaf/0.1/Person": 3
             },
             "http://purl.org/dc/elements/1.1/title": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/number": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageEnd": {
@@ -40227,7 +40234,7 @@ var tree={
             "http://purl.org/ontology/bibo/pageStart": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/publisher": {
+            "http://purl.org/ontology/bibo/volume": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -40235,17 +40242,13 @@ var tree={
             }
           },
           "from": {
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 1
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 10
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kloo\u00df_2009_The",
@@ -40333,10 +40336,13 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 10,
-              "http://xmlns.com/foaf/0.1/Person": 10
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/publisher": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -40350,7 +40356,7 @@ var tree={
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 5
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding",
@@ -40388,6 +40394,10 @@ var tree={
             }
           },
           "from": {
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 0,
+              "http://www.ancientports.com/ont#Harbour": 10
+            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
@@ -80404,17 +80414,10 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://data.archaeology.link/data/ancientports/author_Allen_J.R.L._",
-        "parent": "http://xmlns.com/foaf/0.1/Person",
-        "type": "instance",
-        "text": "Allen, J.R.L.  (author_Allen_J.R.L._)",
-        "data": {}
-      },
-      {
         "id": "http://data.archaeology.link/data/ancientports/author_Beuker_J_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Beuker, J  (author_Beuker_J_)",
+        "text": "Beuker, J (author_Beuker_J_)",
         "data": {}
       },
       {
@@ -80435,21 +80438,21 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/author_Brouwers_Will_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Brouwers, Will  (author_Brouwers_Will_)",
+        "text": "Brouwers, Will (author_Brouwers_Will_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Cerdan_Angel_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Cerdan, Angel  (author_Cerdan_Angel_)",
+        "text": "Cerdan, Angel (author_Cerdan_Angel_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Demey_Dieter_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Demey, Dieter  (author_Demey_Dieter_)",
+        "text": "Demey, Dieter (author_Demey_Dieter_)",
         "data": {}
       },
       {
@@ -80470,7 +80473,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/author_Halkon_Peter_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Halkon, Peter  (author_Halkon_Peter_)",
+        "text": "Halkon, Peter (author_Halkon_Peter_)",
         "data": {}
       },
       {
@@ -80491,28 +80494,28 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/author_Kloo\u00df_Stefanie_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Kloo\u00df, Stefanie  (author_Kloo\u00df_Stefanie_)",
+        "text": "Kloo\u00df, Stefanie (author_Kloo\u00df_Stefanie_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Knight_Mark_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Knight, Mark  (author_Knight_Mark_)",
+        "text": "Knight, Mark (author_Knight_Mark_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Kruidhof_CN_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Kruidhof, CN  (author_Kruidhof_CN_)",
+        "text": "Kruidhof, CN (author_Kruidhof_CN_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_L\u00fcbke_Harald_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "L\u00fcbke, Harald  (author_L\u00fcbke_Harald_)",
+        "text": "L\u00fcbke, Harald (author_L\u00fcbke_Harald_)",
         "data": {}
       },
       {
@@ -80540,28 +80543,28 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/author_Missiaen_Tine_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Missiaen, Tine  (author_Missiaen_Tine_)",
+        "text": "Missiaen, Tine (author_Missiaen_Tine_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Pieters_Marnix_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Pieters, Marnix  (author_Pieters_Marnix_)",
+        "text": "Pieters, Marnix (author_Pieters_Marnix_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Rich_Sara_A_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Rich, Sara A  (author_Rich_Sara_A_)",
+        "text": "Rich, Sara A (author_Rich_Sara_A_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_Seinen_PA_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Seinen, PA  (author_Seinen_PA_)",
+        "text": "Seinen, PA (author_Seinen_PA_)",
         "data": {}
       },
       {
@@ -80575,7 +80578,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/author_Uhner_Claes_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "Uhner, Claes  (author_Uhner_Claes_)",
+        "text": "Uhner, Claes (author_Uhner_Claes_)",
         "data": {}
       },
       {
@@ -80610,301 +80613,322 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/author__Baeteman_Cecile_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Baeteman, Cecile  (author__Baeteman_Cecile_)",
+        "text": "Baeteman, Cecile (author__Baeteman_Cecile_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Ballantyne_Rachel_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Ballantyne, Rachel  (author__Ballantyne_Rachel_)",
+        "text": "Ballantyne, Rachel (author__Ballantyne_Rachel_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Besselaar_JA",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Besselaar, JA (author__Besselaar_JA)",
+        "text": "Besselaar, JA (author__Besselaar_JA)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Bollen_An_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Bollen, An  (author__Bollen_An_)",
+        "text": "Bollen, An (author__Bollen_An_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Claerhout_Chloe_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Claerhout, Chloe  (author__Claerhout_Chloe_)",
+        "text": "Claerhout, Chloe (author__Claerhout_Chloe_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Clogg_Philip_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Clogg, Philip  (author__Clogg_Philip_)",
+        "text": "Clogg, Philip (author__Clogg_Philip_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Cooremans_Brigitte_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Cooremans, Brigitte  (author__Cooremans_Brigitte_)",
+        "text": "Cooremans, Brigitte (author__Cooremans_Brigitte_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__De_Bie_M_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " De Bie, M  (author__De_Bie_M_)",
+        "text": "De Bie, M (author__De_Bie_M_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__De_Buyser_F_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " De Buyser, F  (author__De_Buyser_F_)",
+        "text": "De Buyser, F (author__De_Buyser_F_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__De_Clercq_Maikel_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " De Clercq, Maikel  (author__De_Clercq_Maikel_)",
+        "text": "De Clercq, Maikel (author__De_Clercq_Maikel_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__De_Clercq_Wim_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " De Clercq, Wim  (author__De_Clercq_Wim_)",
+        "text": "De Clercq, Wim (author__De_Clercq_Wim_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__De_Groote_A_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " De Groote, A  (author__De_Groote_A_)",
+        "text": "De Groote, A (author__De_Groote_A_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Decorte_K_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Decorte, K  (author__Decorte_K_)",
+        "text": "Decorte, K (author__Decorte_K_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Deforce_Koen_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Deforce, Koen  (author__Deforce_Koen_)",
+        "text": "Deforce, Koen (author__Deforce_Koen_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Demerre_Ine",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Demerre, Ine (author__Demerre_Ine)",
+        "text": "Demerre, Ine (author__Demerre_Ine)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Denys_Luc_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Denys, Luc  (author__Denys_Luc_)",
+        "text": "Denys, Luc (author__Denys_Luc_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Ervynck_Anton_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Ervynck, Anton  (author__Ervynck_Anton_)",
+        "text": "Ervynck, Anton (author__Ervynck_Anton_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Evangelinos_Dimitris_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Evangelinos, Dimitris  (author__Evangelinos_Dimitris_)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/ancientports/author__Fulford_M.G._",
-        "parent": "http://xmlns.com/foaf/0.1/Person",
-        "type": "instance",
-        "text": " Fulford, M.G.  (author__Fulford_M.G._)",
+        "text": "Evangelinos, Dimitris (author__Evangelinos_Dimitris_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Gibson_David",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Gibson, David (author__Gibson_David)",
+        "text": "Gibson, David (author__Gibson_David)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Henk_Y_Raczynski_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Henk, Y Raczynski  (author__Henk_Y_Raczynski_)",
+        "text": "Henk, Y Raczynski (author__Henk_Y_Raczynski_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Jansma_E_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Jansma, E  (author__Jansma_E_)",
+        "text": "Jansma, E (author__Jansma_E_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Koehler_L",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Koehler, L (author__Koehler_L)",
+        "text": "Koehler, L (author__Koehler_L)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Lentacker_Ann_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Lentacker, Ann  (author__Lentacker_Ann_)",
+        "text": "Lentacker, Ann (author__Lentacker_Ann_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Ling_Johan",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Ling, Johan (author__Ling_Johan)",
+        "text": "Ling, Johan (author__Ling_Johan)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Lyklema_E_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Lyklema, E  (author__Lyklema_E_)",
+        "text": "Lyklema, E (author__Lyklema_E_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__L\u00fcbke_Harald",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " L\u00fcbke, Harald (author__L\u00fcbke_Harald)",
+        "text": "L\u00fcbke, Harald (author__L\u00fcbke_Harald)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Momber_Garry",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Momber, Garry (author__Momber_Garry)",
+        "text": "Momber, Garry (author__Momber_Garry)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Niekus_MJLT",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Niekus, MJLT (author__Niekus_MJLT)",
+        "text": "Niekus, MJLT (author__Niekus_MJLT)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Ochoa_Carmen_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Ochoa, Carmen  (author__Ochoa_Carmen_)",
+        "text": "Ochoa, Carmen (author__Ochoa_Carmen_)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author__Roberts_Benjamin_W",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Roberts, Benjamin W (author__Roberts_Benjamin_W)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author__Roberts_Benjamin_W_",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Roberts, Benjamin W (author__Roberts_Benjamin_W_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Salido_Dom\u00ednguez_Javier",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Salido Dom\u00ednguez, Javier (author__Salido_Dom\u00ednguez_Javier)",
+        "text": "Salido Dom\u00ednguez, Javier (author__Salido_Dom\u00ednguez_Javier)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Schacht_Sigrid_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Schacht, Sigrid  (author__Schacht_Sigrid_)",
+        "text": "Schacht, Sigrid (author__Schacht_Sigrid_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Starley_David",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Starley, David (author__Starley_David)",
+        "text": "Starley, David (author__Starley_David)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Storme_Annelies_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Storme, Annelies  (author__Storme_Annelies_)",
+        "text": "Storme, Annelies (author__Storme_Annelies_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Terberger_Thomas",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Terberger, Thomas (author__Terberger_Thomas)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/ancientports/author__Todd_J.A.",
-        "parent": "http://xmlns.com/foaf/0.1/Person",
-        "type": "instance",
-        "text": " Todd, J.A. (author__Todd_J.A.)",
+        "text": "Terberger, Thomas (author__Terberger_Thomas)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Vanhoutte_Sofie_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Vanhoutte, Sofie  (author__Vanhoutte_Sofie_)",
+        "text": "Vanhoutte, Sofie (author__Vanhoutte_Sofie_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Watts_Ryan_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Watts, Ryan  (author__Watts_Ryan_)",
+        "text": "Watts, Ryan (author__Watts_Ryan_)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author__Wilkin_Neil",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Wilkin, Neil (author__Wilkin_Neil)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Zeki_Iona_Robinson_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Zeki, Iona Robinson  (author__Zeki_Iona_Robinson_)",
+        "text": "Zeki, Iona Robinson (author__Zeki_Iona_Robinson_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author_ers_M_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "ers, M  (author_ers_M_)",
+        "text": "ers, M (author_ers_M_)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Wang_Quanyu_",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Wang, Quanyu (author_Wang_Quanyu_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Bastiaens_Jan_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Bastiaens, Jan  (author__Bastiaens_Jan_)",
+        "text": "Bastiaens, Jan (author__Bastiaens_Jan_)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/author__Pieters_Marnix_",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": " Pieters, Marnix  (author__Pieters_Marnix_)",
+        "text": "Pieters, Marnix (author__Pieters_Marnix_)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author__Strekopytov_Stanislav_",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Strekopytov, Stanislav (author__Strekopytov_Stanislav_)",
         "data": {}
       },
       {
         "id": "http://xmlns.com/foaf/0.1/Person",
         "parent": "#",
         "type": "class",
-        "text": "Person (foaf:Person) [71]",
+        "text": "Person (foaf:Person) [73]",
         "data": {
           "to": {
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -81078,13 +81102,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 3,
-              "http://purl.org/ontology/bibo/BookSection": 3
+              "instancecount": 1,
+              "http://purl.org/ontology/bibo/Proceedings": 1
             }
           },
           "from": {}
         },
-        "instancecount": 5
+        "instancecount": 3
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Point_collection",

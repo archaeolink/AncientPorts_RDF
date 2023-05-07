@@ -16,5 +16,7 @@
     skos:note "Morabito (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/157894> ;
     ns1:P17 "France South"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/22361> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/186> ;
+    ns1:P1958 <https://www.trismegistos.org/place/22361> ;
+    ns1:P8068 <https://topostext.org/place/437073UNik> .
 

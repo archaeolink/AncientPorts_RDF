@@ -14,5 +14,6 @@
     ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4191_5_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q45894> ;
-    ns2:P17 "Tunisia"^^xsd:string .
+    ns2:P17 "Tunisia"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/29732> .
 

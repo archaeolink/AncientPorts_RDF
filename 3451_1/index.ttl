@@ -14,5 +14,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2399602> ;
     ns1:P1584 <https://pleiades.stoa.org/places/668180> ;
     ns1:P17 "Lebanon"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/61450> .
+    ns1:P1958 <https://www.trismegistos.org/place/61450> ;
+    ns1:P8068 <https://topostext.org/place/340356WAdo> .
 

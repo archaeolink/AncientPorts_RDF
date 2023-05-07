@@ -12,5 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/225_geom> ;
     skos:note "Carrearas (2012)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q45> .
+    ns1:P17 <http://www.wikidata.org/entity/Q45> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/40286> .
 

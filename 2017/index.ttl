@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2047660> ;
     ns1:P1584 <http://pleiades.stoa.org/places/531036> ;
     ns1:P17 "GR: Ionian Isl."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/37944> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31619> ;
+    ns1:P1958 <https://www.trismegistos.org/place/37944> ;
+    ns1:P8068 <https://topostext.org/place/382204UPal> .
 

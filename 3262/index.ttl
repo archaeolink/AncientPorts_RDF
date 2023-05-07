@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3262_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17624174> ;
     ns1:P1584 <http://pleiades.stoa.org/places/638902> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27741> .
 

@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1365_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1827556> ;
     skos:note "Macheboeuf (2013)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q224> .
+    ns1:P17 <http://www.wikidata.org/entity/Q224> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/38873> .
 

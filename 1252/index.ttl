@@ -18,5 +18,7 @@
     skos:note "Mastronuzzi (2017)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/442573> ;
     ns2:P17 "Italy Adriatic"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/14267> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/23196> ;
+    ns2:P1958 <https://www.trismegistos.org/place/14267> ;
+    ns2:P8068 <https://topostext.org/place/409174UEgn> .
 

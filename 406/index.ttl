@@ -18,5 +18,7 @@
     skos:note "Espinosa (2006)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/265880> ;
     ns2:P17 <http://www.wikidata.org/entity/Q29> ;
-    ns2:P1958 <https://www.trismegistos.org/place/27402> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/16846> ;
+    ns2:P1958 <https://www.trismegistos.org/place/27402> ;
+    ns2:P8068 <https://topostext.org/place/388001UDia> .
 

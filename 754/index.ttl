@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/754_geom> ;
     skos:note "Nervi (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/471906> ;
-    ns1:P17 "Italy Sardinia"^^xsd:string .
+    ns1:P17 "Italy Sardinia"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/30261> .
 

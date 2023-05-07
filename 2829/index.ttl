@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2829_geom> ;
     skos:note "Dan (2013)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/521020> ;
-    ns2:P17 "TR: Bosph S"^^xsd:string .
+    ns2:P17 "TR: Bosph S"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/31465> .
 

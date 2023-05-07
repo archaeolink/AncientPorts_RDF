@@ -18,5 +18,6 @@
     skos:note "Carayon (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678177> ;
     ns1:P17 "Lebanon"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/36495> ;
     ns1:P1958 <https://www.trismegistos.org/place/54481> .
 

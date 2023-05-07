@@ -18,5 +18,7 @@
     skos:note "Longhurst (2016)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/481939> ;
     ns2:P17 "Albania"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/15816> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21421> ;
+    ns2:P1958 <https://www.trismegistos.org/place/15816> ;
+    ns2:P8068 <https://topostext.org/place/403195UOri> .
 

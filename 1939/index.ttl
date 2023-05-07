@@ -14,5 +14,7 @@
     ns1:date_min "-1450"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1939_geom> ;
     skos:note "Zangger (1997)" ;
-    ns2:P17 "GR: Pelop"^^xsd:string .
+    ns2:P17 "GR: Pelop"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/46278> ;
+    ns2:P8068 <https://topostext.org/place/370217SRom> .
 

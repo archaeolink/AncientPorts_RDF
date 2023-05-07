@@ -18,5 +18,6 @@
     skos:note "Marcus (1998)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678261> ;
     ns1:P17 "Israel"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/33353> ;
     ns1:P1958 <https://www.trismegistos.org/place/37424> .
 

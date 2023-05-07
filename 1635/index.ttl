@@ -12,5 +12,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1635_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/580069> ;
     ns1:P17 "GR: Attica +"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60752> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41361> ;
+    ns1:P1958 <https://www.trismegistos.org/place/60752> ;
+    ns1:P8068 <https://topostext.org/place/378238IPha> .
 

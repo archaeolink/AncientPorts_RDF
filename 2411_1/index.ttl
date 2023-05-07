@@ -13,5 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2411_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q179839> ;
     ns1:P17 "TR: Bosph N"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/61063> .
+    ns1:P1958 <https://www.trismegistos.org/place/61063> ;
+    ns1:P8068 <https://topostext.org/place/410290WKer> .
 

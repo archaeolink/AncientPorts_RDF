@@ -11,5 +11,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1883_1_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/570694> ;
-    ns1:P17 "GR: Pelop"^^xsd:string .
+    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/43598> ;
+    ns1:P8068 <https://topostext.org/place/373233LStr> .
 

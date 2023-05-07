@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Ochoa_Carmen_> a foaf:Person ;
-    rdfs:label " Ochoa, Carmen "@en ;
+    rdfs:label "Ochoa, Carmen"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Ochoa"@en ;
+    foaf:family_Name "Ochoa"@en ;
     foaf:firstName "Carmen"@en .
 

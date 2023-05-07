@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Jansma_E_> a foaf:Person ;
-    rdfs:label " Jansma, E "@en ;
+    rdfs:label "Jansma, E"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Jansma"@en ;
+    foaf:family_Name "Jansma"@en ;
     foaf:firstName "E"@en .
 

@@ -13,5 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3268_geom> ;
     skos:note "Arnaud (2008)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/639044> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/43334> .
 

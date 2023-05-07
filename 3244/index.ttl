@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65066318> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599652> ;
     ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28963> ;
     ns1:P1958 <https://www.trismegistos.org/place/57174> .
 

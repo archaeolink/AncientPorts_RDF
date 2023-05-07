@@ -18,5 +18,6 @@
     skos:note "Bivolaru (2022)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/216900> ;
     ns1:P17 "Romania Black S."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21786> ;
     ns1:P1958 <https://www.trismegistos.org/place/30012> .
 

@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q203409> ;
     skos:note "Dan (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/857265> ;
-    ns1:P17 "Georgia Black S."^^xsd:string .
+    ns1:P17 "Georgia Black S."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/34177> .
 

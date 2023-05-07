@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q27241> ;
     ns1:P1584 <http://pleiades.stoa.org/places/314892> ;
     ns1:P17 "Tunisia"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/17308> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/23665> ;
+    ns1:P1958 <https://www.trismegistos.org/place/17308> ;
+    ns1:P8068 <https://topostext.org/place/368111UAsp> .
 

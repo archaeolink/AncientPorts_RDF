@@ -18,5 +18,6 @@
     skos:note "Soter (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570281> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27442> ;
     ns1:P1958 <https://www.trismegistos.org/place/37596> .
 

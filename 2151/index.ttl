@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q216768> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599535> ;
     ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/358> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/45911> ;
+    ns1:P1958 <https://www.trismegistos.org/place/358> ;
+    ns1:P8068 <https://topostext.org/place/365264PAst> .
 

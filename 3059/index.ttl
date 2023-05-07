@@ -18,5 +18,7 @@
     skos:note "Crawford (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707587> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
-    ns1:P1958 <https://www.trismegistos.org/place/12172> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22705> ;
+    ns1:P1958 <https://www.trismegistos.org/place/12172> ;
+    ns1:P8068 <https://topostext.org/place/347330UNea> .
 

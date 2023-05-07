@@ -18,5 +18,7 @@
     skos:note "Marcus (1998)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/687839> ;
     ns2:P17 "Israel"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/347> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21670> ;
+    ns2:P1958 <https://www.trismegistos.org/place/347> ;
+    ns2:P8068 <https://topostext.org/place/317345UAsh> .
 

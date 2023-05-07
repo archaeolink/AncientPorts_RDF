@@ -14,5 +14,6 @@
     skos:note "Demesticha (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/711256> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
-    ns1:P1958 <https://www.trismegistos.org/place/60826> .
+    ns1:P1958 <https://www.trismegistos.org/place/60826> ;
+    ns1:P8068 <https://topostext.org/place/353333UPal> .
 

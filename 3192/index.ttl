@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65067041> ;
     skos:note "Brueckner (2017)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/599670> ;
-    ns2:P17 "TR: West"^^xsd:string .
+    ns2:P17 "TR: West"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/28968> .
 

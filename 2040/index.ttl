@@ -16,5 +16,7 @@
     skos:note "Mourtzas (2022)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570623> ;
     ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/34104> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31051> ;
+    ns1:P1958 <https://www.trismegistos.org/place/34104> ;
+    ns1:P8068 <https://topostext.org/place/376243PPoi> .
 

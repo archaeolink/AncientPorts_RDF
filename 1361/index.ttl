@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1361_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q15877> ;
     skos:note "Stokin (2007)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q215> .
+    ns1:P17 <http://www.wikidata.org/entity/Q215> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/38874> .
 

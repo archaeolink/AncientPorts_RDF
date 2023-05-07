@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q959073> ;
     ns2:P1584 <https://pleiades.stoa.org/places/746773> ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/36227> ;
     ns2:P1958 <https://www.trismegistos.org/place/4999> .
 

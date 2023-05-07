@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1030_geom> ;
     skos:note "Tarlano (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/452345> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/30459> .
 

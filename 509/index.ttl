@@ -16,5 +16,6 @@
     skos:note "Philippe (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/108970> ;
     ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/1992> ;
     ns1:P1958 <https://www.trismegistos.org/place/25155> .
 

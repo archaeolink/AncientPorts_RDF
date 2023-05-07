@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author_Halkon_Peter_> a foaf:Person ;
-    rdfs:label "Halkon, Peter "@en ;
+    rdfs:label "Halkon, Peter"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     foaf:family_Name "Halkon"@en ;
     foaf:firstName "Peter"@en .

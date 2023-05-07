@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/630_geom> ;
     skos:note "Reille (2002)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/148072> ;
-    ns2:P17 "France South"^^xsd:string .
+    ns2:P17 "France South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/17497> .
 

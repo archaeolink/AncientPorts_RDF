@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2992_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q476546> ;
     skos:note "Chalikias (2015)" ;
-    ns2:P17 "GR: Crete South"^^xsd:string .
+    ns2:P17 "GR: Crete South"^^xsd:string ;
+    ns2:P8068 <https://topostext.org/place/350256UMyr> .
 

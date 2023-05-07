@@ -18,5 +18,7 @@
     skos:note "Flohr (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/433032> ;
     ns1:P17 "Italy West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/2788> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21352> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2788> ;
+    ns1:P8068 <https://topostext.org/place/407145PPom> .
 

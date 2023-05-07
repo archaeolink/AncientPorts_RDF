@@ -13,5 +13,6 @@
     ns1:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4119_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/963101349> ;
-    ns2:P17 "Tunisia"^^xsd:string .
+    ns2:P17 "Tunisia"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/36035> .
 

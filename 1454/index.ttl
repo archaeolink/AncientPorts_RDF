@@ -18,5 +18,7 @@
     skos:note "Kurilic (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197488> ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> ;
-    ns1:P1958 <https://www.trismegistos.org/place/7043> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/10939> ;
+    ns1:P1958 <https://www.trismegistos.org/place/7043> ;
+    ns1:P8068 <https://topostext.org/place/435165USal> .
 

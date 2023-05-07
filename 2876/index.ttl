@@ -18,5 +18,6 @@
     skos:note "Krauss (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/511207> ;
     ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31373> ;
     ns1:P1958 <https://www.trismegistos.org/place/57152> .
 

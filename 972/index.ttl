@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/972_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/433003> ;
     ns2:P17 "Italy West"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/29152> ;
     ns2:P1958 <https://www.trismegistos.org/place/42743> .
 

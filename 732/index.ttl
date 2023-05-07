@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/732_geom> ;
     skos:note "Brkojewitsch (2018)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/472113> ;
-    ns2:P17 "France Corsica"^^xsd:string .
+    ns2:P17 "France Corsica"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/31226> ;
+    ns2:P8068 <https://topostext.org/place/414092BPia> .
 

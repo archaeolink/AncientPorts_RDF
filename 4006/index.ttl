@@ -16,5 +16,6 @@
     skos:note "Laronde (1983)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/373833> ;
     ns2:P17 "Libya"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27247> ;
     ns2:P1958 <https://www.trismegistos.org/place/10966> .
 

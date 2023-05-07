@@ -18,5 +18,6 @@
     skos:note "Redon (2014)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/727136> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/42427> ;
     ns1:P1958 <https://www.trismegistos.org/place/59005> .
 

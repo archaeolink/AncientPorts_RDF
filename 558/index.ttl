@@ -18,5 +18,6 @@
     skos:note "DeFer (1705)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/69511> ;
     ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/8055> ;
     ns1:P1958 <https://www.trismegistos.org/place/41037> .
 

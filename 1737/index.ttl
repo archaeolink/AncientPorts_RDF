@@ -18,5 +18,7 @@
     skos:note "Ginalis (2021)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/541081> ;
     ns2:P17 "GR: North-East"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/38164> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/22747> ;
+    ns2:P1958 <https://www.trismegistos.org/place/38164> ;
+    ns2:P8068 <https://topostext.org/place/393228PPyr> .
 

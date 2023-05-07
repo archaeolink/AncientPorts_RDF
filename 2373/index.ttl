@@ -14,5 +14,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3196600> ;
     ns1:P1584 <http://pleiades.stoa.org/places/501487> ;
     ns1:P17 "TR: Marmara N"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/60988> .
+    ns1:P1958 <https://www.trismegistos.org/place/60988> ;
+    ns1:P8068 <https://topostext.org/place/401264LKyn> .
 

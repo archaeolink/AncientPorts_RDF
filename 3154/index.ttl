@@ -18,5 +18,7 @@
     skos:note "Erkanal (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550488> ;
     ns1:P17 "TR: West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/61472> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/29516> ;
+    ns1:P1958 <https://www.trismegistos.org/place/61472> ;
+    ns1:P8068 <https://topostext.org/place/386264UBou> .
 

@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author_ers_M_> a foaf:Person ;
-    rdfs:label "ers, M "@en ;
+    rdfs:label "ers, M"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     foaf:family_Name "ers"@en ;
     foaf:firstName "M"@en .

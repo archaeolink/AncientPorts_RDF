@@ -18,5 +18,7 @@
     skos:note "Redford (1996)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727156> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/1351> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21699> ;
+    ns1:P1958 <https://www.trismegistos.org/place/1351> ;
+    ns1:P8068 <https://topostext.org/place/310315UMen> .
 

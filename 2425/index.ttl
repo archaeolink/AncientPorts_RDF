@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q6097190> ;
     skos:note "Külzer (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/521068> ;
-    ns1:P17 "TR: Bosph N"^^xsd:string .
+    ns1:P17 "TR: Bosph N"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31477> .
 

@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1948_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7533695> ;
     skos:note "Kraft (2005)" ;
-    ns1:P17 "GR: Pelop"^^xsd:string .
+    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/377213BSta> .
 

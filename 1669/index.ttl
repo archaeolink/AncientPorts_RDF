@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1669_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q16627937> ;
     ns2:P1584 <http://pleiades.stoa.org/places/541088> ;
-    ns2:P17 "GR: Attica +"^^xsd:string .
+    ns2:P17 "GR: Attica +"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/29457> ;
+    ns2:P8068 <https://topostext.org/place/385235USal> .
 

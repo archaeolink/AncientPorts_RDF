@@ -18,5 +18,7 @@
     skos:note "Cline (2011)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/570740> ;
     ns2:P17 "GR: Pelop"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/37671> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/22611> ;
+    ns2:P1958 <https://www.trismegistos.org/place/37671> ;
+    ns2:P8068 <https://topostext.org/place/376228PTir> .
 

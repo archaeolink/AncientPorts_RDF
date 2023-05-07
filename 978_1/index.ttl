@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q72432> ;
     skos:note "Vanschoonwinkel (2006)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/433053> ;
-    ns2:P17 "Italy West"^^xsd:string .
+    ns2:P17 "Italy West"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/41252> .
 

@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q689466> ;
     ns1:P1584 <http://pleiades.stoa.org/places/246351> ;
     ns1:P17 "France South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/14074> ;
     ns1:P1958 <https://www.trismegistos.org/place/33187> .
 

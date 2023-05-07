@@ -16,5 +16,7 @@
     skos:note "Sotirakopoulou (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/590067> ;
     ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/2051> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41230> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2051> ;
+    ns1:P8068 <https://topostext.org/place/374249PSyr> .
 

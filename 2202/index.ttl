@@ -17,5 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q62558399> ;
     skos:note "Theodoulou (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550734> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22652> ;
+    ns1:P8068 <https://topostext.org/place/392263SMes> .
 

@@ -18,5 +18,6 @@
     skos:note "Mathe (2020)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138496> ;
     ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/11128> ;
     ns1:P1958 <https://www.trismegistos.org/place/40462> .
 

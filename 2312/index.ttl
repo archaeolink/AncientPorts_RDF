@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q429430> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599950> ;
     ns1:P17 "GR: Eastern Isl."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/33233> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41365> ;
+    ns1:P1958 <https://www.trismegistos.org/place/33233> ;
+    ns1:P8068 <https://topostext.org/place/366278PSym> .
 

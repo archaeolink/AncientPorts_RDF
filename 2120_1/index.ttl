@@ -14,5 +14,6 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2120_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1495996> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/367253XSka> .
 

@@ -17,5 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q7536281> ;
     skos:note "Ginalis (2018b)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/541023> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22966> ;
+    ns1:P8068 <https://topostext.org/place/391237PPep> .
 

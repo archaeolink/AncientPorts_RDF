@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3950_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/716546> ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/23589> ;
     ns2:P1958 <https://www.trismegistos.org/place/5301> .
 

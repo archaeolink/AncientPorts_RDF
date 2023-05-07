@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q38281115> ;
     ns1:P1584 <http://pleiades.stoa.org/places/540699> ;
     ns1:P17 "GR: North-West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/988> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21986> ;
+    ns1:P1958 <https://www.trismegistos.org/place/988> ;
+    ns1:P8068 <https://topostext.org/place/384215UKal> .
 

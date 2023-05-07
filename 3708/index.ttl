@@ -18,5 +18,7 @@
     skos:note "Glazer (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/746700> ;
     ns1:P17 "Gulf of Aqaba "^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/8852> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21749> ;
+    ns1:P1958 <https://www.trismegistos.org/place/8852> ;
+    ns1:P8068 <https://topostext.org/place/295350UAil> .
 

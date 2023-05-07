@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1893_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q60791451> ;
     ns2:P1584 <http://pleiades.stoa.org/places/570481> ;
-    ns2:P17 "GR: Pelop"^^xsd:string .
+    ns2:P17 "GR: Pelop"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/31017> ;
+    ns2:P8068 <https://topostext.org/place/374228HAnt> .
 

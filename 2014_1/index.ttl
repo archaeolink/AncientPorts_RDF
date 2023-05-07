@@ -10,5 +10,6 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2014_1_geom> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string .
+    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/381208HAgi> .
 

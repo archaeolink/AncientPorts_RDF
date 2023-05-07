@@ -13,5 +13,6 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1962_1_geom> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/3357> .
+    ns1:P1958 <https://www.trismegistos.org/place/3357> ;
+    ns1:P8068 <https://topostext.org/place/381224BDer> .
 

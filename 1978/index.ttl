@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1978_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3693378> ;
     skos:note "Finkler (2017)" ;
-    ns2:P17 "GR: Ionian Isl."^^xsd:string .
+    ns2:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21985> .
 

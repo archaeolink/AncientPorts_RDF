@@ -13,5 +13,7 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1618_2_geom> ;
     ns1:P17 "GR: Attica +"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/1331> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/34416> ;
+    ns1:P1958 <https://www.trismegistos.org/place/1331> ;
+    ns1:P8068 <https://topostext.org/place/380234XATr> .
 

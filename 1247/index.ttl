@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q13496> ;
     ns1:P1584 <http://pleiades.stoa.org/places/442509> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/11496> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/10962> ;
+    ns1:P1958 <https://www.trismegistos.org/place/11496> ;
+    ns1:P8068 <https://topostext.org/place/406179PBru> .
 

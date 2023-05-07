@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3965637> ;
     ns2:P1584 <http://pleiades.stoa.org/places/79690> ;
     ns2:P17 "UK"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/25766> ;
     ns2:P1958 <https://www.trismegistos.org/place/14762> .
 

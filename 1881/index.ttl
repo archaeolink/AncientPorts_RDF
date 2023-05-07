@@ -18,5 +18,7 @@
     skos:note "Jameson (1969)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570274> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/37659> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21924> ;
+    ns1:P1958 <https://www.trismegistos.org/place/37659> ;
+    ns1:P8068 <https://topostext.org/place/373231PHal> .
 

@@ -18,5 +18,6 @@
     skos:note "Schiettecatte (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/39269> ;
     ns1:P17 "Yemen Ind Oc."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27289> ;
     ns1:P1958 <https://www.trismegistos.org/place/3914> .
 

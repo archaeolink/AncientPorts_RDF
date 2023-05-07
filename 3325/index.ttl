@@ -13,5 +13,6 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3325_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/638951> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27757> .
 

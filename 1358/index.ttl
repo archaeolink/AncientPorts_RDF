@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1645039> ;
     skos:note "Stokin (2007)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197092> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q215> .
+    ns1:P17 <http://www.wikidata.org/entity/Q215> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/26367> .
 

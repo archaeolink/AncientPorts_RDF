@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q171080> ;
     ns2:P1584 <http://pleiades.stoa.org/places/197097> ;
     ns2:P17 "Montenegro"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21965> ;
     ns2:P1958 <https://www.trismegistos.org/place/29619> .
 

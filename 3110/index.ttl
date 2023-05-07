@@ -18,5 +18,7 @@
     skos:note "Külzer (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550840> ;
     ns1:P17 "TR: West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/56272> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27350> ;
+    ns1:P1958 <https://www.trismegistos.org/place/56272> ;
+    ns1:P8068 <https://topostext.org/place/395261UPol> .
 

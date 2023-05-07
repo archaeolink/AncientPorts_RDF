@@ -18,5 +18,6 @@
     skos:note "Taffet (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648691> ;
     ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/30299> ;
     ns1:P1958 <https://www.trismegistos.org/place/34269> .
 

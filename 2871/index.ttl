@@ -18,5 +18,7 @@
     skos:note "Gündüz (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/511423> ;
     ns1:P17 "TR: Marmara S"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/34147> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31436> ;
+    ns1:P1958 <https://www.trismegistos.org/place/34147> ;
+    ns1:P8068 <https://topostext.org/place/407293UStr> .
 

@@ -15,5 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65121702> ;
     skos:note "Uggeri (2003)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/589731> ;
-    ns1:P17 "GR: Crete South"^^xsd:string .
+    ns1:P17 "GR: Crete South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28767> ;
+    ns1:P8068 <https://topostext.org/place/352236UBie> .
 

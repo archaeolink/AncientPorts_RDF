@@ -1,19 +1,21 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1974> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/1974> a ns1:Harbour ;
     rdfs:label "Kassiopi, north of Corfu. Antonine calls it an island which it is not (anymore?) today."@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-330"^^xsd:gYear ;
+    ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1974_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q15297479> ;
-    ns1:P1584 <http://pleiades.stoa.org/places/530920> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string .
+    ns2:P1584 <http://pleiades.stoa.org/places/530920> ;
+    ns2:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/25855> ;
+    ns2:P8068 <https://topostext.org/place/398199UKas> .
 

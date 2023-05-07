@@ -13,5 +13,6 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1517_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/481962> ;
-    ns1:P17 "Albania"^^xsd:string .
+    ns1:P17 "Albania"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/23287> .
 

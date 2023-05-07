@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3457_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1367140> ;
     ns1:P1584 <http://pleiades.stoa.org/places/678014> ;
-    ns1:P17 "Lebanon"^^xsd:string .
+    ns1:P17 "Lebanon"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/33252> .
 

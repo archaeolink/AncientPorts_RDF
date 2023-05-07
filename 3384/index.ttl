@@ -18,5 +18,7 @@
     skos:note "Sauvage (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648548> ;
     ns1:P17 "TR: South"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/16484> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21246> ;
+    ns1:P1958 <https://www.trismegistos.org/place/16484> ;
+    ns1:P8068 <https://topostext.org/place/370353UAda> .
 

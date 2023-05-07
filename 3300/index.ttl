@@ -18,5 +18,7 @@
     skos:note "Cevik (2012)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/638745> ;
     ns2:P17 "TR: South"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/59660> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21558> ;
+    ns2:P1958 <https://www.trismegistos.org/place/59660> ;
+    ns2:P8068 <https://topostext.org/place/362299UAnd> .
 

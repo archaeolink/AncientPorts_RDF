@@ -16,5 +16,6 @@
     skos:note "Külzer (2011)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/511333> ;
     ns2:P17 "TR: Marmara N"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/23346> ;
     ns2:P1958 <https://www.trismegistos.org/place/41359> .
 

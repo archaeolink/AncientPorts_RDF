@@ -16,5 +16,7 @@
     skos:note "Marthari (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599672> ;
     ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/906> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/23505> ;
+    ns1:P1958 <https://www.trismegistos.org/place/906> ;
+    ns1:P8068 <https://topostext.org/place/367253PIos> .
 

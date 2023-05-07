@@ -16,5 +16,6 @@
     skos:note "Begemann (2001)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/472014> ;
     ns1:P17 "Italy Sardinia"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/3310> .
+    ns1:P1958 <https://www.trismegistos.org/place/3310> ;
+    ns1:P8068 <https://topostext.org/place/402920ISar> .
 

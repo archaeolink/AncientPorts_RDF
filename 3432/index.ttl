@@ -16,5 +16,6 @@
     skos:note "Braidwood (1940)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668372> ;
     ns1:P17 "Syria"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/33235> ;
     ns1:P1958 <https://www.trismegistos.org/place/37581> .
 

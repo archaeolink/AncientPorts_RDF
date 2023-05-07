@@ -18,5 +18,7 @@
     skos:note "Ghilhardi (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/579925> ;
     ns1:P17 "GR: Evia"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/659> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21973> ;
+    ns1:P1958 <https://www.trismegistos.org/place/659> ;
+    ns1:P8068 <https://topostext.org/place/384238PEre> .
 

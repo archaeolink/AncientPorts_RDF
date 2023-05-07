@@ -12,5 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/36_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q234> .
+    ns1:P17 <http://www.wikidata.org/entity/Q234> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/18980> .
 

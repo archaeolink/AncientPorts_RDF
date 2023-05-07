@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1819_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17625411> ;
     ns1:P1584 <http://pleiades.stoa.org/places/501469> ;
-    ns1:P17 "GR: North-East"^^xsd:string .
+    ns1:P17 "GR: North-East"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/32343> ;
+    ns1:P8068 <https://topostext.org/place/402242UKle> .
 

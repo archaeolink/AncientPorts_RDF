@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q60790692> ;
     ns1:P1584 <http://pleiades.stoa.org/places/570641> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/38171> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/43565> ;
+    ns1:P1958 <https://www.trismegistos.org/place/38171> ;
+    ns1:P8068 <https://topostext.org/place/377214UPyr> .
 

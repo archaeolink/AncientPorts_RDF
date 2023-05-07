@@ -16,5 +16,7 @@
     skos:note "Galili (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678025> ;
     ns1:P17 "Israel"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/12032> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21682> ;
+    ns1:P1958 <https://www.trismegistos.org/place/12032> ;
+    ns1:P8068 <https://topostext.org/place/322348UApo> .
 

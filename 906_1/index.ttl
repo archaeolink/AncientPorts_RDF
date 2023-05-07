@@ -18,5 +18,7 @@
     skos:note "Daum (2018)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/433061> ;
     ns2:P17 "Italy West"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/38449> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/17254> ;
+    ns2:P1958 <https://www.trismegistos.org/place/38449> ;
+    ns2:P8068 <https://topostext.org/place/410120UPyr> .
 

@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/706_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q239317> ;
     ns2:P1584 <https://pleiades.stoa.org/places/157814> ;
-    ns2:P17 "France South"^^xsd:string .
+    ns2:P17 "France South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/17375> .
 

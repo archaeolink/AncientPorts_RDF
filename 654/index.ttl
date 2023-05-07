@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/654_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3354393> ;
     skos:note "Marty (2002)" ;
-    ns2:P17 "France South"^^xsd:string .
+    ns2:P17 "France South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/8393> .
 

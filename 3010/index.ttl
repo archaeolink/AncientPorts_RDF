@@ -13,5 +13,7 @@
     ns1:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3010_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/589994> ;
-    ns2:P17 "GR: Crete South"^^xsd:string .
+    ns2:P17 "GR: Crete South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/41478> ;
+    ns2:P8068 <https://topostext.org/place/352243UPho> .
 

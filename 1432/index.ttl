@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1432_geom> ;
     skos:note "Matijasic (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197172> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q224> .
+    ns1:P17 <http://www.wikidata.org/entity/Q224> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/17964> .
 

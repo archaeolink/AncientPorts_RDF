@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2873_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q65044574> ;
     ns1:P1584 <http://pleiades.stoa.org/places/511407> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string .
+    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31430> .
 

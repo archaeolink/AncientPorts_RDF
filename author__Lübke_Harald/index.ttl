@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Lübke_Harald> a foaf:Person ;
-    rdfs:label " Lübke, Harald"@en ;
+    rdfs:label "Lübke, Harald"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Lübke"@en ;
+    foaf:family_Name "Lübke"@en ;
     foaf:firstName "Harald"@en .
 

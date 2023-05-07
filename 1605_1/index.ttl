@@ -12,5 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1605_1_geom> ;
-    ns2:P17 "GR: North-West"^^xsd:string .
+    ns2:P17 "GR: North-West"^^xsd:string ;
+    ns2:P8068 <https://topostext.org/place/384226XSte> .
 

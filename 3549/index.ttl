@@ -18,5 +18,7 @@
     skos:note "Peacock & Blue (2006)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/786069> ;
     ns1:P17 "Egypt: Red Sea"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/3156> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/30590> ;
+    ns1:P1958 <https://www.trismegistos.org/place/3156> ;
+    ns1:P8068 <https://topostext.org/place/262342UMyo> .
 

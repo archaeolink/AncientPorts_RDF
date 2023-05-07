@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65121534> ;
     ns2:P1584 <http://pleiades.stoa.org/places/589709> ;
     ns2:P17 "GR: Crete South"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/3512> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/28763> ;
+    ns2:P1958 <https://www.trismegistos.org/place/3512> ;
+    ns2:P8068 <https://topostext.org/place/350255UAri> .
 

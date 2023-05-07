@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1010_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3891134> ;
     ns1:P1584 <http://pleiades.stoa.org/places/433006> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22398> .
 

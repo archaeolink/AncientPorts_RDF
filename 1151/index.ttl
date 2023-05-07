@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1151_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/462125> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/23157> ;
     ns1:P1958 <https://www.trismegistos.org/place/22283> .
 

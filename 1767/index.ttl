@@ -14,5 +14,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3785102> ;
     ns1:P1584 <http://pleiades.stoa.org/places/491617> ;
     ns1:P17 "GR: North-East"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/33981> .
+    ns1:P1958 <https://www.trismegistos.org/place/33981> ;
+    ns1:P8068 <https://topostext.org/place/400226PHer> .
 

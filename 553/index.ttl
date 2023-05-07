@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/553_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3228348> ;
     skos:note "Galliou (1997)" ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/13269> .
 

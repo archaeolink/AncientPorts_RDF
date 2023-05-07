@@ -16,5 +16,7 @@
     skos:note "Polat (2017)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/550460> ;
     ns1:P17 "TR: West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/16242> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27350.html> ;
+    ns1:P1958 <https://www.trismegistos.org/place/16242> ;
+    ns1:P8068 <https://topostext.org/place/396268UAsp> .
 

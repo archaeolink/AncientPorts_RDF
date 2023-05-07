@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1829_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q18201614> ;
     ns2:P17 "GR: North-East"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/33645> .
+    ns2:P1958 <https://www.trismegistos.org/place/33645> ;
+    ns2:P8068 <https://topostext.org/place/407236FVra> .
 

@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2212_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q992270> ;
     ns1:P1584 <http://pleiades.stoa.org/places/550880> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27360> ;
+    ns1:P8068 <https://topostext.org/place/392259USig> .
 

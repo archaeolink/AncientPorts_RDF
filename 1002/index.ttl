@@ -18,5 +18,7 @@
     skos:note "Descoeudres (2000)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/433032> ;
     ns2:P17 "Italy West"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/2788> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21352> ;
+    ns2:P1958 <https://www.trismegistos.org/place/2788> ;
+    ns2:P8068 <https://topostext.org/place/407145PPom> .
 

@@ -16,5 +16,7 @@
     skos:note "Seton-Williams (1954)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648789> ;
     ns1:P17 "TR: South"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/2269> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21245> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2269> ;
+    ns1:P8068 <https://topostext.org/place/369349UTar> .
 

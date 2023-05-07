@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4001_2_geom> ;
     skos:note "Flemming (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/373873> ;
-    ns1:P17 "Libya"^^xsd:string .
+    ns1:P17 "Libya"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27262> .
 

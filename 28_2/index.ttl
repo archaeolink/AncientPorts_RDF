@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/28_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     skos:note "Zeeuws Museum (2018)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q55> .
+    ns1:P17 <http://www.wikidata.org/entity/Q55> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/39126> .
 

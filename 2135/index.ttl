@@ -13,5 +13,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2135_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/570692> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31070> ;
+    ns1:P8068 <https://topostext.org/place/367245XSto> .
 

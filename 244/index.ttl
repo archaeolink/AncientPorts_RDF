@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q821015> ;
     skos:note "Bugalhao (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/256272> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q45> .
+    ns1:P17 <http://www.wikidata.org/entity/Q45> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/40146> .
 

@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1306_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q584680> ;
     ns2:P1584 <http://pleiades.stoa.org/places/413208> ;
-    ns2:P17 "Italy Adriatic"^^xsd:string .
+    ns2:P17 "Italy Adriatic"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/26557> .
 

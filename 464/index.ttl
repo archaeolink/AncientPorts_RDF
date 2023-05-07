@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q385923> ;
     ns1:P1584 <http://pleiades.stoa.org/places/266004> ;
     ns1:P17 <http://www.wikidata.org/entity/Q8828> ;
-    ns1:P1958 <https://www.trismegistos.org/place/26335> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/24890> ;
+    ns1:P1958 <https://www.trismegistos.org/place/26335> ;
+    ns1:P8068 <https://topostext.org/place/398031UPol> .
 

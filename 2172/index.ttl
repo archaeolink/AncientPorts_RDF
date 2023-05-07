@@ -14,5 +14,6 @@
     ns2:date_min "-5000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2172_geom> ;
     skos:note "Girella (2015)" ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/404255XMVo> .
 

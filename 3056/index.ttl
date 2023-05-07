@@ -16,5 +16,7 @@
     skos:note "Manning (2000)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707544> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
-    ns1:P1958 <https://www.trismegistos.org/place/57656> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28427> ;
+    ns1:P1958 <https://www.trismegistos.org/place/57656> ;
+    ns1:P8068 <https://topostext.org/place/347333XTen> .
 

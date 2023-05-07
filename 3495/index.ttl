@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3495_geom> ;
     skos:note "Marcus (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678288> ;
-    ns1:P17 "Israel"^^xsd:string .
+    ns1:P17 "Israel"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28237> .
 

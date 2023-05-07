@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/30_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     skos:note "Eijskoot (2011)" ;
-    ns2:P17 <http://www.wikidata.org/entity/Q55> .
+    ns2:P17 <http://www.wikidata.org/entity/Q55> ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/19964> .
 

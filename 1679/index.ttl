@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3560404> ;
     ns2:P1584 <http://pleiades.stoa.org/places/540722> ;
     ns2:P17 "GR: Attica +"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/37858> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/25175> ;
+    ns2:P1958 <https://www.trismegistos.org/place/37858> ;
+    ns2:P8068 <https://topostext.org/place/387229UDap> .
 

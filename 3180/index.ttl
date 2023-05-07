@@ -16,5 +16,7 @@
     skos:note "Lohmann (2006)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599805> ;
     ns1:P17 "TR: West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/42605> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41140> ;
+    ns1:P1958 <https://www.trismegistos.org/place/42605> ;
+    ns1:P8068 <https://topostext.org/place/377271LMyc> .
 

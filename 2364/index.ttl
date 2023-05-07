@@ -18,5 +18,7 @@
     skos:note "Tsvetkova (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/501458> ;
     ns1:P17 "TR: Marmara N"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/1009> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21217> ;
+    ns1:P1958 <https://www.trismegistos.org/place/1009> ;
+    ns1:P8068 <https://topostext.org/place/405268UKar> .
 

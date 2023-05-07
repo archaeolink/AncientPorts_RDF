@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q237516> ;
     skos:note "Chausserie (2002)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/148125> ;
-    ns2:P17 "France South"^^xsd:string .
+    ns2:P17 "France South"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/11100> .
 

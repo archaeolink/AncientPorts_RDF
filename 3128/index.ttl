@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q30635900> ;
     skos:note "Laufer (2016)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/550524> ;
-    ns2:P17 "TR: West"^^xsd:string .
+    ns2:P17 "TR: West"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/43497> .
 

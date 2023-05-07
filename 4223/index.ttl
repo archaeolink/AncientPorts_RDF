@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2176808> ;
     ns1:P1584 <http://pleiades.stoa.org/places/295332> ;
     ns1:P17 "Algeria"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22128> ;
     ns1:P1958 <https://www.trismegistos.org/place/20630> .
 

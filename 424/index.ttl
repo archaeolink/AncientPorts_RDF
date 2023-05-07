@@ -13,5 +13,6 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/424_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/246529> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q29> .
+    ns1:P17 <http://www.wikidata.org/entity/Q29> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/18303> .
 

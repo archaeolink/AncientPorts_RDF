@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q619594> ;
     skos:note "Salles (TOPOI 2012)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/912807> ;
-    ns2:P17 "Gulf"^^xsd:string .
+    ns2:P17 "Gulf"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27141> .
 

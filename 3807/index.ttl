@@ -16,5 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q168518> ;
     ns1:P1584 <http://pleiades.stoa.org/places/912986> ;
     ns1:P17 "Gulf"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22332> ;
     ns1:P1958 <https://www.trismegistos.org/place/14026> .
 

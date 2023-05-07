@@ -5,8 +5,7 @@
 <http://data.archaeology.link/data/ancientports/Article_collection> a skos:Collection ;
     rdfs:label "Article Instances Collection" ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Allen_2007_Burnt>,
-        <http://data.archaeology.link/data/ancientports/bib_Beuker_1997_Kano>,
+    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Beuker_1997_Kano>,
         <http://data.archaeology.link/data/ancientports/bib_Bjerck_2017_Settlements>,
         <http://data.archaeology.link/data/ancientports/bib_Breivik_2014_Palaeo>,
         <http://data.archaeology.link/data/ancientports/bib_Brouwers_2013_Romeinse>,
@@ -24,5 +23,7 @@
         <http://data.archaeology.link/data/ancientports/bib_Seinen_2014_Late>,
         <http://data.archaeology.link/data/ancientports/bib_Uhner_2015_Rock>,
         <http://data.archaeology.link/data/ancientports/bib_Waasdorp_2012_Haag>,
+        <http://data.archaeology.link/data/ancientports/bib_Wang_2016_Tin>,
+        <http://data.archaeology.link/data/ancientports/bib_Wang_2018_Copper>,
         <http://data.archaeology.link/data/ancientports/bib_Wickler_2019_Early> .
 

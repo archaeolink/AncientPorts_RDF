@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2109_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q991283> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599596> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/43467> ;
+    ns1:P8068 <https://topostext.org/place/373258IDon> .
 

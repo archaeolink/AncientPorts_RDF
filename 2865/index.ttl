@@ -18,5 +18,7 @@
     skos:note "Texier (1839)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/511337> ;
     ns1:P17 "TR: Marmara S"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/6006> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21204> ;
+    ns1:P1958 <https://www.trismegistos.org/place/6006> ;
+    ns1:P8068 <https://topostext.org/place/408299PNik> .
 

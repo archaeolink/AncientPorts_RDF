@@ -17,5 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q421232> ;
     skos:note "Bruins (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599478> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22683> ;
+    ns1:P8068 <https://topostext.org/place/364254XAkr> .
 

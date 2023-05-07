@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/576_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q815838> ;
     ns1:P1584 <http://pleiades.stoa.org/places/138660> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/41075> .
 

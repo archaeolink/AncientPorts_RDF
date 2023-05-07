@@ -16,5 +16,7 @@
     skos:note "Malfatano (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462402> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/15654> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/42104> ;
+    ns1:P1958 <https://www.trismegistos.org/place/15654> ;
+    ns1:P8068 <https://topostext.org/place/371153IOrt> .
 

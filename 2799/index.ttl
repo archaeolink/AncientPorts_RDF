@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2799_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q65046796> ;
     ns2:P1584 <http://pleiades.stoa.org/places/845023> ;
-    ns2:P17 "TR: Black Sea"^^xsd:string .
+    ns2:P17 "TR: Black Sea"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27522> .
 

@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/422_geom> ;
     ns2:P1584 <http://pleiades.stoa.org/places/246705> ;
     ns2:P17 <http://www.wikidata.org/entity/Q29> ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/18305> ;
     ns2:P1958 <https://www.trismegistos.org/place/33206> .
 

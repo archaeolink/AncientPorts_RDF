@@ -13,5 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1625_geom> ;
     skos:note "Lolos (1989)" ;
     ns1:P17 "GR: Attica +"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/37803> .
+    ns1:P1958 <https://www.trismegistos.org/place/37803> ;
+    ns1:P8068 <https://topostext.org/place/379234XKoF> .
 

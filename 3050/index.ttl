@@ -18,5 +18,7 @@
     skos:note "Caraher (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707550> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
-    ns1:P1958 <https://www.trismegistos.org/place/3550> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22727> ;
+    ns1:P1958 <https://www.trismegistos.org/place/3550> ;
+    ns1:P8068 <https://topostext.org/place/349337XPyl> .
 

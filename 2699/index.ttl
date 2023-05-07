@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2699_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q211600> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857143> ;
-    ns1:P17 "Abkhazia Black S."^^xsd:string .
+    ns1:P17 "Abkhazia Black S."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/25182> .
 

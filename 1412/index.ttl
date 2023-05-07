@@ -16,5 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1412_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q396613> ;
     skos:note "Kurilic (2012)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q224> .
+    ns1:P17 <http://www.wikidata.org/entity/Q224> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22378> .
 

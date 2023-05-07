@@ -18,5 +18,7 @@
     skos:note "Uggeri (2003)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/589989> ;
     ns1:P17 "GR: Crete North"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/1730> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22689> ;
+    ns1:P1958 <https://www.trismegistos.org/place/1730> ;
+    ns1:P8068 <https://topostext.org/place/355236PPha> .
 

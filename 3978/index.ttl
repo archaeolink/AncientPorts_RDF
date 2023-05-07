@@ -14,5 +14,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3978_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/716599> ;
     ns1:P17 "Libya"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/11141> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28463> ;
+    ns1:P1958 <https://www.trismegistos.org/place/11141> ;
+    ns1:P8068 <https://topostext.org/place/319248UMen> .
 

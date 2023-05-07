@@ -16,5 +16,7 @@
     skos:note "Grenier (1934)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138248> ;
     ns1:P17 "France West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/22864> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/147> ;
+    ns1:P1958 <https://www.trismegistos.org/place/22864> ;
+    ns1:P8068 <https://topostext.org/place/448000UBur> .
 

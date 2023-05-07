@@ -13,5 +13,6 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4086_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/344360> ;
-    ns1:P17 "Libya"^^xsd:string .
+    ns1:P17 "Libya"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/35424> .
 

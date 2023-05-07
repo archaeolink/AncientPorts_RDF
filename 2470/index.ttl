@@ -14,5 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2470_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/216815> ;
     ns1:P17 "Bulgaria Black S."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27853> ;
     ns1:P1958 <https://www.trismegistos.org/place/36505> .
 

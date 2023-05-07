@@ -14,5 +14,6 @@
     ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2353_geom> ;
     skos:note "Platon (2003)" ;
-    ns2:P17 "GR: Eastern Isl."^^xsd:string .
+    ns2:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns2:P8068 <https://topostext.org/place/356271BLef> .
 

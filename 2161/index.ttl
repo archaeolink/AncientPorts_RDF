@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2161_geom> ;
     skos:note "Bon (1932)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/501338> ;
-    ns2:P17 "GR: Eastern Isl."^^xsd:string .
+    ns2:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21884> ;
+    ns2:P8068 <https://topostext.org/place/407247RAin> .
 

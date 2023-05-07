@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/591_2_geom> ;
     skos:note "Tassaux (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138425> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/13492> .
 

@@ -18,5 +18,7 @@
     skos:note "Favard (1996)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727130> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/920> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28485> ;
+    ns1:P1958 <https://www.trismegistos.org/place/920> ;
+    ns1:P8068 <https://topostext.org/place/310312UIsi> .
 

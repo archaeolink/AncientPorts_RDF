@@ -3,8 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/author__Niekus_MJLT> a foaf:Person ;
-    rdfs:label " Niekus, MJLT"@en ;
+    rdfs:label "Niekus, MJLT"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name " Niekus"@en ;
+    foaf:family_Name "Niekus"@en ;
     foaf:firstName "MJLT"@en .
 

@@ -15,5 +15,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1592_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q588198> ;
     ns1:P1584 <https://pleiades.stoa.org/places/540643> ;
-    ns1:P17 "GR: North-West"^^xsd:string .
+    ns1:P17 "GR: North-West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22824> ;
+    ns1:P8068 <https://topostext.org/place/383218LAnt> .
 

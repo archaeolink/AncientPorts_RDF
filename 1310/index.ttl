@@ -12,5 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "3001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1310_geom> ;
-    ns2:P17 "Italy Adriatic"^^xsd:string .
+    ns2:P17 "Italy Adriatic"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/42170> .
 

@@ -18,5 +18,7 @@
     skos:note "Camilli (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/403235> ;
     ns1:P17 "Italy West"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/31016> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/5854> ;
+    ns1:P1958 <https://www.trismegistos.org/place/31016> ;
+    ns1:P8068 <https://topostext.org/place/441100ULun> .
 

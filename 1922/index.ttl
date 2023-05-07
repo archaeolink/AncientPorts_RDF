@@ -18,5 +18,7 @@
     skos:note "Kokkorou (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570702> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/11829> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22614> ;
+    ns1:P1958 <https://www.trismegistos.org/place/11829> ;
+    ns1:P8068 <https://topostext.org/place/364225STai> .
 

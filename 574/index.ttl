@@ -12,5 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/574_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q71503> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 "France West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/20118> .
 

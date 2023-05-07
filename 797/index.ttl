@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/797_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q391396> ;
     ns1:P1584 <http://pleiades.stoa.org/places/472022> ;
-    ns1:P17 "Italy Sardinia"^^xsd:string .
+    ns1:P17 "Italy Sardinia"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/35725> .
 

@@ -17,5 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q243002> ;
     skos:note "Arnaud (2004)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/148037> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 "France South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/17857> .
 

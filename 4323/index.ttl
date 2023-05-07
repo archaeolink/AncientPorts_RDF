@@ -18,5 +18,6 @@
     skos:note "Gliozzo (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/275734> ;
     ns1:P17 "Morocco"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22240> ;
     ns1:P1958 <https://www.trismegistos.org/place/15608> .
 

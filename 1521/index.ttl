@@ -18,5 +18,7 @@
     skos:note "Cabanes (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/481728> ;
     ns1:P17 "Albania"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/3603> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21415> ;
+    ns1:P1958 <https://www.trismegistos.org/place/3603> ;
+    ns1:P8068 <https://topostext.org/place/407195PApo> .
 

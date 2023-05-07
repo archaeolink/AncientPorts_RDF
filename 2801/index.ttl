@@ -18,5 +18,7 @@
     skos:note "Sonmez (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/845084> ;
     ns1:P17 "TR: Black Sea"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/2430> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21424> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2430> ;
+    ns1:P8068 <https://topostext.org/place/416230UTio> .
 

@@ -15,5 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1743884> ;
     skos:note "Kaniewski (2013)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
-    ns1:P1958 <https://www.trismegistos.org/place/57655> .
+    ns1:P1958 <https://www.trismegistos.org/place/57655> ;
+    ns1:P8068 <https://topostext.org/place/349336XHal> .
 

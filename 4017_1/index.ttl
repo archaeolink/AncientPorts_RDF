@@ -16,5 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q12201915> ;
     ns1:P1584 <https://pleiades.stoa.org/places/373757> ;
     ns1:P17 "Libya"^^xsd:string ;
-    ns1:P1958 <https://www.trismegistos.org/place/831> .
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21851> ;
+    ns1:P1958 <https://www.trismegistos.org/place/831> ;
+    ns1:P8068 <https://topostext.org/place/321201UEue> .
 

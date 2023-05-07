@@ -14,5 +14,6 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1742_geom> ;
     skos:note "Ginalis (2021)" ;
-    ns1:P17 "GR: North-East"^^xsd:string .
+    ns1:P17 "GR: North-East"^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/3922XThs038> .
 

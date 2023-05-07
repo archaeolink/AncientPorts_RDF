@@ -15,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2658_geom> ;
     skos:note "Vakhonieiev (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/854689> ;
-    ns1:P17 "Russia Black S."^^xsd:string .
+    ns1:P17 "Russia Black S."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/27548> .
 

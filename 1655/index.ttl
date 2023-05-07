@@ -18,5 +18,7 @@
     skos:note "Laoupi (2007)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/579948> ;
     ns2:P17 "GR: Attica +"^^xsd:string ;
-    ns2:P1958 <https://www.trismegistos.org/place/37768> .
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/36984> ;
+    ns2:P1958 <https://www.trismegistos.org/place/37768> ;
+    ns2:P8068 <https://topostext.org/place/381240XPla> .
 
