@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Beuker_1997_Kano> a ns1:Article ;
+    dc:created "1997"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Beuker_J_>,
+        <http://data.archaeology.link/data/ancientports/author__Niekus_MJLT> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "De kano van Pesse: de bijl erin"@en ;
+    ns1:pageEnd 126 ;
+    ns1:pageStart 122 ;
+    ns1:volume "114"^^xsd:string .
+

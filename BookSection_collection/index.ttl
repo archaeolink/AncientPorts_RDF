@@ -1,0 +1,11 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.archaeology.link/data/ancientports/BookSection_collection> a skos:Collection ;
+    rdfs:label "BookSection Instances Collection" ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Janowski_2013_Harbours>,
+        <http://data.archaeology.link/data/ancientports/bib_Klooß_2009_The>,
+        <http://data.archaeology.link/data/ancientports/bib_Lübke_2000_Final> .
+

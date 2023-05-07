@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Steerwood_2003_Context> a ns1:Proceedings ;
+    dc:created "2003"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Steerwood_Robert> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "A Context for Sitomagus: Romano-British Settlement in the Suffolk Mid-Coastal Area"@en ;
+    ns1:number 3 ;
+    ns1:pageEnd 261 ;
+    ns1:pageStart 253 ;
+    ns1:volume "40"^^xsd:string .
+

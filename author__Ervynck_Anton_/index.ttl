@@ -1,0 +1,10 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ancientports/author__Ervynck_Anton_> a foaf:Person ;
+    rdfs:label " Ervynck, Anton "@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    foaf:family_Name " Ervynck"@en ;
+    foaf:firstName "Anton"@en .
+
