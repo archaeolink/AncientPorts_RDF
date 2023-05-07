@@ -105,7 +105,7 @@ def processReference(triples,bibmap,key,row,cururi):
             triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[ref])+"> . \n")
             gotref=True
         elif ref.startswith("http"):
-            triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(ref)+"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
+            triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> \""+str(ref).strip()+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
         else:
             refnotfound.add(row[key])
             #print(row["DOC1_Papers"])
@@ -113,7 +113,7 @@ def processReference(triples,bibmap,key,row,cururi):
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[row[key]])+"> . \n")
         gotref=True
     elif ref.startswith("http"):
-        triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(row[key])+"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
+        triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> \""+str(row[key]).strip()+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
     else:
         refnotfound.add(row[key])
     if not gotref:
@@ -269,6 +269,6 @@ for ref in sorted(refnotfound):
 for co in sorted(countrynotfound):
     print(co)
 
-#g=Graph()
-#g.parse("ap_result.ttl")
-#g.serialize("ap_result.ttl")
+g=Graph()
+g.parse("ap_result.ttl")
+g.serialize("ap_result.ttl")
