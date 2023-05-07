@@ -12,11 +12,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://pleiades.stoa.org/places/60669"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Eggermont_1975_Alexander>,
+        "http://pleiades.stoa.org/places/60669"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3859_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q491993> ;
-    skos:note "Eggermont (1975)",
-        "http://pleiades.stoa.org/places/60669" ;
+    skos:note "http://pleiades.stoa.org/places/60669" ;
     ns1:P1584 <http://pleiades.stoa.org/places/60659> ;
     ns1:P17 <http://www.wikidata.org/entity/Q843> .
 

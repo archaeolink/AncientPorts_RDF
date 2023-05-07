@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Akerraz_2010_Les> a ns1:Article ;
+    dc:created "2010"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Akerraz_Aomar> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Les fortifications de la Mauritanie Tingitane"@en ;
+    ns1:doi "10.3406/crai.2010.92841"^^xsd:anyURI ;
+    ns1:number 1 ;
+    ns1:pageEnd 561 ;
+    ns1:pageStart 539 ;
+    ns1:volume "154"^^xsd:string .
+

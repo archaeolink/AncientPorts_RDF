@@ -1,0 +1,12 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Besnier_1914_Lexique> a ns1:Book ;
+    dc:created "1914"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Besnier_Maurice> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Lexique de géographie ancienne"@en ;
+    ns1:publisher "C. Klincksieck" ;
+    ns1:volume "30"^^xsd:string .
+

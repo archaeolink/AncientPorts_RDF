@@ -1,24 +1,24 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/97> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/97> a ns2:Harbour ;
     rdfs:label "Major oppidum at Hengistbury Head"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wilkes_2004_Iron>,
         "https://historicengland.org.uk/listing/the-list/list-entry/1002367"^^xsd:anyURI ;
-    ns1:date_min "-500"^^xsd:gYear ;
+    ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/97_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q12059867> ;
     skos:note "https://historicengland.org.uk/listing/the-list/list-entry/1002367" ;
-    ns2:P17 <http://www.wikidata.org/entity/Q145> ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/20038> .
+    ns1:P17 <http://www.wikidata.org/entity/Q145> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/20038> .
 

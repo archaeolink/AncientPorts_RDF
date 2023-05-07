@@ -13,12 +13,12 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://iranicaonline.org/articles/kharg-island-02"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Potts_2019_Islands>,
+        "https://iranicaonline.org/articles/kharg-island-02"^^xsd:anyURI ;
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3814_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q913355> ;
-    skos:note "Potts (2019)",
-        "https://iranicaonline.org/articles/kharg-island-02" ;
+    skos:note "https://iranicaonline.org/articles/kharg-island-02" ;
     ns1:P1584 <http://pleiades.stoa.org/places/912881> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27150> .

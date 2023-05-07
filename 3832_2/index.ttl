@@ -12,10 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://www.iranicaonline.org/articles/larak-island"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Potts_2019_Islands>,
+        "http://www.iranicaonline.org/articles/larak-island"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3832_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q967421> ;
-    skos:note "Potts (2019)",
-        "http://www.iranicaonline.org/articles/larak-island" ;
+    skos:note "http://www.iranicaonline.org/articles/larak-island" ;
     ns1:P17 "Gulf"^^xsd:string .
 

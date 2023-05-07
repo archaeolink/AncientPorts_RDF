@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Desse_2005_Les> a ns1:Article ;
+    dc:created "2005"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Desse-Berset_Nathalie>,
+        <http://data.archaeology.link/data/ancientports/author_Desse_Jean> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Les ichthyophages du Makran (Bélouchistan, Pakistan)"@en ;
+    ns1:doi "10.3406/paleo.2005.4788"^^xsd:anyURI ;
+    ns1:number 1 ;
+    ns1:pageEnd 96 ;
+    ns1:pageStart 86 ;
+    ns1:volume "31"^^xsd:string .
+

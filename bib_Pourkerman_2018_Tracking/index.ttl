@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Pourkerman_2018_Tracking> a ns1:Article ;
+    dc:created "2018"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Amjadi_Sedighe>,
+        <http://data.archaeology.link/data/ancientports/author_Beni_Abdolmajid_Naderi>,
+        <http://data.archaeology.link/data/ancientports/author_Djamali_Morteza>,
+        <http://data.archaeology.link/data/ancientports/author_Lahijani_Hamid>,
+        <http://data.archaeology.link/data/ancientports/author_Marriner_Nick>,
+        <http://data.archaeology.link/data/ancientports/author_Morhange_Christopher>,
+        <http://data.archaeology.link/data/ancientports/author_Pourkerman_Majid>,
+        <http://data.archaeology.link/data/ancientports/author_Shah-Hoesseini_Majid>,
+        <http://data.archaeology.link/data/ancientports/author_Tofighian_Hossein>,
+        <http://data.archaeology.link/data/ancientports/author_Vacchi_Matteo> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Tracking shoreline erosion of “at risk” coastal archaeology: the example of ancient Siraf (Iran, Persian Gulf)"@en ;
+    ns1:doi "https://doi.org/10.1016/j.apgeog.2018.10.008"^^xsd:anyURI ;
+    ns1:issn "0143-6228"^^xsd:string ;
+    ns1:pageEnd 55 ;
+    ns1:pageStart 45 ;
+    ns1:volume "101"^^xsd:string .
+

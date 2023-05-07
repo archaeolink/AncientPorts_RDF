@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Priestman_2013_Quantitative> a <http://purl.org/ontology/bibo/Thesis> ;
+    dc:created "2013"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Priestman_Seth> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "A quantitative archaeological analysis of ceramic exchange in the Persian Gulf and Western Indian Ocean, AD c. 400-1275"@en .
+

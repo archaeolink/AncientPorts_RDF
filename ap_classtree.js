@@ -33781,7 +33781,7 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
-            "http://purl.org/dc/terms/isReferencedBy": {
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -33794,10 +33794,10 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
+            "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
-            "http://www.w3.org/2004/02/skos/core#note": {
+            "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
@@ -36119,7 +36119,7 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
@@ -36138,7 +36138,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 2
+              "instancecount": 3
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -36151,9 +36151,6 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P1958": {
               "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
-              "instancecount": 1
             }
           },
           "from": {
@@ -36163,7 +36160,7 @@ var tree={
             }
           }
         },
-        "instancecount": 15
+        "instancecount": 16
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1000",
@@ -39286,17 +39283,23 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
+            "http://www.ancientports.com/ont#date_min": {
+              "instancecount": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2004/02/skos/core#note": {
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
@@ -39304,16 +39307,22 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
+              "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 13
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv2_",
@@ -39769,9 +39778,6 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 2
-            },
             "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
@@ -39814,7 +39820,7 @@ var tree={
             }
           }
         },
-        "instancecount": 17
+        "instancecount": 15
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv3_",
@@ -40123,12 +40129,15 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
+            "http://www.ancientports.com/ont#date_min": {
+              "instancecount": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
@@ -40137,12 +40146,15 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
+              "instancecount": 3
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1958": {
@@ -40155,11 +40167,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 11
+        "instancecount": 16
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1047",
@@ -40529,15 +40541,12 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
             "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1584": {
@@ -40559,11 +40568,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 11
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1090",
@@ -41201,50 +41210,31 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 2,
-              "http://purl.org/ontology/bibo/Article": 1
-            },
-            "http://www.ancientports.com/ont#date_min": {
-              "instancecount": 1
-            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 2
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
+            "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
-            "http://www.wikidata.org/prop/direct/P1584": {
-              "instancecount": 1
-            },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
               "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
             }
           }
         },
-        "instancecount": 15
+        "instancecount": 7
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1117_suniv1_",
@@ -41576,48 +41566,39 @@ var tree={
             },
             "http://purl.org/dc/terms/isReferencedBy": {
               "instancecount": 2,
-              "http://purl.org/ontology/bibo/Proceedings": 1
-            },
-            "http://www.ancientports.com/ont#date_min": {
-              "instancecount": 1
+              "http://purl.org/ontology/bibo/Book": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 4
+              "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
               "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
-              "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 4
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
             }
           }
         },
-        "instancecount": 18
+        "instancecount": 11
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1132_suniv1_",
@@ -42067,9 +42048,15 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 3
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
@@ -42079,11 +42066,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 11
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1215_suniv1_",
@@ -43323,6 +43310,9 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
+            "http://www.ancientports.com/ont#date_min": {
+              "instancecount": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
@@ -43331,10 +43321,22 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 2
+            },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 2
+            },
+            "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 2
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
+              "instancecount": 1
             }
           },
           "from": {
@@ -43344,7 +43346,7 @@ var tree={
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 14
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Belova_2019_Russian",
@@ -43403,6 +43405,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Kervran_1995_Le",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Le delta de l'Indus au temps d'Alexandre. Quelques \u00e9l\u00e9ments nouveaux pour l'interpr\u00e9tation des sources narratives (bib_Kervran_1995_Le)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kruidhof_2012_Een",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43414,6 +43423,27 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Archaeological prospection of the nearshore and intertidal area using ultra-high resolution marine acoustic techniques: Results from a test study on the Belgian coast at Ostend-Raversijde (bib_Missiaen_2018_Archaeological)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Potts_2017_Patria",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Patria Persorum, India Dimirica-Evilat and India Thermantica-Elamitis in the Cosmographia of Ravennas Anonymus (bib_Potts_2017_Patria)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Pourkerman_2018_Tracking",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Tracking shoreline erosion of \u201cat risk\u201d coastal archaeology: the example of ancient Siraf (Iran, Persian Gulf) (bib_Pourkerman_2018_Tracking)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Shah_2018_Evolution",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The evolution of Chabahar beach ridge system in SE Iran in response to Holocene relative sea level changes (bib_Shah_2018_Evolution)",
         "data": {}
       },
       {
@@ -43442,6 +43472,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Tin ingots from a probable Bronze Age shipwreck off the coast of Salcombe, Devon: Composition and microstructure (bib_Wang_2016_Tin)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Akerraz_2010_Les",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Les fortifications de la Mauritanie Tingitane (bib_Akerraz_2010_Les)",
         "data": {}
       },
       {
@@ -43533,6 +43570,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Stammeb\u00e5den fra Varpelev og dens europ\u00e6iske sl\u00e6gtninge (bib_Kastholm_2012_Stammebaaden)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Khakzad_2015_Maritime",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Maritime Aspects of Medieval Siraf, Iran: a pilot project for the investigation of coastal and underwater archaeological remains (bib_Khakzad_2015_Maritime)",
         "data": {}
       },
       {
@@ -43634,6 +43678,27 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Carter_2006_Bushehr",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The Bushehr Hinterland results of the first season of the Iranian-British archaeological survey of Bushehr Province, November-December 2004 (bib_Carter_2006_Bushehr)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Desse_2005_Les",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Les ichthyophages du Makran (B\u00e9louchistan, Pakistan) (bib_Desse_2005_Les)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Erbati_2004_Ports",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Le ports du Maroc mediterran{'e}en en Moyen Age (bib_Erbati_2004_Ports)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Trabelsi_2019_Port",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43641,10 +43706,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Besenval_1994_Le",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Le peuplement de l'ancienne G\u00e9drosie, de la protohistoire \u00e0 la p\u00e9riode islamique : travaux arch\u00e9ologiques r\u00e9cents dans le Makran pakistanais (bib_Besenval_1994_Le)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Laronde_1992_Aspects",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Aspects m\u00e9connus du voyage de Granger en Cyr\u00e9na\u00efque au XVIIIe si\u00e8cle (bib_Laronde_1992_Aspects)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Potts_2019_Islands",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The islands of the XIVth satrapy (bib_Potts_2019_Islands)",
         "data": {}
       },
       {
@@ -43665,17 +43744,26 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Article",
         "parent": "#",
         "type": "class",
-        "text": "Article (bibo:Article) [45]",
+        "text": "Article (bibo:Article) [56]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 3,
-              "http://xmlns.com/foaf/0.1/Person": 3
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/pageEnd": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/pageStart": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/volume": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43683,17 +43771,13 @@ var tree={
             }
           },
           "from": {
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 1
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 7
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes",
@@ -43706,7 +43790,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/bib_Chankowski_2018_Entrepots",
         "parent": "http://purl.org/ontology/bibo/Book",
         "type": "instance",
-        "text": "Entrep\u00f4ts et circuits de distribution en M\u00e9diterranee antique (bib_Chankowski_2018_Entrepots)",
+        "text": "{Entrep\u00f4ts et circuits de distribution en M\u00e9diterranee antique} (bib_Chankowski_2018_Entrepots)",
         "data": {}
       },
       {
@@ -43752,23 +43836,46 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Besnier_1914_Lexique",
+        "parent": "http://purl.org/ontology/bibo/Book",
+        "type": "instance",
+        "text": "Lexique de g\u00e9ographie ancienne (bib_Besnier_1914_Lexique)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Eggermont_1975_Alexander",
+        "parent": "http://purl.org/ontology/bibo/Book",
+        "type": "instance",
+        "text": "Alexander's Campaigns in Sind and Baluchistan and the Siege of the Brahmin Town of Harmatelia (bib_Eggermont_1975_Alexander)",
+        "data": {}
+      },
+      {
         "id": "http://purl.org/ontology/bibo/Book",
         "parent": "#",
         "type": "class",
-        "text": "Book (bibo:Book) [8]",
+        "text": "Book (bibo:Book) [10]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1,
-              "http://xmlns.com/foaf/0.1/Person": 1
+              "instancecount": 3,
+              "http://xmlns.com/foaf/0.1/Person": 3
             },
             "http://purl.org/dc/elements/1.1/title": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/isbn": {
+            "http://purl.org/ontology/bibo/doi": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/number": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/publisher": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/volume": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43776,17 +43883,13 @@ var tree={
             }
           },
           "from": {
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 1
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 5
+        "instancecount": 10
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kloo\u00df_2009_The",
@@ -43820,13 +43923,10 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 2,
-              "http://xmlns.com/foaf/0.1/Person": 2
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/isbn": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageEnd": {
@@ -43840,19 +43940,30 @@ var tree={
             }
           },
           "from": {
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 0,
+              "http://www.ancientports.com/ont#Harbour": 1
+            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 6
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding",
         "parent": "http://purl.org/ontology/bibo/Thesis",
         "type": "instance",
         "text": "Pudding Pan: a Roman shipwreck and its cargo in context (bib_Walsh_2006_Pudding)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Priestman_2013_Quantitative",
+        "parent": "http://purl.org/ontology/bibo/Thesis",
+        "type": "instance",
+        "text": "A quantitative archaeological analysis of ceramic exchange in the Persian Gulf and Western Indian Ocean, AD c. 400-1275 (bib_Priestman_2013_Quantitative)",
         "data": {}
       },
       {
@@ -43866,7 +43977,7 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Thesis",
         "parent": "#",
         "type": "class",
-        "text": "Thesis (bibo:Thesis) [2]",
+        "text": "Thesis (bibo:Thesis) [3]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -83900,6 +84011,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Akerraz_Aomar",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Akerraz, Aomar (author_Akerraz_Aomar)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Allen_J.R.L.",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -83911,6 +84029,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Alonso-Olazabal, Ainhoa (author_Alonso-Olazabal_Ainhoa)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Amjadi_Sedighe",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Amjadi, Sedighe (author_Amjadi_Sedighe)",
         "data": {}
       },
       {
@@ -83946,6 +84071,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Berger, Catherine (author_Berger_Catherine)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Besenval_Rol",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Besenval, Rol (author_Besenval_Rol)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Besnier_Maurice",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Besnier, Maurice (author_Besnier_Maurice)",
         "data": {}
       },
       {
@@ -84012,10 +84151,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Carter_Robert_A",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Carter, Robert A (author_Carter_Robert_A)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Cerdan_Angel",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Cerdan, Angel (author_Cerdan_Angel)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Challis_Keith",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Challis, Keith (author_Challis_Keith)",
         "data": {}
       },
       {
@@ -84138,10 +84291,45 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Desse-Berset_Nathalie",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Desse-Berset, Nathalie (author_Desse-Berset_Nathalie)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Desse_Jean",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Desse, Jean (author_Desse_Jean)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Djamali_Morteza",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Djamali, Morteza (author_Djamali_Morteza)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Eggermont_Pierre_Herman_Leonard",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Eggermont, Pierre Herman Leonard (author_Eggermont_Pierre_Herman_Leonard)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Ellis_Peter",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Ellis, Peter (author_Ellis_Peter)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Erbati_E",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Erbati, E (author_Erbati_E)",
         "data": {}
       },
       {
@@ -84187,6 +84375,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Ghanavati_Ezatollah",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Ghanavati, Ezatollah (author_Ghanavati_Ezatollah)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Gibson_David",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84226,6 +84421,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Halkon, Peter (author_Halkon_Peter)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Hamzeh_Mohammad_Ali",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Hamzeh, Mohammad Ali (author_Hamzeh_Mohammad_Ali)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Harpster_Matthew",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Harpster, Matthew (author_Harpster_Matthew)",
         "data": {}
       },
       {
@@ -84299,6 +84508,20 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Kervran_Monik",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Kervran, Monik (author_Kervran_Monik)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Khakzad_Sorna",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Khakzad, Sorna (author_Khakzad_Sorna)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Kloo\u00df_Stefanie",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84338,6 +84561,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Lafon, Xavier (author_Lafon_Xavier)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Lahijani_Hamid",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Lahijani, Hamid (author_Lahijani_Hamid)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Lahijani_Hamid_Alizadeh",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Lahijani, Hamid Alizadeh (author_Lahijani_Hamid_Alizadeh)",
         "data": {}
       },
       {
@@ -84397,6 +84634,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Marriner_Nick",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Marriner, Nick (author_Marriner_Nick)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Mathieu_Bernard",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84422,6 +84666,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Momber, Garry (author_Momber_Garry)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Morhange_Christophe",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Morhange, Christophe (author_Morhange_Christophe)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Morhange_Christopher",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Morhange, Christopher (author_Morhange_Christopher)",
         "data": {}
       },
       {
@@ -84474,6 +84732,27 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Pourkerman_Majid",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Pourkerman, Majid (author_Pourkerman_Majid)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Priestman_Seth",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Priestman, Seth (author_Priestman_Seth)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Priestman_Seth_MN",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Priestman, Seth MN (author_Priestman_Seth_MN)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Rich_Sara_A",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84506,6 +84785,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Sennoune, O (author_Sennoune_O)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Shah-Hoesseini_Majid",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Shah-Hoesseini, Majid (author_Shah-Hoesseini_Majid)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Shah-Hosseini_Majid",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Shah-Hosseini, Majid (author_Shah-Hosseini_Majid)",
         "data": {}
       },
       {
@@ -84579,6 +84872,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Trakadas_Athena",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Trakadas, Athena (author_Trakadas_Athena)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Trousset_Pol",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84597,6 +84897,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Ulrich Hartung (author_Ulrich_Hartung)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Vacchi_Matteo",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Vacchi, Matteo (author_Vacchi_Matteo)",
         "data": {}
       },
       {
@@ -84663,6 +84970,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Wittig_Nicole",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Wittig, Nicole (author_Wittig_Nicole)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Zeki_Iona_Robinson",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84691,10 +85005,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Beni_Abdolmajid_Naderi",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Beni, Abdolmajid Naderi (author_Beni_Abdolmajid_Naderi)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_L\u00fcbke_Harald",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "L\u00fcbke, Harald (author_L\u00fcbke_Harald)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Potts_Daniel",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Potts, Daniel (author_Potts_Daniel)",
         "data": {}
       },
       {
@@ -84709,6 +85037,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Strekopytov, Stanislav (author_Strekopytov_Stanislav)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Tofighian_Hossein",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Tofighian, Hossein (author_Tofighian_Hossein)",
         "data": {}
       },
       {
@@ -84729,7 +85064,7 @@ var tree={
         "id": "http://xmlns.com/foaf/0.1/Person",
         "parent": "#",
         "type": "class",
-        "text": "Person (foaf:Person) [118]",
+        "text": "Person (foaf:Person) [150]",
         "data": {
           "to": {
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -84748,7 +85083,7 @@ var tree={
           "from": {
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 0,
-              "http://purl.org/ontology/bibo/Article": 2
+              "http://purl.org/ontology/bibo/Article": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -84789,6 +85124,15 @@ var tree={
             "http://purl.org/dc/elements/1.1/title": {
               "instancecount": 1
             },
+            "http://purl.org/ontology/bibo/number": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/pageEnd": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/pageStart": {
+              "instancecount": 1
+            },
             "http://purl.org/ontology/bibo/volume": {
               "instancecount": 1
             },
@@ -84799,12 +85143,8 @@ var tree={
           "from": {
             "http://purl.org/dc/terms/isReferencedBy": {
               "instancecount": 0,
-              "http://www.ancientports.com/ont#Pila": 1,
-              "http://www.ancientports.com/ont#Quay": 4,
-              "http://www.ancientports.com/ont#Shipshed": 2,
-              "http://www.ancientports.com/ont#Slipway": 2,
-              "http://www.ancientports.com/ont#Shipyard": 2,
-              "http://www.ancientports.com/ont#Harbour": 1
+              "http://www.ancientports.com/ont#Harbour": 2,
+              "http://www.ancientports.com/ont#VillaMaritima": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -84812,7 +85152,7 @@ var tree={
             }
           }
         },
-        "instancecount": 5
+        "instancecount": 8
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Harbour_collection",
@@ -84898,20 +85238,20 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 63,
-              "http://www.ancientports.com/ont#Lighthouse": 63,
-              "http://www.ancientports.com/ont#Quay": 26,
-              "http://www.ancientports.com/ont#Slipway": 6,
-              "http://www.ancientports.com/ont#Pila": 9,
-              "http://www.ancientports.com/ont#Warehouse": 9,
-              "http://www.ancientports.com/ont#Shipyard": 2,
-              "http://www.ancientports.com/ont#VillaMaritima": 6,
-              "http://www.ancientports.com/ont#Shipshed": 2
+              "instancecount": 50,
+              "http://www.ancientports.com/ont#Shipyard": 50,
+              "http://www.ancientports.com/ont#Shipshed": 10,
+              "http://www.ancientports.com/ont#Slipway": 12,
+              "http://www.ancientports.com/ont#Quay": 15,
+              "http://www.ancientports.com/ont#Warehouse": 6,
+              "http://www.ancientports.com/ont#Lighthouse": 2,
+              "http://www.ancientports.com/ont#Pila": 4,
+              "http://www.ancientports.com/ont#VillaMaritima": 1
             }
           },
           "from": {}
         },
-        "instancecount": 66
+        "instancecount": 53
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -84976,13 +85316,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 8,
-              "http://purl.org/ontology/bibo/Book": 8
+              "instancecount": 3,
+              "http://purl.org/ontology/bibo/Thesis": 3
             }
           },
           "from": {}
         },
-        "instancecount": 10
+        "instancecount": 5
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Point_collection",

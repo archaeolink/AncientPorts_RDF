@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Shah_2018_Evolution> a ns1:Article ;
+    dc:created "2018"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Beni_Abdolmajid_Naderi>,
+        <http://data.archaeology.link/data/ancientports/author_Ghanavati_Ezatollah>,
+        <http://data.archaeology.link/data/ancientports/author_Hamzeh_Mohammad_Ali>,
+        <http://data.archaeology.link/data/ancientports/author_Lahijani_Hamid_Alizadeh>,
+        <http://data.archaeology.link/data/ancientports/author_Morhange_Christophe>,
+        <http://data.archaeology.link/data/ancientports/author_Shah-Hosseini_Majid> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "The evolution of Chabahar beach ridge system in SE Iran in response to Holocene relative sea level changes"@en ;
+    ns1:pageEnd 147 ;
+    ns1:pageStart 139 ;
+    ns1:publisher "Elsevier" ;
+    ns1:volume "318"^^xsd:string .
+

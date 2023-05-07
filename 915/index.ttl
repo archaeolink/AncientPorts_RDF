@@ -1,22 +1,22 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/915> a ns2:Lighthouse ;
+<http://data.archaeology.link/data/ancientports/915> a ns1:Lighthouse ;
     rdfs:label "supposed location of the ancient lighthouse of Portus Claudius"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.ostia-antica.org/portus/c001.htm"^^xsd:anyURI ;
-    ns2:date_min "4601"^^xsd:gYear ;
+    ns1:date_min "4601"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/915_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2037271> ;
     skos:note "http://www.ostia-antica.org/portus/c001.htm" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns2:P17 "Italy West"^^xsd:string .
 

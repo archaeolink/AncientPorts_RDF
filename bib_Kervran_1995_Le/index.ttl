@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Kervran_1995_Le> a ns1:Article ;
+    dc:created "1995"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Kervran_Monik> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Le delta de l'Indus au temps d'Alexandre. Quelques éléments nouveaux pour l'interprétation des sources narratives"@en ;
+    ns1:doi "10.3406/crai.1995.15463"^^xsd:anyURI ;
+    ns1:number 1 ;
+    ns1:pageEnd 312 ;
+    ns1:pageStart 259 ;
+    ns1:volume "139"^^xsd:string .
+
