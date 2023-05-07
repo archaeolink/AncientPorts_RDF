@@ -124,6 +124,7 @@ if os.path.exists("ap_wikidata.json"):
     f = open('ap_wikidata.json')
     wikidatacache = json.load(f)
     f.close()
+refnotfound=set()
 with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile,delimiter=';')
     for row in reader:
@@ -169,17 +170,23 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
         triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/sf#Point> .\n")
         if "Comments" in row and row["Comments"]!="":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#comment> \"\"\""+row["Comments"].replace("\"","'")+"\"\"\"@en .\n")
-        if "DOC1_Paper" in row and row["DOC1_Paper"]!="":
-            refs= row["DOC1_Paper"].split(";")
+        if "DOC1_Papers" in row and row["DOC1_Papers"]!="":
+            refs= row["DOC1_Papers"].split(";")
             for cref in refs:
                 ref=cref
                 if "," in cref:
                     ref=cref[0:cref.rfind(",")]
                 if ref in bibmap:
                     triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[ref])+"> . \n")
-            if row["DOC1_Paper"] in bibmap:
-                triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[row["DOC1_Paper"]])+"> . \n")
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+row["DOC1_Paper"]+"\"\"\" .\n")
+                else:
+                    refnotfound.add(row["DOC1_Papers"])
+                    #print(row["DOC1_Papers"])
+            if row["DOC1_Papers"] in bibmap:
+                triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[row["DOC1_Papers"]])+"> . \n")
+            else:
+                #print(row["DOC1_Papers"])
+                refnotfound.add(row["DOC1_Papers"])
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+row["DOC1_Papers"]+"\"\"\" .\n")
 
 with open("ap_wikidata.json","w",encoding="utf-8") as resfilejs:
     resfilejs.write(json.dumps(wikidatacache,indent=2))
@@ -188,6 +195,9 @@ with open("ap_wikidata.json","w",encoding="utf-8") as resfilejs:
 with open("ap_result.ttl","w",encoding="utf-8") as resfile:
     resfile.write("".join(triples))
     resfile.close()
+
+for ref in sorted(refnotfound):
+    print(ref)
 
 #g=Graph()
 #g.parse("ap_result.ttl")
