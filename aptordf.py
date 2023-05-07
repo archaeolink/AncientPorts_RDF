@@ -118,6 +118,8 @@ triples.add("<http://www.opengis.net/ont/geosparql#Geometry> <http://www.w3.org/
 triples.add("<http://www.wikidata.org/prop/direct/P206> <http://www.w3.org/2000/01/rdf-schema#label> \"located in or next to body of water\"@en .\n")
 triples.add("<http://www.wikidata.org/prop/direct/P17> <http://www.w3.org/2000/01/rdf-schema#label> \"country\"@en .\n")
 triples.add("<http://www.wikidata.org/prop/direct/P1584> <http://www.w3.org/2000/01/rdf-schema#label> \"Pleiades ID\"@en .\n")
+triples.add("<http://www.wikidata.org/prop/direct/P1936> <http://www.w3.org/2000/01/rdf-schema#label> \"Digital Atlas of the Roman Empire ID\"@en .\n")
+triples.add("<http://www.wikidata.org/prop/direct/P8068> <http://www.w3.org/2000/01/rdf-schema#label> \"ToposText place ID\"@en .\n")
 triples.add("<http://www.wikidata.org/prop/direct/P1958> <http://www.w3.org/2000/01/rdf-schema#label> \"Trismegistos Geo ID\"@en .\n")
 wikidatacache={}
 if os.path.exists("ap_wikidata.json"):
@@ -131,7 +133,6 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
         #print(row)
         cururi=ns+row["NB"].replace(",","_")
         #print(cururi)
-        triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Harbour> .\n")
         triples.add("<"+str(cururi)+"> <http://www.opengis.net/ont/geosparql#hasGeometry> <"+str(cururi)+"_geom> .\n")
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/creator> <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> .\n")
         triples.add("<http://data.archaeology.link/data/spphaefen/arthur_de_graauw> <http://www.w3.org/2000/01/rdf-schema#label> \"Arthur de Graauw\"@en  .\n")
@@ -145,6 +146,37 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1584> <"+str(row["PLEIADES"])+"> .\n <"+str(row["PLEIADES"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["PLEIADES"])[str(row["PLEIADES"]).rfind('/')+1:]+"\"@en .\n")
         if row["TRISMEGISTOS"]!="" and "http" in row["TRISMEGISTOS"]:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1958> <"+str(row["TRISMEGISTOS"])+"> .\n <"+str(row["TRISMEGISTOS"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TRISMEGISTOS"])[str(row["TRISMEGISTOS"]).rfind('/')+1:]+"\"@en .\n")
+        if row["DARE"]!="" and "http" in row["DARE"]:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1936> <"+str(row["DARE"])+"> .\n <"+str(row["DARE"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["DARE"])[str(row["DARE"]).rfind('/')+1:]+"\"@en .\n")
+        if row["TOPOSText"]!="" and "http" in row["TOPOSText"]:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P8068> <"+str(row["TOPOSText"])+"> .\n <"+str(row["TOPOSText"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TOPOSText"])[str(row["TOPOSText"]).rfind('/')+1:]+"\"@en .\n")
+        assignedsubtype=False
+        if row["QU"]!="" and row["QU"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Quay> .\n")
+            assignedsubtype=True
+        if row["PL"]!="" and row["PL"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Pila> .\n")
+            assignedsubtype=True
+        if row["SL"]!="" and row["SL"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Slipway> .\n")
+            assignedsubtype=True
+        if row["SH"]!="" and row["SH"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipshed> .\n")
+            assignedsubtype=True
+        if row["SY"]!="" and row["SY"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipyard> .\n")
+            assignedsubtype=True
+        if row["PH"]!="" and row["PH"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Lighthouse> .\n")
+            assignedsubtype=True
+        if row["HO"]!="" and row["HO"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Warehouse> .\n")
+            assignedsubtype=True
+        if row["VM"]!="" and row["VM"].strip()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"VillaMaritima> .\n")
+            assignedsubtype=True
+        if not assignedsubtype:
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Harbour> .\n")
         if row["WIKIPEDIA"]!="":
             if str(row["WIKIPEDIA"]) not in wikidatacache:
                 qid=resolveWikidataIDFromArticleName(str(row["WIKIPEDIA"]))
