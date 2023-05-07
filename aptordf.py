@@ -7,7 +7,7 @@ import requests
 from rdflib import Graph
 
 
-authormap={"Arthur de Graauw":"http://data.archaeology.link/data/spphaefen/arthur_de_graauw"}
+authormap={"Arthur de Graauw":"http://data.archaeology.link/data/ancientports/arthur_de_graauw"}
 publicationmap={}
 projectmap={"SPP-Im Netzwerk fluvialer Häfen":"https://gepris.dfg.de/gepris/projekt/198801704","Binnenhäfen/Inland harbours":"https://gepris.dfg.de/gepris/projekt/219647198"}
 place_technique={"logboat":"http://www.wikidata.org/entity/Q596073","keelboat":"http://www.wikidata.org/entity/Q60520969","flat-bottomed vessel":"http://www.wikidata.org/entity/Q5457690","raft":"http://www.wikidata.org/entity/Q200433"}
@@ -53,6 +53,8 @@ def bibtexToRDF(triples,entries,ns,nsont):
         triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/title> \""+str(entry["title"]).replace("\"","'")+"\"@en .\n") 
         if "issn" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/issn> \""+str(entry["issn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
+        if "eissn" in entry:
+            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/eissn> \""+str(entry["issn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
         if "isbn" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/isbn> \""+str(entry["isbn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")              
         if "number" in entry:
@@ -61,6 +63,8 @@ def bibtexToRDF(triples,entries,ns,nsont):
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/volume> \""+str(entry["volume"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
         if "publisher" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/publisher> \""+str(entry["publisher"])+"\" .\n")
+        if "journal" in entry:
+            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/issuer> \""+str(entry["journal"])+"\" .\n")
         if "pages" in entry:
             if "--" in entry["pages"]:
                 pagestart=entry["pages"][0:entry["pages"].rfind("--")]
@@ -92,10 +96,11 @@ def bibtexToRDF(triples,entries,ns,nsont):
         triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/created> \""+str(entry["year"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "doi" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"]).replace("\_","_")+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> .\n")
+
     return {"triples":triples,"bibmap":bibmap}
 
 def processReference(triples,bibmap,key,row,cururi):
-    refs= row[key].split(";")
+    refs=row[key].split(";")
     gotref=False
     for cref in refs:
         ref=cref
