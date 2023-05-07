@@ -70,7 +70,7 @@ def bibtexToRDF(triples,entries,ns,nsont):
         if "and" in entry["author"]:
             for author in entry["author"].split("and"):
                 if "," in author:
-                    authoruri=str(author).replace(","," ")
+                    authoruri=str(author).replace(","," ").strip()
                     authoruri=authoruri.replace(" ","_")
                     authoruri=authoruri.replace("__","_")
                     authoruri=authoruri.strip()
@@ -80,7 +80,7 @@ def bibtexToRDF(triples,entries,ns,nsont):
                     triples.add("<"+ns+"author_"+str(authoruri)+"> <http://xmlns.com/foaf/0.1/firstName> \""+str(author)[str(author).rfind(',')+1:].strip()+"\"@en .\n")
                     triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/creator> <"+ns+"author_"+str(authoruri)+"> .\n")
         else:
-            authoruri=str(entry["author"]).replace(","," ")
+            authoruri=str(entry["author"]).replace(","," ").strip()
             authoruri=authoruri.replace(" ","_")
             authoruri=authoruri.replace("__","_")
             authoruri=authoruri.strip()
@@ -94,6 +94,117 @@ def bibtexToRDF(triples,entries,ns,nsont):
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"]).replace("\_","_")+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> .\n")
     return {"triples":triples,"bibmap":bibmap}
 
+def processReference(triples,bibmap,key,row,cururi):
+    refs= row[key].split(";")
+    gotref=False
+    for cref in refs:
+        ref=cref
+        if "," in cref:
+            ref=cref[0:cref.rfind(",")]
+        if ref in bibmap:
+            triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[ref])+"> . \n")
+            gotref=True
+        elif ref.startswith("http"):
+            triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(ref)+"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
+        else:
+            refnotfound.add(row[key])
+            #print(row["DOC1_Papers"])
+    if row[key] in bibmap:
+        triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[row[key]])+"> . \n")
+        gotref=True
+    elif ref.startswith("http"):
+        triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(row[key])+"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
+    else:
+        refnotfound.add(row[key])
+    if not gotref:
+        triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+row[key]+"\"\"\" .\n")
+    return triples
+
+def parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,baseclass,bibmap):
+    for row in reader:
+        #print(row)
+        cururi=ns+row["NB"].replace(",","_")
+        #print(cururi)
+        triples.add("<"+str(cururi)+"> <http://www.opengis.net/ont/geosparql#hasGeometry> <"+str(cururi)+"_geom> .\n")
+        triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/creator> <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> .\n")
+        triples.add("<http://data.archaeology.link/data/spphaefen/arthur_de_graauw> <http://www.w3.org/2000/01/rdf-schema#label> \"Arthur de Graauw\"@en  .\n")
+        triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/created> \"2023\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
+        triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+"\"\"\"@en .\n")
+        if row["COUNTRY"] in countries:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> <"+countries[str(row["COUNTRY"])]+"> .\n <"+countries[str(row["COUNTRY"])]+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["COUNTRY"])+"\"@en .\n")
+        else:
+            print(row["COUNTRY"])
+            countrynotfound.add(row["COUNTRY"])
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> \""+str(row["COUNTRY"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
+        if "PLEIADES" in row and row["PLEIADES"]!="" and "http" in row["PLEIADES"]:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1584> <"+str(row["PLEIADES"])+"> .\n <"+str(row["PLEIADES"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["PLEIADES"])[str(row["PLEIADES"]).rfind('/')+1:]+"\"@en .\n")
+        if "TRISMEGISTOS" in row and row["TRISMEGISTOS"]!="" and "http" in row["TRISMEGISTOS"]:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1958> <"+str(row["TRISMEGISTOS"])+"> .\n <"+str(row["TRISMEGISTOS"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TRISMEGISTOS"])[str(row["TRISMEGISTOS"]).rfind('/')+1:]+"\"@en .\n")
+        if "DARE" in row and row["DARE"]!="" and "http" in row["DARE"]:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1936> <"+str(row["DARE"])+"> .\n <"+str(row["DARE"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["DARE"])[str(row["DARE"]).rfind('/')+1:]+"\"@en .\n")
+        if "TOPOSText" in row and row["TOPOSText"]!="" and "http" in row["TOPOSText"]:
+            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P8068> <"+str(row["TOPOSText"])+"> .\n <"+str(row["TOPOSText"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TOPOSText"])[str(row["TOPOSText"]).rfind('/')+1:]+"\"@en .\n")
+        assignedsubtype=False
+        if "QU" in row and row["QU"]!="" and row["QU"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Quay> .\n")
+            assignedsubtype=True
+        if "PL" in row and row["PL"]!="" and row["PL"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Pila> .\n")
+            assignedsubtype=True
+        if "SL" in row and row["SL"]!="" and row["SL"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Slipway> .\n")
+            assignedsubtype=True
+        if "SH" in row and row["SH"]!="" and row["SH"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipshed> .\n")
+            assignedsubtype=True
+        if "SY" in row and row["SY"]!="" and row["SY"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipyard> .\n")
+            assignedsubtype=True
+        if "PH" in row and row["PH"]!="" and row["PH"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Lighthouse> .\n")
+            assignedsubtype=True
+        if "HO" in row and row["HO"]!="" and row["HO"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Warehouse> .\n")
+            assignedsubtype=True
+        if "VM" in row and row["VM"]!="" and row["VM"].strip().lower()=="x":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"VillaMaritima> .\n")
+            assignedsubtype=True
+        if not assignedsubtype:
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "+str(baseclass)+" .\n")
+        if "WIKIPEDIA" in row and row["WIKIPEDIA"]!="":
+            if str(row["WIKIPEDIA"]) not in wikidatacache:
+                qid=resolveWikidataIDFromArticleName(str(row["WIKIPEDIA"]))
+            else:
+                qid=wikidatacache[str(row["WIKIPEDIA"])]
+            if qid!=None:
+                wikidatacache[str(row["WIKIPEDIA"])]=qid
+                triples.add("<"+str(cururi)+"> <http://www.w3.org/2002/07/owl#sameAs> <"+str(qid["qid"])+"> .\n <"+str(qid["qid"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(qid["label"])+"\"@"+str(qid["lang"])+" .\n")
+        if "FOUNDATION" in row and row["FOUNDATION"].strip()!="":
+            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_min> \"\"\""+str(row["FOUNDATION"])+"\"\"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
+        if "Date_max" in row and row["Date_max"].strip()!="":
+            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_max> \""+str(row["Date_max"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
+        if "Place_technique" in row and row["Place_technique"].strip()!="":
+            if row["Place_technique"] in place_technique:
+                triples.add("<"+str(cururi)+"> <"+str(nsont)+"place_technique> <"+str(place_technique[row["Place_technique"]])+"> .\n")
+                triples.add("<"+str(place_technique[row["Place_technique"]])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["Place_technique"])+"\"@en .\n")
+            else:
+                triples.add("<"+str(cururi)+"> <"+str(nsont)+"place_technique> \""+str(row["Place_technique"])+"\" .\n")
+        if "Locat_precision" in row and row["Locat_precision"].strip()!="":
+            triples.add("<"+str(cururi)+"> <"+str(nsont)+"precision> <"+str(nsont)+str(row["Locat_precision"])+"> .\n")
+        triples.add("<"+str(cururi)+"_geom> <http://www.opengis.net/ont/geosparql#asWKT> \"POINT("+row["LONGITUDE"].replace(",",".")+" "+row["LATITUDE"].replace(",",".")+")\"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .\n")
+        triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+" Geometry\"\"\"@en .\n")
+        triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/sf#Point> .\n")
+        if "Comments" in row and row["Comments"]!="":
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#comment> \"\"\""+row["Comments"].replace("\"","'")+"\"\"\"@en .\n")
+        if "DOC1_Papers" in row and row["DOC1_Papers"]!="":
+            triples=processReference(triples,bibmap,"DOC1_Papers",row,cururi)
+        if "DOC2_Papers" in row and row["DOC2_Papers"]!="":
+            triples=processReference(triples,bibmap,"DOC2_Papers",row,cururi)
+        if "DOC3_www" in row and row["DOC3_www"]!="":
+            triples=processReference(triples,bibmap,"DOC3_www",row,cururi)
+        if "DOC4_www" in row and row["DOC4_www"]!="":
+            triples=processReference(triples,bibmap,"DOC4_www",row,cururi)
+    return {"triples":triples,"refnotfound":refnotfound,"countrynotfound":countrynotfound,"wikidatacache":wikidatacache}
 
 with open('source/ap.bib',encoding="utf-8") as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
@@ -130,98 +241,19 @@ refnotfound=set()
 countrynotfound=set()
 with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile,delimiter=';')
-    for row in reader:
-        #print(row)
-        cururi=ns+row["NB"].replace(",","_")
-        #print(cururi)
-        triples.add("<"+str(cururi)+"> <http://www.opengis.net/ont/geosparql#hasGeometry> <"+str(cururi)+"_geom> .\n")
-        triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/creator> <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> .\n")
-        triples.add("<http://data.archaeology.link/data/spphaefen/arthur_de_graauw> <http://www.w3.org/2000/01/rdf-schema#label> \"Arthur de Graauw\"@en  .\n")
-        triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/created> \"2023\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
-        triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+"\"\"\"@en .\n")
-        if row["COUNTRY"] in countries:
-            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> <"+countries[str(row["COUNTRY"])]+"> .\n <"+countries[str(row["COUNTRY"])]+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["COUNTRY"])+"\"@en .\n")
-        else:
-            print(row["COUNTRY"])
-            countrynotfound.add(row["COUNTRY"])
-            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> \""+str(row["COUNTRY"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
-        if row["PLEIADES"]!="" and "http" in row["PLEIADES"]:
-            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1584> <"+str(row["PLEIADES"])+"> .\n <"+str(row["PLEIADES"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["PLEIADES"])[str(row["PLEIADES"]).rfind('/')+1:]+"\"@en .\n")
-        if row["TRISMEGISTOS"]!="" and "http" in row["TRISMEGISTOS"]:
-            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1958> <"+str(row["TRISMEGISTOS"])+"> .\n <"+str(row["TRISMEGISTOS"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TRISMEGISTOS"])[str(row["TRISMEGISTOS"]).rfind('/')+1:]+"\"@en .\n")
-        if row["DARE"]!="" and "http" in row["DARE"]:
-            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P1936> <"+str(row["DARE"])+"> .\n <"+str(row["DARE"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["DARE"])[str(row["DARE"]).rfind('/')+1:]+"\"@en .\n")
-        if row["TOPOSText"]!="" and "http" in row["TOPOSText"]:
-            triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P8068> <"+str(row["TOPOSText"])+"> .\n <"+str(row["TOPOSText"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TOPOSText"])[str(row["TOPOSText"]).rfind('/')+1:]+"\"@en .\n")
-        assignedsubtype=False
-        if row["QU"]!="" and row["QU"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Quay> .\n")
-            assignedsubtype=True
-        if row["PL"]!="" and row["PL"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Pila> .\n")
-            assignedsubtype=True
-        if row["SL"]!="" and row["SL"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Slipway> .\n")
-            assignedsubtype=True
-        if row["SH"]!="" and row["SH"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipshed> .\n")
-            assignedsubtype=True
-        if row["SY"]!="" and row["SY"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipyard> .\n")
-            assignedsubtype=True
-        if row["PH"]!="" and row["PH"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Lighthouse> .\n")
-            assignedsubtype=True
-        if row["HO"]!="" and row["HO"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Warehouse> .\n")
-            assignedsubtype=True
-        if row["VM"]!="" and row["VM"].strip().lower()=="x":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"VillaMaritima> .\n")
-            assignedsubtype=True
-        if not assignedsubtype:
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Harbour> .\n")
-        if row["WIKIPEDIA"]!="":
-            if str(row["WIKIPEDIA"]) not in wikidatacache:
-                qid=resolveWikidataIDFromArticleName(str(row["WIKIPEDIA"]))
-            else:
-                qid=wikidatacache[str(row["WIKIPEDIA"])]
-            if qid!=None:
-                wikidatacache[str(row["WIKIPEDIA"])]=qid
-                triples.add("<"+str(cururi)+"> <http://www.w3.org/2002/07/owl#sameAs> <"+str(qid["qid"])+"> .\n <"+str(qid["qid"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(qid["label"])+"\"@"+str(qid["lang"])+" .\n")
-        if "FOUNDATION" in row and row["FOUNDATION"].strip()!="":
-            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_min> \"\"\""+str(row["FOUNDATION"])+"\"\"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
-        if "Date_max" in row and row["Date_max"].strip()!="":
-            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_max> \""+str(row["Date_max"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
-        if "Place_technique" in row and row["Place_technique"].strip()!="":
-            if row["Place_technique"] in place_technique:
-                triples.add("<"+str(cururi)+"> <"+str(nsont)+"place_technique> <"+str(place_technique[row["Place_technique"]])+"> .\n")
-                triples.add("<"+str(place_technique[row["Place_technique"]])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["Place_technique"])+"\"@en .\n")
-            else:
-                triples.add("<"+str(cururi)+"> <"+str(nsont)+"place_technique> \""+str(row["Place_technique"])+"\" .\n")
-        if "Locat_precision" in row and row["Locat_precision"].strip()!="":
-            triples.add("<"+str(cururi)+"> <"+str(nsont)+"precision> <"+str(nsont)+str(row["Locat_precision"])+"> .\n")
-        triples.add("<"+str(cururi)+"_geom> <http://www.opengis.net/ont/geosparql#asWKT> \"POINT("+row["LONGITUDE"].replace(",",".")+" "+row["LATITUDE"].replace(",",".")+")\"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .\n")
-        triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+" Geometry\"\"\"@en .\n")
-        triples.add("<"+str(cururi)+"_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/sf#Point> .\n")
-        if "Comments" in row and row["Comments"]!="":
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#comment> \"\"\""+row["Comments"].replace("\"","'")+"\"\"\"@en .\n")
-        if "DOC1_Papers" in row and row["DOC1_Papers"]!="":
-            refs= row["DOC1_Papers"].split(";")
-            for cref in refs:
-                ref=cref
-                if "," in cref:
-                    ref=cref[0:cref.rfind(",")]
-                if ref in bibmap:
-                    triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[ref])+"> . \n")
-                else:
-                    refnotfound.add(row["DOC1_Papers"])
-                    #print(row["DOC1_Papers"])
-            if row["DOC1_Papers"] in bibmap:
-                triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[row["DOC1_Papers"]])+"> . \n")
-            else:
-                #print(row["DOC1_Papers"])
-                refnotfound.add(row["DOC1_Papers"])
-            triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+row["DOC1_Papers"]+"\"\"\" .\n")
+    res=parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,"<"+str(nsont)+"Harbour>",bibmap)
+    triples=res["triples"]
+    refnotfound=res["refnotfound"]
+    countryfound=res["countrynotfound"]
+    wikidatacache=res["wikidatacache"]
+    
+with open('source/PotentialAncientPorts.csv', newline='', encoding="utf-8") as csvfile:
+    reader = csv.DictReader(csvfile,delimiter=';')
+    res=parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,"<"+str(nsont)+"PotentialHarbour>",bibmap)
+    triples=res["triples"]
+    refnotfound=res["refnotfound"]
+    countryfound=res["countrynotfound"]
+    wikidatacache=res["wikidatacache"]
 
 with open("ap_wikidata.json","w",encoding="utf-8") as resfilejs:
     resfilejs.write(json.dumps(wikidatacache,indent=2))
