@@ -91,7 +91,7 @@ def bibtexToRDF(triples,entries,ns,nsont):
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/creator> <"+ns+"author_"+str(authoruri)+"> .\n")
         triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/created> \""+str(entry["year"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "doi" in entry:
-            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"])+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> .\n")
+            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"]).replace("\_","_")+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> .\n")
     return {"triples":triples,"bibmap":bibmap}
 
 
@@ -199,6 +199,6 @@ with open("ap_result.ttl","w",encoding="utf-8") as resfile:
 for ref in sorted(refnotfound):
     print(ref)
 
-#g=Graph()
-#g.parse("ap_result.ttl")
-#g.serialize("ap_result.ttl")
+g=Graph()
+g.parse("ap_result.ttl")
+g.serialize("ap_result.ttl")
