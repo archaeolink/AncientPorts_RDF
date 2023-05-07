@@ -154,28 +154,28 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
         if row["TOPOSText"]!="" and "http" in row["TOPOSText"]:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P8068> <"+str(row["TOPOSText"])+"> .\n <"+str(row["TOPOSText"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["TOPOSText"])[str(row["TOPOSText"]).rfind('/')+1:]+"\"@en .\n")
         assignedsubtype=False
-        if row["QU"]!="" and row["QU"].strip()=="x":
+        if row["QU"]!="" and row["QU"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Quay> .\n")
             assignedsubtype=True
-        if row["PL"]!="" and row["PL"].strip()=="x":
+        if row["PL"]!="" and row["PL"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Pila> .\n")
             assignedsubtype=True
-        if row["SL"]!="" and row["SL"].strip()=="x":
+        if row["SL"]!="" and row["SL"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Slipway> .\n")
             assignedsubtype=True
-        if row["SH"]!="" and row["SH"].strip()=="x":
+        if row["SH"]!="" and row["SH"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipshed> .\n")
             assignedsubtype=True
-        if row["SY"]!="" and row["SY"].strip()=="x":
+        if row["SY"]!="" and row["SY"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Shipyard> .\n")
             assignedsubtype=True
-        if row["PH"]!="" and row["PH"].strip()=="x":
+        if row["PH"]!="" and row["PH"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Lighthouse> .\n")
             assignedsubtype=True
-        if row["HO"]!="" and row["HO"].strip()=="x":
+        if row["HO"]!="" and row["HO"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"Warehouse> .\n")
             assignedsubtype=True
-        if row["VM"]!="" and row["VM"].strip()=="x":
+        if row["VM"]!="" and row["VM"].strip().lower()=="x":
             triples.add("<"+str(cururi)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(nsont)+"VillaMaritima> .\n")
             assignedsubtype=True
         if not assignedsubtype:
