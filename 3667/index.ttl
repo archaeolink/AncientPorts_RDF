@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -6,15 +7,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3667> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label "Jeddah, al-Balad old town"@en ;
+<http://data.archaeology.link/data/ancientports/3667> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
+    rdfs:label "Jeddah, al-Balad old town"@en,
+        "Sharm Abhur, Bihar"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://www.asor.org/anetoday/2018/02/Echoes-Nabataean-Seafaring"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3667_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q374365> ;
-    skos:note "Pedersen (2015)" ;
+    skos:note "Pedersen (2015)",
+        "https://www.asor.org/anetoday/2018/02/Echoes-Nabataean-Seafaring" ;
     ns1:P1584 <https://pleiades.stoa.org/places/97875560> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string ;
+    ns1:P17 "Saudi Arab: Red S."^^xsd:string,
+        "Saudi Arabia: Red Sea"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/3962> .
 

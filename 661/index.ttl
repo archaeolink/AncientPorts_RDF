@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "ca1750!"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/661_geom> ;
-    skos:note "Moerman (1994)" ;
+    skos:note "Franca Cibecchini (2022)",
+        "Moerman (1994)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/148068> ;
     ns1:P17 "France South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/14038> .

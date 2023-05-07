@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3208_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Küyücak Geometry"@en ;
+    rdfs:label "Küyücak Geometry"@en,
+        "Küyüçak Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(27.55924 37.15357)"^^geo:wktLiteral .
 

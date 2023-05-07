@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3543_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Wadi Gasus, at Coral Garden resort Geometry"@en ;
+    rdfs:label "Coral Garden Geometry"@en,
+        "Wadi Gasus, at Coral Garden resort Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(34.03200 26.57180)"^^geo:wktLiteral .
 

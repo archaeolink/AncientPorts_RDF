@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -11,9 +12,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://news.nationalgeographic.com/2016/07/greece-shipwrecks-discovery-fourni-ancient-diving-archaeology/"^^xsd:anyURI ;
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2279_2_geom> ;
-    skos:note "Campbell (2017)" ;
+    skos:note "Campbell (2017)",
+        "https://news.nationalgeographic.com/2016/07/greece-shipwrecks-discovery-fourni-ancient-diving-archaeology/" ;
     ns1:P17 "GR: Eastern Isl."^^xsd:string ;
     ns1:P8068 <https://topostext.org/place/376265QPet> .
 

@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3361_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5214669> ;
-    skos:note "Varinlioglu (2016)" ;
+    skos:note "Jones (2021)",
+        "Varinlioglu (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648739> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22861> ;

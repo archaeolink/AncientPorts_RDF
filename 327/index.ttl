@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/327_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3108639> ;
-    skos:note "Alonso&Menanteau (2010)" ;
+    skos:note "Alonso&Menanteau (2010)",
+        "Caro Bellido (1985)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/255962> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22601> ;

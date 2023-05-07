@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/647_geom> ;
-    skos:note "Arnaud-Fassetta (1997)" ;
+    skos:note "Arnaud-Fassetta (1997)",
+        "Expo Camargues 2016" ;
     ns1:P17 "France South"^^xsd:string .
 

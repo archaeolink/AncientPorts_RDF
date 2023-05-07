@@ -1,27 +1,31 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2157> a ns2:Quay,
-        ns2:Shipshed,
-        ns2:Slipway,
-        ns2:Warehouse ;
+<http://data.archaeology.link/data/ancientports/2157> a ns1:Quay,
+        ns1:Shipshed,
+        ns1:Slipway,
+        ns1:Warehouse ;
     rdfs:label "Thassos, Limenas, Limenaria, on the North coast of the isle of Thasos, with its ancient lighthouse and another lighthouse at Cape Phanari"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-680"^^xsd:gYear ;
+    dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    ns1:date_min "-680"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2157_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q204096> ;
-    skos:note "Simossi (2000)" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/501560> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/21903> ;
-    ns1:P1958 <https://www.trismegistos.org/place/2346> ;
-    ns1:P8068 <https://topostext.org/place/408247PTha> .
+    skos:note "Simossi (2000)",
+        "Sintes (2003)",
+        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    ns2:P1584 <http://pleiades.stoa.org/places/501560> ;
+    ns2:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21903> ;
+    ns2:P1958 <https://www.trismegistos.org/place/2346> ;
+    ns2:P8068 <https://topostext.org/place/408247PTha> .
 

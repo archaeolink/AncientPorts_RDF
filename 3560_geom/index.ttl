@@ -3,7 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3560_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Marsa Mubarak, Three Corners Fayrouz Plaza Geometry"@en ;
+    rdfs:label "Marsa Mubarak Geometry"@en,
+        "Marsa Mubarak, Three Corners Fayrouz Plaza Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(34.65100 25.51200)"^^geo:wktLiteral .
+    geo:asWKT "POINT(34.65100 25.51200)"^^geo:wktLiteral,
+        "POINT(34.65270 25.50900)"^^geo:wktLiteral .
 

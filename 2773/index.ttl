@@ -1,24 +1,27 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2773> a ns1:Shipyard ;
+<http://data.archaeology.link/data/ancientports/2773> a ns2:Shipyard ;
     rdfs:label "Sinop"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-751"^^xsd:gYear ;
+    dcterms:isReferencedBy "https://pontosworld.com/index.php/pontus/places/209-sinope-sinop"^^xsd:anyURI ;
+    ns2:date_min "-751"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2773_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q599416> ;
-    skos:note "Barat (2021)" ;
-    ns2:P1584 <http://pleiades.stoa.org/places/857321> ;
-    ns2:P17 "TR: Black Sea"^^xsd:string ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/21208> ;
-    ns2:P1958 <https://www.trismegistos.org/place/2141> ;
-    ns2:P8068 <https://topostext.org/place/420351PSin> .
+    skos:note "Barat (2021)",
+        "https://pontosworld.com/index.php/pontus/places/209-sinope-sinop" ;
+    ns1:P1584 <http://pleiades.stoa.org/places/857321> ;
+    ns1:P17 "TR: Black Sea"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21208> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2141> ;
+    ns1:P8068 <https://topostext.org/place/420351PSin> .
 

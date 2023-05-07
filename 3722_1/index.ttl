@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3722_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82859> ;
-    skos:note "Strauch (2016)" ;
+    skos:note "Robin (2002)",
+        "Strauch (2016)" ;
     ns1:P17 "Yemen: Socotra"^^xsd:string .
 

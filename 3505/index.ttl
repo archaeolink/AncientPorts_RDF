@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -12,10 +13,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "http://archaeological.wixsite.com/ashdodyam"^^xsd:anyURI ;
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3505_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1068119> ;
-    skos:note "Fantalkin (2014)" ;
+    skos:note "Fantalkin (2014)",
+        "Fantalkin (2018)",
+        "http://archaeological.wixsite.com/ashdodyam" ;
     ns1:P1584 <http://pleiades.stoa.org/places/687843> ;
     ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21688> ;

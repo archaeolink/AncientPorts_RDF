@@ -15,7 +15,9 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2999_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7832593> ;
-    skos:note "Uggeri (2003)" ;
+    skos:note "Kolaiti (2022)",
+        "Uggeri (2003)",
+        "de Graauw pictures (2022)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/589897> ;
     ns1:P17 "GR: Crete South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23383> ;

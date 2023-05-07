@@ -12,9 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Seinen_2014_Late> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Seinen_2014_Late>,
+        "https://vici.org/vici/54/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/15_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
-    skos:note "Seinen (2014)" ;
+    skos:note "https://vici.org/vici/54/" ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> .
 

@@ -13,11 +13,14 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Halkon_2011_Iron> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Halkon_2011_Iron>,
+        "http://www.ferribyboats.co.uk/"^^xsd:anyURI,
+        "https://historicengland.org.uk/listing/the-list/list-entry/1005219"^^xsd:anyURI ;
     ns2:date_min "-1800"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/59_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7179412> ;
-    skos:note "Halkon (2011)" ;
+    skos:note "http://www.ferribyboats.co.uk/",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1005219" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79639> ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/20694> ;

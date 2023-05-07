@@ -13,10 +13,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wilkes_2004_Iron> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wilkes_2004_Iron>,
+        "https://portlandarchaeology.weebly.com/culverwell.html"^^xsd:anyURI ;
     ns1:date_min "-8500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/101_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q15212174> ;
-    skos:note "Wilkes (2004)" ;
+    skos:note "https://portlandarchaeology.weebly.com/culverwell.html" ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

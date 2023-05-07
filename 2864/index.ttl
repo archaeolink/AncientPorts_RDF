@@ -1,20 +1,20 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2864> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/2864> a ns2:Harbour ;
     rdfs:label "Kurucesme"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-30"^^xsd:gYear ;
+    ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2864_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6601523> ;
-    ns2:P1584 <http://pleiades.stoa.org/places/511154> ;
-    ns2:P17 "TR: Marmara S"^^xsd:string ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/31360> .
+    ns1:P1584 <http://pleiades.stoa.org/places/511154> ;
+    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/31360> .
 

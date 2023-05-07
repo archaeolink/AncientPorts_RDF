@@ -13,10 +13,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Flaux_2017_Ancient> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Flaux_2017_Ancient>,
+        "https://honorfrostfoundation.org/2022/02/08/el-max-rescue-project-ongoing/"^^xsd:anyURI ;
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3938_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2082231> ;
-    skos:note "Flaux (2017)" ;
+    skos:note "https://honorfrostfoundation.org/2022/02/08/el-max-rescue-project-ongoing/" ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string .
 

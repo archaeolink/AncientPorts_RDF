@@ -15,7 +15,8 @@
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3875_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q193850> ;
-    skos:note "Valbelle (1998)" ;
+    skos:note "Oren (1984)",
+        "Valbelle (1998)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727152> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28491> ;

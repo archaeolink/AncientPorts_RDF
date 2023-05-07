@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -7,14 +8,17 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3698> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …
+    rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …\r
 Another option would be at Ras Mohammed"""@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://pleiades.stoa.org/places/767852"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3698_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q598889> ;
-    skos:note "Nappo (2015)" ;
+    skos:note "Nappo (2015)",
+        "Pereira (1899, p 65)",
+        "https://pleiades.stoa.org/places/767852" ;
     ns1:P1584 <https://pleiades.stoa.org/places/746747> ;
     ns1:P17 "Gulf of Aqaba "^^xsd:string .
 

@@ -15,7 +15,9 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3416_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1438447> ;
-    skos:note "Lagarce (1987)" ;
+    skos:note "Garny (2015)",
+        "Lagarce (1987)",
+        "Westley (2022)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668262> ;
     ns1:P17 <http://www.wikidata.org/entity/Q858> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/33199> .

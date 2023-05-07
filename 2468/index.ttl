@@ -15,7 +15,8 @@
     ns2:date_min "-585"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2468_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6506> ;
-    skos:note "Peev (2014)" ;
+    skos:note "Peev (2014)",
+        "Peev (2020)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/216904> ;
     ns1:P17 "Bulgaria Black S."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21393> ;

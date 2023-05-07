@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3064_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2125333> ;
-    skos:note "Leidwanger (2013)" ;
+    skos:note "Leidwanger (2013)",
+        "Littoral drift of grey sand from R Kouris on a stormy day in front Liliputian Akrotiri port" ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

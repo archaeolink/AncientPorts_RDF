@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Chankowski_2018_Entrepots> a ns1:Book ;
+    dc:created "2018"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Chankowski_Véronique>,
+        <http://data.archaeology.link/data/ancientports/author_Lafon_Xavier>,
+        <http://data.archaeology.link/data/ancientports/author_Virlouvet_Catherine> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Entrepôts et circuits de distribution en Méditerranee antique"@en ;
+    ns1:publisher "École francaise d'Athènes" .
+

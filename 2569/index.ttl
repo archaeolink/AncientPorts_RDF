@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2569_geom> ;
-    skos:note "Tsetskhladze (1998)" ;
+    skos:note "Hannestad (2002)",
+        "Tsetskhladze (1998)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/226710> ;
     ns1:P17 "Ukraine Black S."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27949> .

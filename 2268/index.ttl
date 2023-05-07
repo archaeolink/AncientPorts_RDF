@@ -1,26 +1,31 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2268> a ns1:Shipshed,
-        ns1:Shipyard,
-        ns1:Slipway ;
+<http://data.archaeology.link/data/ancientports/2268> a ns2:Shipshed,
+        ns2:Shipyard,
+        ns2:Slipway ;
     rdfs:label "Pythagoreio, on the isle of Samos"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-750"^^xsd:gYear ;
+    dcterms:isReferencedBy "https://topostext.org/place/377269QEup"^^xsd:anyURI,
+        "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2268_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q73744657> ;
-    skos:note "Simossi (1991)" ;
-    ns2:P1584 <http://pleiades.stoa.org/places/599925> ;
-    ns2:P17 "GR: Eastern Isl."^^xsd:string ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/21194> ;
-    ns2:P1958 <https://www.trismegistos.org/place/2081> ;
-    ns2:P8068 <https://topostext.org/place/377269PSam> .
+    skos:note "Simossi (1991)",
+        "https://topostext.org/place/377269QEup",
+        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    ns1:P1584 <http://pleiades.stoa.org/places/599925> ;
+    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21194> ;
+    ns1:P1958 <https://www.trismegistos.org/place/2081> ;
+    ns1:P8068 <https://topostext.org/place/377269PSam> .
 

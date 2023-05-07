@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/975_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q243456> ;
-    skos:note "Poupet (2005)" ;
+    skos:note "Poupet (2005)",
+        "Vecchi (2000)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/432808> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16719> ;

@@ -12,9 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hartung_2013_Some> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hartung_2013_Some>,
+        "http://grepal.free.fr/english/maadi.php"^^xsd:anyURI ;
     ns2:date_min "-3500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3923_geom> ;
-    skos:note "Hartung (2013)" ;
+    skos:note "http://grepal.free.fr/english/maadi.php" ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string .
 

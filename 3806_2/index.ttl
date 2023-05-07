@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806_2_geom> ;
-    skos:note "Dagostino (2013)" ;
+    skos:note "Dagostino (2013)",
+        "Haaretz (2018)" ;
     ns2:P17 "Gulf"^^xsd:string .
 

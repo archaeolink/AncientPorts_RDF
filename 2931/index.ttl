@@ -15,7 +15,8 @@
     ns2:date_min "-7000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2931_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1481525> ;
-    skos:note "Cline (2011)" ;
+    skos:note "Cline (2011)",
+        "Uggeri (2003)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/589886> ;
     ns1:P17 "GR: Crete North"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23375> ;

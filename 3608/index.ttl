@@ -1,24 +1,28 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3608> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3608> a ns1:Harbour ;
     rdfs:label "Agig, Aqiq, south of wadi Baraka, Barka. The Periplus Maris Erythraei locates Ptolemais at 4000 stadia (740 km) south of Berenike, which corresponds to Aqiq"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-30"^^xsd:gYear ;
+    dcterms:isReferencedBy "http://www.barnard.nl/desert/ptolemais.html"^^xsd:anyURI ;
+    ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3608_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7257098> ;
-    skos:note "Crowfoot (1911)" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/39409> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q1049> ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/27324> ;
-    ns1:P1958 <https://www.trismegistos.org/place/3190> ;
-    ns1:P8068 <https://topostext.org/place/191373UPto> .
+    skos:note "Crowfoot (1911)",
+        "Thiers (2007)",
+        "http://www.barnard.nl/desert/ptolemais.html" ;
+    ns2:P1584 <http://pleiades.stoa.org/places/39409> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q1049> ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27324> ;
+    ns2:P1958 <https://www.trismegistos.org/place/3190> ;
+    ns2:P8068 <https://topostext.org/place/191373UPto> .
 

@@ -14,6 +14,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2398_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q810796> ;
-    skos:note "Aydingün (2005)" ;
+    skos:note "Aydingün (2005)",
+        "Yilmaz (2017)" ;
     ns1:P17 "TR: Marmara N"^^xsd:string .
 

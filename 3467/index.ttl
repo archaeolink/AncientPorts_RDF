@@ -15,7 +15,8 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3467_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82070> ;
-    skos:note "Poidebard (1939)" ;
+    skos:note "Carayon (2011)",
+        "Poidebard (1939)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678437> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21116> ;

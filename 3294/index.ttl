@@ -16,7 +16,9 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3294_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q618234> ;
-    skos:note "Arnaud (2008)" ;
+    skos:note "Arnaud (2008)",
+        "Cavalier (2007)",
+        "Hohlfelder (2000)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/638752> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21557> ;

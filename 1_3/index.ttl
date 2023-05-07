@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1_3> a ns2:Harbour ;
@@ -13,10 +12,9 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bjerck_2017_Settlements> ;
-    ns2:date_min """-10000 
-to 
+    ns2:date_min """-10000 \r
+to \r
 -5000"""^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_3_geom> ;
-    skos:note "Bjerck (2017)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q20> .
 

@@ -13,6 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3101_2_geom> ;
-    skos:note "Kraft (2003)" ;
+    skos:note "Blum (2014)",
+        "Kraft (2003)",
+        "Zangger (1999)" ;
     ns2:P17 "TR: West"^^xsd:string .
 

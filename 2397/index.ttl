@@ -15,7 +15,8 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2397_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4815732> ;
-    skos:note "Külzer (2011)" ;
+    skos:note "Külzer (2011)",
+        "Yilmaz (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/511172> ;
     ns1:P17 "TR: Marmara N"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31364> ;

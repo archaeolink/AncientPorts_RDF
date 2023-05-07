@@ -4,16 +4,16 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Demey_2013_Een> a ns1:Article ;
     dc:created "2013"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Demey_Dieter_>,
-        <http://data.archaeology.link/data/ancientports/author__Bastiaens_Jan_>,
-        <http://data.archaeology.link/data/ancientports/author__De_Clercq_Wim_>,
-        <http://data.archaeology.link/data/ancientports/author__Deforce_Koen_>,
-        <http://data.archaeology.link/data/ancientports/author__Denys_Luc_>,
-        <http://data.archaeology.link/data/ancientports/author__Ervynck_Anton_>,
-        <http://data.archaeology.link/data/ancientports/author__Lentacker_Ann_>,
-        <http://data.archaeology.link/data/ancientports/author__Pieters_Marnix_>,
-        <http://data.archaeology.link/data/ancientports/author__Storme_Annelies_>,
-        <http://data.archaeology.link/data/ancientports/author__Vanhoutte_Sofie_> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Bastiaens_Jan>,
+        <http://data.archaeology.link/data/ancientports/author_De_Clercq_Wim>,
+        <http://data.archaeology.link/data/ancientports/author_Deforce_Koen>,
+        <http://data.archaeology.link/data/ancientports/author_Demey_Dieter>,
+        <http://data.archaeology.link/data/ancientports/author_Denys_Luc>,
+        <http://data.archaeology.link/data/ancientports/author_Ervynck_Anton>,
+        <http://data.archaeology.link/data/ancientports/author_Lentacker_Ann>,
+        <http://data.archaeology.link/data/ancientports/author_Pieters_Marnix>,
+        <http://data.archaeology.link/data/ancientports/author_Storme_Annelies>,
+        <http://data.archaeology.link/data/ancientports/author_Vanhoutte_Sofie> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Een dijk en een woonplatform uit de Romeinse periode in Stene (Oostende)"@en ;
     ns1:pageEnd 70 ;

@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3619_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Melita bay near Ras Nasiracurra, on Buri peninsula Geometry"@en ;
+    rdfs:label "Melita bay near Ras Nasiracurra Geometry"@en,
+        "Melita bay near Ras Nasiracurra, on Buri peninsula Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(39.81145 15.26434)"^^geo:wktLiteral .
 

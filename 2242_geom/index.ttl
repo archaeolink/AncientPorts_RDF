@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/2242_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Planitis, on the isle of Kyra Panagia, Pelagonisi Geometry"@en ;
+    rdfs:label "Planitis, on the isle of Kyra Panagia, Pelagonisi Geometry"@en,
+        "Planitis, on the isle of Pelagos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(24.07197 39.34733)"^^geo:wktLiteral .
 

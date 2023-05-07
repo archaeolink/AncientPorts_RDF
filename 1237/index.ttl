@@ -13,6 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1237_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q670218> ;
-    skos:note "Azzopardi (2012)" ;
+    skos:note "Azzopardi (2012)",
+        "Gambin (2003)",
+        "Gambin (2021)" ;
     ns1:P17 "Malta: Gozo"^^xsd:string .
 

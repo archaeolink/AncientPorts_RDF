@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Boardman_2001_Aspects> a ns1:Article ;
+    dc:created "2001"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Boardman_John> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Aspects of 'Colonization'"@en ;
+    ns1:issn "0003097X, 21618062"^^xsd:string ;
+    ns1:number 322 ;
+    ns1:pageEnd 42 ;
+    ns1:pageStart 33 ;
+    ns1:publisher "American Schools of Oriental Research" .
+

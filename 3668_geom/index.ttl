@@ -3,7 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3668_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Sharm Abhur, Bihar Geometry"@en ;
+    rdfs:label "Al Jazeerah, near Ras Hatiba Geometry"@en,
+        "Sharm Abhur, Bihar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(39.09844 21.71735)"^^geo:wktLiteral .
+    geo:asWKT "POINT(39.03093 22.08806)"^^geo:wktLiteral,
+        "POINT(39.09844 21.71735)"^^geo:wktLiteral .
 

@@ -4,9 +4,9 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Lübke_2000_Final> a ns1:BookSection ;
     dc:created "2000"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Lübke_Harald_>,
-        <http://data.archaeology.link/data/ancientports/author__Schacht_Sigrid_>,
-        <http://data.archaeology.link/data/ancientports/author__Terberger_Thomas> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Lübke_Harald>,
+        <http://data.archaeology.link/data/ancientports/author_Schacht_Sigrid>,
+        <http://data.archaeology.link/data/ancientports/author_Terberger_Thomas> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Final Mesolithic and Early Neolithic Coastal Settlements on the Island of Rügen and in Northern Vorpommern."@en ;
     ns1:pageEnd 449 ;

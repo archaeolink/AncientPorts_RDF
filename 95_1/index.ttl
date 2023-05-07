@@ -13,10 +13,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Rich_2016_Mesolithic> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Rich_2016_Mesolithic>,
+        "https://maritimearchaeologytrust.org/bouldnor"^^xsd:anyURI ;
     ns1:date_min "-6000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/95_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4949619> ;
-    skos:note "Rich (2016)" ;
+    skos:note "https://maritimearchaeologytrust.org/bouldnor" ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

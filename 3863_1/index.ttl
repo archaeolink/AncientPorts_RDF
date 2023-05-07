@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -11,9 +12,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://de.wikipedia.org/wiki/Chaul"^^xsd:anyURI,
+        "https://en.wikipedia.org/wiki/Korlai_Fort"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3863_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6432353> ;
-    skos:note "Dalayan (2018)" ;
+    skos:note "Dalayan (2018)",
+        "https://de.wikipedia.org/wiki/Chaul",
+        "https://en.wikipedia.org/wiki/Korlai_Fort" ;
     ns1:P1584 <https://pleiades.stoa.org/places/50261> ;
     ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

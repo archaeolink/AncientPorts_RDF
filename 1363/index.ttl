@@ -11,6 +11,7 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1363_geom> ;
-    skos:note "Stokin (2007)" ;
+    skos:note "Gaspari (2021)",
+        "Stokin (2007)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q215> .
 

@@ -1,9 +1,11 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1177> a ns2:Harbour ;
@@ -11,9 +13,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://archaeonewsnet.com/2021/09/two-bronze-warship-rams-discovered-at.html"^^xsd:anyURI,
+        "https://honorfrostfoundation.org/2019/09/24/the-construction-and-preservation-of-the-egadi-island-warships/"^^xsd:anyURI ;
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1177_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q216799> ;
+    skos:note "https://archaeonewsnet.com/2021/09/two-bronze-warship-rams-discovered-at.html",
+        "https://honorfrostfoundation.org/2019/09/24/the-construction-and-preservation-of-the-egadi-island-warships/" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462084> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22888> ;

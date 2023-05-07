@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3625_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Edd, beach sheltered from south Geometry"@en ;
+    rdfs:label "Edd Geometry"@en,
+        "Edd, beach sheltered from south Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(41.69475 13.93348)"^^geo:wktLiteral .
 

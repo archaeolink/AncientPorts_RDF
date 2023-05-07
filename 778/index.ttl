@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/778_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1782566> ;
-    skos:note "Terre di Mare (2007)" ;
+    skos:note "Begemann (2001)",
+        "Terre di Mare (2007)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/472024> ;
     ns1:P17 "Italy Sardinia"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16886> ;

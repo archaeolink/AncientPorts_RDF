@@ -5,7 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3866_4> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """R Pudavaikattu? on Sri Lanka island,
+    rdfs:label """R Pudavaikattu? on Sri Lanka island,\r
 This location agrees with Ptolemy's coordinates with respect to Talacori emporium"""@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

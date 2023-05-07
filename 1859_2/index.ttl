@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-2500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1859_2_geom> ;
-    skos:note "Tartaron (2006)" ;
+    skos:note "Caraher (2010)",
+        "Tartaron (2006)" ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P8068 <https://topostext.org/place/378231FLyc> .
 

@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -10,8 +11,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://es.wikipedia.org/wiki/Puerto_Real#Prehistoria_y_Edad_Antigua"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/334_geom> ;
-    skos:note "DeFer (1705)" ;
+    skos:note "Bernal (2012)",
+        "DeFer (1705)",
+        "https://es.wikipedia.org/wiki/Puerto_Real#Prehistoria_y_Edad_Antigua" ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/43130> .
 

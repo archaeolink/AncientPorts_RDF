@@ -16,7 +16,8 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2944_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q200908> ;
-    skos:note "Eleni Kolaiti (2022)" ;
+    skos:note "Eleni Kolaiti (2022)",
+        "de Graauw pictures (2022)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/590028> ;
     ns1:P17 "GR: Crete North"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25171> ;

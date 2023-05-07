@@ -16,7 +16,9 @@
     ns2:date_min "-2570"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3525_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q11855049> ;
-    skos:note "Tallet (2014)" ;
+    skos:note "Somaglino (2022)",
+        "Tallet (2014)",
+        "Tallet (2015)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/420811320> ;
     ns1:P17 "Egypt: G. of Suez"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/55459> .

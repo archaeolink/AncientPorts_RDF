@@ -11,6 +11,8 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3618_geom> ;
-    skos:note "Peacock & Blue (2007)" ;
+    skos:note "Carannante (2015)",
+        "Peacock & Blue (2007)",
+        "Pereira (1899, p 65)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q986> .
 

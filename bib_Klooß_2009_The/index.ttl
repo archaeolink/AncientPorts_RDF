@@ -4,8 +4,8 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Klooß_2009_The> a ns1:BookSection ;
     dc:created "2009"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Klooß_Stefanie_>,
-        <http://data.archaeology.link/data/ancientports/author__Lübke_Harald> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Klooß_Stefanie>,
+        <http://data.archaeology.link/data/ancientports/author_Lübke_Harald> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The Terminal Mesolithic and Early Neolithic log boats of Stralsund-Mischwasserspeicher (Hansestadt Stralsund, Fpl. 225). Evidence of early waterborne transport on the German Southern Baltic coast"@en ;
     ns1:isbn "978-3-88467-142-9"^^xsd:string ;

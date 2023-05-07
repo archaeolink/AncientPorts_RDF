@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3874_1_geom> ;
-    skos:note "Chartier-Raymond (1993)" ;
+    skos:note "Chartier-Raymond (1993)",
+        "Herbich (2015)" ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string .
 

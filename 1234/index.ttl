@@ -15,7 +15,8 @@
     ns1:date_min "-3500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1234_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q28040391> ;
-    skos:note "Azzopardi (2012)" ;
+    skos:note "Azzopardi (2012)",
+        "Gambin (2003)" ;
     ns2:P1584 <https://pleiades.stoa.org/places/170572802> ;
     ns2:P17 "Malta: Gozo"^^xsd:string ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/25445> ;

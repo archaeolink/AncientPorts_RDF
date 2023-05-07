@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-1104"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/339_geom> ;
-    skos:note "Cesteros (2016)" ;
+    skos:note "Bernal (2020)",
+        "Cesteros (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/256177> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22428> ;

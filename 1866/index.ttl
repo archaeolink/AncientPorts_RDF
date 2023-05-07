@@ -17,7 +17,9 @@
     ns2:date_min "-2500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1866_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q191082> ;
-    skos:note "Knoblauch (1973)" ;
+    skos:note "Knoblauch (1973)",
+        "Mourtzas (2013)",
+        "Sheppard Baird (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/579853> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21936> ;

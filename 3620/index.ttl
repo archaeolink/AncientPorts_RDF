@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3620_geom> ;
-    skos:note "Peacock & Blue (2007)" ;
+    skos:note "Bukharin (2012)",
+        "Peacock & Blue (2007)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/39404> ;
     ns1:P17 <http://www.wikidata.org/entity/Q986> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41318> ;

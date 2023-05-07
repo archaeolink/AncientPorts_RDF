@@ -16,7 +16,9 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/986_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q290097> ;
-    skos:note "Brandon (2008)" ;
+    skos:note "Brandon (2008)",
+        "Caporizzo (2022)",
+        "Davidde Petriaggi (2020)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/432716> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22558> ;

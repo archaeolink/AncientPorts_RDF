@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/879_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2073211> ;
-    skos:note "Rendini (2008)" ;
+    skos:note "Camilli (2005)",
+        "Rendini (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/403280> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23141> ;

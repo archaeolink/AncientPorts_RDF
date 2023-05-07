@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -10,7 +11,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://www.tehrantimes.com/news/470206/Archaeological-trenches-carved-to-redefine-southern-Iranian-port"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3823_geom> ;
-    skos:note "Askari Chaverdi (2017)" ;
+    skos:note "Askari Chaverdi (2017)",
+        "Poukerman (2021)",
+        "https://www.tehrantimes.com/news/470206/Archaeological-trenches-carved-to-redefine-southern-Iranian-port" ;
     ns1:P17 "Gulf"^^xsd:string .
 

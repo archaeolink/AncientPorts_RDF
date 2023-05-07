@@ -4,8 +4,8 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Uhner_2015_Rock> a ns1:Article ;
     dc:created "2015"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Uhner_Claes_>,
-        <http://data.archaeology.link/data/ancientports/author__Ling_Johan> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Ling_Johan>,
+        <http://data.archaeology.link/data/ancientports/author_Uhner_Claes> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Rock Art and Metal Trade"@en ;
     ns1:pageEnd 43 ;

@@ -4,9 +4,9 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Brouwers_2013_Romeinse> a ns1:Article ;
     dc:created "2013"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Brouwers_Will_>,
-        <http://data.archaeology.link/data/ancientports/author__Jansma_E_>,
-        <http://data.archaeology.link/data/ancientports/author_ers_M_> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Brouwers_Will>,
+        <http://data.archaeology.link/data/ancientports/author_Jansma_E>,
+        <http://data.archaeology.link/data/ancientports/author_ers_M> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Romeinse scheepsresten in Nederland"@en ;
     ns1:number 4 ;

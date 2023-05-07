@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.ancientports.com/ont#> .
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
@@ -11,8 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://www.flickr.com/photos/samorini/15068332251/in/photostream/"^^xsd:anyURI ;
     ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/495_geom> ;
-    skos:note "Guerrero-Ayuzo (2006)" ;
+    skos:note "Guerrero-Ayuzo (2006)",
+        "https://www.flickr.com/photos/samorini/15068332251/in/photostream/" ;
     ns2:P17 "Spain Ibiza"^^xsd:string .
 

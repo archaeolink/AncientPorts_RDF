@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-2000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3485_geom> ;
-    skos:note "Marcus (1996)" ;
+    skos:note "Marcus (1996)",
+        "Marcus (1998)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q801> .
 

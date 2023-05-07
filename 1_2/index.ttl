@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-100"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_2_geom> ;
-    skos:note "Sylvester (2009)" ;
+    skos:note "Glorstad (2013)",
+        "Sylvester (2009)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q20> .
 

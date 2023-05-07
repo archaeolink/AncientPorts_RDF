@@ -5,14 +5,17 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3744> a ns2:Harbour ;
-    rdfs:label "Ras Sanbah?"@en ;
+<http://data.archaeology.link/data/ancientports/3744> a ns2:Harbour,
+        ns2:PotentialHarbour ;
+    rdfs:label "Bal Haf, Balihaf"@en,
+        "Ras Sanbah?"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3744_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39263> ;
-    ns1:P17 "Yemen Ind Oc."^^xsd:string ;
+    ns1:P17 "Yemen"^^xsd:string,
+        "Yemen Ind Oc."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27285> .
 

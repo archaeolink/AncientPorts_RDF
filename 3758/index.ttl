@@ -5,12 +5,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3758> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/3758> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
     rdfs:label "Salalah, Raysut"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3758_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1294439> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q842> .
+    ns1:P17 <http://www.wikidata.org/entity/Q842>,
+        "Yemen"^^xsd:string .
 

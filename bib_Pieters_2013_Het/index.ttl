@@ -3,16 +3,16 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Pieters_2013_Het> a <http://purl.org/ontology/bibo/Book> ;
     dc:created "2013"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Pieters_Marnix_>,
-        <http://data.archaeology.link/data/ancientports/author__Baeteman_Cecile_>,
-        <http://data.archaeology.link/data/ancientports/author__Bastiaens_Jan_>,
-        <http://data.archaeology.link/data/ancientports/author__Bollen_An_>,
-        <http://data.archaeology.link/data/ancientports/author__Clogg_Philip_>,
-        <http://data.archaeology.link/data/ancientports/author__Cooremans_Brigitte_>,
-        <http://data.archaeology.link/data/ancientports/author__De_Bie_M_>,
-        <http://data.archaeology.link/data/ancientports/author__De_Buyser_F_>,
-        <http://data.archaeology.link/data/ancientports/author__De_Groote_A_>,
-        <http://data.archaeology.link/data/ancientports/author__Decorte_K_> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Baeteman_Cecile>,
+        <http://data.archaeology.link/data/ancientports/author_Bastiaens_Jan>,
+        <http://data.archaeology.link/data/ancientports/author_Bollen_An>,
+        <http://data.archaeology.link/data/ancientports/author_Clogg_Philip>,
+        <http://data.archaeology.link/data/ancientports/author_Cooremans_Brigitte>,
+        <http://data.archaeology.link/data/ancientports/author_De_Bie_M>,
+        <http://data.archaeology.link/data/ancientports/author_De_Buyser_F>,
+        <http://data.archaeology.link/data/ancientports/author_De_Groote_A>,
+        <http://data.archaeology.link/data/ancientports/author_Decorte_K>,
+        <http://data.archaeology.link/data/ancientports/author_Pieters_Marnix> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Het archeologisch onderzoek in Raversijde (Oostende) in de periode 1992-2005: Vuurstenen artefacten, een Romeinse dijk, een 14de-eeuws muntdepot, een 15de-eeuwse sector van een vissersnederzetting en sporen van een vroeg-17de-eeuwse en een vroeg-18de-eeuwse belegering van Oostende"@en .
 

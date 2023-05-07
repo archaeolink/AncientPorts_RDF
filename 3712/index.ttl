@@ -15,6 +15,7 @@
     ns1:date_min "-800"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3712_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q713391> ;
-    skos:note "Felix Chami (2002)" ;
+    skos:note "Felix Chami (2002)",
+        "Felix Chami (2017)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q924> .
 

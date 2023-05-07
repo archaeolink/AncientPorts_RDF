@@ -16,7 +16,9 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/906_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1724661> ;
-    skos:note "Daum (2018)" ;
+    skos:note "Daum (2018)",
+        "Enei (2017)",
+        "Goiran (video 2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/433061> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/17254> ;

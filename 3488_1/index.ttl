@@ -15,6 +15,7 @@
     ns1:date_min "-5000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3488_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2777560> ;
-    skos:note "Arkin Shalev (2019c)" ;
+    skos:note "Arkin Shalev (2019c)",
+        "Shtienberg (2020)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q801> .
 

@@ -4,9 +4,9 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Cerdan_2016_Hispania> a ns1:Article ;
     dc:created "2016"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Cerdan_Angel_>,
-        <http://data.archaeology.link/data/ancientports/author__Ochoa_Carmen_>,
-        <http://data.archaeology.link/data/ancientports/author__Salido_Domínguez_Javier> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Cerdan_Angel>,
+        <http://data.archaeology.link/data/ancientports/author_Ochoa_Carmen>,
+        <http://data.archaeology.link/data/ancientports/author_Salido_Domínguez_Javier> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Hispania and the Atlantic Route in Roman Times: new Approaches to Ports and Trade: Hispania and the atlantic route in roman times"@en ;
     ns1:doi "10.1111/ojoa.12089"^^xsd:anyURI ;

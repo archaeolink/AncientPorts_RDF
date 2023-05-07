@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -12,10 +13,14 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1002558"^^xsd:anyURI,
+        "https://www.lymeregismuseum.co.uk/collection/early-lyme-regis/"^^xsd:anyURI ;
     ns2:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/101_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5879023> ;
-    skos:note "Ottewell (2019)" ;
+    skos:note "Ottewell (2019)",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1002558",
+        "https://www.lymeregismuseum.co.uk/collection/early-lyme-regis/" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79517> ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25724> .

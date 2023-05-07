@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Paskoff_1991_Le> a ns1:Article ;
+    dc:created "1991"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Paskoff_Rol>,
+        <http://data.archaeology.link/data/ancientports/author_Slim_Hédi>,
+        <http://data.archaeology.link/data/ancientports/author_Trousset_Pol> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Le littoral de la Tunisie dans l'Antiquité : cinq ans de recherches géo- archéologiques"@en ;
+    ns1:doi "10.3406/crai.1991.15006"^^xsd:anyURI ;
+    ns1:number 3 ;
+    ns1:pageEnd 546 ;
+    ns1:pageStart 515 ;
+    ns1:volume "135"^^xsd:string .
+

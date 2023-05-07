@@ -15,7 +15,8 @@
     ns2:date_min "-300"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3406_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1605894> ;
-    skos:note "Chapot (1907)" ;
+    skos:note "Chapot (1907)",
+        "Pamir (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/658483> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21501> ;

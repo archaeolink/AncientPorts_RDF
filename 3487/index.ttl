@@ -16,7 +16,8 @@
     ns1:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3487_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2777560> ;
-    skos:note "Gambash (2017)" ;
+    skos:note "Galili (2018)",
+        "Gambash (2017)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/678121> ;
     ns2:P17 <http://www.wikidata.org/entity/Q801> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/21661> ;

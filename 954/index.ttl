@@ -1,23 +1,26 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/954> a ns1:VillaMaritima ;
+<http://data.archaeology.link/data/ancientports/954> a ns2:VillaMaritima ;
     rdfs:label "Cape Circeo, with several Roman villas, with canal outlet on R Torto"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-550"^^xsd:gYear ;
+    dcterms:isReferencedBy "http://www.circei.it/la-fossa-augusta.html"^^xsd:anyURI ;
+    ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/954_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2530284> ;
-    skos:note "Daum (2018)" ;
-    ns2:P1584 <http://pleiades.stoa.org/places/432782> ;
-    ns2:P17 "Italy West"^^xsd:string ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/22391> ;
-    ns2:P8068 <https://topostext.org/place/412131LKir> .
+    skos:note "Daum (2018)",
+        "http://www.circei.it/la-fossa-augusta.html" ;
+    ns1:P1584 <http://pleiades.stoa.org/places/432782> ;
+    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/22391> ;
+    ns1:P8068 <https://topostext.org/place/412131LKir> .
 

@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3628_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Ras Terma, east of Beylul Geometry"@en ;
+    rdfs:label "Ras Terma Geometry"@en,
+        "Ras Terma, east of Beylul Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(42.52675 13.21461)"^^geo:wktLiteral .
 

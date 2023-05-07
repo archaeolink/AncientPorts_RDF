@@ -5,5 +5,6 @@
 <http://data.archaeology.link/data/ancientports/Proceedings_collection> a skos:Collection ;
     rdfs:label "Proceedings Instances Collection" ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Steerwood_2003_Context> .
+    rdfs:member <http://data.archaeology.link/data/ancientports/bib_Hurst_2010_Understanding>,
+        <http://data.archaeology.link/data/ancientports/bib_Steerwood_2003_Context> .
 

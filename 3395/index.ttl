@@ -15,7 +15,9 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3395_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1360503> ;
-    skos:note "Seton-Williams (1954)" ;
+    skos:note "Beach (2008)",
+        "Oruc (2013)",
+        "Seton-Williams (1954)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/658490> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23587> ;

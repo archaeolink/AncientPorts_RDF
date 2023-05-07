@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3641_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Tongue island, near Monfreid's Zoukour, Zuqar island Geometry"@en ;
+    rdfs:label "Tongue island, near Monfreid's Zoukour, Zuqar Geometry"@en,
+        "Tongue island, near Monfreid's Zoukour, Zuqar island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(42.71369 13.88127)"^^geo:wktLiteral .
 

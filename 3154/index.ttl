@@ -15,7 +15,8 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3154_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17623230> ;
-    skos:note "Erkanal (2009)" ;
+    skos:note "Erkanal (2009)",
+        "Sheppard Baird (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550488> ;
     ns1:P17 "TR: West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/29516> ;

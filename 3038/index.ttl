@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.ancientports.com/ont#> .
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
@@ -12,10 +13,14 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://www.nationalgeographic.com/history/magazine/2017/03-04/enkomi-cyprus-ancient-city-copper-bronze/"^^xsd:anyURI,
+        "https://www.varchive.org/dag/enkomi.htm"^^xsd:anyURI ;
     ns1:date_min "-2000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3038_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1343280> ;
-    skos:note "Devillers (2008)" ;
+    skos:note "Devillers (2008)",
+        "https://www.nationalgeographic.com/history/magazine/2017/03-04/enkomi-cyprus-ancient-city-copper-bronze/",
+        "https://www.varchive.org/dag/enkomi.htm" ;
     ns2:P17 <http://www.wikidata.org/entity/Q229> ;
     ns2:P1958 <https://www.trismegistos.org/place/37211> ;
     ns2:P8068 <https://topostext.org/place/352339UEnk> .

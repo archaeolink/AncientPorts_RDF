@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3394_2_geom> ;
-    skos:note "Seton-Williams (1954)" ;
+    skos:note "Akpinar (2004)",
+        "Seton-Williams (1954)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/658556> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23588.html> ;

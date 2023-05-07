@@ -15,7 +15,8 @@
     ns2:date_min "-275"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3492_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q319242> ;
-    skos:note "Raban (200, p 38)" ;
+    skos:note "Raban (1996)",
+        "Raban (200, p 38)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678401> ;
     ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21149> ;

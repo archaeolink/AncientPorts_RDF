@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1002_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q43332> ;
-    skos:note "Descoeudres (2000)" ;
+    skos:note "Arkadias",
+        "Descoeudres (2000)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/433032> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21352> ;

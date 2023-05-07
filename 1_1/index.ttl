@@ -13,10 +13,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wickler_2019_Early> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wickler_2019_Early>,
+        "https://en.wikipedia.org/wiki/World_Heritage_Rock_Art_Centre_-_Alta_Museum"^^xsd:anyURI,
+        "https://whc.unesco.org/en/list/352"^^xsd:anyURI ;
     ns2:date_min "-5000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q433634> ;
-    skos:note "Wickler (2019)" ;
+    skos:note "https://en.wikipedia.org/wiki/World_Heritage_Rock_Art_Centre_-_Alta_Museum",
+        "https://whc.unesco.org/en/list/352" ;
     ns1:P17 <http://www.wikidata.org/entity/Q20> .
 

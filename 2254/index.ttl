@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-2500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2254_geom> ;
-    skos:note "Girella (2015)" ;
+    skos:note "Girella (2015)",
+        "Sheppard Baird (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550530> ;
     ns1:P17 "GR: Eastern Isl."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/29531> ;

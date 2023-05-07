@@ -15,7 +15,9 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3453_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3820> ;
-    skos:note "Carayon (2011)" ;
+    skos:note "Carayon (2011)",
+        "Marriner (2008)",
+        "Pfaelzner (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678060> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21113> ;

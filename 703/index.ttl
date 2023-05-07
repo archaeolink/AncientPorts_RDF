@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/703_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q685396> ;
-    skos:note "Fiches (1995)" ;
+    skos:note "Dubar (2004)",
+        "Fiches (1995)" ;
     ns1:P17 "France South"^^xsd:string .
 

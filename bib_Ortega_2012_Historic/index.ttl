@@ -4,12 +4,12 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Ortega_2012_Historic> a ns1:Article ;
     dc:created "2012"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Ortega_Luis_Angel_>,
-        <http://data.archaeology.link/data/ancientports/author__Alonso-Olazabal_Ainhoa_>,
-        <http://data.archaeology.link/data/ancientports/author__Ibañez-Etxeberria_Alex>,
-        <http://data.archaeology.link/data/ancientports/author__Insausti_Maite_>,
-        <http://data.archaeology.link/data/ancientports/author__Murelaga_Xabier_>,
-        <http://data.archaeology.link/data/ancientports/author__Zuluaga_Maria_Cruz_> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Alonso-Olazabal_Ainhoa>,
+        <http://data.archaeology.link/data/ancientports/author_Ibañez-Etxeberria_Alex>,
+        <http://data.archaeology.link/data/ancientports/author_Insausti_Maite>,
+        <http://data.archaeology.link/data/ancientports/author_Murelaga_Xabier>,
+        <http://data.archaeology.link/data/ancientports/author_Ortega_Luis_Angel>,
+        <http://data.archaeology.link/data/ancientports/author_Zuluaga_Maria_Cruz> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Historic Lime-Mortar 14C Dating of Santa María La Real (Zarautz, Northern Spain): Extraction of Suitable Grain Size for Reliable 14C Dating"@en ;
     ns1:doi "10.2458/azu_js_rc.v54i1.11988"^^xsd:anyURI ;

@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1252_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q732732> ;
-    skos:note "Mastronuzzi (2017)" ;
+    skos:note "Auriemma (2009)",
+        "Mastronuzzi (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/442573> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23196> ;

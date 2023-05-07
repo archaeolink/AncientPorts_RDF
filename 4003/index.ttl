@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -11,9 +12,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/el-hanieh-ancient-anchorage/"^^xsd:anyURI ;
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4003_geom> ;
-    skos:note "Yorke (1972)" ;
+    skos:note "Yorke (1972)",
+        "http://www.ancientportsantiques.com/a-few-ports/el-hanieh-ancient-anchorage/" ;
     ns1:P1584 <http://pleiades.stoa.org/places/373733> ;
     ns1:P17 <http://www.wikidata.org/entity/Q1016> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27216> .

@@ -15,7 +15,9 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3509_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q47492> ;
-    skos:note "Clarke (2004)" ;
+    skos:note "Andreou (2022)",
+        "Clarke (2004)",
+        "Sadeq (2015)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/687902> ;
     ns1:P17 "Gaza"^^xsd:string .
 

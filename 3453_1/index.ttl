@@ -15,7 +15,9 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3453_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3820> ;
-    skos:note "Raad (2021)" ;
+    skos:note "Marriner (2008)",
+        "Pfaelzner (2012)",
+        "Raad (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678060> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21113> ;

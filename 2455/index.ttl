@@ -13,6 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2455_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6509> ;
-    skos:note "Castelli (2015)" ;
+    skos:note "Castelli (2015)",
+        "Damyanov (2021)",
+        "Peev (2020)" ;
     ns1:P17 "Bulgaria Black S."^^xsd:string .
 

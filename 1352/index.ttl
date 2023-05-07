@@ -1,8 +1,10 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1352> a <http://www.ancientports.com/ont#VillaMaritima> ;
@@ -10,8 +12,12 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://ilpiccolo.gelocal.it/trieste/cronaca/2016/06/07/news/il-mosaico-impossibile-della-villa-romana-1.13619385"^^xsd:anyURI,
+        "https://youtu.be/Z3Rm3HaZvLs"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1352_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q53133> ;
+    skos:note "https://ilpiccolo.gelocal.it/trieste/cronaca/2016/06/07/news/il-mosaico-impossibile-della-villa-romana-1.13619385",
+        "https://youtu.be/Z3Rm3HaZvLs" ;
     ns1:P1584 <http://pleiades.stoa.org/places/187264> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/44028> .

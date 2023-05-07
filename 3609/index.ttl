@@ -11,7 +11,9 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3609_geom> ;
-    skos:note "Zazzaro (2013)" ;
+    skos:note "Hinkel (1992)",
+        "Thiers (2007)",
+        "Zazzaro (2013)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/40323> ;
     ns1:P17 <http://www.wikidata.org/entity/Q1049> .
 

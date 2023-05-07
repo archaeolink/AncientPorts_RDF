@@ -15,7 +15,8 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/712_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q320197> ;
-    skos:note "Morena (1994)" ;
+    skos:note "Arnaud (1998)",
+        "Morena (1994)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/157943> ;
     ns1:P17 "France South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/17386> .

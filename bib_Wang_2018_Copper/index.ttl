@@ -4,9 +4,9 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Wang_2018_Copper> a ns1:Article ;
     dc:created "2018"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Wang_Quanyu_>,
-        <http://data.archaeology.link/data/ancientports/author__Roberts_Benjamin_W>,
-        <http://data.archaeology.link/data/ancientports/author__Strekopytov_Stanislav_> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Roberts_Benjamin_W>,
+        <http://data.archaeology.link/data/ancientports/author_Strekopytov_Stanislav>,
+        <http://data.archaeology.link/data/ancientports/author_Wang_Quanyu> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Copper ingots from a probable Bronze Age shipwreck off the coast of Salcombe, Devon: Composition and microstructure"@en ;
     ns1:pageEnd 117 ;

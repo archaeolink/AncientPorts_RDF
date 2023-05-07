@@ -5,12 +5,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3737> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/3737> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
     rdfs:label "Guinni Koma, ile du Diable, inside Ghoubbet el-Karab, Monfreid's Gubet Karab"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3737_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3593573> ;
-    ns1:P17 "Djibouti Ind Oc."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q977>,
+        "Djibouti Ind Oc."^^xsd:string .
 

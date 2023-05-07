@@ -15,7 +15,8 @@
     ns2:date_min "-600"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/829_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1449> ;
-    skos:note "Melli (2011)" ;
+    skos:note "DeFer (1705)",
+        "Melli (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/383664> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/10569> ;

@@ -6,7 +6,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/39_3> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/39_3> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
     rdfs:label "Nieuwpoort, on R IJzer, Yzer"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
@@ -14,5 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/39_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q491794> ;
     skos:note "Morillo (2016)" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q234> .
+    ns1:P17 <http://www.wikidata.org/entity/Q234>,
+        <http://www.wikidata.org/entity/Q31> .
 

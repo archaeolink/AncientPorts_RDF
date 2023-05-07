@@ -15,7 +15,8 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2383_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7861543> ;
-    skos:note "Tsvetkova (2008)" ;
+    skos:note "Tsvetkova (2008)",
+        "Vanschoonwinkel (2006)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/511449> ;
     ns1:P17 "TR: Marmara N"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31446> ;

@@ -13,7 +13,9 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/506_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2611105> ;
-    skos:note "Grenier (1934)" ;
+    skos:note "Blamangin & Hanoune (2020)",
+        "Grenier (1934)",
+        "Le Bourdelles (1988)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/109008> ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/45> .

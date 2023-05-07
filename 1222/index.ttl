@@ -11,6 +11,8 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1222_geom> ;
-    skos:note "DeFer (1705)" ;
+    skos:note "DeFer (1705)",
+        "Gambin (2004)",
+        "Gambin (2005)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

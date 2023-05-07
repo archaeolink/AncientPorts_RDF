@@ -5,8 +5,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3259> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label "Aksaz modern naval base, in Karaagac Limani"@en ;
+<http://data.archaeology.link/data/ancientports/3259> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
+    rdfs:label "Aksaz modern naval base, in Karaagac Limani"@en,
+        "Aksaz, in Karaagaç Limani"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

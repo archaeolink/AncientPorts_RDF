@@ -6,13 +6,16 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3543> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label "Wadi Gasus, at Coral Garden resort"@en ;
+<http://data.archaeology.link/data/ancientports/3543> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
+    rdfs:label "Coral Garden"@en,
+        "Wadi Gasus, at Coral Garden resort"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3543_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1397227> ;
     skos:note "Nibbi (1976)" ;
-    ns1:P17 "Egypt: Red Sea"^^xsd:string .
+    ns1:P17 "Egypt"^^xsd:string,
+        "Egypt: Red Sea"^^xsd:string .
 

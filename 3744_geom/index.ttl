@@ -3,7 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3744_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Ras Sanbah? Geometry"@en ;
+    rdfs:label "Bal Haf, Balihaf Geometry"@en,
+        "Ras Sanbah? Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(46.69000 13.41000)"^^geo:wktLiteral .
+    geo:asWKT "POINT(46.69000 13.41000)"^^geo:wktLiteral,
+        "POINT(48.17321 13.98272)"^^geo:wktLiteral .
 

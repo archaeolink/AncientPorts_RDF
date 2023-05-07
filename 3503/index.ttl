@@ -15,7 +15,8 @@
     ns2:date_min "-1700"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3503_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q180294> ;
-    skos:note "Burke (2017)" ;
+    skos:note "Burke (2017)",
+        "Marcus (1998)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/687931> ;
     ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21683> ;

@@ -3,7 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/2090_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Ormos Lageri, inside Ormos Naousis on the isle of Paros, Bara Geometry"@en ;
+    rdfs:label "Ormos Lageri, inside Ormos Naousis on the isle of Paros, Bara Geometry"@en,
+        "Ormos Langeri, inside Ormos Naousis on the isle of Paros Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    geo:asWKT "POINT(25.26660 37.14020)"^^geo:wktLiteral .
+    geo:asWKT "POINT(25.26626 37.13866)"^^geo:wktLiteral,
+        "POINT(25.26660 37.14020)"^^geo:wktLiteral .
 

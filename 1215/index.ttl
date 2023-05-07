@@ -1,16 +1,21 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1215> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label "Mellieha bay, with  salt production"@en ;
+<http://data.archaeology.link/data/ancientports/1215> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.ancientports.com/ont#PotentialHarbour> ;
+    rdfs:label "Mellieha bay"@en,
+        "Mellieha bay, with  salt production"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://airmalta.com/en/blog/malta/malta-and-its-salt-pans"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1215_geom> ;
-    skos:note "Azzopardi (2012)" ;
+    skos:note "Azzopardi (2012)",
+        "https://airmalta.com/en/blog/malta/malta-and-its-salt-pans" ;
     ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

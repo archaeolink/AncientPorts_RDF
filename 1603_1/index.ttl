@@ -1,7 +1,9 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1603_1> a <http://www.ancientports.com/ont#Slipway> ;
@@ -9,6 +11,8 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://mapcarta.com/W138965232"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1603_1_geom> ;
+    skos:note "https://mapcarta.com/W138965232" ;
     ns1:P17 "GR: North-West"^^xsd:string .
 

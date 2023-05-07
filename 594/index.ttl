@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -11,9 +12,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32"^^xsd:anyURI,
+        "http://ym.piel.pagesperso-orange.fr/gallorom.html"^^xsd:anyURI ;
     ns2:date_min "-200"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/594_geom> ;
-    skos:note "Tassaux (2010)" ;
+    skos:note "Tassaux (2010)",
+        "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32",
+        "http://ym.piel.pagesperso-orange.fr/gallorom.html" ;
     ns1:P1584 <http://pleiades.stoa.org/places/140481> ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/20147> ;

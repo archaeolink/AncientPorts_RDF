@@ -13,6 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3517_geom> ;
-    skos:note "Morhange (2005)" ;
+    skos:note "Andreou (2022)",
+        "Fantalkin (2018)",
+        "Morhange (2005)" ;
     ns1:P17 "Gaza"^^xsd:string .
 

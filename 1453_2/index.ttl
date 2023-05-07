@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -11,8 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7262"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1453_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1290124> ;
-    skos:note "Radic Rossi (2008)" ;
+    skos:note "Radic Rossi (2008)",
+        "http://baza.iarh.hr/public/locality/detail/7262" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

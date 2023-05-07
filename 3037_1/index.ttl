@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3037_1_geom> ;
-    skos:note "Flemming (1974)" ;
+    skos:note "Davies (2016)",
+        "Flemming (1974)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

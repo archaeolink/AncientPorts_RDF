@@ -15,7 +15,8 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3420_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7697529> ;
-    skos:note "Bretschneider (2004)" ;
+    skos:note "Bretschneider (2004)",
+        "Garny (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668250> ;
     ns1:P17 <http://www.wikidata.org/entity/Q858> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21506> ;

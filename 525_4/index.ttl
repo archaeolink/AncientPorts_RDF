@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/525_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1010891> ;
-    skos:note "Mouchard (2021)" ;
+    skos:note "Arthuis (2010)",
+        "Mouchard (2021)" ;
     ns1:P17 "France West"^^xsd:string .
 

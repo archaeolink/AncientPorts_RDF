@@ -15,7 +15,9 @@
     ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/268_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q10365480> ;
-    skos:note "Teichner (2016)" ;
+    skos:note "Hermann (2022)",
+        "Magalhaes (2021)",
+        "Teichner (2016)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/256485> ;
     ns2:P17 <http://www.wikidata.org/entity/Q45> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/22243> .

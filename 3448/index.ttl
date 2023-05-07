@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -12,10 +13,12 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://honorfrostfoundation.org/2017/01/01/kubba-coastal-survey/"^^xsd:anyURI ;
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3448_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3285145> ;
-    skos:note "Carayon (2012)" ;
+    skos:note "Carayon (2012)",
+        "https://honorfrostfoundation.org/2017/01/01/kubba-coastal-survey/" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668214> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21518> ;

@@ -15,7 +15,9 @@
     ns2:date_min "-1720"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3886_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q48730527> ;
-    skos:note "Bietak (2011)" ;
+    skos:note "Bietak (2011)",
+        "Snape (2014:42)",
+        "Tronchere (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727080> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28474> ;

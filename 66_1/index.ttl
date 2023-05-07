@@ -13,11 +13,12 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Steerwood_2003_Context> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Steerwood_2003_Context>,
+        "https://joemasonspage.wordpress.com/2016/03/08/sitomagus/"^^xsd:anyURI ;
     ns2:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/66_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q105556004> ;
-    skos:note "Steerwood (2003)" ;
+    skos:note "https://joemasonspage.wordpress.com/2016/03/08/sitomagus/" ;
     ns1:P1584 <https://pleiades.stoa.org/places/83883> ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1958 <https://www.trismegistos.org/place/18976> .

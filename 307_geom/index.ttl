@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/307_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "El Rompido, between Punta Umbria and Isla Saltes, on R Piedras Geometry"@en ;
+    rdfs:label "El Rompido Geometry"@en,
+        "El Rompido, between Punta Umbria and Isla Saltes, on R Piedras Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(-7.12572 37.21424)"^^geo:wktLiteral .
 

@@ -17,7 +17,9 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3945_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7684735> ;
-    skos:note "Pichot (2021)" ;
+    skos:note "Boussac (2010)",
+        "Pichot (2021)",
+        "Redon (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727241> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21708> ;

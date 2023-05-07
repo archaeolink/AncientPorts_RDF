@@ -15,7 +15,8 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2953_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q868952> ;
-    skos:note "Theodoulou (2015a)" ;
+    skos:note "Roussos (2022)",
+        "Theodoulou (2015a)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/589755> ;
     ns1:P17 "GR: Crete North"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41468> ;

@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -11,9 +12,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "https://www.romanports.org/en/articles/ports-in-focus/645-tarragona.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/428_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1501940> ;
-    skos:note "Terrado (2019)" ;
+    skos:note "Terrado (2019)",
+        "https://www.romanports.org/en/articles/ports-in-focus/645-tarragona.html" ;
     ns1:P1584 <http://pleiades.stoa.org/places/246349> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/6535> ;

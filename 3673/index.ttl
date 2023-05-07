@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3673_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q466027> ;
-    skos:note "Cuvigny (1996)" ;
+    skos:note "Cuvigny (1996)",
+        "Pedersen (2015)" ;
     ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string .
 

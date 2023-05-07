@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/744_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label "Porto, at outlet of R Porto Geometry"@en ;
+    rdfs:label "Porto Geometry"@en,
+        "Porto, at outlet of R Porto Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(8.69329 42.26650)"^^geo:wktLiteral .
 

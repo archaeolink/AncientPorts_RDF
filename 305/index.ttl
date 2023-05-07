@@ -15,7 +15,8 @@
     ns2:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/305_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5050374> ;
-    skos:note "Wachsmann (2009)" ;
+    skos:note "Arruda (1997)",
+        "Wachsmann (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/256008> ;
     ns1:P17 <http://www.wikidata.org/entity/Q45> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22483> ;

@@ -14,7 +14,9 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns1:date_min "-4000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2447_geom> ;
-    skos:note "Baralis (2010)" ;
+    skos:note "Baralis (2010)",
+        "Filipova (2011)",
+        "Peev (2016)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/216706> ;
     ns2:P17 "Bulgaria Black S."^^xsd:string ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/21381> ;

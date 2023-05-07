@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3871_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3392> ;
-    skos:note "Cooper (2011)" ;
+    skos:note "Bietak (1996)",
+        "Cooper (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727172> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/3943> ;

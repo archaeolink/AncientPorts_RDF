@@ -15,7 +15,8 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/943_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q16010710> ;
-    skos:note "Felici (2002)" ;
+    skos:note "Felici (1993)",
+        "Felici (2002)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/422837> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16711> ;

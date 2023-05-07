@@ -13,6 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/622_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q84710214> ;
-    skos:note "Carayon (2014)" ;
+    skos:note "Carayon (2014)",
+        "Sanchez (2014, p 87-93)",
+        "Sanchez (2021)" ;
     ns1:P17 "France South"^^xsd:string .
 

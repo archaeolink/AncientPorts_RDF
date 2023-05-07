@@ -15,7 +15,9 @@
     ns2:date_min "-657"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2487_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1164460> ;
-    skos:note "Bivolaru (2021)" ;
+    skos:note "Angelescu (2018)",
+        "Avram (2004)",
+        "Bivolaru (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/216839> ;
     ns1:P17 "Romania Black S."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21423> ;

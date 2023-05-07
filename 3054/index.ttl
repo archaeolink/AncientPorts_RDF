@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.ancientports.com/ont#> .
 @prefix ns2: <http://www.wikidata.org/prop/direct/> .
@@ -11,8 +12,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum/maroni/archaeological_sites/maroni-vournes.aspx"^^xsd:anyURI ;
     ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3054_geom> ;
-    skos:note "Andreou (2014)" ;
+    skos:note "Andreou (2014)",
+        "Sabatini (2016)",
+        "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum/maroni/archaeological_sites/maroni-vournes.aspx" ;
     ns2:P17 <http://www.wikidata.org/entity/Q229> .
 

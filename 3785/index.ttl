@@ -15,7 +15,9 @@
     ns2:date_min "-2200"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3785_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q740104> ;
-    skos:note "Potts (2016)" ;
+    skos:note "Lombard (2018)",
+        "Potts (2016)",
+        "Rausch (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/932432> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41326> ;

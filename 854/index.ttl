@@ -15,7 +15,8 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/854_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6761> ;
-    skos:note "Pasquinucci (2014)" ;
+    skos:note "DeFer (1705)",
+        "Pasquinucci (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/403261> ;
     ns1:P17 "Italy West"^^xsd:string .
 

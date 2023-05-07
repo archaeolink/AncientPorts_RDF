@@ -17,7 +17,9 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/638_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1806812> ;
-    skos:note "Piques (2021)" ;
+    skos:note "Bats (1992)",
+        "Musée Lattes (2018)",
+        "Piques (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/148107> ;
     ns1:P17 "France South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/17516> ;
