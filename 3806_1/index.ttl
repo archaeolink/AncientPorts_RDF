@@ -2,23 +2,23 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3806_1> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3806_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell el-Muqayyar, with 'two off-river basins enclosed within the walls of Ur' acc. to Blackman (1982, p92)"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Michalowski_2011_Correspondence>,
         "https://en.wikipedia.org/wiki/Ishbi-Erra"^^xsd:anyURI ;
-    ns2:date_min "-6000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5699> ;
     skos:note "Woolley (1974)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/3806_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/912985> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22335> ;

@@ -2,23 +2,23 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3505> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3505> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Ashdod-Yam, port possibly located west of the crescent-shaped fortification"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://archaeological.wixsite.com/ashdodyam"^^xsd:anyURI ;
-    ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3505_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1068119> ;
     skos:note "Fantalkin (2014)",
         "Fantalkin (2018)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/3505_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/687843> ;
     ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21688> ;

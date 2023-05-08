@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3840_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r
+    rdfs:label """Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo
  Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(60.37700 25.30300)"^^geo:wktLiteral .

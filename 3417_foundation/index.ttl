@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/3417_foundation> a time:TemporalEntity ;
+    rdfs:label "Lattaquie, Lattakieh, Latakia, al-Ladhiqiyah, at Ras Ziaret Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/3417_foundation_beginning> .
+

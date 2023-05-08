@@ -2,12 +2,12 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3794> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3794> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell Khazneh & Tell Sa’ad & Tell Sa'aid, on the isle of Failaka, Koweith"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
@@ -15,9 +15,9 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Connan_2007_Geochemical>,
         <http://data.archaeology.link/data/ancientports/bib_Pawlicki_2015_Preliminary>,
         "https://pcma.uw.edu.pl/en/2019/03/26/failaka-archaeological-survey/"^^xsd:anyURI ;
-    ns2:date_min "-2000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3794_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q748846> ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/3794_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/912851> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27148> ;

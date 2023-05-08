@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/2918_foundation> a time:TemporalEntity ;
+    rdfs:label "Falasarna, Phalasarna. There are only a few places protected from the western waves on the West coast of Crete;  the only good natural shelter from a nautical point of view is at Gramvousa (Balos Beach). However, the ancient port was identified as an artificial dug-out basin at the toe of a promontory located 1 km north of the city of Phalasarna, it was uplifted 6.5 m during the 365 AD earthquake Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/2918_foundation_beginning> .
+

@@ -1,0 +1,12 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/1_3_foundation_beginning> a time:Instant ;
+    rdfs:label "Aukra, on the isle of Gossa, with hundreds of Mesolithic coastal settlements in Central Norway Foundation Beginning"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:inXSDgYear """-10000 
+to 
+-5000"""^^xsd:gYear .
+

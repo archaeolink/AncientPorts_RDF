@@ -1,22 +1,22 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3477> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/3477> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell el-Fukhar, south of Tell Akko, Napoleon Hill, on R Na'aman, Na'mein"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-2500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3477_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2509879> ;
     skos:note "Artzy (2014)",
         "Artzy (2021)",
         "Marcus (1998)" ;
-    ns2:P17 <http://www.wikidata.org/entity/Q801> .
+    time:hasTime <http://data.archaeology.link/data/ancientports/3477_foundation> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q801> .
 

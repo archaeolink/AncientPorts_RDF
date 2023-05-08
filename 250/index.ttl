@@ -1,22 +1,22 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/250> a ns1:Quay ;
+<http://data.archaeology.link/data/ancientports/250> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Lisbon, Nucleo Arqueologico, 21 rua dos Correeiros, in the basement of the Millennium Bank where a garum factory was located on the left bank of a local tributary of R  Tage flowing under the present day rua Augusta. Possible location of Avienus' Ophiusa."@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/250_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3781561> ;
-    ns2:P1584 <http://pleiades.stoa.org/places/256338> ;
-    ns2:P17 <http://www.wikidata.org/entity/Q45> ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/16839> ;
-    ns2:P1958 <https://www.trismegistos.org/place/25886> ;
-    ns2:P8068 <https://topostext.org/place/387000UOli> .
+    time:hasTime <http://data.archaeology.link/data/ancientports/250_foundation> ;
+    ns1:P1584 <http://pleiades.stoa.org/places/256338> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q45> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/16839> ;
+    ns1:P1958 <https://www.trismegistos.org/place/25886> ;
+    ns1:P8068 <https://topostext.org/place/387000UOli> .
 

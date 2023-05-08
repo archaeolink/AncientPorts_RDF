@@ -1,21 +1,21 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3934_6> a ns1:Quay,
-        ns1:Shipshed,
-        ns1:Shipyard,
-        ns1:Slipway ;
+<http://data.archaeology.link/data/ancientports/3934_6> a <http://www.ancientports.com/ont#Quay>,
+        <http://www.ancientports.com/ont#Shipshed>,
+        <http://www.ancientports.com/ont#Shipyard>,
+        <http://www.ancientports.com/ont#Slipway> ;
     rdfs:label "Western ports and shipyards"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-300"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3934_6_geom> ;
     skos:note "Goddio (1998)" ;
-    ns2:P17 "Egypt: Med Sea"^^xsd:string .
+    time:hasTime <http://data.archaeology.link/data/ancientports/3934_6_foundation> ;
+    ns1:P17 "Egypt: Med Sea"^^xsd:string .
 

@@ -1,0 +1,10 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/696_foundation_beginning> a time:Instant ;
+    rdfs:label "Cavalaire. Pliny, Hist Nat, 3, 5 mentions a Heraclee at the outlet of R Rhone, but the pointe Cavalaire is now generally accepted Foundation Beginning"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:inXSDgYear "-30"^^xsd:gYear .
+

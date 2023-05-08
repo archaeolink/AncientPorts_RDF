@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/3101_foundation> a time:TemporalEntity ;
+    rdfs:label "promontory NW of Kumkale with Achille's tomb: the port may have been located in a plain, now silted up by R Scamandre (R Karamenderes) somewhere between Sigeum and Kumtepe Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/3101_foundation_beginning> .
+

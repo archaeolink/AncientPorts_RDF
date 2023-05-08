@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/448_foundation> a time:TemporalEntity ;
+    rdfs:label "Empuries, Ampurias, sheltered by Las Muscleres Grosses islets (NB: the structure on the beach is not a breakwater but a part of the ancient city wall) Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/448_foundation_beginning> .
+

@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/250_foundation> a time:TemporalEntity ;
+    rdfs:label "Lisbon, Nucleo Arqueologico, 21 rua dos Correeiros, in the basement of the Millennium Bank where a garum factory was located on the left bank of a local tributary of R  Tage flowing under the present day rua Augusta. Possible location of Avienus' Ophiusa. Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/250_foundation_beginning> .
+

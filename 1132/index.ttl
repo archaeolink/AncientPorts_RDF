@@ -2,23 +2,23 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1132> a ns2:Shipyard,
-        ns2:Warehouse ;
+<http://data.archaeology.link/data/ancientports/1132> a <http://www.ancientports.com/ont#Shipyard>,
+        <http://www.ancientports.com/ont#Warehouse> ;
     rdfs:label "Siracusa, ancient port possibly near Corso Umberto I, and/or at present Porto Grande on Foro Vittorio Emanuele II, on Ortigia"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
-    ns2:date_min "-733"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1132_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q13670> ;
     skos:note "Malfatano (2016)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/1132_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/462503> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16570> ;

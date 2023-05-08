@@ -1,21 +1,21 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3166> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3166> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Urkmez, Kisikburnu"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3166_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q302905> ;
     skos:note "Külzer (2016)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/3166_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599754> ;
     ns1:P17 "TR: West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21477> ;

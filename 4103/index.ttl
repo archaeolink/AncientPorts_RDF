@@ -2,23 +2,23 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4103> a ns2:Quay ;
+<http://data.archaeology.link/data/ancientports/4103> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "el-Kantara, on the isle of Djerba"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Paskoff_1991_Le> ;
-    ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4103_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3306003> ;
     skos:note "Desanges (2008)",
         "Drine (2014)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/4103_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/344440> ;
     ns1:P17 <http://www.wikidata.org/entity/Q948> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41304> ;

@@ -2,22 +2,22 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3632> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3632> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Ras Siyan, on the west side of Bab el-Mandeb, the Gate of Tears. Cape Dire is located in front of Cape Acila (Cheikh Saïd in Yemen) as Strabo indicates. It is also just in front of the six islands mentioned by Strabo: Ras Siyan is a former island now connected to the mainland, but before that, it was a member of the 'Seven Islands' (Sawabi islands). It provides good shelter against the south-eastern waves prevailing in this area."@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Berenice_Epideires"^^xsd:anyURI ;
-    ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3632_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7294675> ;
     skos:note "Desanges (1978)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/3632_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39335> ;
     ns1:P17 <http://www.wikidata.org/entity/Q977> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27304> ;

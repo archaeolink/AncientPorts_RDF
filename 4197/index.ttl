@@ -2,20 +2,20 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4197> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/4197> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "La Galite, an island of the people of ancient Naxos in Sicily?"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Boardman_2001_Aspects> ;
-    ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4197_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q513565> ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/4197_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/314961> ;
     ns1:P17 <http://www.wikidata.org/entity/Q948> ;
     ns1:P1958 <https://www.trismegistos.org/place/42398> .

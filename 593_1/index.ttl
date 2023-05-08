@@ -2,11 +2,11 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/593_1> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/593_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "La Couture, near Muron, on the marais de la Petite Flandre"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
@@ -14,7 +14,7 @@
     dcterms:isReferencedBy "http://foyer-rural.muron.pagesperso-orange.fr/histoire.htm"^^xsd:anyURI,
         "http://mediolanum-santonum.fr/romanisation-de-l-aunis.html"^^xsd:anyURI,
         "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32"^^xsd:anyURI ;
-    ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/593_1_geom> ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/593_1_foundation> ;
     ns1:P17 "France West"^^xsd:string .
 

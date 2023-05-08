@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/3368_foundation> a time:TemporalEntity ;
+    rdfs:label "Sökun, possible Roman outlet of R Göksu which may have moved from west to east via the narrow sand spit of Incekum Burnu (ancient Sarpedonia Prom.) Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/3368_foundation_beginning> .
+

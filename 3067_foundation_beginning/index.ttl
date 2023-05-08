@@ -1,0 +1,10 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/3067_foundation_beginning> a time:Instant ;
+    rdfs:label "Anchorage at Kouklia-Achni, Teratsia, near Skales, 5 km NW of Aphrodite's birthplaces at Petra Tou Romiou Foundation Beginning"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:inXSDgYear "-750"^^xsd:gYear .
+

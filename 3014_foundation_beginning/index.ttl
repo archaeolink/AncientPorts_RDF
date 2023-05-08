@@ -1,0 +1,10 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/3014_foundation_beginning> a time:Instant ;
+    rdfs:label "Loutro East, well protected from northern winds, Ptolemy locates Phoenicis limen/portus east of Phoenix polis/civitas, BAtlas locates Phoenix at Finikas, on the west side of the promontory, Uggeri indicates that the Loutro peninsula has a typical Phoenician shape with one port on each side Foundation Beginning"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:inXSDgYear "-550"^^xsd:gYear .
+

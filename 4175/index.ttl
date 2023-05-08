@@ -2,24 +2,24 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4175> a ns2:Pila,
-        ns2:Quay,
-        ns2:Shipshed,
-        ns2:Slipway ;
+<http://data.archaeology.link/data/ancientports/4175> a <http://www.ancientports.com/ont#Pila>,
+        <http://www.ancientports.com/ont#Quay>,
+        <http://www.ancientports.com/ont#Shipshed>,
+        <http://www.ancientports.com/ont#Slipway> ;
     rdfs:label "Carthago, rectangular commercial port, near Phoenician Tophet of Salammbô"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hurst_2010_Understanding>,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
-    ns2:date_min "-813"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4175_geom> ;
     skos:note "Gadhoum (2021)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/4175_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/314921> ;
     ns1:P17 <http://www.wikidata.org/entity/Q948> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/15897> ;

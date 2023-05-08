@@ -5,7 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/727> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Possibly in area downstream of Prunelli–di–Fium’Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r
+    rdfs:label """Possibly in area downstream of Prunelli–di–Fium’Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello
 """@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

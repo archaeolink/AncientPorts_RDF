@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+<http://data.archaeology.link/data/ancientports/2959_foundation> a time:TemporalEntity ;
+    rdfs:label "Niros, Nirou Khani, Haghioi Theodoroi, 2 km east of the temple of Zeus Thenatas ; rock-cut structure visited by several famous authors. I would favour a twin slipway 2 x 5 m wide and 46 m long (see GE picture) Foundation"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    time:hasBeginning <http://data.archaeology.link/data/ancientports/2959_foundation_beginning> .
+

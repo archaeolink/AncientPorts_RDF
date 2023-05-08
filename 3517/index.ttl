@@ -1,21 +1,21 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3517> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/3517> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell Ruqeish, Tell Akluk"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring> ;
-    ns1:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3517_geom> ;
     skos:note "Fantalkin (2018)",
         "Morhange (2005)" ;
-    ns2:P17 "Gaza"^^xsd:string .
+    time:hasTime <http://data.archaeology.link/data/ancientports/3517_foundation> ;
+    ns1:P17 "Gaza"^^xsd:string .
 

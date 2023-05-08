@@ -2,23 +2,23 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3892_4> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3892_4> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Mahattat al Kibrit, Kabret, near Chalouf, Shaluf, between both Bitter Lakes, 3rd stela of Darius on Nile to Red Sea canal, Ptolemy locates Arsinoe at 20' of latitude north of Clysma"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.livius.org/sources/content/achaemenid-royal-inscriptions/dz/"^^xsd:anyURI,
         "https://fr.wikipedia.org/wiki/Inscriptions_de_Darius_le_Grand_%C3%A0_Suez"^^xsd:anyURI ;
-    ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3623994> ;
     skos:note "Bruyere (1966)" ;
+    time:hasTime <http://data.archaeology.link/data/ancientports/3892_4_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/727101> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21705> ;
