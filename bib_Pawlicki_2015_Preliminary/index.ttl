@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Pawlicki_2015_Preliminary> a ns1:Article ;
+    dc:created "2015"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Pawlicki_Franciszek> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Preliminary report on the archaeological survey of the joint Kuwaiti--Polish Mission, Failaka Island, 2012"@en ;
+    ns1:issuer "Polish Archaeology in the Mediterranean" ;
+    ns1:number "XXIV"^^xsd:integer ;
+    ns1:pageEnd 559 ;
+    ns1:pageStart 547 ;
+    ns1:publisher "Wydawnictwa Uniwersytetu Warszawskiego" ;
+    ns1:volume "1"^^xsd:string .
+

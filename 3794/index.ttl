@@ -5,7 +5,6 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3794> a ns2:Harbour ;
@@ -13,12 +12,12 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/03/26/failaka-archaeological-survey/"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Connan_2007_Geochemical>,
+        <http://data.archaeology.link/data/ancientports/bib_Pawlicki_2015_Preliminary>,
+        "https://pcma.uw.edu.pl/en/2019/03/26/failaka-archaeological-survey/"^^xsd:anyURI ;
     ns2:date_min "-2000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3794_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q748846> ;
-    skos:note "Connan (2007)",
-        "Pawlicki (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/912851> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27148> ;

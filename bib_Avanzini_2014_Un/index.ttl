@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Avanzini_2014_Un> a ns1:Article ;
+    dc:created "2014"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Avanzini_Aless> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Un port d’Arabie entre Rome et l’Inde"@en ;
+    ns1:doi "10.3406/crai.2014.95111"^^xsd:string ;
+    ns1:issuer "Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres" ;
+    ns1:number 1 ;
+    ns1:pageEnd 508 ;
+    ns1:pageStart 485 ;
+    ns1:volume "158"^^xsd:string .
+

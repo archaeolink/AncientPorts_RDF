@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Kramer_1964_Indus> a ns1:Article ;
+    dc:created "1964"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Kramer_Samuel_Noah> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "The Indus civilization and Dilmun, the Sumerian paradise land"@en ;
+    ns1:issuer "Expedition" ;
+    ns1:number 3 ;
+    ns1:publisher "University Museum of the University of Pennsylvania" ;
+    ns1:volume "6"^^xsd:string .
+

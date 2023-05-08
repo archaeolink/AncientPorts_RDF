@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Insoll_2021_Excavations> a ns1:Article ;
+    dc:created "2021"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Almahari_Salman>,
+        <http://data.archaeology.link/data/ancientports/author_Carter_Robert>,
+        <http://data.archaeology.link/data/ancientports/author_Insoll_Timothy>,
+        <http://data.archaeology.link/data/ancientports/author_MacLean_Rachel> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Excavations at Samahij, Bahrain, and the implications for Christianity, Islamisation and settlement in Bahrain"@en ;
+    ns1:issuer "Arabian Archaeology and Epigraphy" ;
+    ns1:pageEnd 421 ;
+    ns1:pageStart 395 ;
+    ns1:publisher "Wiley Online Library" ;
+    ns1:volume "32"^^xsd:string .
+

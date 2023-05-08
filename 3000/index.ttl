@@ -1,23 +1,23 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3000> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/3000> a ns2:Harbour ;
     rdfs:label "Kaloi Limenes, 'Good Ports', today a small LPG terminal well protected from northern winds, one wonders just why the captain of St Paul's ship preferred to winter at Phoenix rather than here: perhaps he did not realise that the coast between Matala and Frangokastello is subject to northern wind gusts due to the topography of the coastal mountain ridge …"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns1:date_min "-7000"^^xsd:gYear ;
+    ns2:date_min "-7000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3000_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q11818846> ;
     skos:note "de Graauw pictures (2022)" ;
-    ns2:P1584 <http://pleiades.stoa.org/places/589834> ;
-    ns2:P17 "GR: Crete South"^^xsd:string ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/28749> ;
-    ns2:P8068 <https://topostext.org/place/349248HKal> .
+    ns1:P1584 <http://pleiades.stoa.org/places/589834> ;
+    ns1:P17 "GR: Crete South"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/28749> ;
+    ns1:P8068 <https://topostext.org/place/349248HKal> .
 

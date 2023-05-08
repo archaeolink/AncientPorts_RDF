@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Pratico_1985_Nelson> a ns1:Article ;
+    dc:created "1985"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Pratico_Gary_D.> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Nelson Glueck's 1938-1940 Excavations at Tell el-Kheleifeh: A Reappraisal"@en ;
+    ns1:issn "0003097X, 21618062"^^xsd:string ;
+    ns1:issuer "Bulletin of the American Schools of Oriental Research" ;
+    ns1:number 259 ;
+    ns1:pageEnd 32 ;
+    ns1:pageStart 1 ;
+    ns1:publisher "American Schools of Oriental Research" .
+

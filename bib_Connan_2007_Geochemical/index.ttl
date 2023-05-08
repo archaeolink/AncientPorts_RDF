@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Connan_2007_Geochemical> a ns1:Article ;
+    dc:created "2007"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Carter_Robert>,
+        <http://data.archaeology.link/data/ancientports/author_Connan_Jacques> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "A geochemical study of bituminous mixtures from Failaka and Umm an-Namel (Kuwait), from the Early Dilmun to the Early Islamic period"@en ;
+    ns1:issuer "Arabian archaeology and epigraphy" ;
+    ns1:number 2 ;
+    ns1:pageEnd 181 ;
+    ns1:pageStart 139 ;
+    ns1:publisher "Wiley Online Library" ;
+    ns1:volume "18"^^xsd:string .
+

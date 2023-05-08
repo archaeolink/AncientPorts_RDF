@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Bhacker_1997_Digging> a ns1:Article ;
+    dc:created "1997"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Bhacker_Bernadette>,
+        <http://data.archaeology.link/data/ancientports/author_Bhacker_M_Redha> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Digging in the land of Magan."@en ;
+    ns1:issuer "Archaeology" ;
+    ns1:number 3 ;
+    ns1:pageEnd 49 ;
+    ns1:pageStart 48 ;
+    ns1:publisher "Archaeoligical Institute of America" ;
+    ns1:volume "50"^^xsd:string .
+

@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -11,10 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring> ;
     ns2:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3517_geom> ;
-    skos:note "Andreou (2022)",
-        "Fantalkin (2018)",
+    skos:note "Fantalkin (2018)",
         "Morhange (2005)" ;
     ns1:P17 "Gaza"^^xsd:string .
 

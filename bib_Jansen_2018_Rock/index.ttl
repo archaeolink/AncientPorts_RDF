@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Jansen_2018_Rock> a ns1:Article ;
+    dc:created "2018"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Jansen_van_Rensburg_Julian> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Rock Art of Soqotra, Yemen: A Forgotten Heritage Revisited"@en ;
+    ns1:doi "10.3390/arts7040099"^^xsd:string ;
+    ns1:issn "2076-0752"^^xsd:string ;
+    ns1:issuer "Arts" ;
+    ns1:number 4 ;
+    ns1:volume "7"^^xsd:string .
+

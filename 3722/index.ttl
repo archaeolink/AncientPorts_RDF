@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3722> a <http://www.ancientports.com/ont#Harbour> ;
@@ -12,10 +11,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://pleiades.stoa.org/places/39362"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Marcotte_2017_Ocean>,
+        "https://pleiades.stoa.org/places/39362"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3722_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82859> ;
-    skos:note "Marcotte (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/39338> ;
     ns1:P17 "Yemen: Socotra"^^xsd:string .
 

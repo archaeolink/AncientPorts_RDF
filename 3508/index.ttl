@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
@@ -12,11 +13,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring> ;
     ns2:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3508_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2377463> ;
-    skos:note "Andreou (2022)",
-        "Nabulsi (2010)" ;
+    skos:note "Nabulsi (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/687826> ;
     ns1:P17 "Gaza"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21690> ;

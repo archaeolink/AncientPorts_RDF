@@ -11,7 +11,9 @@
         <http://data.archaeology.link/data/ancientports/bib_Eggermont_1975_Alexander>,
         <http://data.archaeology.link/data/ancientports/bib_Goddio_2007_Topography>,
         <http://data.archaeology.link/data/ancientports/bib_Leveau_1992_Caesarea>,
+        <http://data.archaeology.link/data/ancientports/bib_Lombard_2016_Qal>,
         <http://data.archaeology.link/data/ancientports/bib_Maarleveld_2009_Boomstamboot>,
+        <http://data.archaeology.link/data/ancientports/bib_Michalowski_2011_Correspondence>,
         <http://data.archaeology.link/data/ancientports/bib_Milne_1985_Port>,
         <http://data.archaeology.link/data/ancientports/bib_Morris_2021_Architecture>,
         <http://data.archaeology.link/data/ancientports/bib_Pieters_2013_Het> .

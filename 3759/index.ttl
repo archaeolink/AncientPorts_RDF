@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3759> a <http://www.ancientports.com/ont#Harbour> ;
@@ -12,9 +11,9 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://whc.unesco.org/en/list/1010"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring>,
+        "http://whc.unesco.org/en/list/1010"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3759_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1294439> ;
-    skos:note "Andreou (2022)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q842> .
 

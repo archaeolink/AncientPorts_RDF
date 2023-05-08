@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3783> a <http://www.ancientports.com/ont#Harbour> ;
@@ -12,9 +11,9 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The>,
+        "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3783_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3546517> ;
-    skos:note "Bukharin (2012)" ;
     ns1:P17 "Gulf"^^xsd:string .
 

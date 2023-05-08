@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Rougeulle_2017_Medieval> a ns1:Article ;
+    dc:created "2017"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Rougeulle_Axelle> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Medieval Qalhāt, historical vs archaeological data"@en ;
+    ns1:issuer "Arabian Humanities. Revue internationale d’archéologie et de sciences sociales sur la péninsule Arabique/International Journal of Archaeology and Social Sciences in the Arabian Peninsula" ;
+    ns1:number 9 ;
+    ns1:publisher "Centre francais de recherche de la péninsule Arabique" .
+

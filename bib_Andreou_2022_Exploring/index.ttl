@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring> a ns1:Article ;
+    dc:created "2022"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Andreou_Georgia_M>,
+        <http://data.archaeology.link/data/ancientports/author_Blue_Lucy>,
+        <http://data.archaeology.link/data/ancientports/author_Huigens_Harmen_O>,
+        <http://data.archaeology.link/data/ancientports/author_Westley_Kieran> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Exploring the Impact of Tropical Cyclones on Oman’s Maritime Cultural Heritage Through the Lens of Al-Baleed, Salalah (Dhofar Governorate)"@en ;
+    ns1:issuer "Journal of Maritime Archaeology" ;
+    ns1:number 3 ;
+    ns1:pageEnd 486 ;
+    ns1:pageStart 465 ;
+    ns1:publisher "Springer" ;
+    ns1:volume "17"^^xsd:string .
+

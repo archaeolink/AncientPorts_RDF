@@ -6682,7 +6682,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/171",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r\nWe selected the ones with a nautical shelter (171)",
+        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\nWe selected the ones with a nautical shelter (171)",
         "data": {}
       },
       {
@@ -13605,7 +13605,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/2449_2",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\r\n (2449_2)",
+        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\n (2449_2)",
         "data": {}
       },
       {
@@ -22859,7 +22859,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3581_1",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581_1)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581_1)",
         "data": {}
       },
       {
@@ -23734,7 +23734,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3674",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\r\nThis hypothetical area is close to Diodorus' description: \r\r\n> the total circumference is 23 km (close to his 100 stades); \r\r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. (3674)",
+        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\nThis hypothetical area is close to Diodorus' description: \r\n> the total circumference is 23 km (close to his 100 stades); \r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. (3674)",
         "data": {}
       },
       {
@@ -23937,7 +23937,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3698",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\r\nAnother option would be at Ras Mohammed (3698)",
+        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\nAnother option would be at Ras Mohammed (3698)",
         "data": {}
       },
       {
@@ -25400,7 +25400,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3840_2",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\r\n (3840_2)",
+        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\n (3840_2)",
         "data": {}
       },
       {
@@ -25939,7 +25939,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3865",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  (3865)",
+        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  (3865)",
         "data": {}
       },
       {
@@ -26023,7 +26023,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3866_4",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "R Pudavaikattu? on Sri Lanka island,\r\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium (3866_4)",
+        "text": "R Pudavaikattu? on Sri Lanka island,\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium (3866_4)",
         "data": {}
       },
       {
@@ -29698,7 +29698,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/4343",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. (4343)",
+        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. (4343)",
         "data": {}
       },
       {
@@ -32225,7 +32225,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/727",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\r\n (727)",
+        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\n (727)",
         "data": {}
       },
       {
@@ -33772,13 +33772,16 @@ var tree={
         "id": "http://www.ancientports.com/ont#Harbour",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "halfgeoclass",
-        "text": "Harbour (ns1:Harbour) [4818]",
+        "text": "Harbour (ns2:Harbour) [4818]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
+              "instancecount": 1
+            },
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -33791,13 +33794,13 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#note": {
+            "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
             }
           },
@@ -33808,7 +33811,7 @@ var tree={
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 9
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#Feature",
@@ -35130,7 +35133,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3581",
         "parent": "http://www.ancientports.com/ont#Quay",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581)",
         "data": {}
       },
       {
@@ -36103,16 +36106,13 @@ var tree={
         "id": "http://www.ancientports.com/ont#Quay",
         "parent": "#",
         "type": "geoclass",
-        "text": "Quay (ns1:Quay) [326]",
+        "text": "Quay (ns2:Quay) [326]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/isReferencedBy": {
               "instancecount": 1
             },
             "http://www.ancientports.com/ont#date_min": {
@@ -36131,6 +36131,9 @@ var tree={
             "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 2
+            },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
@@ -36138,6 +36141,12 @@ var tree={
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1936": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -36148,7 +36157,7 @@ var tree={
             }
           }
         },
-        "instancecount": 11
+        "instancecount": 14
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1000",
@@ -39262,16 +39271,13 @@ var tree={
         "id": "http://www.ancientports.com/ont#VillaMaritima",
         "parent": "#",
         "type": "geoclass",
-        "text": "VillaMaritima (ns1:VillaMaritima) [444]",
+        "text": "VillaMaritima (ns2:VillaMaritima) [444]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1
-            },
-            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -39284,19 +39290,10 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1584": {
-              "instancecount": 1
-            },
             "http://www.wikidata.org/prop/direct/P17": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
               "instancecount": 1
             }
           },
@@ -39307,7 +39304,7 @@ var tree={
             }
           }
         },
-        "instancecount": 11
+        "instancecount": 7
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv2_",
@@ -39754,7 +39751,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Lighthouse",
         "parent": "#",
         "type": "geoclass",
-        "text": "Lighthouse (ns1:Lighthouse) [63]",
+        "text": "Lighthouse (ns2:Lighthouse) [63]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -39779,6 +39776,9 @@ var tree={
             "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 1
+            },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
@@ -39789,9 +39789,6 @@ var tree={
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -40102,19 +40099,13 @@ var tree={
         "id": "http://www.ancientports.com/ont#Pila",
         "parent": "#",
         "type": "geoclass",
-        "text": "Pila (ns1:Pila) [42]",
+        "text": "Pila (ns2:Pila) [42]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 1
-            },
-            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -40127,25 +40118,7 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1584": {
-              "instancecount": 1
-            },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -40156,7 +40129,7 @@ var tree={
             }
           }
         },
-        "instancecount": 14
+        "instancecount": 6
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1047",
@@ -40512,13 +40485,16 @@ var tree={
         "id": "http://www.ancientports.com/ont#Shipyard",
         "parent": "#",
         "type": "geoclass",
-        "text": "Shipyard (ns1:Shipyard) [50]",
+        "text": "Shipyard (ns2:Shipyard) [50]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/isReferencedBy": {
               "instancecount": 1
             },
             "http://www.ancientports.com/ont#date_min": {
@@ -40529,7 +40505,7 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
@@ -40538,7 +40514,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -40559,11 +40535,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 15
+        "instancecount": 16
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1090",
@@ -41192,13 +41168,16 @@ var tree={
         "id": "http://www.ancientports.com/ont#Slipway",
         "parent": "#",
         "type": "geoclass",
-        "text": "Slipway (ns1:Slipway) [89]",
+        "text": "Slipway (ns2:Slipway) [89]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
+              "instancecount": 1
+            },
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -41212,9 +41191,6 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1584": {
@@ -41561,7 +41537,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Shipshed",
         "parent": "#",
         "type": "geoclass",
-        "text": "Shipshed (ns1:Shipshed) [45]",
+        "text": "Shipshed (ns2:Shipshed) [45]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -41569,6 +41545,9 @@ var tree={
             },
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
+            },
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 2
             },
             "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
@@ -41578,41 +41557,26 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 2
+              "instancecount": 3
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 2
-            },
-            "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
             }
           }
         },
-        "instancecount": 15
+        "instancecount": 12
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1132_suniv1_",
@@ -42045,7 +42009,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Warehouse",
         "parent": "#",
         "type": "geoclass",
-        "text": "Warehouse (ns1:Warehouse) [61]",
+        "text": "Warehouse (ns2:Warehouse) [61]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -42065,7 +42029,7 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
@@ -42074,7 +42038,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -42084,16 +42048,22 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
+              "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 12
+        "instancecount": 16
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1215_suniv1_",
@@ -43324,7 +43294,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#PotentialHarbour",
         "parent": "#",
         "type": "geoclass",
-        "text": "PotentialHarbour (ns1:PotentialHarbour) [175]",
+        "text": "PotentialHarbour (ns2:PotentialHarbour) [175]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -43343,8 +43313,11 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 2
+              "instancecount": 1
             }
           },
           "from": {
@@ -43385,6 +43358,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Chami_1998_The",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The 1996 archaeological reconnaissance north of the Rufiji Delta (bib_Chami_1998_The)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Daszewski_2011_Graeco",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43413,6 +43393,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Jansen_2018_Rock",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Rock Art of Soqotra, Yemen: A Forgotten Heritage Revisited (bib_Jansen_2018_Rock)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kervran_1995_Le",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43424,6 +43411,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Een boomstamkano in Dijkgatsweide: een bijzondere vondst uit het Midden Neolithicum, gemeente Wieringermeer (bib_Kruidhof_2012_Een)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Mayerson_1992_American",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The Island of Iotab\u00ea in the Byzantine Sources: A Reprise (bib_Mayerson_1992_American)",
         "data": {}
       },
       {
@@ -43445,6 +43439,20 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Tracking shoreline erosion of \u201cat risk\u201d coastal archaeology: the example of ancient Siraf (Iran, Persian Gulf) (bib_Pourkerman_2018_Tracking)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Pratico_1985_Nelson",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Nelson Glueck's 1938-1940 Excavations at Tell el-Kheleifeh: A Reappraisal (bib_Pratico_1985_Nelson)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Robin_2013_Nouveaux",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Nouveaux arguments en faveur d\u2019une identification de la cit{'e} de Gerrha avec le royaume de Hagar (Arabie orientale) (bib_Robin_2013_Nouveaux)",
         "data": {}
       },
       {
@@ -43497,6 +43505,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Avanzini_2014_Un",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Un port d\u2019Arabie entre Rome et l\u2019Inde (bib_Avanzini_2014_Un)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Beltrame_2012_New",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43508,6 +43523,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "De kano van Pesse: de bijl erin (bib_Beuker_1997_Kano)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Bhacker_1997_Digging",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Digging in the land of Magan. (bib_Bhacker_1997_Digging)",
         "data": {}
       },
       {
@@ -43581,6 +43603,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Insoll_2021_Excavations",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Excavations at Samahij, Bahrain, and the implications for Christianity, Islamisation and settlement in Bahrain (bib_Insoll_2021_Excavations)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kastholm_2012_Stammebaaden",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43602,6 +43631,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Kramer_1964_Indus",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The Indus civilization and Dilmun, the Sumerian paradise land (bib_Kramer_1964_Indus)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Malm_1995_Excavating",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43609,10 +43645,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Nappo_2010_Location",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "On the location of Leuke Kome (bib_Nappo_2010_Location)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Ortega_2012_Historic",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Historic Lime-Mortar 14C Dating of Santa Mar\u00eda La Real (Zarautz, Northern Spain): Extraction of Suitable Grain Size for Reliable 14C Dating (bib_Ortega_2012_Historic)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Pawlicki_2015_Preliminary",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Preliminary report on the archaeological survey of the joint Kuwaiti--Polish Mission, Failaka Island, 2012 (bib_Pawlicki_2015_Preliminary)",
         "data": {}
       },
       {
@@ -43630,10 +43680,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Robin_2002_Les",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Les vestiges antiques de la grotte de H\u00f4q (Suqutra, Y\u00e9men) (note d'information) (bib_Robin_2002_Les)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Robinson_1999_Thucydidean",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Thucydidean Sieges, Prosopitis, and the Hellenic Disaster in Egypt (bib_Robinson_1999_Thucydidean)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Rougeulle_2017_Medieval",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Medieval Qalh\u0101t, historical vs archaeological data (bib_Rougeulle_2017_Medieval)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Ryano_2021_Find",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "A Find of Transoceanic Pottery at Bwejuu Island of the Rufiji Delta and Mafia Island, Tanzania: More Clue to the Elusive Ancient Azania\u2019s Metropolis of Rhapta (bib_Ryano_2021_Find)",
         "data": {}
       },
       {
@@ -43686,6 +43757,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Glazer_2012_Solomon",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Solomon\u2019s Navy in the Context of Maritime Trade Relations in Iron Age South Levant (bib_Glazer_2012_Solomon)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Pleuger_2019_The",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43707,6 +43785,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Connan_2007_Geochemical",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "A geochemical study of bituminous mixtures from Failaka and Umm an-Namel (Kuwait), from the Early Dilmun to the Early Islamic period (bib_Connan_2007_Geochemical)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Desse_2005_Les",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43718,6 +43803,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Le ports du Maroc mediterran{'e}en en Moyen Age (bib_Erbati_2004_Ports)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Potts_2001_Before",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Before the Emirates: an archaeological and historical account of developments in the region c. 5000 BC to 676 AD (bib_Potts_2001_Before)",
         "data": {}
       },
       {
@@ -43756,6 +43848,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Exploring the Impact of Tropical Cyclones on Oman\u2019s Maritime Cultural Heritage Through the Lens of Al-Baleed, Salalah (Dhofar Governorate) (bib_Andreou_2022_Exploring)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Paskoff_1991_Le",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43766,23 +43865,23 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Article",
         "parent": "#",
         "type": "class",
-        "text": "Article (bibo:Article) [58]",
+        "text": "Article (bibo:Article) [76]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 3,
-              "http://xmlns.com/foaf/0.1/Person": 3
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/doi": {
+            "http://purl.org/ontology/bibo/issuer": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/issuer": {
+            "http://purl.org/ontology/bibo/number": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageEnd": {
@@ -43791,7 +43890,7 @@ var tree={
             "http://purl.org/ontology/bibo/pageStart": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/volume": {
+            "http://purl.org/ontology/bibo/publisher": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43805,7 +43904,7 @@ var tree={
             }
           }
         },
-        "instancecount": 11
+        "instancecount": 9
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes",
@@ -43833,6 +43932,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Book",
         "type": "instance",
         "text": "Caesarea Mauretaniae (bib_Leveau_1992_Caesarea)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Lombard_2016_Qal",
+        "parent": "http://purl.org/ontology/bibo/Book",
+        "type": "instance",
+        "text": "{Qal'at al-Bahrain, Ancient Capital and Harbour of Dilmun. The Site Museum} (bib_Lombard_2016_Qal)",
         "data": {}
       },
       {
@@ -43871,6 +43977,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Michalowski_2011_Correspondence",
+        "parent": "http://purl.org/ontology/bibo/Book",
+        "type": "instance",
+        "text": "The correspondence of the Kings of Ur: an epistolary history of an Ancient Mesopotamian Kingdom (bib_Michalowski_2011_Correspondence)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Eggermont_1975_Alexander",
         "parent": "http://purl.org/ontology/bibo/Book",
         "type": "instance",
@@ -43881,23 +43994,17 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Book",
         "parent": "#",
         "type": "class",
-        "text": "Book (bibo:Book) [10]",
+        "text": "Book (bibo:Book) [12]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1,
-              "http://xmlns.com/foaf/0.1/Person": 1
+              "instancecount": 10,
+              "http://xmlns.com/foaf/0.1/Person": 10
             },
             "http://purl.org/dc/elements/1.1/title": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/number": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/publisher": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43911,7 +44018,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 13
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kloo\u00df_2009_The",
@@ -43945,8 +44052,8 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 3,
-              "http://xmlns.com/foaf/0.1/Person": 3
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
               "instancecount": 1
@@ -43972,7 +44079,68 @@ var tree={
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 6
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Lawler_2010_Forgotten",
+        "parent": "http://purl.org/ontology/bibo/Document",
+        "type": "instance",
+        "text": "A forgotten corridor rediscovered (bib_Lawler_2010_Forgotten)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Said_2014_Ancient",
+        "parent": "http://purl.org/ontology/bibo/Document",
+        "type": "instance",
+        "text": "The Ancient Kingdom of Punt and its Factor in Egyptian History (bib_Said_2014_Ancient)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Marcotte_2017_Ocean",
+        "parent": "http://purl.org/ontology/bibo/Document",
+        "type": "instance",
+        "text": "L\u2019oc{'e}an Indien dans l\u2019Antiquit{'e}: science, commerce et g{'e}opolitique (bib_Marcotte_2017_Ocean)",
+        "data": {}
+      },
+      {
+        "id": "http://purl.org/ontology/bibo/Document",
+        "parent": "#",
+        "type": "class",
+        "text": "Document (bibo:Document) [3]",
+        "data": {
+          "to": {
+            "http://purl.org/dc/elements/1.1/created": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/elements/1.1/creator": {
+              "instancecount": 2,
+              "http://xmlns.com/foaf/0.1/Person": 2
+            },
+            "http://purl.org/dc/elements/1.1/title": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/publisher": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            }
+          },
+          "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.w3.org/2004/02/skos/core#Collection": 1
+            }
+          }
+        },
+        "instancecount": 6
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Macleroy_2010_Searching",
+        "parent": "http://purl.org/ontology/bibo/Thesis",
+        "type": "instance",
+        "text": "Searching for the Ancient Harbours of the Erythraean Sea: An Analytical Investigation (bib_Macleroy_2010_Searching)",
+        "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding",
@@ -43999,7 +44167,7 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Thesis",
         "parent": "#",
         "type": "class",
-        "text": "Thesis (bibo:Thesis) [3]",
+        "text": "Thesis (bibo:Thesis) [4]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -44017,10 +44185,6 @@ var tree={
             }
           },
           "from": {
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 7
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
@@ -52321,7 +52485,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/171_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r\nWe selected the ones with a nautical shelter Geometry (171_geom)",
+        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\nWe selected the ones with a nautical shelter Geometry (171_geom)",
         "data": {}
       },
       {
@@ -59881,7 +60045,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/2449_2_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\r\n Geometry (2449_2_geom)",
+        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\n Geometry (2449_2_geom)",
         "data": {}
       },
       {
@@ -70185,14 +70349,14 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3581_1_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_1_geom)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_1_geom)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/3581_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_geom)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_geom)",
         "data": {}
       },
       {
@@ -71088,7 +71252,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3674_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\r\nThis hypothetical area is close to Diodorus' description: \r\r\n> the total circumference is 23 km (close to his 100 stades); \r\r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. Geometry (3674_geom)",
+        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\nThis hypothetical area is close to Diodorus' description: \r\n> the total circumference is 23 km (close to his 100 stades); \r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. Geometry (3674_geom)",
         "data": {}
       },
       {
@@ -71305,7 +71469,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3698_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\r\nAnother option would be at Ras Mohammed Geometry (3698_geom)",
+        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\nAnother option would be at Ras Mohammed Geometry (3698_geom)",
         "data": {}
       },
       {
@@ -72803,7 +72967,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3840_2_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\r\n Geometry (3840_2_geom)",
+        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\n Geometry (3840_2_geom)",
         "data": {}
       },
       {
@@ -73433,7 +73597,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3865_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  Geometry (3865_geom)",
+        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  Geometry (3865_geom)",
         "data": {}
       },
       {
@@ -73461,7 +73625,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3866_4_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "R Pudavaikattu? on Sri Lanka island,\r\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium Geometry (3866_4_geom)",
+        "text": "R Pudavaikattu? on Sri Lanka island,\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium Geometry (3866_4_geom)",
         "data": {}
       },
       {
@@ -78074,7 +78238,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/4343_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. Geometry (4343_geom)",
+        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. Geometry (4343_geom)",
         "data": {}
       },
       {
@@ -81203,7 +81367,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/727_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\r\n Geometry (727_geom)",
+        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\n Geometry (727_geom)",
         "data": {}
       },
       {
@@ -84051,6 +84215,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Almahari_Salman",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Almahari, Salman (author_Almahari_Salman)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Alonso-Olazabal_Ainhoa",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84062,6 +84233,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Amjadi, Sedighe (author_Amjadi_Sedighe)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Andreou_Georgia_M",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Andreou, Georgia M (author_Andreou_Georgia_M)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Avanzini_Aless",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Avanzini, Aless (author_Avanzini_Aless)",
         "data": {}
       },
       {
@@ -84128,10 +84313,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Bhacker_Bernadette",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Bhacker, Bernadette (author_Bhacker_Bernadette)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Bhacker_M_Redha",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Bhacker, M Redha (author_Bhacker_M_Redha)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Bjerck_Hein_B.",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Bjerck, Hein B. (author_Bjerck_Hein_B.)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Blue_Lucy",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Blue, Lucy (author_Blue_Lucy)",
         "data": {}
       },
       {
@@ -84170,6 +84376,20 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Bruley-Chabot_Ga\u00eblle",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Bruley-Chabot, Ga\u00eblle (author_Bruley-Chabot_Ga\u00eblle)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Bukharin_Michael_D.",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Bukharin, Michael D. (author_Bukharin_Michael_D.)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Carlo_Beltrame",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84198,6 +84418,20 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Chami_Felix",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Chami, Felix (author_Chami_Felix)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Chami_Felix_Arkard",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Chami, Felix Arkard (author_Chami_Felix_Arkard)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Chankowski_V\u00e9ronique",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84209,6 +84443,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Claerhout, Chloe (author_Claerhout_Chloe)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Cleuziou_Serge",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Cleuziou, Serge (author_Cleuziou_Serge)",
         "data": {}
       },
       {
@@ -84226,6 +84467,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Connan_Jacques",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Connan, Jacques (author_Connan_Jacques)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Conwell_David",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84237,6 +84485,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Cooremans, Brigitte (author_Cooremans_Brigitte)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Crassard_R\u00e9my",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Crassard, R\u00e9my (author_Crassard_R\u00e9my)",
         "data": {}
       },
       {
@@ -84401,6 +84656,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_GLAZER_Eva_Katarina",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "GLAZER, Eva Katarina (author_GLAZER_Eva_Katarina)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Gavini_Alberto",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84436,10 +84698,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Gorea_Maria",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Gorea, Maria (author_Gorea_Maria)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Green_Jeremy",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Green, Jeremy (author_Green_Jeremy)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Guy_Herv\u00e9",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Guy, Herv\u00e9 (author_Guy_Herv\u00e9)",
         "data": {}
       },
       {
@@ -84478,10 +84754,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Huigens_Harmen_O",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Huigens, Harmen O (author_Huigens_Harmen_O)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Hurst_Henry",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Hurst, Henry (author_Hurst_Henry)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Hussein_Shidad",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Hussein, Shidad (author_Hussein_Shidad)",
         "data": {}
       },
       {
@@ -84506,6 +84796,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Insoll_Timothy",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Insoll, Timothy (author_Insoll_Timothy)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Ivanov_SV",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84524,6 +84821,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Janowski, Andrzej (author_Janowski_Andrzej)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Jansen_van_Rensburg_Julian",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Jansen van Rensburg, Julian (author_Jansen_van_Rensburg_Julian)",
         "data": {}
       },
       {
@@ -84583,6 +84887,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Kramer_Samuel_Noah",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Kramer, Samuel Noah (author_Kramer_Samuel_Noah)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Kruidhof_CN",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84632,6 +84943,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Lawler_Andrew",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Lawler, Andrew (author_Lawler_Andrew)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Lentacker_Ann",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84653,6 +84971,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Lombard_Pierre",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Lombard, Pierre (author_Lombard_Pierre)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Lyklema_E",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84667,10 +84992,38 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_MacLean_Rachel",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "MacLean, Rachel (author_MacLean_Rachel)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Macleroy-Obied_CT",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Macleroy-Obied, CT (author_Macleroy-Obied_CT)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Malm_Torben",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Malm, Torben (author_Malm_Torben)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Mapunda_Bertram",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Mapunda, Bertram (author_Mapunda_Bertram)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Marcotte_Didier",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Marcotte, Didier (author_Marcotte_Didier)",
         "data": {}
       },
       {
@@ -84685,6 +85038,20 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Mathieu, Bernard (author_Mathieu_Bernard)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Mayerson_Philip",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Mayerson, Philip (author_Mayerson_Philip)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Michalowski_Piotr",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Michalowski, Piotr (author_Michalowski_Piotr)",
         "data": {}
       },
       {
@@ -84709,6 +85076,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Monchablon_C\u00e9cile",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Monchablon, C\u00e9cile (author_Monchablon_C\u00e9cile)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Morhange_Christophe",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84730,6 +85104,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Munoz_Olivia",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Munoz, Olivia (author_Munoz_Olivia)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Murelaga_Xabier",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84741,6 +85122,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Napoli, Jo\u00eblle (author_Napoli_Jo\u00eblle)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Nappo_Dario",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Nappo, Dario (author_Nappo_Dario)",
         "data": {}
       },
       {
@@ -84772,10 +85160,31 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Pawlicki_Franciszek",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Pawlicki, Franciszek (author_Pawlicki_Franciszek)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Potts_DT",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Potts, DT (author_Potts_DT)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Pourkerman_Majid",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Pourkerman, Majid (author_Pourkerman_Majid)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Pratico_Gary_D.",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Pratico, Gary D. (author_Pratico_Gary_D.)",
         "data": {}
       },
       {
@@ -84790,6 +85199,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Priestman, Seth MN (author_Priestman_Seth_MN)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Prioletta_Alessia",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Prioletta, Alessia (author_Prioletta_Alessia)",
         "data": {}
       },
       {
@@ -84811,6 +85227,34 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Romano, Licia (author_Romano_Licia)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Rougeulle_Axelle",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Rougeulle, Axelle (author_Rougeulle_Axelle)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Ryano_M",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Ryano, M (author_Ryano_M)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_STRUKLEC_Danijel",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "STRUKLEC, Danijel (author_STRUKLEC_Danijel)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Said_M",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Said, M (author_Said_M)",
         "data": {}
       },
       {
@@ -85003,6 +85447,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Westley_Kieran",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Westley, Kieran (author_Westley_Kieran)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Wickler_Stephen",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -85066,6 +85517,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Carter_Robert",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Carter, Robert (author_Carter_Robert)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_L\u00fcbke_Harald",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -85084,6 +85542,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Roberts, Benjamin W (author_Roberts_Benjamin_W)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Robin_Christian_Julien",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Robin, Christian Julien (author_Robin_Christian_Julien)",
         "data": {}
       },
       {
@@ -85118,7 +85583,7 @@ var tree={
         "id": "http://xmlns.com/foaf/0.1/Person",
         "parent": "#",
         "type": "class",
-        "text": "Person (foaf:Person) [154]",
+        "text": "Person (foaf:Person) [197]",
         "data": {
           "to": {
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -85148,6 +85613,13 @@ var tree={
         "instancecount": 4
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Monchablon_2003_Excavations",
+        "parent": "http://purl.org/ontology/bibo/Proceedings",
+        "type": "instance",
+        "text": "Excavations at Ra\u02bes al-Jinz RJ-1: stratigraphy without tells (bib_Monchablon_2003_Excavations)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Steerwood_2003_Context",
         "parent": "http://purl.org/ontology/bibo/Proceedings",
         "type": "instance",
@@ -85162,32 +85634,33 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The",
+        "parent": "http://purl.org/ontology/bibo/Proceedings",
+        "type": "instance",
+        "text": "The Coastal Arabia and the adjacent Sea-Basins in the Periplus of the Erythrean Sea (Trade, Geography and Navigation) (bib_Bukharin_2012_The)",
+        "data": {}
+      },
+      {
         "id": "http://purl.org/ontology/bibo/Proceedings",
         "parent": "#",
         "type": "class",
-        "text": "Proceedings (bibo:Proceedings) [2]",
+        "text": "Proceedings (bibo:Proceedings) [4]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1,
-              "http://xmlns.com/foaf/0.1/Person": 1
+              "instancecount": 6,
+              "http://xmlns.com/foaf/0.1/Person": 6
             },
             "http://purl.org/dc/elements/1.1/title": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/number": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageEnd": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageStart": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/volume": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -85197,8 +85670,7 @@ var tree={
           "from": {
             "http://purl.org/dc/terms/isReferencedBy": {
               "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 2,
-              "http://www.ancientports.com/ont#VillaMaritima": 1
+              "http://www.ancientports.com/ont#Harbour": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -85206,7 +85678,7 @@ var tree={
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 11
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Harbour_collection",
@@ -85292,19 +85764,19 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 444,
-              "http://www.ancientports.com/ont#Lighthouse": 6,
-              "http://www.ancientports.com/ont#Pila": 11,
-              "http://www.ancientports.com/ont#Quay": 45,
-              "http://www.ancientports.com/ont#VillaMaritima": 444,
-              "http://www.ancientports.com/ont#Slipway": 2,
-              "http://www.ancientports.com/ont#Warehouse": 4,
-              "http://www.ancientports.com/ont#Shipyard": 1
+              "instancecount": 45,
+              "http://www.ancientports.com/ont#Shipshed": 45,
+              "http://www.ancientports.com/ont#Shipyard": 10,
+              "http://www.ancientports.com/ont#Slipway": 44,
+              "http://www.ancientports.com/ont#Pila": 2,
+              "http://www.ancientports.com/ont#Quay": 14,
+              "http://www.ancientports.com/ont#Warehouse": 5,
+              "http://www.ancientports.com/ont#Lighthouse": 2
             }
           },
           "from": {}
         },
-        "instancecount": 447
+        "instancecount": 48
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -85335,6 +85807,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/Document_collection",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "type": "instance",
+        "text": "Document Instances Collection (Document_collection)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/Thesis_collection",
         "parent": "http://www.w3.org/2004/02/skos/core#Collection",
         "type": "instance",
@@ -85359,7 +85838,7 @@ var tree={
         "id": "http://www.w3.org/2004/02/skos/core#Collection",
         "parent": "#",
         "type": "collectionclass",
-        "text": "Collection (skos:Collection) [6]",
+        "text": "Collection (skos:Collection) [7]",
         "data": {
           "to": {
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -85369,13 +85848,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 58,
-              "http://purl.org/ontology/bibo/Article": 58
+              "instancecount": 4,
+              "http://purl.org/ontology/bibo/Proceedings": 4
             }
           },
           "from": {}
         },
-        "instancecount": 60
+        "instancecount": 6
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Point_collection",
