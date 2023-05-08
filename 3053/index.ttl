@@ -13,8 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/grants-awarded/research-grants/cyprus/marelab/the-mazotos-shipwreck-project/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3053_geom> ;
-    skos:note "Demesticha (2021)",
-        "https://honorfrostfoundation.org/grants-awarded/research-grants/cyprus/marelab/the-mazotos-shipwreck-project/" ;
+    skos:note "Demesticha (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/711256> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
     ns1:P1958 <https://www.trismegistos.org/place/60826> ;

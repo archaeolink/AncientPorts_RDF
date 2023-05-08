@@ -17,8 +17,7 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1910_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q12874174> ;
-    skos:note "Kokkorou (2009)",
-        "https://topostext.org/place/367228QAso" ;
+    skos:note "Kokkorou (2009)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570129> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23294> ;

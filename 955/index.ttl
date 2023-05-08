@@ -20,8 +20,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/955_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q128226> ;
     skos:note "Daum (2019)",
-        "Di Rosa (2021)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+        "Di Rosa (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/433143> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16712> ;

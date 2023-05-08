@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/683_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q192574> ;
     skos:note "Bats (2006)",
-        "Coupry (1964)",
-        "https://fr.wikipedia.org/wiki/Salins_d%27Hy%C3%A8res" ;
+        "Coupry (1964)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/157896> ;
     ns1:P17 "France South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/17005> ;

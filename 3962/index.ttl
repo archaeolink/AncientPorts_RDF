@@ -5,7 +5,6 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3962> a ns2:Harbour ;
@@ -18,7 +17,6 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3962_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q393829> ;
-    skos:note "https://honorfrostfoundation.org/2021/08/05/nw-egyptian-marmarica-coast-survey-ongoing/" ;
     ns1:P1584 <http://pleiades.stoa.org/places/716535> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21711> ;

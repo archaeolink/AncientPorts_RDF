@@ -13,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Historic Lime-Mortar 14C Dating of Santa María La Real (Zarautz, Northern Spain): Extraction of Suitable Grain Size for Reliable 14C Dating"@en ;
     ns1:doi "10.2458/azu_js_rc.v54i1.11988"^^xsd:anyURI ;
+    ns1:issuer "Radiocarbon" ;
     ns1:number 1 ;
     ns1:publisher "Cambridge University Press" ;
     ns1:volume "54"^^xsd:string .

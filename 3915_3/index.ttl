@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://www.franckgoddio.org/"^^xsd:anyURI ;
     ns1:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3915_3_geom> ;
-    skos:note "Goddio (2015)",
-        "https://www.franckgoddio.org/" ;
+    skos:note "Goddio (2015)" ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string .
 

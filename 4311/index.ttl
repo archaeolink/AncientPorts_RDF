@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://pleiades.stoa.org/places/275743"^^xsd:anyURI ;
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4311_geom> ;
-    skos:note "Bouysse (2017)",
-        "https://pleiades.stoa.org/places/275743" ;
+    skos:note "Bouysse (2017)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/275731> ;
     ns1:P17 <http://www.wikidata.org/entity/Q1028> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/37954> .

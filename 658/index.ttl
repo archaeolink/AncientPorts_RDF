@@ -17,7 +17,6 @@
     ns2:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/658_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q237516> ;
-    skos:note "Chausserie (2002)",
-        "http://splashcos-viewer.eu/" ;
+    skos:note "Chausserie (2002)" ;
     ns1:P17 "France South"^^xsd:string .
 

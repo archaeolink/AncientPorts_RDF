@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://www.inrap.fr/la-font-de-mauguio-les-aires-de-saint-jacques-3520"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/638_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q753087> ;
-    skos:note "Parodi (1993)",
-        "https://www.inrap.fr/la-font-de-mauguio-les-aires-de-saint-jacques-3520" ;
+    skos:note "Parodi (1993)" ;
     ns1:P17 "France South"^^xsd:string .
 

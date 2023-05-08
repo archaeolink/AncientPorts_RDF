@@ -17,8 +17,7 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2959_geom> ;
     skos:note "Google Earth picture (15/3/2011)",
-        "Loizou (2016)",
-        "http://www.ancientportsantiques.com/a-few-ports/nirou-khani/" ;
+        "Loizou (2016)" ;
     ns1:P17 "GR: Crete North"^^xsd:string ;
     ns1:P8068 <https://topostext.org/place/353253XNir> .
 

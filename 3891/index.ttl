@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3891_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1630019> ;
     skos:note "Somaglino (2011)",
-        "Thiers (2007)",
-        "https://pcma.uw.edu.pl/en/2019/01/12/tell-el-retaba-2/" ;
+        "Thiers (2007)" ;
     ns2:P1584 <https://pleiades.stoa.org/places/728577> ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string .
 

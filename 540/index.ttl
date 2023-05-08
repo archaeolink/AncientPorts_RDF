@@ -17,8 +17,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/540_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7402084> ;
-    skos:note "Revillion (2007)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Revillion (2007)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/69567> ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/26345> .

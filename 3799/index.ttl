@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/04/26/al-subiyah-2/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3799_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q12189346> ;
-    skos:note "Rutkowski (2018)",
-        "https://pcma.uw.edu.pl/en/2019/04/26/al-subiyah-2/" ;
+    skos:note "Rutkowski (2018)" ;
     ns1:P17 "Gulf"^^xsd:string .
 

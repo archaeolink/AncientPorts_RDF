@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://andaluciarustica.com/en/los-castillejos-de-alcorrin-archaeological-site-manilva.htm"^^xsd:anyURI ;
     ns2:date_min "-800"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/353_2_geom> ;
-    skos:note "May (2022)",
-        "https://andaluciarustica.com/en/los-castillejos-de-alcorrin-archaeological-site-manilva.htm" ;
+    skos:note "May (2022)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> .
 

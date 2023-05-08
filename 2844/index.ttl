@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2844> a <http://www.ancientports.com/ont#Harbour> ;
@@ -15,7 +14,6 @@
     dcterms:isReferencedBy "http://pleiades.stoa.org/places/521129"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2844_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q65046266> ;
-    skos:note "http://pleiades.stoa.org/places/521129" ;
     ns1:P1584 <http://pleiades.stoa.org/places/523223> ;
     ns1:P17 "TR: Bosph S"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31498> .

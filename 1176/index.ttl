@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1176_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q962184> ;
-    skos:note "Nigro (2013)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Nigro (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462373> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22634> ;

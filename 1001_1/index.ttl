@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1001_1> a <http://www.ancientports.com/ont#VillaMaritima> ;
@@ -15,6 +14,5 @@
     dcterms:isReferencedBy "https://pompeiiinpictures.com/pompeiiinpictures/RV/villas%20new.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1001_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1257335> ;
-    skos:note "https://pompeiiinpictures.com/pompeiiinpictures/RV/villas%20new.htm" ;
     ns1:P17 "Italy West"^^xsd:string .
 

@@ -15,7 +15,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://airmalta.com/en/blog/malta/malta-and-its-salt-pans"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1215_geom> ;
-    skos:note "Azzopardi (2012)",
-        "https://airmalta.com/en/blog/malta/malta-and-its-salt-pans" ;
+    skos:note "Azzopardi (2012)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3466_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82070> ;
     skos:note "Carayon (2011)",
-        "Noureddine (2019)",
-        "https://pcma.uw.edu.pl/en/2019/01/01/tyre-2/" ;
+        "Noureddine (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678437> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21116> ;

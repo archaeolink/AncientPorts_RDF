@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/15> a <http://www.ancientports.com/ont#Quay> ;
@@ -16,6 +15,5 @@
         "https://vici.org/vici/54/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/15_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
-    skos:note "https://vici.org/vici/54/" ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> .
 

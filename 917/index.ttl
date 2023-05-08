@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/917_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1012797> ;
-    skos:note "Keay (2012)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Keay (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/422995> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/15960> ;

@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://mediolanum-santonum.fr/romanisation-de-l-aunis.html"^^xsd:anyURI ;
     ns2:date_min "-4000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/591_5_geom> ;
-    skos:note "Talbot-Marsac (1999)",
-        "http://mediolanum-santonum.fr/romanisation-de-l-aunis.html" ;
+    skos:note "Talbot-Marsac (1999)" ;
     ns1:P17 "France West"^^xsd:string .
 

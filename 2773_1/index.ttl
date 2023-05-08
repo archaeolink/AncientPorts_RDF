@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2773_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q599416> ;
     skos:note "Dan (2009)",
-        "Doonan (2011)",
-        "https://pontosworld.com/index.php/pontus/places/209-sinope-sinop" ;
+        "Doonan (2011)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/857321> ;
     ns2:P17 "TR: Black Sea"^^xsd:string ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/21208> ;

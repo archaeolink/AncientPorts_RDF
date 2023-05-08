@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3458_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q163490> ;
-    skos:note "Carayon (2003)",
-        "https://honorfrostfoundation.org/2020/06/25/sidon-lebanon/" ;
+    skos:note "Carayon (2003)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678393> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21115> ;

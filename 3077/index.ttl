@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://mapcarta.com/W221241980"^^xsd:anyURI ;
     ns2:date_min "-1200"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3077_geom> ;
-    skos:note "Sabatini (2016)",
-        "https://mapcarta.com/W221241980" ;
+    skos:note "Sabatini (2016)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

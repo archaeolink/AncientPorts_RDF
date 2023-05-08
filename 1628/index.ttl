@@ -21,8 +21,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1628_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82310> ;
     skos:note "Goiran (2011)",
-        "Loven (2021)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+        "Loven (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/580062> ;
     ns1:P17 "GR: Attica +"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22389> ;

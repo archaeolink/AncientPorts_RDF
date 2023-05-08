@@ -1,11 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Fantar_2012_Africa> a <http://purl.org/ontology/bibo/Article> ;
+<http://data.archaeology.link/data/ancientports/bib_Fantar_2012_Africa> a ns1:Article ;
     dc:created "2012"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Cocco_Maria_Bastiana>,
         <http://data.archaeology.link/data/ancientports/author_Gavini_Alberto>,
         <http://data.archaeology.link/data/ancientports/author_Ibba_Antonio> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dc:title "L'Africa romana"@en .
+    dc:title "L'Africa romana"@en ;
+    ns1:issuer "Trasformazione dei pae" .
 

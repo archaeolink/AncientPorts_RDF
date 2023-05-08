@@ -17,8 +17,7 @@
     ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5266913> ;
-    skos:note "Bruyere (1966)",
-        "https://bibleatlas.org/etham.htm" ;
+    skos:note "Bruyere (1966)" ;
     ns2:P17 "Egypt: Med Sea"^^xsd:string ;
     ns2:P1958 <https://www.trismegistos.org/place/12013> .
 

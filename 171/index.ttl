@@ -6,7 +6,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/171> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r
+    rdfs:label """Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r
 We selected the ones with a nautical shelter"""@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

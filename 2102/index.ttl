@@ -17,8 +17,7 @@
     ns2:date_min "-10000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2102_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2586345> ;
-    skos:note "Carter (2019)",
-        "https://www.naxos.gr/prehistoric-era/?lang=en" ;
+    skos:note "Carter (2019)" ;
     ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
     ns1:P8068 <https://topostext.org/place/371253XSte> .
 

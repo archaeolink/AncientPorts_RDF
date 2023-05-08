@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3915_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1492594> ;
-    skos:note "Goddio (2015)",
-        "https://www.franckgoddio.org/" ;
+    skos:note "Goddio (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727162> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28493> ;

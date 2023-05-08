@@ -21,9 +21,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3934_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2595730> ;
-    skos:note "Pena (2016)",
-        "http://www.ancientportsantiques.com/a-few-ports/alexandria/",
-        "https://livestream.com/oxuni/goddio/videos/227804296" ;
+    skos:note "Pena (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727070> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/15898> ;

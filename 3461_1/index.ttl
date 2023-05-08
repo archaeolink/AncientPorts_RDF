@@ -17,7 +17,6 @@
     ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3461_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2402190> ;
-    skos:note "Carayon (2012)",
-        "https://www.aub.edu.lb/fas/histarc/Pages/burak.aspx" ;
+    skos:note "Carayon (2012)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q822> .
 

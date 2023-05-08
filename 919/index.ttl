@@ -13,8 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.provincia.rm.it/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/919_geom> ;
-    skos:note "Keay (2012)",
-        """http://www.provincia.rm.it/\r
-""" ;
+    skos:note "Keay (2012)" ;
     ns1:P17 "Italy West"^^xsd:string .
 

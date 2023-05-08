@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1013801"^^xsd:anyURI ;
     ns1:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/106_6_geom> ;
-    skos:note "Weatherhill (2009)",
-        "https://historicengland.org.uk/listing/the-list/list-entry/1013801" ;
+    skos:note "Weatherhill (2009)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

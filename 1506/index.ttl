@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1506_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q221350> ;
     skos:note "Begovic (2004)",
-        "Cambi (2001)",
-        "http://baza.iarh.hr/public/locality/detail/1782" ;
+        "Cambi (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197263> ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/13933> ;

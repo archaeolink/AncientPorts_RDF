@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3864_8_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3523812> ;
     skos:note "Gaur (2006)",
-        "Mambra (2018)",
-        "https://www.newindianexpress.com/states/tamil-nadu/2021/sep/19/artefacts-reveal-korkais-trade-links-with-egypt-2360763.html" ;
+        "Mambra (2018)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/50063> ;
     ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

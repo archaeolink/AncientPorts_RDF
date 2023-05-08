@@ -16,8 +16,7 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/274_geom> ;
     skos:note "Hermann (2022)",
-        "Teichner (2016)",
-        "https://archaeologynewsnetwork.blogspot.com/2018/09/ancient-roman-port-discovered-portugal.html#WE67Pd2x3PzO3z9w.97" ;
+        "Teichner (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/256027> ;
     ns1:P17 <http://www.wikidata.org/entity/Q45> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22466> .

@@ -13,7 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.poros.nu/sightsee/bourtzi/pp/pp.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1873_3_geom> ;
-    skos:note "Nikos Mourtzas (2022)",
-        "http://www.poros.nu/sightsee/bourtzi/pp/pp.htm" ;
+    skos:note "Nikos Mourtzas (2022)" ;
     ns1:P17 "GR: Pelop"^^xsd:string .
 

@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "http://toponomastica.altervista.org/dovera-buca/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1290_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q71621> ;
-    skos:note "Staffa (2001)",
-        "http://toponomastica.altervista.org/dovera-buca/" ;
+    skos:note "Staffa (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/413242> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/18734> .

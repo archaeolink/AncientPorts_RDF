@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://www.archeologiepetitecamargue.culture.fr/pages/aigues-mortes.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/640_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q193809> ;
-    skos:note "Rey (2015)",
-        "http://www.archeologiepetitecamargue.culture.fr/pages/aigues-mortes.htm" ;
+    skos:note "Rey (2015)" ;
     ns1:P17 "France South"^^xsd:string .
 

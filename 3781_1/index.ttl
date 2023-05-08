@@ -17,7 +17,6 @@
     ns1:date_min "-5000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3781_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2091525> ;
-    skos:note "Beech (2016)",
-        "http://www.adias-uae.com/marawah.html" ;
+    skos:note "Beech (2016)" ;
     ns2:P17 "Gulf"^^xsd:string .
 

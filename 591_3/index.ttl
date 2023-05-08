@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/591_3> a <http://www.ancientports.com/ont#VillaMaritima> ;
@@ -15,7 +14,6 @@
     dcterms:isReferencedBy "https://www.niortmaraispoitevin.com/article/port-boinot-divine-idylle-avec-la-ville"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/591_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q184159> ;
-    skos:note "https://www.niortmaraispoitevin.com/article/port-boinot-divine-idylle-avec-la-ville" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138497> ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/8450> .

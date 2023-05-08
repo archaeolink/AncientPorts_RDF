@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Kandarodai"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3866_6_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q531494> ;
-    skos:note "Gunawardana (2015)",
-        "https://en.wikipedia.org/wiki/Kandarodai" ;
+    skos:note "Gunawardana (2015)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q854> .
 

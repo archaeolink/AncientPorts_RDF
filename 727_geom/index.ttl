@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/727_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """Possibly in area downstream of Prunelli–di–Fium’Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r
+    rdfs:label """Possibly in area downstream of Prunelli–di–Fium’Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\r
  Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(9.43900 41.99000)"^^geo:wktLiteral .

@@ -5,7 +5,6 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/169_2> a ns2:Harbour ;
@@ -17,6 +16,5 @@
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/169_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5314031> ;
-    skos:note "https://ancientmonuments.uk/122612" ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

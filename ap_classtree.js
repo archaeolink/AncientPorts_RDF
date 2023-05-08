@@ -6682,7 +6682,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/171",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\nWe selected the ones with a nautical shelter (171)",
+        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r\nWe selected the ones with a nautical shelter (171)",
         "data": {}
       },
       {
@@ -13605,7 +13605,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/2449_2",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\n (2449_2)",
+        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\r\n (2449_2)",
         "data": {}
       },
       {
@@ -22859,7 +22859,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3581_1",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581_1)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581_1)",
         "data": {}
       },
       {
@@ -23734,7 +23734,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3674",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\nThis hypothetical area is close to Diodorus' description: \r\n> the total circumference is 23 km (close to his 100 stades); \r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. (3674)",
+        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\r\nThis hypothetical area is close to Diodorus' description: \r\r\n> the total circumference is 23 km (close to his 100 stades); \r\r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. (3674)",
         "data": {}
       },
       {
@@ -23937,7 +23937,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3698",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\nAnother option would be at Ras Mohammed (3698)",
+        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\r\nAnother option would be at Ras Mohammed (3698)",
         "data": {}
       },
       {
@@ -25400,7 +25400,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3840_2",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\n (3840_2)",
+        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\r\n (3840_2)",
         "data": {}
       },
       {
@@ -25939,7 +25939,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3865",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  (3865)",
+        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  (3865)",
         "data": {}
       },
       {
@@ -26023,7 +26023,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3866_4",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "R Pudavaikattu? on Sri Lanka island,\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium (3866_4)",
+        "text": "R Pudavaikattu? on Sri Lanka island,\r\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium (3866_4)",
         "data": {}
       },
       {
@@ -29698,7 +29698,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/4343",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. (4343)",
+        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. (4343)",
         "data": {}
       },
       {
@@ -32225,7 +32225,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/727",
         "parent": "http://www.ancientports.com/ont#Harbour",
         "type": "geoinstance",
-        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\n (727)",
+        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\r\n (727)",
         "data": {}
       },
       {
@@ -33772,7 +33772,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Harbour",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "halfgeoclass",
-        "text": "Harbour (ns5:Harbour) [4818]",
+        "text": "Harbour (ns6:Harbour) [4818]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -33802,6 +33802,12 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
+              "instancecount": 1
             }
           },
           "from": {
@@ -33811,7 +33817,7 @@ var tree={
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 11
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#Feature",
@@ -35133,7 +35139,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3581",
         "parent": "http://www.ancientports.com/ont#Quay",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. (3581)",
         "data": {}
       },
       {
@@ -36106,7 +36112,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Quay",
         "parent": "#",
         "type": "geoclass",
-        "text": "Quay (ns5:Quay) [326]",
+        "text": "Quay (ns6:Quay) [326]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -36116,6 +36122,9 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 2
+            },
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -36132,9 +36141,21 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 3
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1584": {
+              "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -36145,7 +36166,7 @@ var tree={
             }
           }
         },
-        "instancecount": 11
+        "instancecount": 15
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1000",
@@ -39259,16 +39280,13 @@ var tree={
         "id": "http://www.ancientports.com/ont#VillaMaritima",
         "parent": "#",
         "type": "geoclass",
-        "text": "VillaMaritima (ns5:VillaMaritima) [444]",
+        "text": "VillaMaritima (ns6:VillaMaritima) [444]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1
-            },
-            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -39281,13 +39299,10 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.wikidata.org/prop/direct/P1584": {
+            "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
             }
           },
@@ -39298,7 +39313,7 @@ var tree={
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 7
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv2_",
@@ -39745,7 +39760,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Lighthouse",
         "parent": "#",
         "type": "geoclass",
-        "text": "Lighthouse (ns5:Lighthouse) [63]",
+        "text": "Lighthouse (ns6:Lighthouse) [63]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -39784,6 +39799,9 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P1958": {
               "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
+              "instancecount": 1
             }
           },
           "from": {
@@ -39793,7 +39811,7 @@ var tree={
             }
           }
         },
-        "instancecount": 12
+        "instancecount": 13
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv3_",
@@ -40093,7 +40111,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Pila",
         "parent": "#",
         "type": "geoclass",
-        "text": "Pila (ns5:Pila) [42]",
+        "text": "Pila (ns6:Pila) [42]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -40102,31 +40120,43 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
+            "http://www.ancientports.com/ont#date_min": {
+              "instancecount": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 2
+              "instancecount": 3
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
+            "http://www.wikidata.org/prop/direct/P1584": {
+              "instancecount": 1
+            },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 13
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1047",
@@ -40482,7 +40512,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Shipyard",
         "parent": "#",
         "type": "geoclass",
-        "text": "Shipyard (ns5:Shipyard) [50]",
+        "text": "Shipyard (ns6:Shipyard) [50]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -40511,7 +40541,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 3
+              "instancecount": 2
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -40536,7 +40566,7 @@ var tree={
             }
           }
         },
-        "instancecount": 16
+        "instancecount": 15
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1090",
@@ -41165,7 +41195,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Slipway",
         "parent": "#",
         "type": "geoclass",
-        "text": "Slipway (ns5:Slipway) [89]",
+        "text": "Slipway (ns6:Slipway) [89]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -41174,7 +41204,7 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
-            "http://purl.org/dc/terms/isReferencedBy": {
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -41187,12 +41217,6 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 2
-            },
             "http://www.wikidata.org/prop/direct/P17": {
               "instancecount": 1
             }
@@ -41204,7 +41228,7 @@ var tree={
             }
           }
         },
-        "instancecount": 10
+        "instancecount": 7
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1117_suniv1_",
@@ -41525,7 +41549,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Shipshed",
         "parent": "#",
         "type": "geoclass",
-        "text": "Shipshed (ns5:Shipshed) [45]",
+        "text": "Shipshed (ns6:Shipshed) [45]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -41534,46 +41558,31 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
-            "http://www.ancientports.com/ont#date_min": {
-              "instancecount": 1
-            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1584": {
-              "instancecount": 1
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 2
             },
             "http://www.wikidata.org/prop/direct/P17": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 14
+        "instancecount": 9
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1132_suniv1_",
@@ -42006,7 +42015,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Warehouse",
         "parent": "#",
         "type": "geoclass",
-        "text": "Warehouse (ns5:Warehouse) [61]",
+        "text": "Warehouse (ns6:Warehouse) [61]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -42014,9 +42023,6 @@ var tree={
             },
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
-            },
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 2
             },
             "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
@@ -42026,12 +42032,9 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 2
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2002/07/owl#sameAs": {
+            "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
@@ -42042,22 +42045,16 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P17": {
               "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
             }
           }
         },
-        "instancecount": 16
+        "instancecount": 10
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1215_suniv1_",
@@ -43288,7 +43285,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#PotentialHarbour",
         "parent": "#",
         "type": "geoclass",
-        "text": "PotentialHarbour (ns5:PotentialHarbour) [175]",
+        "text": "PotentialHarbour (ns6:PotentialHarbour) [175]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -43305,6 +43302,9 @@ var tree={
               "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 2
+            },
+            "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
@@ -43318,7 +43318,7 @@ var tree={
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 9
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Belova_2019_Russian",
@@ -43496,6 +43496,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Dagostino_2013_Abu",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "Abu Theirah, Nasiriyah (Southern Iraq): Preliminary report on the 2013 excavation campaign (bib_Dagostino_2013_Abu)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/bib_Demey_2013_Een",
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
@@ -43570,6 +43577,13 @@ var tree={
         "parent": "http://purl.org/ontology/bibo/Article",
         "type": "instance",
         "text": "Historic Lime-Mortar 14C Dating of Santa Mar\u00eda La Real (Zarautz, Northern Spain): Extraction of Suitable Grain Size for Reliable 14C Dating (bib_Ortega_2012_Historic)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/bib_Ramazzotti_2015_Iraqi",
+        "parent": "http://purl.org/ontology/bibo/Article",
+        "type": "instance",
+        "text": "The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu (AMEr) (bib_Ramazzotti_2015_Iraqi)",
         "data": {}
       },
       {
@@ -43716,7 +43730,7 @@ var tree={
         "id": "http://purl.org/ontology/bibo/Article",
         "parent": "#",
         "type": "class",
-        "text": "Article (bibo:Article) [56]",
+        "text": "Article (bibo:Article) [58]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -43729,7 +43743,7 @@ var tree={
             "http://purl.org/dc/elements/1.1/title": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/number": {
+            "http://purl.org/ontology/bibo/issuer": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageEnd": {
@@ -43738,24 +43752,22 @@ var tree={
             "http://purl.org/ontology/bibo/pageStart": {
               "instancecount": 1
             },
-            "http://purl.org/ontology/bibo/publisher": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/volume": {
-              "instancecount": 1
-            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             }
           },
           "from": {
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 0,
+              "http://www.ancientports.com/ont#Harbour": 5
+            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 7
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes",
@@ -43838,16 +43850,10 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 1,
-              "http://xmlns.com/foaf/0.1/Person": 1
+              "instancecount": 10,
+              "http://xmlns.com/foaf/0.1/Person": 10
             },
             "http://purl.org/dc/elements/1.1/title": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/publisher": {
-              "instancecount": 1
-            },
-            "http://purl.org/ontology/bibo/volume": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43855,17 +43861,13 @@ var tree={
             }
           },
           "from": {
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 2
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 13
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kloo\u00df_2009_The",
@@ -52275,7 +52277,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/171_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\nWe selected the ones with a nautical shelter Geometry (171_geom)",
+        "text": "Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r\nWe selected the ones with a nautical shelter Geometry (171_geom)",
         "data": {}
       },
       {
@@ -59835,7 +59837,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/2449_2_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\n Geometry (2449_2_geom)",
+        "text": "Krajmorie, Kraymorie, south of Cape Foros\r\r\n Geometry (2449_2_geom)",
         "data": {}
       },
       {
@@ -70139,14 +70141,14 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3581_1_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_1_geom)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_1_geom)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/3581_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_geom)",
+        "text": "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23\u00b026\u2019 of latitude. The present latitude of Berenike is 23\u00b056\u2019 and it is still a port today. \r\r\nWith probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat. Geometry (3581_geom)",
         "data": {}
       },
       {
@@ -71042,7 +71044,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3674_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\nThis hypothetical area is close to Diodorus' description: \r\n> the total circumference is 23 km (close to his 100 stades); \r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. Geometry (3674_geom)",
+        "text": "Sharm Yanbu? 15 km NW of Yanbu. \r\r\nThis hypothetical area is close to Diodorus' description: \r\r\n> the total circumference is 23 km (close to his 100 stades); \r\r\n> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\r\n> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\r\n> the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation. Geometry (3674_geom)",
         "data": {}
       },
       {
@@ -71259,7 +71261,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3698_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\nAnother option would be at Ras Mohammed Geometry (3698_geom)",
+        "text": "Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes \u2026\r\r\nAnother option would be at Ras Mohammed Geometry (3698_geom)",
         "data": {}
       },
       {
@@ -72757,7 +72759,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3840_2_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\n Geometry (3840_2_geom)",
+        "text": "Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r\r\n Geometry (3840_2_geom)",
         "data": {}
       },
       {
@@ -73387,7 +73389,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3865_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  Geometry (3865_geom)",
+        "text": "Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\r\nPtolemy's Talacori might be placed near the very old Ketheeswaram temple  Geometry (3865_geom)",
         "data": {}
       },
       {
@@ -73415,7 +73417,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/3866_4_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "R Pudavaikattu? on Sri Lanka island,\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium Geometry (3866_4_geom)",
+        "text": "R Pudavaikattu? on Sri Lanka island,\r\r\nThis location agrees with Ptolemy's coordinates with respect to Talacori emporium Geometry (3866_4_geom)",
         "data": {}
       },
       {
@@ -78028,7 +78030,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/4343_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. Geometry (4343_geom)",
+        "text": "This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbani\u00e9 is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r\r\nNote that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. Geometry (4343_geom)",
         "data": {}
       },
       {
@@ -81157,7 +81159,7 @@ var tree={
         "id": "http://data.archaeology.link/data/ancientports/727_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
-        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\n Geometry (727_geom)",
+        "text": "Possibly in area downstream of Prunelli\u2013di\u2013Fium\u2019Orbu, on R Fiumorbo with outlet at Marina du Caprone, Calzarello\r\r\n Geometry (727_geom)",
         "data": {}
       },
       {
@@ -83973,7 +83975,7 @@ var tree={
           "from": {
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 1
+              "http://www.ancientports.com/ont#Quay": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -84191,6 +84193,13 @@ var tree={
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Cooremans, Brigitte (author_Cooremans_Brigitte)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_D'Agostino_Franco",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "D'Agostino, Franco (author_D'Agostino_Franco)",
         "data": {}
       },
       {
@@ -84481,6 +84490,13 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Kadhem_Ghanim_Ali",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Kadhem Ghanim, Ali (author_Kadhem_Ghanim_Ali)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Kastholm_Ole_Thirup",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
@@ -84733,10 +84749,24 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/ancientports/author_Ramazzotti_Marco",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Ramazzotti, Marco (author_Ramazzotti_Marco)",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/ancientports/author_Rich_Sara_A",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
         "text": "Rich, Sara A (author_Rich_Sara_A)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/ancientports/author_Romano_Licia",
+        "parent": "http://xmlns.com/foaf/0.1/Person",
+        "type": "instance",
+        "text": "Romano, Licia (author_Romano_Licia)",
         "data": {}
       },
       {
@@ -85044,7 +85074,7 @@ var tree={
         "id": "http://xmlns.com/foaf/0.1/Person",
         "parent": "#",
         "type": "class",
-        "text": "Person (foaf:Person) [150]",
+        "text": "Person (foaf:Person) [154]",
         "data": {
           "to": {
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -85063,7 +85093,7 @@ var tree={
           "from": {
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 0,
-              "http://purl.org/ontology/bibo/BookSection": 1
+              "http://purl.org/ontology/bibo/Article": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -85213,20 +85243,20 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 61,
-              "http://www.ancientports.com/ont#Warehouse": 61,
-              "http://www.ancientports.com/ont#Quay": 27,
-              "http://www.ancientports.com/ont#Lighthouse": 9,
-              "http://www.ancientports.com/ont#Pila": 8,
-              "http://www.ancientports.com/ont#Shipyard": 6,
-              "http://www.ancientports.com/ont#Shipshed": 5,
-              "http://www.ancientports.com/ont#Slipway": 8,
-              "http://www.ancientports.com/ont#VillaMaritima": 4
+              "instancecount": 89,
+              "http://www.ancientports.com/ont#Slipway": 89,
+              "http://www.ancientports.com/ont#Quay": 24,
+              "http://www.ancientports.com/ont#Shipshed": 44,
+              "http://www.ancientports.com/ont#Lighthouse": 6,
+              "http://www.ancientports.com/ont#Shipyard": 12,
+              "http://www.ancientports.com/ont#Warehouse": 8,
+              "http://www.ancientports.com/ont#Pila": 3,
+              "http://www.ancientports.com/ont#VillaMaritima": 2
             }
           },
           "from": {}
         },
-        "instancecount": 64
+        "instancecount": 92
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -85291,13 +85321,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 3,
-              "http://purl.org/ontology/bibo/Thesis": 3
+              "instancecount": 2,
+              "http://purl.org/ontology/bibo/Proceedings": 2
             }
           },
           "from": {}
         },
-        "instancecount": 5
+        "instancecount": 4
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Point_collection",

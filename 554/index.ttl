@@ -13,8 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.lieux-insolites.fr/cotedarmor/hogolo/hogolo.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/554_geom> ;
-    skos:note "Map (2021)",
-        "https://www.lieux-insolites.fr/cotedarmor/hogolo/hogolo.htm" ;
+    skos:note "Map (2021)" ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/45010> .
 

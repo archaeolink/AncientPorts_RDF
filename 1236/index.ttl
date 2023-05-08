@@ -17,7 +17,6 @@
     ns1:date_min "-3500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1236_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1639436> ;
-    skos:note "Gambin (2003)",
-        "https://dwejra.weebly.com/history--archeology.html" ;
+    skos:note "Gambin (2003)" ;
     ns2:P17 "Malta: Gozo"^^xsd:string .
 

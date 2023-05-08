@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2981_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3443476> ;
     skos:note "Bruins (2008)",
-        "Cline (2011)",
-        "https://topostext.org/place/352263SDik" ;
+        "Cline (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/590100> ;
     ns1:P17 "GR: Crete South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22687> ;

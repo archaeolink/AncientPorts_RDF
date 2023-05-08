@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3580_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q819050> ;
     skos:note "Kotarba (2017)",
-        "Sidebotham (2010)",
-        "https://honorfrostfoundation.org/2021/07/02/berenike-excavations-at-a-red-sea-maritime-hub-linking-the-mediterranean-world-to-the-indian-ocean-ongoing/" ;
+        "Sidebotham (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/785986> ;
     ns1:P17 "Egypt: Red Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23388> ;

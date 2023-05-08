@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Dagostino_2013_Abu> a ns1:Article ;
+    dc:created "2013"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_D'Agostino_Franco>,
+        <http://data.archaeology.link/data/ancientports/author_Kadhem_Ghanim_Ali>,
+        <http://data.archaeology.link/data/ancientports/author_Romano_Licia> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Abu Theirah, Nasiriyah (Southern Iraq): Preliminary report on the 2013 excavation campaign"@en ;
+    ns1:issuer "ISIMU: Revista sobre Oriente Pr{'o}ximo y Egipto en la anitg{\"u}edad" ;
+    ns1:publisher "Universidad Aut{'o}noma de Madrid. Centro Superior de Estudios de Oriente~…" .
+

@@ -17,8 +17,7 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/397_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3555926> ;
-    skos:note "Esquembre Bebia (2008)",
-        "http://arqueologiaalicante.blogspot.com.es/2011/01/lucentum-ciudad-ibero-romana-alicante.html" ;
+    skos:note "Esquembre Bebia (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/265954> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22235> ;

@@ -19,9 +19,7 @@
     ns2:date_min "-1800"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3051_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1743884> ;
-    skos:note "Bony (2016)",
-        "https://honorfrostfoundation.org/2021/07/02/excavations-in-the-kition-bamboula-harbor-cyprus-ongoing/",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Bony (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707534> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21563> ;

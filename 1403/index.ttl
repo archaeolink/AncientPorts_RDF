@@ -17,8 +17,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1403_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q259466> ;
-    skos:note "Cambi (2001)",
-        "http://baza.iarh.hr/public/locality/detail/3765" ;
+    skos:note "Cambi (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/197505> ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/10946> ;

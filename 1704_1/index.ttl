@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1704_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q320367> ;
-    skos:note "Ghilhardi (2014)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Ghilhardi (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/579925> ;
     ns1:P17 "GR: Evia"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21973> ;

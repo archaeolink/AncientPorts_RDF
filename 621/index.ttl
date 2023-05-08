@@ -16,8 +16,7 @@
     dcterms:isReferencedBy "https://www.francetvpro.fr/contenu-de-presse/5406676"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/621_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q84710214> ;
-    skos:note "Sanchez (2021)",
-        "https://www.francetvpro.fr/contenu-de-presse/5406676" ;
+    skos:note "Sanchez (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/246347> ;
     ns1:P17 "France South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/156> ;

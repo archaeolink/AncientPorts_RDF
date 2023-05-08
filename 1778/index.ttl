@@ -17,7 +17,6 @@
     ns2:date_min "3001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1778_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17151> ;
-    skos:note "Livadioti (2020)",
-        "http://www.olkas.net/lemmata/16_Thessaloniki" ;
+    skos:note "Livadioti (2020)" ;
     ns1:P17 "GR: North-East"^^xsd:string .
 

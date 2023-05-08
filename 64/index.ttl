@@ -17,8 +17,7 @@
     ns1:date_min "2001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/64_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q629427> ;
-    skos:note "Wilmott (2018)",
-        "https://historicengland.org.uk/listing/the-list/list-entry/1015268" ;
+    skos:note "Wilmott (2018)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/79365> ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/18915> .

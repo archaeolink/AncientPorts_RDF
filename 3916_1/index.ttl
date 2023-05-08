@@ -13,7 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.ees.ac.uk/difshu624"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3916_1_geom> ;
-    skos:note "Wilson (2012)",
-        "https://www.ees.ac.uk/difshu624" ;
+    skos:note "Wilson (2012)" ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string .
 

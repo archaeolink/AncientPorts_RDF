@@ -19,8 +19,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3522_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q405881> ;
     skos:note "Somaglino (2022)",
-        "Tallet (2012)",
-        "https://honorfrostfoundation.org/2019/01/01/ayn-sukhna-archaeological-mission/" ;
+        "Tallet (2012)" ;
     ns1:P17 "Egypt: G. of Suez"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/37058> .
 

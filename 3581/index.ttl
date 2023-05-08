@@ -9,7 +9,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3581> a ns2:Quay ;
-    rdfs:label """Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23°26’ of latitude. The present latitude of Berenike is 23°56’ and it is still a port today. \r
+    rdfs:label """Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23°26’ of latitude. The present latitude of Berenike is 23°56’ and it is still a port today. \r\r
 With probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat."""@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
@@ -19,8 +19,7 @@ With probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts a
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3581_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q819050> ;
     skos:note "Kotarba (2017)",
-        "Sidebotham (2015)",
-        "https://pcma.uw.edu.pl/en/2019/04/17/berenike-2/" ;
+        "Sidebotham (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/785986> ;
     ns1:P17 "Egypt: Red Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23388> ;

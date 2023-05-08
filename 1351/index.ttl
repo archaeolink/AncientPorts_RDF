@@ -18,8 +18,7 @@
     ns2:date_min "-200"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1351_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q53216> ;
-    skos:note "Cottica (2021)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Cottica (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/187290> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/1468> ;

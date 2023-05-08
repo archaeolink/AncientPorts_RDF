@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3196_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q169460> ;
     skos:note "Brueckner (2014)",
-        "Thurm (2021)",
-        "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html" ;
+        "Thurm (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599799> ;
     ns1:P17 "TR: West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21166> ;

@@ -17,8 +17,7 @@
     ns1:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/104_5_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q744317> ;
-    skos:note "de Graauw pictures (2019)",
-        "https://historicengland.org.uk/listing/the-list/list-entry/1140252" ;
+    skos:note "de Graauw pictures (2019)" ;
     ns2:P1584 <https://pleiades.stoa.org/places/442808> ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/38988> ;

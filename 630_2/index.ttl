@@ -18,8 +18,6 @@
     ns2:date_min "-600"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/630_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q694955> ;
-    skos:note "Garcia (1995)",
-        "http://capmeroccitanie.fr/village-lacustre-englouti-premiers-setois/",
-        "http://splashcos-viewer.eu/" ;
+    skos:note "Garcia (1995)" ;
     ns1:P17 "France South"^^xsd:string .
 

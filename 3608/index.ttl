@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3608_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7257098> ;
     skos:note "Crowfoot (1911)",
-        "Thiers (2007)",
-        "http://www.barnard.nl/desert/ptolemais.html" ;
+        "Thiers (2007)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/39409> ;
     ns2:P17 <http://www.wikidata.org/entity/Q1049> ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/27324> ;

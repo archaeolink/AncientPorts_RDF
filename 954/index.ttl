@@ -17,8 +17,7 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/954_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2530284> ;
-    skos:note "Daum (2018)",
-        "http://www.circei.it/la-fossa-augusta.html" ;
+    skos:note "Daum (2018)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/432782> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22391> ;

@@ -10,6 +10,7 @@
         <http://data.archaeology.link/data/ancientports/author_Tofighian_Hossein> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The Bushehr Hinterland results of the first season of the Iranian-British archaeological survey of Bushehr Province, November-December 2004"@en ;
+    ns1:issuer "Iran" ;
     ns1:number 1 ;
     ns1:pageEnd 103 ;
     ns1:pageStart 63 ;

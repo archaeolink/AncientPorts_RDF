@@ -16,7 +16,6 @@
     ns1:date_min "-44"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1965_1_geom> ;
     skos:note "Athanasoupoulos (2021)",
-        "Kolaiti (2017)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+        "Kolaiti (2017)" ;
     ns2:P17 "GR: Pelop"^^xsd:string .
 

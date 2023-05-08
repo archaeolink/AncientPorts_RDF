@@ -17,8 +17,7 @@
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1844_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4258195> ;
-    skos:note "Samiou (1993)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Samiou (1993)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/501324> ;
     ns1:P17 "GR: North-East"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22035> ;

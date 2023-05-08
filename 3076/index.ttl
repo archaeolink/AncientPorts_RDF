@@ -17,8 +17,7 @@
     ns2:date_min "-8400"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3076_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6417285> ;
-    skos:note "Peltenburg (2001)",
-        "http://mancarch.org.uk/kissonerga-skalia-an-early-middle-bronze-age-settlement-in-western-cyprus/" ;
+    skos:note "Peltenburg (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707612> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
     ns1:P1958 <https://www.trismegistos.org/place/59615> ;

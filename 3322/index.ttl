@@ -17,8 +17,7 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3322_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6732591> ;
-    skos:note "Basalti (2015)",
-        "http://www.newadvent.org/cathen/09537c.htm" ;
+    skos:note "Basalti (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/638980> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27769> ;

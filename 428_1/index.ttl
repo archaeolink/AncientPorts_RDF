@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://www.romanports.org/en/articles/ports-in-focus/645-tarragona.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/428_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1501940> ;
-    skos:note "Terrado (2019)",
-        "https://www.romanports.org/en/articles/ports-in-focus/645-tarragona.html" ;
+    skos:note "Terrado (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/246349> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/6535> ;

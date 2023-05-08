@@ -5,7 +5,6 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/915> a ns2:Lighthouse ;
@@ -17,6 +16,5 @@
     ns2:date_min "4601"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/915_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2037271> ;
-    skos:note "http://www.ostia-antica.org/portus/c001.htm" ;
     ns1:P17 "Italy West"^^xsd:string .
 

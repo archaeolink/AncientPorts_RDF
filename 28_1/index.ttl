@@ -5,7 +5,6 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/28_1> a ns2:Harbour ;
@@ -17,7 +16,6 @@
     ns2:date_min "-3500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/28_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q506745> ;
-    skos:note "https://vici.org/vici/37/" ;
     ns1:P1584 <https://pleiades.stoa.org/places/99028> ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/13017> ;

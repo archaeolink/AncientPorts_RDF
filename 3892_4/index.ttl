@@ -18,9 +18,7 @@
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3623994> ;
-    skos:note "Bruyere (1966)",
-        "http://www.livius.org/sources/content/achaemenid-royal-inscriptions/dz/",
-        "https://fr.wikipedia.org/wiki/Inscriptions_de_Darius_le_Grand_%C3%A0_Suez" ;
+    skos:note "Bruyere (1966)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727101> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21705> ;

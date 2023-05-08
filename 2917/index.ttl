@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2917> a <http://www.ancientports.com/ont#Harbour> ;
@@ -15,7 +14,6 @@
     dcterms:isReferencedBy "http://crete.decouverte.free.fr/plandusite.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2917_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1516494> ;
-    skos:note "http://crete.decouverte.free.fr/plandusite.html" ;
     ns1:P1584 <https://pleiades.stoa.org/places/589748> ;
     ns1:P17 "GR: Crete North"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/527> ;

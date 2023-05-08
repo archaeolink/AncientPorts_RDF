@@ -18,9 +18,7 @@
     ns2:date_min "-6000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3031_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6374839> ;
-    skos:note "Le Brun (1993)",
-        "http://www.whatson-northcyprus.com/interest/dipkarpaz/kastros.htm",
-        "https://de.wikipedia.org/wiki/Aphrodite_Akraia" ;
+    skos:note "Le Brun (1993)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707593> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22734> ;

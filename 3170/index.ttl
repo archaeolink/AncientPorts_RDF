@@ -17,8 +17,7 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3170_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q43018> ;
-    skos:note "Steskal (2014)",
-        "https://en.wikipedia.org/wiki/Temple_of_Artemis" ;
+    skos:note "Steskal (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/873985034> ;
     ns1:P17 "TR: West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22847> ;

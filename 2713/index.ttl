@@ -17,8 +17,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2713_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q944813> ;
-    skos:note "Karasiewicz (2016)",
-        "https://pcma.uw.edu.pl/en/2019/03/18/gonio-apsaros-2/" ;
+    skos:note "Karasiewicz (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/857032> ;
     ns1:P17 "Georgia Black S."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21796> ;

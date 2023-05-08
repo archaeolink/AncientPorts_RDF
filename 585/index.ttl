@@ -17,8 +17,7 @@
     ns2:date_min "-1400"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/585_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q178081> ;
-    skos:note "Grenier (1934)",
-        "http://marikavel.com/bretagne/brivates-portus/brivates-portus-accueil.htm" ;
+    skos:note "Grenier (1934)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138406> ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16344> ;

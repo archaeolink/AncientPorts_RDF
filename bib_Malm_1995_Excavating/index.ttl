@@ -7,6 +7,7 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Malm_Torben> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Excavating submerged stone age sites in denmark-the tybrind vig example"@en ;
+    ns1:issuer "Oxbow Monograph" ;
     ns1:pageEnd 396 ;
     ns1:pageStart 385 ;
     ns1:publisher "Oxbow Books" .

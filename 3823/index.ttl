@@ -14,7 +14,6 @@
     dcterms:isReferencedBy "https://www.tehrantimes.com/news/470206/Archaeological-trenches-carved-to-redefine-southern-Iranian-port"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3823_geom> ;
     skos:note "Askari Chaverdi (2017)",
-        "Poukerman (2021)",
-        "https://www.tehrantimes.com/news/470206/Archaeological-trenches-carved-to-redefine-southern-Iranian-port" ;
+        "Poukerman (2021)" ;
     ns1:P17 "Gulf"^^xsd:string .
 

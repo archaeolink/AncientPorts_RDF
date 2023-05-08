@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/128_3> a ns2:Harbour ;
@@ -16,7 +15,5 @@
         "https://www.megalithic.co.uk/article.php?sid=17596"^^xsd:anyURI ;
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/128_3_geom> ;
-    skos:note "https://mapcarta.com/W661218161",
-        "https://www.megalithic.co.uk/article.php?sid=17596" ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

@@ -1,26 +1,25 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3760> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/3760> a ns1:Harbour ;
     rdfs:label "Khor Rori, at the outlet of wadi Darbat, near Taqah"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://whc.unesco.org/en/list/1010"^^xsd:anyURI ;
-    ns2:date_min "-200"^^xsd:gYear ;
+    ns1:date_min "-200"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3760_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q826118> ;
     skos:note "Avanzini (2014)",
-        "Schiettecatte (2012)",
-        "http://whc.unesco.org/en/list/1010" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/40228> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q842> ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/27286> .
+        "Schiettecatte (2012)" ;
+    ns2:P1584 <http://pleiades.stoa.org/places/40228> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q842> ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/27286> .
 

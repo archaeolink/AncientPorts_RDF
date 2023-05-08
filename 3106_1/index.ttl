@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3106_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6427503> ;
-    skos:note "Blum (2014)",
-        "https://luwianstudies.org/site/besik-tepe-kolonai/" ;
+    skos:note "Blum (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/550661> ;
     ns1:P17 "TR: West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/29073> ;

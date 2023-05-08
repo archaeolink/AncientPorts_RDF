@@ -17,8 +17,7 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3263_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q608095> ;
-    skos:note "Arnaud (2008)",
-        "https://topostext.org/place/369286WKal" ;
+    skos:note "Arnaud (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/638796> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21188> ;

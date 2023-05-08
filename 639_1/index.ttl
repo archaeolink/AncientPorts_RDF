@@ -17,7 +17,6 @@
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/639_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q844798> ;
-    skos:note "Roure (2010)",
-        "http://www.archeologiepetitecamargue.culture.fr/pages/cailar.htm" ;
+    skos:note "Roure (2010)" ;
     ns1:P17 "France South"^^xsd:string .
 

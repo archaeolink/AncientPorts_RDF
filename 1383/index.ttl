@@ -13,7 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/6963"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1383_geom> ;
-    skos:note "Carre (2011)",
-        "http://baza.iarh.hr/public/locality/detail/6963" ;
+    skos:note "Carre (2011)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

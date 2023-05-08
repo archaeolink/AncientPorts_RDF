@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://www.livius.org/articles/person/hanno-1-the-navigator/hanno-1-the-navigator-2/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4342_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q345204> ;
-    skos:note "Bouysse (2017)",
-        "http://www.livius.org/articles/person/hanno-1-the-navigator/hanno-1-the-navigator-2/" ;
+    skos:note "Bouysse (2017)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q1028> .
 

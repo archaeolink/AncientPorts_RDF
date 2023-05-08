@@ -17,9 +17,9 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1204_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q505847> ;
-    skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)",
-        "Alberti (2011)",
-        "http://www.aeolianislandsvacations.com/history-and-archaeology" ;
+    skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29",
+        "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)",
+        "Alberti (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462186> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41244> ;

@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/what-romans-ever-hull-new-6186159"^^xsd:anyURI ;
     ns1:date_min "7001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/58_geom> ;
-    skos:note "Historic England (2016)",
-        "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/what-romans-ever-hull-new-6186159" ;
+    skos:note "Historic England (2016)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

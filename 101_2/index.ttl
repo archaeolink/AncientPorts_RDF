@@ -18,9 +18,7 @@
     ns2:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/101_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5879023> ;
-    skos:note "Ottewell (2019)",
-        "https://historicengland.org.uk/listing/the-list/list-entry/1002558",
-        "https://www.lymeregismuseum.co.uk/collection/early-lyme-regis/" ;
+    skos:note "Ottewell (2019)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/79517> ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25724> .

@@ -1,21 +1,20 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3462> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/3462> a ns2:Harbour ;
     rdfs:label "Sabaa Rais (Seven captains) or islet 1 km north of Tyre? Guerin (1879) places this islet only 1 km north of Tyre, but Sabaa Raïs better fits Tatius' story"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.youtube.com/watch?v=vU6xJX8lU-o"^^xsd:anyURI ;
-    ns1:date_min "-330"^^xsd:gYear ;
+    ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3462_geom> ;
-    skos:note "Carayon (2012)",
-        "https://www.youtube.com/watch?v=vU6xJX8lU-o" ;
-    ns2:P17 <http://www.wikidata.org/entity/Q822> .
+    skos:note "Carayon (2012)" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q822> .
 

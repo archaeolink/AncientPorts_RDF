@@ -18,8 +18,7 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1965_geom> ;
     skos:note "Kolaiti (2017)",
-        "Morhange (2012)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+        "Morhange (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570420> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21933> ;

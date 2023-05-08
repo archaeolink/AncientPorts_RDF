@@ -17,7 +17,6 @@
     ns2:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/102_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1001536> ;
-    skos:note "de Graauw pictures (2019)",
-        "http://visitbudleigh.com/area/history" ;
+    skos:note "de Graauw pictures (2019)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> .
 

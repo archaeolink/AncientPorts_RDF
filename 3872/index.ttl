@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3872_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1145715> ;
     skos:note "Chartier-Raymond (1993)",
-        "Snape (2014:42)",
-        "https://pcma.uw.edu.pl/en/2019/02/10/pelusium-tell-farama/" ;
+        "Snape (2014:42)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727192> ;
     ns1:P17 "Egypt: Med Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21695> ;

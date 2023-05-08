@@ -13,8 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://arqueologiaalicante.blogspot.com.es/2015/04/la-illeta-dels-banyets-16-el-campello.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/398_geom> ;
-    skos:note "Espinosa (2006)",
-        "http://arqueologiaalicante.blogspot.com.es/2015/04/la-illeta-dels-banyets-16-el-campello.html" ;
+    skos:note "Espinosa (2006)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/45266> .
 

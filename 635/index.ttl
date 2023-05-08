@@ -16,9 +16,7 @@
         "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     ns1:date_min "-1400"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/635_geom> ;
-    skos:note "Chabal (2010)",
-        "http://capmeroccitanie.fr/village-lacustre-englouti-premiers-setois/",
-        "http://splashcos-viewer.eu/" ;
+    skos:note "Chabal (2010)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/148013> ;
     ns2:P17 "France South"^^xsd:string ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/17513> .

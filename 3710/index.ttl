@@ -17,7 +17,6 @@
     ns2:date_min "8001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3710_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1741475> ;
-    skos:note "Pollard (2016)",
-        "http://solarey.net/ruins-of-kilwa-kisiwani-and-songo-mnara-from-tanzania-africa/" ;
+    skos:note "Pollard (2016)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q924> .
 

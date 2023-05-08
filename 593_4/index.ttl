@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/593_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q19232141> ;
-    skos:note "Balmelle (2001)",
-        "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32" ;
+    skos:note "Balmelle (2001)" ;
     ns1:P17 "France West"^^xsd:string .
 

@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Ezion-Geber"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3707_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q933219> ;
-    skos:note "Flinder (1989)",
-        "https://en.wikipedia.org/wiki/Ezion-Geber" ;
+    skos:note "Flinder (1989)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/746700/gazirat-fir2bfaun> ;
     ns1:P17 "Gulf of Aqaba "^^xsd:string .
 

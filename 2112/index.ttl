@@ -5,7 +5,6 @@
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2112> a ns2:Harbour ;
@@ -17,7 +16,6 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2112_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2586345> ;
-    skos:note "https://www.zeus.guide/amorgos-travel-guide/e-amorgos-southwestern-amorgos-aghios-giorgios-varsamitis-stavros-markiani-and-kamari/" ;
     ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
     ns1:P8068 <https://topostext.org/place/368258XMar> .
 

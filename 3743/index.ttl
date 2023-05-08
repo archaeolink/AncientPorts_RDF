@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Ma%27rib"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3743_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2005211> ;
-    skos:note "Marcotte (2017)",
-        "https://en.wikipedia.org/wiki/Ma%27rib" ;
+    skos:note "Marcotte (2017)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/39379> ;
     ns1:P17 "Yemen Ind Oc."^^xsd:string .
 

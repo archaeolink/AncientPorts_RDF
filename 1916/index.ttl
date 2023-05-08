@@ -17,8 +17,7 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1916_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q992256> ;
-    skos:note "Scoufopoulos (1985)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Scoufopoulos (1985)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570268> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21912> ;

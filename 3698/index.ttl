@@ -8,7 +8,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3698> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …\r
+    rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …\r\r
 Another option would be at Ras Mohammed"""@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
@@ -17,8 +17,8 @@ Another option would be at Ras Mohammed"""@en ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3698_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q598889> ;
     skos:note "Nappo (2015)",
-        "Pereira (1899, p 65)",
-        "https://pleiades.stoa.org/places/767852" ;
+        "Pereira (1899",
+        "Pereira (1899, p 65)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/746747> ;
     ns1:P17 "Gulf of Aqaba "^^xsd:string .
 

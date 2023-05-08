@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://news.nationalgeographic.com/2016/07/greece-shipwrecks-discovery-fourni-ancient-diving-archaeology/"^^xsd:anyURI ;
     ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2279_1_geom> ;
-    skos:note "Campbell (2017)",
-        "https://news.nationalgeographic.com/2016/07/greece-shipwrecks-discovery-fourni-ancient-diving-archaeology/" ;
+    skos:note "Campbell (2017)" ;
     ns2:P17 "GR: Eastern Isl."^^xsd:string ;
     ns2:P8068 <https://topostext.org/place/376265UKam> .
 

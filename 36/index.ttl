@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://vici.org/vici/10076"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/36_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
-    skos:note "Lendering",
-        "https://vici.org/vici/10076" ;
+    skos:note "Lendering" ;
     ns1:P17 <http://www.wikidata.org/entity/Q234> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/18980> .
 

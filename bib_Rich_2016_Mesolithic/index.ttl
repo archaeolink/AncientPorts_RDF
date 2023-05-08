@@ -9,6 +9,7 @@
         <http://data.archaeology.link/data/ancientports/author_Watts_Ryan> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Mesolithic woodworking, experimental archaeology & underwater heritage in Hampshire and the Isle of Wight (UK)"@en ;
+    ns1:issuer "Mesolithic Miscellany" ;
     ns1:number 1 ;
     ns1:pageEnd 12 ;
     ns1:pageStart 3 ;

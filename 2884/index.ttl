@@ -17,8 +17,7 @@
     ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2884_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q619312> ;
-    skos:note "Sahin (2018)",
-        "https://topostext.org/place/401285WRhy" ;
+    skos:note "Sahin (2018)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/511151> ;
     ns2:P17 "TR: Marmara S"^^xsd:string ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/21215> ;

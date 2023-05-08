@@ -14,8 +14,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1130_geom> ;
-    skos:note "Malfatano (2016)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Malfatano (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462276> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
     ns1:P1936 <http://dare.ht.lu.se/places/16570> ;

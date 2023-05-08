@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3088_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1757296> ;
     skos:note "Gale (2012)",
-        "Sabatini (2016)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+        "Sabatini (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/707624> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22717> ;

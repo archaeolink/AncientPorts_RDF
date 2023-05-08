@@ -17,8 +17,6 @@
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/927_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2366205> ;
-    skos:note "Keay (2012)",
-        "https://en.wikipedia.org/wiki/Horrea_Galbae",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Keay (2012)" ;
     ns1:P17 "Italy West"^^xsd:string .
 

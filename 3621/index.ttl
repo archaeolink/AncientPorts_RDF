@@ -13,7 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.asor.org/anetoday/2018/02/Echoes-Nabataean-Seafaring"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3621_geom> ;
-    skos:note "Pedersen (2018)",
-        "https://www.asor.org/anetoday/2018/02/Echoes-Nabataean-Seafaring" ;
+    skos:note "Pedersen (2018)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q986> .
 

@@ -14,8 +14,6 @@
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7268"^^xsd:anyURI,
         "https://nauticalarch.org/bay-of-kastela-excavation-site-report/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1453_geom> ;
-    skos:note "Radic Rossi (2008)",
-        "http://baza.iarh.hr/public/locality/detail/7268",
-        "https://nauticalarch.org/bay-of-kastela-excavation-site-report/" ;
+    skos:note "Radic Rossi (2008)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

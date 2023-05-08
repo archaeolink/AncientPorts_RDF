@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "http://www.jstor.org/stable/41736072?seq=1#page_scan_tab_contents"^^xsd:anyURI ;
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2163_geom> ;
-    skos:note "Bon (1932)",
-        "http://www.jstor.org/stable/41736072?seq=1#page_scan_tab_contents" ;
+    skos:note "Bon (1932)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/501346> ;
     ns1:P17 "GR: Eastern Isl."^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/32296> ;

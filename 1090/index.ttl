@@ -17,8 +17,7 @@
     ns2:date_min "-720"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1090_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q220583> ;
-    skos:note "Vella (2021)",
-        "https://topostext.org/place/397164PTho" ;
+    skos:note "Vella (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/452457> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16740> ;

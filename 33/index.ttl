@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/33_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     skos:note "Lendering",
-        "Zeeuws Museum (2018)",
-        "https://vici.org/vici/66330/" ;
+        "Zeeuws Museum (2018)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/109000> ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/17809> ;

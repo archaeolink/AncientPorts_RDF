@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://www.viajerosencortomalaga.com/094003001.html"^^xsd:anyURI ;
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/367_2_geom> ;
-    skos:note "Martin (2007)",
-        "http://www.viajerosencortomalaga.com/094003001.html" ;
+    skos:note "Martin (2007)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> .
 

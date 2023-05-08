@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/723_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q507251> ;
-    skos:note "Mattei (2001)",
-        "https://en.wikipedia.org/wiki/Al%C3%A9ria#Pre-Roman" ;
+    skos:note "Mattei (2001)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/472096> ;
     ns1:P17 "France Corsica"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16892> ;

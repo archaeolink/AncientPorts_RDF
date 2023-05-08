@@ -13,7 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://timesofoman.com/article/105868-unique-biodiversity-of-khor-kharfout-archaeological-reserve"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3756_1_geom> ;
-    skos:note "Aston (2016)",
-        "https://timesofoman.com/article/105868-unique-biodiversity-of-khor-kharfout-archaeological-reserve" ;
+    skos:note "Aston (2016)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q842> .
 

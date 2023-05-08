@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/19> a <http://www.ancientports.com/ont#Harbour> ;
@@ -15,7 +14,6 @@
     dcterms:isReferencedBy "https://vici.org/vici/65/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/19_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
-    skos:note "https://vici.org/vici/65/" ;
     ns1:P1584 <http://pleiades.stoa.org/places/99007> ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> .
 

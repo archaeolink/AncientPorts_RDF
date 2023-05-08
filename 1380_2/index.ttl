@@ -16,7 +16,6 @@
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/4362"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1380_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1024726> ;
-    skos:note "Carre (2011)",
-        "http://baza.iarh.hr/public/locality/detail/4362" ;
+    skos:note "Carre (2011)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

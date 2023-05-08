@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5699> ;
     skos:note "Michalowski (2011)",
-        "Woolley (1974)",
-        "https://en.wikipedia.org/wiki/Ishbi-Erra" ;
+        "Woolley (1974)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/912985> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22335> ;

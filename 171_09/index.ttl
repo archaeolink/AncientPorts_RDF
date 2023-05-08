@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/171_09> a ns2:Harbour ;
@@ -15,6 +14,5 @@
     dcterms:isReferencedBy "http://hillforts.arch.ox.ac.uk/records/IR3059.html"^^xsd:anyURI ;
     ns2:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/171_09_geom> ;
-    skos:note "http://hillforts.arch.ox.ac.uk/records/IR3059.html" ;
     ns1:P17 <http://www.wikidata.org/entity/Q27> .
 

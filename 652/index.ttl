@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/652_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3079706> ;
     skos:note "Badan (2013)",
-        "Marty (2019)",
-        "http://www.ancientportsantiques.com/a-few-ports/marius-canal-fossae-marianae/" ;
+        "Marty (2019)" ;
     ns2:P1584 <http://pleiades.stoa.org/places/148084> ;
     ns2:P17 "France South"^^xsd:string ;
     ns2:P1936 <http://imperium.ahlfeldt.se/places/6586> ;

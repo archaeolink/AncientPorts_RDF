@@ -17,7 +17,6 @@
     ns1:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/109_7_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7761833> ;
-    skos:note "Weatherhill (2009)",
-        "https://historicengland.org.uk/listing/the-list/list-entry/1004625" ;
+    skos:note "Weatherhill (2009)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

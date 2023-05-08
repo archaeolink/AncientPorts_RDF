@@ -17,8 +17,7 @@
     ns2:date_min "-550"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3401_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3869131> ;
-    skos:note "Oruc (2013)",
-        "https://en.wikipedia.org/wiki/Belen_Pass" ;
+    skos:note "Oruc (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/658541> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23588> ;

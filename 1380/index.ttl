@@ -17,7 +17,6 @@
     ns1:date_min "-100"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1380_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q849748> ;
-    skos:note "Bezeczky (2015)",
-        "http://baza.iarh.hr/public/locality/detail/5104" ;
+    skos:note "Bezeczky (2015)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q224> .
 

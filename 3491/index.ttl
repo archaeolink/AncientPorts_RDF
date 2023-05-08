@@ -13,7 +13,8 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3491_geom> ;
-    skos:note "Raban (2009, p 21)" ;
+    skos:note "Raban (2009",
+        "Raban (2009, p 21)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678401> ;
     ns1:P17 <http://www.wikidata.org/entity/Q801> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21149> ;

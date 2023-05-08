@@ -17,7 +17,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1366_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2921715> ;
     skos:note "Carre (2011)",
-        "Degrassi (1955)",
-        "http://baza.iarh.hr/public/locality/detail/3821" ;
+        "Degrassi (1955)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

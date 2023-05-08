@@ -17,8 +17,7 @@
     ns2:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3642_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q138986> ;
-    skos:note "Giumlia-Mair (2002)",
-        "http://pleiades.stoa.org/places/39277" ;
+    skos:note "Giumlia-Mair (2002)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/39439> ;
     ns1:P17 "Yemen: Red Sea"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27292> .

@@ -17,7 +17,6 @@
     ns2:date_min "-2000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3773_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q764279> ;
-    skos:note "Abboud Jasim (2000)",
-        "http://sharjaharchaeology.com/khor-fakkan/" ;
+    skos:note "Abboud Jasim (2000)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q842> .
 

@@ -6,7 +6,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/2449_2> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Krajmorie, Kraymorie, south of Cape Foros\r
+    rdfs:label """Krajmorie, Kraymorie, south of Cape Foros\r\r
 """@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

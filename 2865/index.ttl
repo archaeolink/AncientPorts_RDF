@@ -17,8 +17,7 @@
     ns2:date_min "-264"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2865_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q209349> ;
-    skos:note "Texier (1839)",
-        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aentry%3Dnicomedia" ;
+    skos:note "Texier (1839)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/511337> ;
     ns1:P17 "TR: Marmara S"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21204> ;

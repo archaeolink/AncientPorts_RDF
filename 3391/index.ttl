@@ -17,8 +17,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3391_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1057961> ;
-    skos:note "Arnaud (2016)",
-        "https://en.wikipedia.org/wiki/Mallus_(Cilicia)" ;
+    skos:note "Arnaud (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648702> ;
     ns1:P17 "TR: South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21249> ;

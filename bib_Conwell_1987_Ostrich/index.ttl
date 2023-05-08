@@ -7,6 +7,7 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Conwell_David> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "On ostrich eggs and Libyans"@en ;
+    ns1:issuer "Expedition" ;
     ns1:number 3 ;
     ns1:publisher "University Museum of the University of Pennsylvania" ;
     ns1:volume "29"^^xsd:string .

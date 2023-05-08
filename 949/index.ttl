@@ -17,8 +17,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/949_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2304697> ;
-    skos:note "Felici (2006)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Felici (2006)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/432703> ;
     ns1:P17 "Italy West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22569> ;

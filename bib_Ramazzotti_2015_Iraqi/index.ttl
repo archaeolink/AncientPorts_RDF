@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Ramazzotti_2015_Iraqi> a ns1:Article ;
+    dc:created "2015"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Ramazzotti_Marco> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu (AMEr)"@en ;
+    ns1:issuer "The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu (AMEr)" ;
+    ns1:pageEnd 29 ;
+    ns1:pageStart 3 ;
+    ns1:publisher "Edizioni Quasar" .
+

@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://www.sundaytimes.lk/020414/plus/2.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3865_5_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5576200> ;
-    skos:note "Gunawardana (2015)",
-        "http://www.sundaytimes.lk/020414/plus/2.html" ;
+    skos:note "Gunawardana (2015)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q854> .
 

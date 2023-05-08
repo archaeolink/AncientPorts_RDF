@@ -20,8 +20,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/383_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6128054> ;
     skos:note "Cerezo (2017)",
-        "Goffaux (2018)",
-        "http://www.laopiniondemurcia.es/cartagena/2016/10/04/obras-casa-llagostera-sacan-luz/772068.html" ;
+        "Goffaux (2018)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/265849> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16826> ;

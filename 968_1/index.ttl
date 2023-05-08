@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://books.openedition.org/cdf/4278"^^xsd:anyURI ;
     ns2:date_min "-700"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/968_1_geom> ;
-    skos:note "Ruegg (1995)",
-        "https://books.openedition.org/cdf/4278" ;
+    skos:note "Ruegg (1995)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/432925> ;
     ns1:P17 "Italy West"^^xsd:string .
 

@@ -17,7 +17,6 @@
     ns1:date_min "-2300"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2127_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1447360> ;
-    skos:note "Sheppard Baird (2011)",
-        "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html" ;
+    skos:note "Sheppard Baird (2011)" ;
     ns2:P17 "GR: Cyclades Isl."^^xsd:string .
 

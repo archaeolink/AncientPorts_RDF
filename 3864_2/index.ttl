@@ -17,9 +17,7 @@
         "https://www.deccanherald.com/sunday-herald/sunday-herald-melange/in-the-steps-of-a-saint-955557.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3864_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q13652432> ;
-    skos:note "Dalayan (2018)",
-        "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_Niranam",
-        "https://www.deccanherald.com/sunday-herald/sunday-herald-melange/in-the-steps-of-a-saint-955557.html" ;
+    skos:note "Dalayan (2018)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/50165> ;
     ns1:P17 <http://www.wikidata.org/entity/Q668> .
 

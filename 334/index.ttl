@@ -14,8 +14,7 @@
     dcterms:isReferencedBy "https://es.wikipedia.org/wiki/Puerto_Real#Prehistoria_y_Edad_Antigua"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/334_geom> ;
     skos:note "Bernal (2012)",
-        "DeFer (1705)",
-        "https://es.wikipedia.org/wiki/Puerto_Real#Prehistoria_y_Edad_Antigua" ;
+        "DeFer (1705)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/43130> .
 

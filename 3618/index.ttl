@@ -13,6 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3618_geom> ;
     skos:note "Carannante (2015)",
         "Peacock & Blue (2007)",
+        "Pereira (1899",
         "Pereira (1899, p 65)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q986> .
 

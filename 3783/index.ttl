@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3783_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3546517> ;
-    skos:note "Bukharin (2012)",
-        "https://en.wikipedia.org/wiki/Gerrha" ;
+    skos:note "Bukharin (2012)" ;
     ns1:P17 "Gulf"^^xsd:string .
 

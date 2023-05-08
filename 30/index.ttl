@@ -17,8 +17,7 @@
     ns2:date_min "-800"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/30_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
-    skos:note "Eijskoot (2011)",
-        "https://vici.org/vici/2534/" ;
+    skos:note "Eijskoot (2011)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/19964> .
 

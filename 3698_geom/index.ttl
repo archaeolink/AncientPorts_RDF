@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3698_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …\r
+    rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …\r\r
 Another option would be at Ras Mohammed Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(34.56818 27.94629)"^^geo:wktLiteral .

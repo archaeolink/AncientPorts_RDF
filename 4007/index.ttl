@@ -20,8 +20,7 @@
     ns2:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4007_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q510927> ;
-    skos:note "Yorke (1972)",
-        "http://www.haaretz.com/archaeology/1.794244?v=F66BE17E5BE74BFF4BDC19A07365C3FF" ;
+    skos:note "Yorke (1972)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/373879> ;
     ns1:P17 <http://www.wikidata.org/entity/Q1016> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21857> ;

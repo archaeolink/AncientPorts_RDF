@@ -16,8 +16,7 @@
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1630_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1611219> ;
-    skos:note "Loven (2011)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Loven (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/116035285> ;
     ns1:P17 "GR: Attica +"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/37775> ;

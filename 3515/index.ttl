@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3515> a <http://www.ancientports.com/ont#Harbour> ;
@@ -16,8 +15,6 @@
         "https://www.wmf.org/project/tell-umm-el-amr-saint-hilarion-monastery"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3515_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7697530> ;
-    skos:note "https://mapcarta.com/W1006910713",
-        "https://www.wmf.org/project/tell-umm-el-amr-saint-hilarion-monastery" ;
     ns1:P17 "Gaza"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/43127> .
 

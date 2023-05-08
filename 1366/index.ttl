@@ -1,23 +1,22 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1366> a ns2:VillaMaritima ;
+<http://data.archaeology.link/data/ancientports/1366> a ns1:VillaMaritima ;
     rdfs:label "Sipar"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/4761"^^xsd:anyURI ;
-    ns2:date_min "-30"^^xsd:gYear ;
+    ns1:date_min "-30"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1366_geom> ;
-    skos:note "Macheboeuf (2013)",
-        "http://baza.iarh.hr/public/locality/detail/4761" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/197515> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q224> ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/26369> .
+    skos:note "Macheboeuf (2013)" ;
+    ns2:P1584 <http://pleiades.stoa.org/places/197515> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q224> ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/26369> .
 

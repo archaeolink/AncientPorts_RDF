@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1881_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1571046> ;
-    skos:note "Jameson (1969)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Jameson (1969)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570274> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21924> ;

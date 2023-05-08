@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://www.timesofisrael.com/scientists-find-9000-year-old-seawall-built-to-stave-off-rising-sea-levels/"^^xsd:anyURI ;
     ns1:date_min "-5500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3481_1_geom> ;
-    skos:note "Galili (2019)",
-        "https://www.timesofisrael.com/scientists-find-9000-year-old-seawall-built-to-stave-off-rising-sea-levels/" ;
+    skos:note "Galili (2019)" ;
     ns2:P17 <http://www.wikidata.org/entity/Q801> .
 

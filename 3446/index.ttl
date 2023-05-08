@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Amarna_letters"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3446_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7782342> ;
-    skos:note "Pfaelzner (2012)",
-        "https://en.wikipedia.org/wiki/Amarna_letters" ;
+    skos:note "Pfaelzner (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668392> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/33241> .

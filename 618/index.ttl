@@ -14,6 +14,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/618_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q626282> ;
     skos:note "Rouquette (2011)",
+        "Sanchez (2014",
         "Sanchez (2014, p 53-54)" ;
     ns1:P17 "France South"^^xsd:string ;
     ns1:P1958 <https://www.trismegistos.org/place/14384> .

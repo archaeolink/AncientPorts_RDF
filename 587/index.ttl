@@ -18,8 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/587_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q326453> ;
     skos:note "Arthuis (2010)",
-        "Mouchard (2020)",
-        "https://www.inrap.fr/reze-de-remarquables-vestiges-de-quais-antiques-loire-atlantique-15980#" ;
+        "Mouchard (2020)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/138533> ;
     ns1:P17 "France West"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/11957> ;

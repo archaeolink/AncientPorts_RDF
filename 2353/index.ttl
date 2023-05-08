@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html"^^xsd:anyURI ;
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2353_geom> ;
-    skos:note "Platon (2003)",
-        "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html" ;
+    skos:note "Platon (2003)" ;
     ns1:P17 "GR: Eastern Isl."^^xsd:string ;
     ns1:P8068 <https://topostext.org/place/356271BLef> .
 

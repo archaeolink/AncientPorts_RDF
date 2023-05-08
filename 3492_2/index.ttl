@@ -18,6 +18,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3492_2_geom> ;
     skos:note "Flemming (1980)",
         "Hohlfelder (2007)",
+        "Raban (200",
         "Raban (200, p 69)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/678401> ;
     ns1:P17 <http://www.wikidata.org/entity/Q801> ;

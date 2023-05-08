@@ -16,8 +16,6 @@
         "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1430_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q579274> ;
-    skos:note "Fouache (2001)",
-        "http://baza.iarh.hr/public/locality/detail/8002",
-        "http://splashcos-viewer.eu/" ;
+    skos:note "Fouache (2001)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

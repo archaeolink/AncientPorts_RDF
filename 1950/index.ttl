@@ -19,8 +19,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1950_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q56650616> ;
     skos:note "Hadler (2015)",
-        "Kraft (2005)",
-        "http://www.finninstitute.gr/en/kyllene-harbour-project/" ;
+        "Kraft (2005)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570390> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23300> ;

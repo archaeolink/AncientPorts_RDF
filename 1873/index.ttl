@@ -17,8 +17,7 @@
     ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1873_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1443132> ;
-    skos:note "Kolaiti (2016)",
-        "http://www.kalaureia.org/" ;
+    skos:note "Kolaiti (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/570325> ;
     ns1:P17 "GR: Pelop"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41227> ;

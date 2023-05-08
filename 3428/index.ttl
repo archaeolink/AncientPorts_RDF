@@ -18,9 +18,7 @@
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3428_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q377802> ;
-    skos:note "Pfaelzner (2012)",
-        "https://en.wikipedia.org/wiki/Amarna_letters",
-        "https://www.ancient-origins.net/news-history-archaeology/roman-sea-fortress-0014860" ;
+    skos:note "Pfaelzner (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/668197> ;
     ns1:P17 <http://www.wikidata.org/entity/Q858> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21568> ;

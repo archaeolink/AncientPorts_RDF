@@ -17,7 +17,6 @@
     ns1:date_min "1001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/548_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1021239> ;
-    skos:note "Inrap (2016)",
-        "https://www.youtube.com/watch?v=p12Un9OwpN8" ;
+    skos:note "Inrap (2016)" ;
     ns2:P17 "France West"^^xsd:string .
 

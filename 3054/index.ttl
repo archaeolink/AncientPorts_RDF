@@ -16,7 +16,6 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3054_geom> ;
     skos:note "Andreou (2014)",
-        "Sabatini (2016)",
-        "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum/maroni/archaeological_sites/maroni-vournes.aspx" ;
+        "Sabatini (2016)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

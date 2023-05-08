@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://www.universiteitleiden.nl/en/research/research-projects/archaeology/the-ras-al-jinz-project#tab-1"^^xsd:anyURI ;
     ns2:date_min "-3000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3763_geom> ;
-    skos:note "Monchablon (2003)",
-        "https://www.universiteitleiden.nl/en/research/research-projects/archaeology/the-ras-al-jinz-project#tab-1" ;
+    skos:note "Monchablon (2003)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q842> .
 

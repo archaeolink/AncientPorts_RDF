@@ -17,8 +17,7 @@
     ns2:date_min "-2000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3004_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q249707> ;
-    skos:note "Cline (2011)",
-        "https://topostext.org/place/353248WLet" ;
+    skos:note "Cline (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/589987> ;
     ns1:P17 "GR: Crete South"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28831> ;

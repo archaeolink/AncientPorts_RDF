@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/1650"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1490_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1018611> ;
-    skos:note "Begovic (2004)",
-        "http://baza.iarh.hr/public/locality/detail/1650" ;
+    skos:note "Begovic (2004)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 

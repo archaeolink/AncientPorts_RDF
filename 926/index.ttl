@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/926_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3908034> ;
-    skos:note "Martin (2016)",
-        "https://www2.rgzm.de/navis2/home/frames.htm" ;
+    skos:note "Martin (2016)" ;
     ns1:P17 "Italy West"^^xsd:string .
 

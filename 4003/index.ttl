@@ -15,8 +15,7 @@
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/el-hanieh-ancient-anchorage/"^^xsd:anyURI ;
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4003_geom> ;
-    skos:note "Yorke (1972)",
-        "http://www.ancientportsantiques.com/a-few-ports/el-hanieh-ancient-anchorage/" ;
+    skos:note "Yorke (1972)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/373733> ;
     ns1:P17 <http://www.wikidata.org/entity/Q1016> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27216> .

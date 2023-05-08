@@ -17,8 +17,7 @@
     ns2:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3801_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q619594> ;
-    skos:note "Salles (TOPOI 2012)",
-        "https://pleiades.stoa.org/places/930201" ;
+    skos:note "Salles (TOPOI 2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/912807> ;
     ns1:P17 "Gulf"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27141> .

@@ -1,26 +1,26 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1207> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/1207> a ns1:Harbour ;
     rdfs:label "Caletta dei Zimmeri & Punta Milazzese, south of the isle of Panarea"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.aeolianislandsvacations.com/history-and-archaeology"^^xsd:anyURI ;
-    ns2:date_min "-1500"^^xsd:gYear ;
+    ns1:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1207_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q654105> ;
-    skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)",
-        "http://www.aeolianislandsvacations.com/history-and-archaeology" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/452324> ;
-    ns1:P17 "Italy Sicily"^^xsd:string ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/26647> ;
-    ns1:P1958 <https://www.trismegistos.org/place/38479> .
+    skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29",
+        "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)" ;
+    ns2:P1584 <http://pleiades.stoa.org/places/452324> ;
+    ns2:P17 "Italy Sicily"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/26647> ;
+    ns2:P1958 <https://www.trismegistos.org/place/38479> .
 

@@ -17,9 +17,9 @@
     ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1205_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q496389> ;
-    skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)",
-        "La Rocca (2021)",
-        "http://www.aeolianislandsvacations.com/history-and-archaeology" ;
+    skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29",
+        "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)",
+        "La Rocca (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462283> ;
     ns1:P17 "Italy Sicily"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16885> ;

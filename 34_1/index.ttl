@@ -16,9 +16,7 @@
         "https://vici.org/vici/109"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/34_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2046707> ;
-    skos:note "Zeeuws Museum (2018)",
-        "https://pcvdklis.home.xs4all.nl/zonnehove/domburg/domburg.htm",
-        "https://vici.org/vici/109" ;
+    skos:note "Zeeuws Museum (2018)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/108929> ;
     ns1:P17 <http://www.wikidata.org/entity/Q55> ;
     ns1:P1958 <https://www.trismegistos.org/place/24872> .

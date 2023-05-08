@@ -16,7 +16,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3606_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q571215> ;
     skos:note "Berg (1993)",
-        "Hinkel (1992)",
-        "https://marea.soton.ac.uk/2019/11/28/suakin-case-study/" ;
+        "Hinkel (1992)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q1049> .
 

@@ -17,8 +17,7 @@
     ns2:date_min "5001"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1354_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q546> ;
-    skos:note "Terre di Mare (2007)",
-        "http://www.trieste-di-ieri-e-di-oggi.it/trieste-romana/" ;
+    skos:note "Terre di Mare (2007)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/187578> ;
     ns1:P17 "Italy Adriatic"^^xsd:string ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/10735> ;

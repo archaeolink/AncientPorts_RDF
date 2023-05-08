@@ -15,7 +15,6 @@
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/5461"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1418_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7375594> ;
-    skos:note "Ilkic (2012)",
-        "http://baza.iarh.hr/public/locality/detail/5461" ;
+    skos:note "Ilkic (2012)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .
 
