@@ -9,7 +9,7 @@
         <http://data.archaeology.link/data/ancientports/author_Virlouvet_Catherine> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "{Entrepôts et circuits de distribution en Méditerranee antique}"@en ;
-    ns1:doi "10.4000/books.efa.3420"^^xsd:anyURI ;
+    ns1:doi "10.4000/books.efa.3420"^^xsd:string ;
     ns1:number 58 ;
     ns1:publisher "{École francaise d'Athènes}" ;
     ns1:volume "supplément 58"^^xsd:string .

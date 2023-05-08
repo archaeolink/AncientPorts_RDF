@@ -6,7 +6,7 @@
     dc:created "2017"^^xsd:gYear ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Geoarchaeology of Portus Mareoticus: Ancient Alexandria's lake harbour (Nile Delta, Egypt)"@en ;
-    ns1:doi "https://doi.org/10.1016/j.jasrep.2017.05.012"^^xsd:anyURI ;
+    ns1:doi "https://doi.org/10.1016/j.jasrep.2017.05.012"^^xsd:string ;
     ns1:issn "2352-409X"^^xsd:string ;
     ns1:issuer "Journal of Archaeological Science: Reports" ;
     ns1:pageEnd 681 ;

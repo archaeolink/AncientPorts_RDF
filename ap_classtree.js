@@ -33772,13 +33772,19 @@ var tree={
         "id": "http://www.ancientports.com/ont#Harbour",
         "parent": "http://www.opengis.net/ont/geosparql#Feature",
         "type": "halfgeoclass",
-        "text": "Harbour (ns6:Harbour) [4818]",
+        "text": "Harbour (ns1:Harbour) [4818]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 1
+            },
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -33794,6 +33800,9 @@ var tree={
             "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 1
+            },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
             },
@@ -33801,9 +33810,6 @@ var tree={
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P8068": {
@@ -33817,7 +33823,7 @@ var tree={
             }
           }
         },
-        "instancecount": 11
+        "instancecount": 13
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#Feature",
@@ -36112,7 +36118,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Quay",
         "parent": "#",
         "type": "geoclass",
-        "text": "Quay (ns6:Quay) [326]",
+        "text": "Quay (ns1:Quay) [326]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -36120,9 +36126,6 @@ var tree={
             },
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
-            },
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 2
             },
             "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
@@ -36141,7 +36144,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -36150,12 +36153,6 @@ var tree={
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1936": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P1958": {
-              "instancecount": 1
-            },
-            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -36166,7 +36163,7 @@ var tree={
             }
           }
         },
-        "instancecount": 15
+        "instancecount": 12
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1000",
@@ -39280,7 +39277,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#VillaMaritima",
         "parent": "#",
         "type": "geoclass",
-        "text": "VillaMaritima (ns6:VillaMaritima) [444]",
+        "text": "VillaMaritima (ns1:VillaMaritima) [444]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -39289,14 +39286,20 @@ var tree={
             "http://purl.org/dc/elements/1.1/creator": {
               "instancecount": 1
             },
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
@@ -39309,11 +39312,11 @@ var tree={
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 10
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv2_",
@@ -39760,7 +39763,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Lighthouse",
         "parent": "#",
         "type": "geoclass",
-        "text": "Lighthouse (ns6:Lighthouse) [63]",
+        "text": "Lighthouse (ns1:Lighthouse) [63]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -39783,9 +39786,6 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2002/07/owl#sameAs": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1584": {
@@ -39811,7 +39811,7 @@ var tree={
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 12
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1009_suniv3_",
@@ -40111,7 +40111,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Pila",
         "parent": "#",
         "type": "geoclass",
-        "text": "Pila (ns6:Pila) [42]",
+        "text": "Pila (ns1:Pila) [42]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -40128,7 +40128,7 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
@@ -40137,7 +40137,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 1
+              "instancecount": 3
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -40147,16 +40147,22 @@ var tree={
             },
             "http://www.wikidata.org/prop/direct/P1936": {
               "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
+              "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 16
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1047",
@@ -40512,7 +40518,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Shipyard",
         "parent": "#",
         "type": "geoclass",
-        "text": "Shipyard (ns6:Shipyard) [50]",
+        "text": "Shipyard (ns1:Shipyard) [50]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -40541,7 +40547,7 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 2
+              "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P1584": {
               "instancecount": 1
@@ -40566,7 +40572,7 @@ var tree={
             }
           }
         },
-        "instancecount": 15
+        "instancecount": 14
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1090",
@@ -41195,7 +41201,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Slipway",
         "parent": "#",
         "type": "geoclass",
-        "text": "Slipway (ns6:Slipway) [89]",
+        "text": "Slipway (ns1:Slipway) [89]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -41212,23 +41218,41 @@ var tree={
               "http://www.opengis.net/ont/sf#Point": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
+              "instancecount": 2
             },
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 3
+            },
+            "http://www.wikidata.org/prop/direct/P1584": {
+              "instancecount": 1
+            },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 1
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 2
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 16
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1117_suniv1_",
@@ -41549,13 +41573,19 @@ var tree={
         "id": "http://www.ancientports.com/ont#Shipshed",
         "parent": "#",
         "type": "geoclass",
-        "text": "Shipshed (ns6:Shipshed) [45]",
+        "text": "Shipshed (ns1:Shipshed) [45]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 1
+            },
+            "http://www.ancientports.com/ont#date_min": {
               "instancecount": 1
             },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
@@ -41568,10 +41598,22 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
-            "http://www.w3.org/2004/02/skos/core#note": {
-              "instancecount": 2
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1584": {
+              "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -41582,7 +41624,7 @@ var tree={
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 14
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1132_suniv1_",
@@ -42015,7 +42057,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#Warehouse",
         "parent": "#",
         "type": "geoclass",
-        "text": "Warehouse (ns6:Warehouse) [61]",
+        "text": "Warehouse (ns1:Warehouse) [61]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -42037,6 +42079,9 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#label": {
               "instancecount": 1
             },
+            "http://www.w3.org/2002/07/owl#sameAs": {
+              "instancecount": 1
+            },
             "http://www.w3.org/2004/02/skos/core#note": {
               "instancecount": 2
             },
@@ -42044,6 +42089,15 @@ var tree={
               "instancecount": 1
             },
             "http://www.wikidata.org/prop/direct/P17": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1936": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P1958": {
+              "instancecount": 1
+            },
+            "http://www.wikidata.org/prop/direct/P8068": {
               "instancecount": 1
             }
           },
@@ -42054,7 +42108,7 @@ var tree={
             }
           }
         },
-        "instancecount": 10
+        "instancecount": 14
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/1215_suniv1_",
@@ -43285,7 +43339,7 @@ var tree={
         "id": "http://www.ancientports.com/ont#PotentialHarbour",
         "parent": "#",
         "type": "geoclass",
-        "text": "PotentialHarbour (ns6:PotentialHarbour) [175]",
+        "text": "PotentialHarbour (ns1:PotentialHarbour) [175]",
         "data": {
           "to": {
             "http://purl.org/dc/elements/1.1/created": {
@@ -43307,6 +43361,9 @@ var tree={
             "http://www.w3.org/2002/07/owl#sameAs": {
               "instancecount": 1
             },
+            "http://www.w3.org/2004/02/skos/core#note": {
+              "instancecount": 1
+            },
             "http://www.wikidata.org/prop/direct/P17": {
               "instancecount": 1
             }
@@ -43318,7 +43375,7 @@ var tree={
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 10
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Belova_2019_Russian",
@@ -43746,10 +43803,16 @@ var tree={
             "http://purl.org/ontology/bibo/issuer": {
               "instancecount": 1
             },
+            "http://purl.org/ontology/bibo/number": {
+              "instancecount": 1
+            },
             "http://purl.org/ontology/bibo/pageEnd": {
               "instancecount": 1
             },
             "http://purl.org/ontology/bibo/pageStart": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/publisher": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43757,17 +43820,13 @@ var tree={
             }
           },
           "from": {
-            "http://purl.org/dc/terms/isReferencedBy": {
-              "instancecount": 0,
-              "http://www.ancientports.com/ont#Harbour": 5
-            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 9
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes",
@@ -43850,10 +43909,13 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 10,
-              "http://xmlns.com/foaf/0.1/Person": 10
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
+              "instancecount": 1
+            },
+            "http://purl.org/ontology/bibo/isbn": {
               "instancecount": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
@@ -43861,13 +43923,17 @@ var tree={
             }
           },
           "from": {
+            "http://purl.org/dc/terms/isReferencedBy": {
+              "instancecount": 0,
+              "http://www.ancientports.com/ont#Harbour": 1
+            },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.w3.org/2004/02/skos/core#Collection": 1
             }
           }
         },
-        "instancecount": 13
+        "instancecount": 5
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Kloo\u00df_2009_The",
@@ -43901,8 +43967,8 @@ var tree={
               "instancecount": 1
             },
             "http://purl.org/dc/elements/1.1/creator": {
-              "instancecount": 3,
-              "http://xmlns.com/foaf/0.1/Person": 3
+              "instancecount": 1,
+              "http://xmlns.com/foaf/0.1/Person": 1
             },
             "http://purl.org/dc/elements/1.1/title": {
               "instancecount": 1
@@ -43928,7 +43994,7 @@ var tree={
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 6
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding",
@@ -83975,7 +84041,7 @@ var tree={
           "from": {
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 0,
-              "http://www.ancientports.com/ont#Quay": 1
+              "http://www.ancientports.com/ont#Harbour": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -85243,20 +85309,20 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 89,
-              "http://www.ancientports.com/ont#Slipway": 89,
-              "http://www.ancientports.com/ont#Quay": 24,
-              "http://www.ancientports.com/ont#Shipshed": 44,
-              "http://www.ancientports.com/ont#Lighthouse": 6,
-              "http://www.ancientports.com/ont#Shipyard": 12,
-              "http://www.ancientports.com/ont#Warehouse": 8,
-              "http://www.ancientports.com/ont#Pila": 3,
-              "http://www.ancientports.com/ont#VillaMaritima": 2
+              "instancecount": 61,
+              "http://www.ancientports.com/ont#Quay": 27,
+              "http://www.ancientports.com/ont#Warehouse": 61,
+              "http://www.ancientports.com/ont#Pila": 8,
+              "http://www.ancientports.com/ont#Lighthouse": 9,
+              "http://www.ancientports.com/ont#Slipway": 8,
+              "http://www.ancientports.com/ont#Shipshed": 5,
+              "http://www.ancientports.com/ont#VillaMaritima": 4,
+              "http://www.ancientports.com/ont#Shipyard": 6
             }
           },
           "from": {}
         },
-        "instancecount": 92
+        "instancecount": 64
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -85321,13 +85387,13 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 2,
-              "http://purl.org/ontology/bibo/Proceedings": 2
+              "instancecount": 154,
+              "http://xmlns.com/foaf/0.1/Person": 154
             }
           },
           "from": {}
         },
-        "instancecount": 4
+        "instancecount": 156
       },
       {
         "id": "http://data.archaeology.link/data/ancientports/Point_collection",

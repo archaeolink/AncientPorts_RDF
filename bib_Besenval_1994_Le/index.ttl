@@ -7,7 +7,7 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Besenval_Rol> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Le peuplement de l'ancienne Gédrosie, de la protohistoire à la période islamique : travaux archéologiques récents dans le Makran pakistanais"@en ;
-    ns1:doi "10.3406/crai.1994.15379"^^xsd:anyURI ;
+    ns1:doi "10.3406/crai.1994.15379"^^xsd:string ;
     ns1:issuer "Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres" ;
     ns1:number 2 ;
     ns1:pageEnd 535 ;

@@ -7,7 +7,7 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Green_Jeremy> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Between the Seas: transfer and exchange in nautical technology – Edited by Ronald Bockius"@en ;
-    ns1:doi "10.1111/j.1095-9270.2010.00300_8.x"^^xsd:anyURI ;
+    ns1:doi "10.1111/j.1095-9270.2010.00300_8.x"^^xsd:string ;
     ns1:issuer "International Journal of Nautical Archaeology" ;
     ns1:number 1 ;
     ns1:pageEnd 214 ;
