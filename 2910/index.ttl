@@ -1,22 +1,22 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2910> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/2910> a ns1:Harbour ;
     rdfs:label "Güzelyali"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-750"^^xsd:gYear ;
+    ns1:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2910_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q950952> ;
-    ns1:P1584 <http://pleiades.stoa.org/places/501393> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/23580> ;
-    ns1:P1958 <https://www.trismegistos.org/place/40850> ;
-    ns1:P8068 <https://topostext.org/place/401264UDar> .
+    ns2:P1584 <http://pleiades.stoa.org/places/501393> ;
+    ns2:P17 "TR: Marmara S"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/23580> ;
+    ns2:P1958 <https://www.trismegistos.org/place/40850> ;
+    ns2:P8068 <https://topostext.org/place/401264UDar> .
 
