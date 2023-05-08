@@ -1,22 +1,22 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/26_1> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/26_1> a ns1:Harbour ;
     rdfs:label "Hardinxfeld-Giessendam, on R Beneden Merwede, one of the Rhine delta branches"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
-    ns2:date_min "-5500"^^xsd:gYear ;
+    ns1:date_min "-5500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/26_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q953012> ;
     skos:note "https://www2.rgzm.de/navis2/home/frames.htm" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q55> .
+    ns2:P17 <http://www.wikidata.org/entity/Q55> .
 

@@ -1,14 +1,14 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/2> a ns1:Harbour ;
     rdfs:label "Tanum, Bronze Age rock carvings showing many ships"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
@@ -16,11 +16,11 @@
     dcterms:isReferencedBy "http://whc.unesco.org/en/list/557"^^xsd:anyURI,
         "http://www.shfa.se/?lang=en-GB"^^xsd:anyURI,
         "https://en.wikipedia.org/wiki/Nordic_Bronze_Age"^^xsd:anyURI ;
-    ns2:date_min "-1000?"^^xsd:gYear ;
+    ns1:date_min "-1000?"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1761052> ;
     skos:note "http://whc.unesco.org/en/list/557",
         "http://www.shfa.se/?lang=en-GB",
         "https://en.wikipedia.org/wiki/Nordic_Bronze_Age" ;
-    ns1:P17 <http://www.wikidata.org/entity/Q34> .
+    ns2:P17 <http://www.wikidata.org/entity/Q34> .
 

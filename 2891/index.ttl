@@ -1,28 +1,28 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2891> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/2891> a ns1:Harbour ;
     rdfs:label "Rustafjaell's 'Inner Harbour', on the isthmus of the peninsula of Erdek"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/405279IArc"^^xsd:anyURI ;
-    ns2:date_min "-679"^^xsd:gYear ;
+    ns1:date_min "-679"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2891_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q615449> ;
     skos:note "Blackman (2014)",
         "Mauro (2022)",
         "https://topostext.org/place/405279IArc" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/511218> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/21425> ;
-    ns1:P1958 <https://www.trismegistos.org/place/1208> ;
-    ns1:P8068 <https://topostext.org/place/404279UCyz> .
+    ns2:P1584 <http://pleiades.stoa.org/places/511218> ;
+    ns2:P17 "TR: Marmara S"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21425> ;
+    ns2:P1958 <https://www.trismegistos.org/place/1208> ;
+    ns2:P8068 <https://topostext.org/place/404279UCyz> .
 

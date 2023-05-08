@@ -1,21 +1,21 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/509_1> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/509_1> a ns1:Harbour ;
     rdfs:label "La piece a Liards, on R Canche, Blanc-Pavé, Bergeries, Garennes & Bel-Air are just south of it"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-1000"^^xsd:gYear ;
+    ns1:date_min "-1000"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/509_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1032916> ;
     skos:note "Meurisse-Fort (2009)",
         "Philippe (2009)" ;
-    ns1:P17 "France West"^^xsd:string .
+    ns2:P17 "France West"^^xsd:string .
 

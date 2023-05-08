@@ -1,27 +1,27 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3962> a ns1:Harbour ;
+<http://data.archaeology.link/data/ancientports/3962> a ns2:Harbour ;
     rdfs:label "Marsa Matrouh, Matruh, Bates' island, Geziret el-Yehudiyeh, west of Ras Allem Rum, Alam el-Rum"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Conwell_1987_Ostrich>,
         "https://honorfrostfoundation.org/2021/08/05/nw-egyptian-marmarica-coast-survey-ongoing/"^^xsd:anyURI ;
-    ns1:date_min "-750"^^xsd:gYear ;
+    ns2:date_min "-750"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3962_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q393829> ;
     skos:note "https://honorfrostfoundation.org/2021/08/05/nw-egyptian-marmarica-coast-survey-ongoing/" ;
-    ns2:P1584 <http://pleiades.stoa.org/places/716535> ;
-    ns2:P17 "Egypt: Med Sea"^^xsd:string ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/21711> ;
-    ns2:P1958 <https://www.trismegistos.org/place/3668> ;
-    ns2:P8068 <https://topostext.org/place/314272UPar> .
+    ns1:P1584 <http://pleiades.stoa.org/places/716535> ;
+    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/21711> ;
+    ns1:P1958 <https://www.trismegistos.org/place/3668> ;
+    ns1:P8068 <https://topostext.org/place/314272UPar> .
 

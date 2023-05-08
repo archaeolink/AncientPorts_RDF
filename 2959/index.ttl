@@ -1,24 +1,24 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2959> a ns1:Slipway,
-        ns1:VillaMaritima ;
+<http://data.archaeology.link/data/ancientports/2959> a ns2:Slipway,
+        ns2:VillaMaritima ;
     rdfs:label "Niros, Nirou Khani, Haghioi Theodoroi, 2 km east of the temple of Zeus Thenatas ; rock-cut structure visited by several famous authors. I would favour a twin slipway 2 x 5 m wide and 46 m long (see GE picture)"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/nirou-khani/"^^xsd:anyURI ;
-    ns1:date_min "-1500"^^xsd:gYear ;
+    ns2:date_min "-1500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2959_geom> ;
     skos:note "Google Earth picture (15/3/2011)",
         "Loizou (2016)",
         "http://www.ancientportsantiques.com/a-few-ports/nirou-khani/" ;
-    ns2:P17 "GR: Crete North"^^xsd:string ;
-    ns2:P8068 <https://topostext.org/place/353253XNir> .
+    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P8068 <https://topostext.org/place/353253XNir> .
 
