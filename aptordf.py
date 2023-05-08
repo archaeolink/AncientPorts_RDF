@@ -95,13 +95,12 @@ def bibtexToRDF(triples,entries,ns,nsont):
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/creator> <"+ns+"author_"+str(authoruri)+"> .\n")
         triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/created> \""+str(entry["year"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "doi" in entry:
-            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"]).replace("\_","_")+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> .\n")
+            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"]).replace("\_","_")+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
 
     return {"triples":triples,"bibmap":bibmap}
 
 def processReference(triples,bibmap,key,row,cururi):
     refs=row[key].split(";")
-    gotref=False
     for cref in refs:
         ref=cref
         if "," in cref:
@@ -112,7 +111,8 @@ def processReference(triples,bibmap,key,row,cururi):
         elif ref.startswith("http"):
             triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> \""+str(ref).strip()+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
         else:
-            refnotfound.add(row[key])
+            refnotfound.add(ref)
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+ref+"\"\"\" .\n")
             #print(row["DOC1_Papers"])
     if row[key] in bibmap:
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> <"+str(bibmap[row[key]])+"> . \n")
@@ -121,7 +121,6 @@ def processReference(triples,bibmap,key,row,cururi):
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/isReferencedBy> \""+str(row[key]).strip()+"\"^^<http://www.w3.org/2001/XMLSchema#anyURI> . \n")
     else:
         refnotfound.add(row[key])
-    if not gotref:
         triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+row[key]+"\"\"\" .\n")
     return triples
 
