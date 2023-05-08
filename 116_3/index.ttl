@@ -1,20 +1,20 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/116_3> a ns2:Harbour ;
+<http://data.archaeology.link/data/ancientports/116_3> a ns1:Harbour ;
     rdfs:label "Worlebury oppidum"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1011260"^^xsd:anyURI ;
-    ns2:date_min "-500"^^xsd:gYear ;
+    ns1:date_min "-500"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/116_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q8036819> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q145> .
+    ns2:P17 <http://www.wikidata.org/entity/Q145> .
 

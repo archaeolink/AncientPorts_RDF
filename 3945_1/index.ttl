@@ -1,28 +1,28 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.wikidata.org/prop/direct/> .
-@prefix ns2: <http://www.ancientports.com/ont#> .
+@prefix ns1: <http://www.ancientports.com/ont#> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3945_1> a ns2:Lighthouse,
-        ns2:Quay,
-        ns2:Warehouse ;
+<http://data.archaeology.link/data/ancientports/3945_1> a ns1:Lighthouse,
+        ns1:Quay,
+        ns1:Warehouse ;
     rdfs:label "Abusir, near Burg el-Arab, Roman canal-port located between east jetty near Plinthine and ancient west bridge over canal"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    ns2:date_min "-330"^^xsd:gYear ;
+    ns1:date_min "-330"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3945_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7684735> ;
     skos:note "Boussac (2010)",
         "Pichot (2021)",
         "Redon (2014)" ;
-    ns1:P1584 <http://pleiades.stoa.org/places/727241> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
-    ns1:P1936 <http://imperium.ahlfeldt.se/places/21708> ;
-    ns1:P1958 <https://www.trismegistos.org/place/2260> ;
-    ns1:P8068 <https://topostext.org/place/309295UTap> .
+    ns2:P1584 <http://pleiades.stoa.org/places/727241> ;
+    ns2:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns2:P1936 <http://imperium.ahlfeldt.se/places/21708> ;
+    ns2:P1958 <https://www.trismegistos.org/place/2260> ;
+    ns2:P8068 <https://topostext.org/place/309295UTap> .
 

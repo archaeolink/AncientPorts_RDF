@@ -1,29 +1,29 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://www.ancientports.com/ont#> .
-@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/383> a ns1:Quay,
-        ns1:Shipyard,
-        ns1:Warehouse ;
+<http://data.archaeology.link/data/ancientports/383> a ns2:Quay,
+        ns2:Shipyard,
+        ns2:Warehouse ;
     rdfs:label "Cartagena, Cerro del Molinete, possible canal in Calle Santa Florentina, possible quay at Casa Llagostera in Calle Mayor 23-25. Export of iron, silver & lead from the sierra minera de Cartagena-La Union"@en ;
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.laopiniondemurcia.es/cartagena/2016/10/04/obras-casa-llagostera-sacan-luz/772068.html"^^xsd:anyURI ;
-    ns1:date_min "-227"^^xsd:gYear ;
+    ns2:date_min "-227"^^xsd:gYear ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/383_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6128054> ;
     skos:note "Cerezo (2017)",
         "Goffaux (2018)" ;
-    ns2:P1584 <http://pleiades.stoa.org/places/265849> ;
-    ns2:P17 <http://www.wikidata.org/entity/Q29> ;
-    ns2:P1936 <http://imperium.ahlfeldt.se/places/16826> ;
-    ns2:P1958 <https://www.trismegistos.org/place/19857> ;
-    ns2:P8068 <https://topostext.org/place/376-09PCar> .
+    ns1:P1584 <http://pleiades.stoa.org/places/265849> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q29> ;
+    ns1:P1936 <http://imperium.ahlfeldt.se/places/16826> ;
+    ns1:P1958 <https://www.trismegistos.org/place/19857> ;
+    ns1:P8068 <https://topostext.org/place/376-09PCar> .
 
