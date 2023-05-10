@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Gonzalez_2006_De> a ns1:Article ;
+    dc:created "2006"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_De_Canales_F_González>,
+        <http://data.archaeology.link/data/ancientports/author_Llompart_Jorge>,
+        <http://data.archaeology.link/data/ancientports/author_Serrano_Leonardo> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "The pre-colonial Phoenician emporium of Huelva ca 900--770 BC"@en ;
+    ns1:issuer "BABesch" ;
+    ns1:pageEnd 29 ;
+    ns1:pageStart 13 ;
+    ns1:volume "81"^^xsd:string .
+

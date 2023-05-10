@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -13,10 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://arqueologiaalicante.blogspot.com.es/2010/12/portus-illicitanus-santa-pola.html"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Espinosa_2006_Nombre>,
+        "http://arqueologiaalicante.blogspot.com.es/2010/12/portus-illicitanus-santa-pola.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/394_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q257707> ;
-    skos:note "Espinosa (2006)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/394_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/265926> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;

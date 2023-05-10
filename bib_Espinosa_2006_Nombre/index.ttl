@@ -1,0 +1,12 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Espinosa_2006_Nombre> a ns1:Article ;
+    dc:created "2006"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Espinosa_Ruiz_Antonio> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Sobre el nombre de la ciudad ibérica y romana de Villajoyosa y la ubicación del topónimo Alonís/Alonai/Allon"@en ;
+    ns1:issuer "Lucentum, XXV (2006); pp. 223-248" ;
+    ns1:publisher "Universidad de Alicante. Departamento de Prehistoria, Arqueología, Historia~…" .
+

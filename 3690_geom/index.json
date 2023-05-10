@@ -1,1 +1,1 @@
-{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(35.52098 27.62170)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Sharm Yahar, al-Harr Geometry", "Sharm Yahar, Al Harr Geometry"]}
+{"http://www.opengis.net/ont/geosparql#asWKT": ["POINT(35.52098 27.62170)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Sharm Yahar, Al Harr Geometry", "Sharm Yahar, al-Harr Geometry"]}

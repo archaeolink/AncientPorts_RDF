@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Cordoba_2006_Necropolis> a ns1:Article ;
+    dc:created "2006"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Córdoba_Emilio_Martín>,
+        <http://data.archaeology.link/data/ancientports/author_Pareja_Victoria_Ruescas>,
+        <http://data.archaeology.link/data/ancientports/author_Ruiz_Àngel_Recio>,
+        <http://data.archaeology.link/data/ancientports/author_Sánchez_Juan_de_Dios_Ramírez> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Necrópolis fenicias de los siglos VIII-VII aC en la desembocadura del río Vélez (Vélez-Màlaga, Màlaga)"@en ;
+    ns1:issuer "Mainake" ;
+    ns1:number 28 ;
+    ns1:pageEnd 331 ;
+    ns1:pageStart 303 ;
+    ns1:publisher "Centro de Ediciones de la Diputación de Málaga (CEDMA)" .
+
