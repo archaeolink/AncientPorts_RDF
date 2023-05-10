@@ -184,7 +184,13 @@ def parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,basec
                 wikidatacache[str(row["WIKIPEDIA"])]=qid
                 triples.add("<"+str(cururi)+"> <http://www.w3.org/2002/07/owl#sameAs> <"+str(qid["qid"])+"> .\n <"+str(qid["qid"])+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(qid["label"])+"\"@"+str(qid["lang"])+" .\n")
         if "FOUNDATION" in row and row["FOUNDATION"].strip()!="":
-            triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_min> \"\"\""+str(row["FOUNDATION"])+"\"\"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
+            triples.add("<"+str(cururi)+"> <http://www.w3.org/2006/time#hasTime> <"+str(cururi)+"_foundation> .\n")
+            triples.add("<"+str(cururi)+"_foundation> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+" Foundation\"\"\"@en. \n")
+            triples.add("<"+str(cururi)+"_foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/time#TemporalEntity> . \n")
+            triples.add("<"+str(cururi)+"_foundation> <http://www.w3.org/2006/time#hasBeginning> <"+str(cururi)+"_foundation_beginning> . \n")
+            triples.add("<"+str(cururi)+"_foundation_beginning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/time#Instant> . \n")
+            triples.add("<"+str(cururi)+"_foundation_beginning> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+" Foundation Beginning\"\"\"@en. \n")
+            triples.add("<"+str(cururi)+"_foundation_beginning> <http://www.w3.org/2006/time#inXSDgYear>  \"\"\""+str(row["FOUNDATION"])+"\"\"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "Date_max" in row and row["Date_max"].strip()!="":
             triples.add("<"+str(cururi)+"> <"+str(nsont)+"date_max> \""+str(row["Date_max"])+"\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
         if "Place_technique" in row and row["Place_technique"].strip()!="":
