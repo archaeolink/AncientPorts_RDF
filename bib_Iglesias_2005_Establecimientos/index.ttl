@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Iglesias_2005_Establecimientos> a ns1:Article ;
+    dc:created "2005"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Iglesias_José_Manuel> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Establecimientos portuarios en el sector central del mar Cantábrico"@en ;
+    ns1:issuer "Urteaga Artigas MM, Noain Maura MJ (dir.)" ;
+    ns1:pageEnd 122 ;
+    ns1:pageStart 107 .
+

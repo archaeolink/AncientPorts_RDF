@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Martin_2016_Lusitanian> a ns1:Article ;
+    dc:created "2016"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Martin_Archer>,
+        <http://data.archaeology.link/data/ancientports/author_Vaz_Pinto_Ines>,
+        <http://data.archaeology.link/data/ancientports/author_de_Almeida_Rui_Roberto> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Lusitanian Amphorae: Production and Distribution"@en ;
+    ns1:issuer "Lusitanian Amphorae" ;
+    ns1:pageEnd 474 ;
+    ns1:pageStart 1 ;
+    ns1:publisher "Archaeopress" .
+

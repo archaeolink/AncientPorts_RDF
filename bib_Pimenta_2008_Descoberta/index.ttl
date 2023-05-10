@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Pimenta_2008_Descoberta> a ns1:Article ;
+    dc:created "2008"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Mendes_Henrique>,
+        <http://data.archaeology.link/data/ancientports/author_Pimenta_João> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Descoberta do povoado pré-romano de Porto do Sabugueiro (Muge)"@en ;
+    ns1:issuer "Revista portuguesa de Arqueologia" ;
+    ns1:number 2 ;
+    ns1:pageEnd 194 ;
+    ns1:pageStart 171 ;
+    ns1:publisher "Instituto Portugues de Arqueologia" ;
+    ns1:volume "11"^^xsd:string .
+

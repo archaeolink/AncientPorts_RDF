@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Wachsmann_2009_Palaeo> a ns1:Article ;
+    dc:created "2009"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Blot_Maria_Luisa_Pienheiro>,
+        <http://data.archaeology.link/data/ancientports/author_Castro_Filipe>,
+        <http://data.archaeology.link/data/ancientports/author_Conyers_Lawrence_B>,
+        <http://data.archaeology.link/data/ancientports/author_Davis_Dan>,
+        <http://data.archaeology.link/data/ancientports/author_Dunn_Richard_K>,
+        <http://data.archaeology.link/data/ancientports/author_Ernenwein_Eileen_G>,
+        <http://data.archaeology.link/data/ancientports/author_Hale_John_R>,
+        <http://data.archaeology.link/data/ancientports/author_Hohlfelder_Robert_L>,
+        <http://data.archaeology.link/data/ancientports/author_Sheets_Payson>,
+        <http://data.archaeology.link/data/ancientports/author_Wachsmann_Shelley> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "The Palaeo-Environmental Contexts of Three Possible Phoenician Anchorages in Portugal"@en ;
+    ns1:issuer "International Journal of Nautical Archaeology" ;
+    ns1:number 2 ;
+    ns1:pageEnd 253 ;
+    ns1:pageStart 221 ;
+    ns1:publisher "Taylor & Francis" ;
+    ns1:volume "38"^^xsd:string .
+

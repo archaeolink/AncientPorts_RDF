@@ -6,7 +6,7 @@
 <http://data.archaeology.link/data/ancientports/1_3_foundation_beginning> a time:Instant ;
     rdfs:label "Aukra, on the isle of Gossa, with hundreds of Mesolithic coastal settlements in Central Norway Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    time:inXSDgYear """-10000 
-to 
+    time:inXSDgYear """-10000 \r\r
+to \r\r
 -5000"""^^xsd:gYear .
 

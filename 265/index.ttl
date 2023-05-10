@@ -1,8 +1,8 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -11,8 +11,8 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wachsmann_2009_Palaeo> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/265_geom> ;
-    skos:note "Wachsmann (2009)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/265_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q45> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/40143> .
