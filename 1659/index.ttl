@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1659_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1768553> ;
     skos:note "Laoupi (2007)" ;
-    ns1:P17 "GR: Attica +"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

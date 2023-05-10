@@ -18,5 +18,5 @@
         "Robinson (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3934_3_foundation> ;
     ns1:P1584 <http://www.ancientportsantiques.com/a-few-ports/alexandria/> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

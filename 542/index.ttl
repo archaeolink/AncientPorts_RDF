@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/542_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q785> ;
     ns1:P1584 <http://pleiades.stoa.org/places/69465> ;
-    ns1:P17 "France West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41079> ;
     ns1:P1958 <https://www.trismegistos.org/place/19057> .
 

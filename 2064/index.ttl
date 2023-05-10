@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "http://portuslimen.eu/2015/11/02/the-port-city-of-delos-and-its-commercial-cityscape/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2064_geom> ;
     skos:note "Duchene (2001)" ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

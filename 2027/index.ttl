@@ -12,7 +12,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2027_geom> ;
     skos:note "Kourkoumelis (1998)" ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/46292> ;
     ns1:P1958 <https://www.trismegistos.org/place/3356> ;
     ns1:P8068 <https://topostext.org/place/362231SDra> .

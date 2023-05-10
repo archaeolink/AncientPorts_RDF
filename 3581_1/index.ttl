@@ -21,7 +21,7 @@ With probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts a
         "Sidebotham (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3581_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/785986> ;
-    ns1:P17 "Egypt: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23388> ;
     ns1:P1958 <https://www.trismegistos.org/place/416> ;
     ns1:P8068 <https://topostext.org/place/239355UBer> .

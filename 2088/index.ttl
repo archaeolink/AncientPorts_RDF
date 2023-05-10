@@ -15,5 +15,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2088_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q748821> ;
     skos:note "Auffray (2002)" ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

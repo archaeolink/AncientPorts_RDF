@@ -13,5 +13,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/679_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3593460> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "http://crete.decouverte.free.fr/Musee-archeo-Rethymnon.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2943_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5549851> ;
-    ns1:P17 "GR: Crete North"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

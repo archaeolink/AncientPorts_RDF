@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2846_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2921300> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2846_foundation> ;
-    ns1:P17 "TR: Bosph S"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

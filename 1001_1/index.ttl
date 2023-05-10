@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "https://pompeiiinpictures.com/pompeiiinpictures/RV/villas%20new.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1001_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1257335> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

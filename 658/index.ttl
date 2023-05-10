@@ -18,5 +18,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q237516> ;
     skos:note "Chausserie (2002)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/658_foundation> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

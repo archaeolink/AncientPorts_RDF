@@ -20,7 +20,7 @@
     skos:note "Benini (2005)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/980_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/432941> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16720> ;
     ns1:P1958 <https://www.trismegistos.org/place/3152> ;
     ns1:P8068 <https://topostext.org/place/408141HMis> .

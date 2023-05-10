@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2891_1_geom> ;
     skos:note "Blackman (2014)",
         "Mauro (2022)" ;
-    ns1:P17 "TR: Marmara S"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

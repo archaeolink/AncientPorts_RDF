@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1658087> ;
     skos:note "Snape (2014:42)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/727194> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23392> ;
     ns1:P1958 <https://www.trismegistos.org/place/1729> ;
     ns1:P8068 <https://topostext.org/place/307316UPha> .

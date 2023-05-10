@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/633_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q769568> ;
     ns1:P1584 <http://pleiades.stoa.org/places/152524> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

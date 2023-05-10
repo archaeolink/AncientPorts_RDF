@@ -14,6 +14,6 @@
     dcterms:isReferencedBy "http://www.archeologiepetitecamargue.culture.fr/pages/psalmodi.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/640_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/640_foundation> ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/9008> .
 

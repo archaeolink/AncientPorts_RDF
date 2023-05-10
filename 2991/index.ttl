@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2991_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2605314> ;
     skos:note "Theodopoulos (2019)" ;
-    ns1:P17 "GR: Crete South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

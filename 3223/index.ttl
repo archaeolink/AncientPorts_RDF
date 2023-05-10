@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1054607> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3223_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599707> ;
-    ns1:P17 "TR: West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21482> ;
     ns1:P1958 <https://www.trismegistos.org/place/3703> ;
     ns1:P8068 <https://topostext.org/place/370280UKer> .

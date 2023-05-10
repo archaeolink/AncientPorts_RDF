@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1295_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q266116> ;
     skos:note "Staffa (2001)" ;
-    ns1:P17 "Italy Adriatic"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

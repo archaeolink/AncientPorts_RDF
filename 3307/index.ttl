@@ -17,7 +17,7 @@
     skos:note "Arnaud (2008)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3307_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/638991> ;
-    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27775> ;
     ns1:P1958 <https://www.trismegistos.org/place/34382> ;
     ns1:P8068 <https://topostext.org/place/363304UMel> .

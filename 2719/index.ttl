@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2719_geom> ;
     skos:note "Uggeri (2009" ;
     ns1:P1584 <http://pleiades.stoa.org/places/857011> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

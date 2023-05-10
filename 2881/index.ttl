@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2881_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3567363> ;
     skos:note "Sahin (2011)" ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1958 <https://www.trismegistos.org/place/55877> .
 

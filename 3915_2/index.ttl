@@ -20,7 +20,7 @@
     skos:note "Goddio (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3915_2_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/727120> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/42429> ;
     ns1:P1958 <https://www.trismegistos.org/place/4346> ;
     ns1:P8068 <https://topostext.org/place/313301UHer> .

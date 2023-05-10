@@ -1,0 +1,12 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Zazzaro_2013_Ancient> a ns1:Article ;
+    dc:created "2013"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Zazzaro_Chiara> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "The Ancient Red Sea port of Adulis and the Eritrean coastal region"@en ;
+    ns1:issuer "BAR International series" ;
+    ns1:volume "2569"^^xsd:string .
+

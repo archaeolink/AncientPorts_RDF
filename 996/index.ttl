@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/996_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q645041> ;
     skos:note "Donadio (2019)" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

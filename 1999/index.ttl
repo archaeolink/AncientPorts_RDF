@@ -13,5 +13,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1999_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q539628> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

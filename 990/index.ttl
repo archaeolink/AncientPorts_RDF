@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/990_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2707105> ;
     skos:note "Amato (2016)" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

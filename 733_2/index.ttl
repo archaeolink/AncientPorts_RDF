@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/733_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q292271> ;
     skos:note "Brkojewitsch (2018)" ;
-    ns1:P17 "France Corsica"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1978_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3693378> ;
     ns1:P1584 <http://pleiades.stoa.org/places/530834> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21985> ;
     ns1:P1958 <https://www.trismegistos.org/place/15798> ;
     ns1:P8068 <https://topostext.org/place/396199PKer> .

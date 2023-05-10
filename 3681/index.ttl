@@ -19,6 +19,6 @@
     skos:note "Unesco (2007)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3681_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/40025> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q851> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/30673> .
 

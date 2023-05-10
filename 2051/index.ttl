@@ -14,6 +14,6 @@
     dcterms:isReferencedBy "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2051_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2051_foundation> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/374244XMar> .
 

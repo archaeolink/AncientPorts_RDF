@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q4780387> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2950_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/589703> ;
-    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41492> ;
     ns1:P8068 <https://topostext.org/place/353251PApo> .
 

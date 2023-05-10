@@ -12,6 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1931_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1931_1_foundation> ;
-    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/370219BPet> .
 

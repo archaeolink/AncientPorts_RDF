@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1864_1_geom> ;
     skos:note "Davidde (2019)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1864_1_foundation> ;
-    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/376232XDoV> .
 

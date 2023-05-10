@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/504_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q742424> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/504_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

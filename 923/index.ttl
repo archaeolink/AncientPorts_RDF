@@ -15,5 +15,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/923_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3674186> ;
     ns1:P1584 <http://pleiades.stoa.org/places/423051> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

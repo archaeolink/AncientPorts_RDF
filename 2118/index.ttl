@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1756721> ;
     skos:note "Koutsouflakis (2022)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599755> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41153> ;
     ns1:P8068 <https://topostext.org/place/370265ILeb> .
 

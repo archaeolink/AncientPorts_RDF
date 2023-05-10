@@ -17,5 +17,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3938_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2082231> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3938_1_foundation> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

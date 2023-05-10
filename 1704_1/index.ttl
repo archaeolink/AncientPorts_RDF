@@ -19,7 +19,7 @@
     skos:note "Ghilhardi (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1704_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/579925> ;
-    ns1:P17 "GR: Evia"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21973> ;
     ns1:P1958 <https://www.trismegistos.org/place/659> ;
     ns1:P8068 <https://topostext.org/place/384238PEre> .

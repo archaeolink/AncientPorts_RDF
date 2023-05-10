@@ -13,12 +13,12 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/01/12/tell-el-retaba-2/"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Thiers_2007_Ptolemee>,
+        "https://pcma.uw.edu.pl/en/2019/01/12/tell-el-retaba-2/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3891_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1630019> ;
-    skos:note "Somaglino (2011)",
-        "Thiers (2007)" ;
+    skos:note "Somaglino (2011)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3891_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/728577> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

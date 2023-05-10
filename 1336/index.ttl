@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q52441> ;
     skos:note "Calaon (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/393506> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

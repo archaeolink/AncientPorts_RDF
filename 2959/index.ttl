@@ -18,6 +18,6 @@
     skos:note "Google Earth picture (15/3/2011)",
         "Loizou (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2959_foundation> ;
-    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/353253XNir> .
 

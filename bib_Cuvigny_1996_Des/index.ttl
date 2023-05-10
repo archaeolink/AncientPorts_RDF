@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Cuvigny_1996_Des> a ns1:Article ;
+    dc:created "1996"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Cuvigny_Hélène>,
+        <http://data.archaeology.link/data/ancientports/author_Robin_Christian_Julien> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Des Kinaidokolpites dans un ostracon grec du désert oriental (Égypte)"@en ;
+    ns1:doi "10.3406/topoi.1996.1690"^^xsd:string ;
+    ns1:issuer "Topoi. Orient-Occident" ;
+    ns1:number 2 ;
+    ns1:pageEnd 720 ;
+    ns1:pageStart 697 ;
+    ns1:volume "6"^^xsd:string .
+

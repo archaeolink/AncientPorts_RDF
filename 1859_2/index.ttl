@@ -15,6 +15,6 @@
     skos:note "Caraher (2010)",
         "Tartaron (2006)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1859_2_foundation> ;
-    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/378231FLyc> .
 

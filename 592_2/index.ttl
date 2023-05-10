@@ -15,5 +15,5 @@
         "http://perignystory.e-monsite.com/pages/content/histoire-des-voisins/chapitre-premier-thaire-d-aunis-jadis.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/592_2_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/592_2_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

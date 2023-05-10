@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q6452298> ;
     skos:note "Külzer (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/501489> ;
-    ns1:P17 "TR: Marmara N"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21900.html> ;
     ns1:P1958 <https://www.trismegistos.org/place/40847> ;
     ns1:P8068 <https://topostext.org/place/409264PKyp> .

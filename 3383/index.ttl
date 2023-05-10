@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q910975> ;
     skos:note "Sauvage (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648748> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

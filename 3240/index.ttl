@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3240_geom> ;
     skos:note "Held (2021)" ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

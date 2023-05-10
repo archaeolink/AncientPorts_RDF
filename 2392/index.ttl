@@ -16,6 +16,6 @@
         "Külzer (2011)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2392_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/511334> ;
-    ns1:P17 "TR: Marmara N"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31408> .
 

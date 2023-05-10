@@ -16,7 +16,7 @@
     skos:note "Camilli (2005)",
         "Rendini (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/403280> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23141> ;
     ns1:P1958 <https://www.trismegistos.org/place/32041> ;
     ns1:P8068 <https://topostext.org/place/426112STal> .

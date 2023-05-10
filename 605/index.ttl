@@ -16,7 +16,7 @@
     skos:note "Wozny (2008)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/605_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/138232> ;
-    ns1:P17 "France West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/936> ;
     ns1:P1958 <https://www.trismegistos.org/place/23103> .
 

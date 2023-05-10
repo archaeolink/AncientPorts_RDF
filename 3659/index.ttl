@@ -15,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q27660> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3659_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39382> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q851> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27315> .
 

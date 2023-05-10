@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/509_5_geom> ;
     skos:note "Routier (2007)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/509_5_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

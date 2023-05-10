@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2327_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q21695015> ;
     ns1:P1584 <http://pleiades.stoa.org/places/590060> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

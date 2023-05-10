@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/822_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1516637> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/822_foundation> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

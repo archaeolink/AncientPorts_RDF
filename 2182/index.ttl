@@ -19,6 +19,6 @@
     skos:note "Girella (2015)",
         "Sheppard Baird (2011)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2182_foundation> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/399253XPol> .
 

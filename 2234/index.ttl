@@ -14,6 +14,6 @@
     dcterms:isReferencedBy "http://skopeloshotelsassociation.com/grave-of-staphylos-skopelos-monuments.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2234_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2234_foundation> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/391238USta> .
 

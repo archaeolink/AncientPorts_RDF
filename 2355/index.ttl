@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2355_geom> ;
     skos:note "Platon (2003)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2355_foundation> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

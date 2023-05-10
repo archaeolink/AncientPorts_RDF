@@ -17,6 +17,6 @@
     skos:note "Rendell (2010)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/932_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/423004> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21338> .
 

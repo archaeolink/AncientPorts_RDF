@@ -16,5 +16,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q810796> ;
     skos:note "Aydingün (2005)",
         "Yilmaz (2017)" ;
-    ns1:P17 "TR: Marmara N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

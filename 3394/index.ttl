@@ -17,5 +17,5 @@
     skos:note "Akpinar (2004)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3394_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/658375> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

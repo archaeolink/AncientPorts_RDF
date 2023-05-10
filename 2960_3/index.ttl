@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2960_3_geom> ;
     skos:note "Müller Celka (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2960_3_foundation> ;
-    ns1:P17 "GR: Crete North"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

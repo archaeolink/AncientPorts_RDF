@@ -20,7 +20,7 @@
         "Duchene (2001)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2061_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599587> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22862> ;
     ns1:P1958 <https://www.trismegistos.org/place/542> ;
     ns1:P8068 <https://topostext.org/place/374253PDel> .

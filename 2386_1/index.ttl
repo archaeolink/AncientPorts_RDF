@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2386_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q581032> ;
     skos:note "Külzer (2011)" ;
-    ns1:P17 "TR: Marmara N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

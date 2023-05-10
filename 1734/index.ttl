@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1734_geom> ;
-    ns1:P17 "GR: North-East"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

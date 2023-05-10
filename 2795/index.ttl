@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2795_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7843690> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2795_foundation> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27512> .
 

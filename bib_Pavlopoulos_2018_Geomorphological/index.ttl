@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Pavlopoulos_2018_Geomorphological> a ns1:Article ;
+    dc:created "2018"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Chondraki_Vassilia>,
+        <http://data.archaeology.link/data/ancientports/author_Fouache_Eric>,
+        <http://data.archaeology.link/data/ancientports/author_Kapsimalis_Vasilios>,
+        <http://data.archaeology.link/data/ancientports/author_Koukousioura_Olga>,
+        <http://data.archaeology.link/data/ancientports/author_Pavlopoulos_Kosmas>,
+        <http://data.archaeology.link/data/ancientports/author_Triantaphyllou_Maria>,
+        <http://data.archaeology.link/data/ancientports/author_arakis_Dimitris>,
+        <http://data.archaeology.link/data/ancientports/author_de_Procé_Solène_Marion> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Geomorphological changes in the coastal area of Farasan Al-Kabir Island (Saudi Arabia) since mid Holocene based on a multi-proxy approach"@en ;
+    ns1:issuer "Quaternary International" ;
+    ns1:pageEnd 211 ;
+    ns1:pageStart 198 ;
+    ns1:publisher "Elsevier" ;
+    ns1:volume "493"^^xsd:string .
+

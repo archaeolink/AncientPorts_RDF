@@ -17,5 +17,5 @@
     skos:note "Blum (2014)",
         "Kayan (1995)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3101_1_foundation> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

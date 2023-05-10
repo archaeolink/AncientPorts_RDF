@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/710_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q126898> ;
     skos:note "Morena (1994)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

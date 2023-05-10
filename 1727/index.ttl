@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1727_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1727_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/540864> ;
-    ns1:P17 "GR: Evia"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/29377> ;
     ns1:P8068 <https://topostext.org/place/389230XKhi> .
 

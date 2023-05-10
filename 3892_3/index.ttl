@@ -18,6 +18,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q5266913> ;
     skos:note "Bruyere (1966)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3892_3_foundation> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/12013> .
 

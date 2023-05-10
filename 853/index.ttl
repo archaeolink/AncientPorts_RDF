@@ -18,5 +18,5 @@
         "Menchelli (2002)",
         "Pasquinucci (2001)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/853_foundation> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

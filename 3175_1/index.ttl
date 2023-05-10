@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3175_1_geom> ;
     skos:note "Külzer (2019)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3175_1_foundation> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

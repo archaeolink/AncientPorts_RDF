@@ -3,7 +3,6 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3651> a <http://www.ancientports.com/ont#Harbour> ;
@@ -11,9 +10,9 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The>,
+        <http://data.archaeology.link/data/ancientports/bib_Villeneuve_2004_Une> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3651_geom> ;
-    skos:note "Villeneuve (2004)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/39280> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q851> .
 

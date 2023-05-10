@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q178488> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2010_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/530826> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41200> ;
     ns1:P1958 <https://www.trismegistos.org/place/1034> ;
     ns1:P8068 <https://topostext.org/place/382206IKep> .

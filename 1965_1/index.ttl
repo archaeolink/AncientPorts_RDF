@@ -17,5 +17,5 @@
     skos:note "Athanasoupoulos (2021)",
         "Kolaiti (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1965_1_foundation> ;
-    ns1:P17 "GR: Pelop"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

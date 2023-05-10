@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/640_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q193809> ;
     skos:note "Rey (2015)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

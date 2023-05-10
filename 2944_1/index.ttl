@@ -19,7 +19,7 @@
         "de Graauw pictures (2022)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2944_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/590028> ;
-    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/25171> ;
     ns1:P1958 <https://www.trismegistos.org/place/2053> ;
     ns1:P8068 <https://topostext.org/place/354245URhi> .

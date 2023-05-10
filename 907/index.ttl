@@ -16,5 +16,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q242505> ;
     skos:note "Barbaro (2022)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/907_foundation> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

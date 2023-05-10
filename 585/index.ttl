@@ -19,7 +19,7 @@
     skos:note "Grenier (1934)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/585_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/138406> ;
-    ns1:P17 "France West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16344> ;
     ns1:P1958 <https://www.trismegistos.org/place/42347> ;
     ns1:P8068 <https://topostext.org/place/471-15WLig> .

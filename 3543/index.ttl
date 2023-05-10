@@ -16,6 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3543_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1397227> ;
     skos:note "Nibbi (1976)" ;
-    ns1:P17 "Egypt"^^xsd:string,
-        "Egypt: Red Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

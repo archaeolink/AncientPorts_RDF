@@ -15,5 +15,5 @@
     skos:note "Suire (2017)",
         "Tassaux (2010)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/595_1_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

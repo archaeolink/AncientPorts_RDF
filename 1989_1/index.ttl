@@ -17,7 +17,7 @@
     skos:note "Murray (1988)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1989_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/530974> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41196> ;
     ns1:P1958 <https://www.trismegistos.org/place/1246> ;
     ns1:P8068 <https://topostext.org/place/387207PLeu> .

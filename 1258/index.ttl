@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3519> ;
     skos:note "Disantarosa (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/442500> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/1526> ;
     ns1:P1958 <https://www.trismegistos.org/place/32988> ;
     ns1:P8068 <https://topostext.org/place/411169UBar> .

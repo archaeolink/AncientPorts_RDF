@@ -17,6 +17,6 @@
     skos:note "Arnaud (2004)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/714_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/157897> ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/17873> .
 

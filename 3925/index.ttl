@@ -17,6 +17,6 @@
     skos:note "Tallet (2017a)",
         "Tallet (2017b)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3925_foundation> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/2480> .
 

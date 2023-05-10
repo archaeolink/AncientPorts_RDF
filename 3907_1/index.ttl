@@ -14,6 +14,6 @@
     dcterms:isReferencedBy "https://www.ees.ac.uk/ummharb63"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3907_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3907_1_foundation> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/2990> .
 

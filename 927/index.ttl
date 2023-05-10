@@ -18,5 +18,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/927_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2366205> ;
     skos:note "Keay (2012)" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

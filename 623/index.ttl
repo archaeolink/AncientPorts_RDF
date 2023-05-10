@@ -19,6 +19,6 @@
         "Sanchez (2014",
         "Sanchez (2014, p 79-86)",
         "Sanchez (2021)" ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/39307> .
 

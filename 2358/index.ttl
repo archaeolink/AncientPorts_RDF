@@ -17,7 +17,7 @@
     skos:note "Basaran (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2358_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/501432> ;
-    ns1:P17 "TR: Marmara N"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1958 <https://www.trismegistos.org/place/42535> ;
     ns1:P8068 <https://topostext.org/place/407260WHeb> .
 

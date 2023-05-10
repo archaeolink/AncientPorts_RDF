@@ -16,5 +16,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q54698> ;
     skos:note "Anzidei (2013)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1047_2_foundation> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

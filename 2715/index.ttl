@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q653312> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2715_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857039> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

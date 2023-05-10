@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2732_geom> ;
     skos:note "Kilic (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2732_foundation> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

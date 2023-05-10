@@ -15,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q6074264> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2838_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/521012> ;
-    ns1:P17 "TR: Bosph S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31463> .
 

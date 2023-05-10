@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3697_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2000838> ;
     ns1:P1584 <http://pleiades.stoa.org/places/290587550> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q851> .
 

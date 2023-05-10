@@ -19,7 +19,7 @@
         "Shaw (1990)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2958_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/590101> ;
-    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/36692> ;
     ns1:P8068 <https://topostext.org/place/353252UAmn> .
 

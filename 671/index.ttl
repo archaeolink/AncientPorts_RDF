@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/671_geom> ;
     skos:note "Arnaud (2004)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/671_foundation> ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/14036> .
 

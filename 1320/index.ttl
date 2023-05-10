@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q30889158> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1320_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/393488> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/18003> ;
     ns1:P1958 <https://www.trismegistos.org/place/31899> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/651_geom> ;
     skos:note "Marty (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/651_foundation> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

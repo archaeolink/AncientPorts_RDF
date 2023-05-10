@@ -15,7 +15,7 @@
     skos:note "Rahman Al-Ayedi (2000)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3878_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/727231> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28529> ;
     ns1:P1958 <https://www.trismegistos.org/place/2109> .
 

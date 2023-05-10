@@ -18,6 +18,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3693378> ;
     skos:note "Finkler (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1978_foundation> ;
-    ns1:P17 "GR: Ionian Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21985> .
 

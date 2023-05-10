@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q188527> ;
     skos:note "Sotirakopoulou (2010)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599822> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41367> ;
     ns1:P8068 <https://topostext.org/place/371255INax> .
 

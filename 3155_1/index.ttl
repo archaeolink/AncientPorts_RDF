@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.amazon.com/8th-Book-Thucydides-History/dp/1231892838"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3155_1_geom> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

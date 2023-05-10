@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q55230017> ;
     skos:note "Salomon (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462396> ;
-    ns1:P17 "Italy Sicily"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

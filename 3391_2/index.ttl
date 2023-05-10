@@ -17,5 +17,5 @@
     skos:note "Oruc (2013)",
         "Seton-Williams (1954)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3391_2_foundation> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

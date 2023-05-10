@@ -17,7 +17,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q393632> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3005_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/589672> ;
-    ns1:P17 "GR: Crete South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28751> ;
     ns1:P8068 <https://topostext.org/place/351248XATr> .
 

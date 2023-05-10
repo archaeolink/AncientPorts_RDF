@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Insoll_2001_Dahlak> a ns1:Article ;
+    dc:created "2001"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Insoll_Timothy> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Dahlak Kebir, Eritrea: From Aksumite to Ottoman"@en ;
+    ns1:issuer "Adumatu" ;
+    ns1:pageEnd 50 ;
+    ns1:pageStart 39 ;
+    ns1:publisher "Adumatu Journal" ;
+    ns1:volume "3"^^xsd:string .
+

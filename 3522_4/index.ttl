@@ -10,6 +10,6 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3522_4_geom> ;
-    ns1:P17 "Egypt: G. of Suez"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/54921> .
 

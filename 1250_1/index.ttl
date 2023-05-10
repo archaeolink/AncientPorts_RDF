@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1250_1_geom> ;
     skos:note "Mastronuzzi (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1250_1_foundation> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

@@ -15,6 +15,6 @@
     skos:note "Staffa (2001)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1289_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/413276> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/33612> .
 

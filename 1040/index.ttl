@@ -15,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q53520> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1040_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/452405> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/35396> .
 

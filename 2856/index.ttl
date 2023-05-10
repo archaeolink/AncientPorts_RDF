@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q253317> ;
     skos:note "Texier (1839)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/520990> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1958 <https://www.trismegistos.org/place/57147> ;
     ns1:P8068 <https://topostext.org/place/409291ICha> .
 

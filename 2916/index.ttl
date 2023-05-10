@@ -19,7 +19,7 @@
         "Zangger (1999)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2916_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/550595> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21153> ;
     ns1:P1958 <https://www.trismegistos.org/place/3681> ;
     ns1:P8068 <https://topostext.org/place/400262UIli> .

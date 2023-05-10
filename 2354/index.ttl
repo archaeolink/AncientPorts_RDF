@@ -19,7 +19,7 @@
     skos:note "Platon (2003)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2354_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/589739> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1958 <https://www.trismegistos.org/place/54132> ;
     ns1:P8068 <https://topostext.org/place/358272PBry> .
 

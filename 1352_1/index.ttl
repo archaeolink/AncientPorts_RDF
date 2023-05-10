@@ -13,5 +13,5 @@
     dcterms:isReferencedBy "https://www.lacustimavi.it/portfolio-item/barca-romana-di-monfalcone/"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1352_1_geom> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

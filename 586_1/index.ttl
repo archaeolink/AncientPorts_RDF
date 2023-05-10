@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/586_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q12191> ;
     skos:note "Arthuis (2020)" ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

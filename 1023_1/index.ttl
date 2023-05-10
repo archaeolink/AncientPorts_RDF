@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1023_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1139764> ;
     skos:note "Agizza (2021)" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

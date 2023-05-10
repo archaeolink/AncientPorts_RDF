@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "https://www.archaeology.wiki/blog/2020/11/02/the-new-finds-from-excavations-at-vryokastraki/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2050_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2050_foundation> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

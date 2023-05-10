@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/589_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1023635> ;
     skos:note "Eglise St Philbert" ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

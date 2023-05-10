@@ -18,7 +18,7 @@
         "Morena (1994)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/711_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/157812> ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/185> ;
     ns1:P1958 <https://www.trismegistos.org/place/20694> ;
     ns1:P8068 <https://topostext.org/place/436072UAnt> .

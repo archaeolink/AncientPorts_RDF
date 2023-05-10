@@ -17,6 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3591687> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/725_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/472055> ;
-    ns1:P17 "France Corsica"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/32846> .
 

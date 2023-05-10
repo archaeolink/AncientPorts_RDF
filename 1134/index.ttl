@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1134_geom> ;
     skos:note "Scicchitano (2008)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/462451> ;
-    ns1:P17 "Italy Sicily"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/36861> ;
     ns1:P1958 <https://www.trismegistos.org/place/61062> ;
     ns1:P8068 <https://topostext.org/place/370153SPle> .

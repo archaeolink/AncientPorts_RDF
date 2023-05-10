@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -10,10 +11,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Thiers_2007_Ptolemee>,
+        <http://data.archaeology.link/data/ancientports/bib_Zazzaro_2013_Ancient> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3609_geom> ;
-    skos:note "Hinkel (1992)",
-        "Thiers (2007)",
-        "Zazzaro (2013)" ;
+    skos:note "Hinkel (1992)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/40323> ;
     ns1:P17 <http://www.wikidata.org/entity/Q1049> .
 

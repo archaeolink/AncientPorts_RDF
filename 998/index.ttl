@@ -18,7 +18,7 @@
         "Casarna (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/998_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/433014> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/1524> ;
     ns1:P1958 <https://www.trismegistos.org/place/2676> ;
     ns1:P8068 <https://topostext.org/place/408142PNea> .

@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2955_geom> ;
     skos:note "Theodoulou (2015a)" ;
-    ns1:P17 "GR: Crete North"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

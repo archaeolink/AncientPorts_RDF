@@ -14,6 +14,6 @@
     dcterms:isReferencedBy "http://www.histoirepassion.eu/?Camp-de-Cesar-de-Toulon-piles-de-Pirelonge-et-d-Ebeon-voies-antiques-en"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/594_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/594_1_foundation> ;
-    ns1:P17 "France West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/20816> .
 

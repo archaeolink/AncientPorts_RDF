@@ -20,6 +20,6 @@
     skos:note "Somaglino (2022)",
         "Tallet (2012)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3522_foundation> ;
-    ns1:P17 "Egypt: G. of Suez"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/37058> .
 

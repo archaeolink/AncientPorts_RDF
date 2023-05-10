@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/638_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q753087> ;
     skos:note "Parodi (1993)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

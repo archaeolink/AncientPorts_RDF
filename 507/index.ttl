@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/507_geom> ;
     skos:note "Vannerus (1944)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/114790> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

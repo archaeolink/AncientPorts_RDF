@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3274_2_geom> ;
     skos:note "Harun Özdas (2022)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/638739> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

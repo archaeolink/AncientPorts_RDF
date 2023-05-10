@@ -17,5 +17,5 @@
     skos:note "Picquenard (1906)",
         "Sanquer (1972)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/561_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

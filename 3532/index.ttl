@@ -13,6 +13,6 @@
     dcterms:isReferencedBy "https://pleiades.stoa.org/places/767852"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3532_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/767858> ;
-    ns1:P17 "Egypt: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/7212> .
 

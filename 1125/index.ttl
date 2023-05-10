@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1125_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q952146> ;
     ns1:P1584 <http://pleiades.stoa.org/places/466010> ;
-    ns1:P17 "Italy Sicily"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

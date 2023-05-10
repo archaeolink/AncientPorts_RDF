@@ -13,6 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3904_geom> ;
     skos:note "Wilson (2012)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/727187> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/6312> .
 

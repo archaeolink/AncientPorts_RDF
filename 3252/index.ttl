@@ -15,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65068385> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3252_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599984> ;
-    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/30809> .
 

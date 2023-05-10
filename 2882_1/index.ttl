@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2882_1_geom> ;
     skos:note "Gündüz (2015)" ;
-    ns1:P17 "TR: Marmara S"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/673_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2933591> ;
     skos:note "Arnaud (2004)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

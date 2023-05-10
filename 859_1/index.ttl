@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/859_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1231948> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/859_1_foundation> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1958 <https://www.trismegistos.org/place/14356> .
 

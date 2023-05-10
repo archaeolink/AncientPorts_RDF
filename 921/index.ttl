@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3744504> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/921_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/422921> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/26608> ;
     ns1:P1958 <https://www.trismegistos.org/place/32277> ;
     ns1:P8068 <https://topostext.org/place/418123UFic> .

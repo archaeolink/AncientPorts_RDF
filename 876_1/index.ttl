@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/876_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q633467> ;
     skos:note "Camilli (2005)" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

@@ -17,6 +17,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q732201> ;
     skos:note "Arnaud (2020)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648593> ;
-    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P8068 <https://topostext.org/place/363340WCal> .
 

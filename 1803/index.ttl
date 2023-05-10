@@ -17,7 +17,7 @@
     skos:note "Beness (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1803_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/501646> ;
-    ns1:P17 "GR: North-East"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22702> ;
     ns1:P1958 <https://www.trismegistos.org/place/12126> ;
     ns1:P8068 <https://topostext.org/place/400239PTor> .

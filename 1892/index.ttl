@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q752163> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1892_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/570134> ;
-    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27410> ;
     ns1:P1958 <https://www.trismegistos.org/place/61284> ;
     ns1:P8068 <https://topostext.org/place/374228UAst> .

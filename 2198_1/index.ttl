@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2198_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2198_1_foundation> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

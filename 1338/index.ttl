@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.archeosub.it/articoli/laguna/costanz.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1338_geom> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

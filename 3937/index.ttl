@@ -17,6 +17,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3937_geom> ;
     skos:note "Goiran (2014)",
         "Mauro (2022)" ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/5227> .
 

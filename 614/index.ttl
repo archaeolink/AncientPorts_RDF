@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/614_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1369338> ;
     ns1:P1584 <http://pleiades.stoa.org/places/246433> ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/158> ;
     ns1:P1958 <https://www.trismegistos.org/place/21347> ;
     ns1:P8068 <https://topostext.org/place/426030UIll> .

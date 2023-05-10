@@ -17,5 +17,5 @@
     skos:note "Aydingün (2017)",
         "Aydingün (2022)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2397_1_foundation> ;
-    ns1:P17 "TR: Marmara N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

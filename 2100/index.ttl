@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2100_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2586345> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2100_foundation> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

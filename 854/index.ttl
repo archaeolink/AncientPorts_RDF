@@ -18,5 +18,5 @@
         "Pasquinucci (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/854_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/403261> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

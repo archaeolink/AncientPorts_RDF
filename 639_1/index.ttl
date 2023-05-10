@@ -18,5 +18,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q844798> ;
     skos:note "Roure (2010)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/639_1_foundation> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

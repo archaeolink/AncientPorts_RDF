@@ -14,7 +14,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/931_geom> ;
     skos:note "Keay (2012)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/423025> ;
-    ns1:P17 "Italy West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/1438> ;
     ns1:P1958 <https://www.trismegistos.org/place/2058> ;
     ns1:P8068 <https://topostext.org/place/419125PRom> .

@@ -15,5 +15,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1175_geom> ;
     skos:note "Oliveri (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/465844> ;
-    ns1:P17 "Italy Sicily"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1626_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2031588> ;
     ns1:P1584 <https://pleiades.stoa.org/places/580094> ;
-    ns1:P17 "GR: Attica +"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/46626> ;
     ns1:P1958 <https://www.trismegistos.org/place/60753> ;
     ns1:P8068 <https://topostext.org/place/379236IPsy> .

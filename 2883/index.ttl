@@ -17,7 +17,7 @@
     skos:note "Gündüz (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2883_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/511226> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31377> ;
     ns1:P1958 <https://www.trismegistos.org/place/52465> .
 

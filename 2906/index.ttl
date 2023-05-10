@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65073170> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2906_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/501322> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/32283> ;
     ns1:P1958 <https://www.trismegistos.org/place/61009> ;
     ns1:P8068 <https://topostext.org/place/404267UAba> .

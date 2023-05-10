@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2961_1_geom> ;
     skos:note "Driessen (2018)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2961_1_foundation> ;
-    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/353255XBou> .
 

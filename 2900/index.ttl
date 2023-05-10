@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2900_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6441410> ;
     skos:note "Dumankaya (2018)" ;
-    ns1:P17 "TR: Marmara S"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

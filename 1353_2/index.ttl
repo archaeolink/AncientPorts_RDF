@@ -18,5 +18,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q807970> ;
     skos:note "Degrassi (1955)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1353_2_foundation> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

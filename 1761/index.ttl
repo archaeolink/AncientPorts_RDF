@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1761_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7918950> ;
     skos:note "Ginalis (2017)" ;
-    ns1:P17 "GR: North-East"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

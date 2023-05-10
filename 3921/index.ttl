@@ -11,7 +11,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3921_geom> ;
     ns1:P1584 <https://pleiades.stoa.org/places/727142> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21142.html> ;
     ns1:P1958 <https://www.trismegistos.org/place/1048> .
 

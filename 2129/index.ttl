@@ -13,6 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2129_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2129_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/570036> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27390> .
 

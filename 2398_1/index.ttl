@@ -16,5 +16,5 @@
     skos:note "Ginalis (2022)",
         "Ozdogan (2013)",
         "Yilmaz (2017)" ;
-    ns1:P17 "TR: Marmara N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

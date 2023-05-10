@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1231448> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1686_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/541157> ;
-    ns1:P17 "GR: Attica +"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22751> ;
     ns1:P1958 <https://www.trismegistos.org/place/11876> ;
     ns1:P8068 <https://topostext.org/place/388224PHer> .

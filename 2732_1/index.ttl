@@ -17,6 +17,6 @@
     skos:note "Kilic (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2732_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857212> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/29571> .
 

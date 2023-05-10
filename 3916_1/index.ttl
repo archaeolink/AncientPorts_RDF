@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "https://www.ees.ac.uk/difshu624"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3916_1_geom> ;
     skos:note "Wilson (2012)" ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3368_geom> ;
     skos:note "Held (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3368_foundation> ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

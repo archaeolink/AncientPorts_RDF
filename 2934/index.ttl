@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2934_geom> ;
     skos:note "Uggeri (2003)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/742529837> ;
-    ns1:P17 "GR: Crete North"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

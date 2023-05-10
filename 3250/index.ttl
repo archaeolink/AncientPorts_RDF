@@ -18,7 +18,7 @@
     skos:note "Öztas (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3250_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599774> ;
-    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22682> ;
     ns1:P1958 <https://www.trismegistos.org/place/34217> ;
     ns1:P8068 <https://topostext.org/place/366280ULor> .

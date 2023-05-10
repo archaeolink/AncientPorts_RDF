@@ -13,6 +13,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3647_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1098874> ;
-    ns1:P17 "Yemen"^^xsd:string,
-        "Yemen: Red Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q805>,
+        "Yemen"^^xsd:string .
 

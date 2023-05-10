@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "http://www.poros.nu/sightsee/bourtzi/pp/pp.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1873_3_geom> ;
     skos:note "Nikos Mourtzas (2022)" ;
-    ns1:P17 "GR: Pelop"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

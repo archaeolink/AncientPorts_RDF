@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/593_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q19232141> ;
     skos:note "Balmelle (2001)" ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

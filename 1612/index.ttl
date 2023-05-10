@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1612_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3524772> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1612_foundation> ;
-    ns1:P17 "GR: North-West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

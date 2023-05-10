@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q685396> ;
     skos:note "Dubar (2004)",
         "Fiches (1995)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

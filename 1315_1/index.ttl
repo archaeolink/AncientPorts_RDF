@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q13364> ;
     skos:note "Cirelli (2021)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/393480> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/1452> ;
     ns1:P1958 <https://www.trismegistos.org/place/3192> ;
     ns1:P8068 <https://topostext.org/place/444122PRav> .

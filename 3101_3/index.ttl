@@ -16,5 +16,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q4673728> ;
     skos:note "Blum (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3101_3_foundation> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

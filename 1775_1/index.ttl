@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1775_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17633634> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1775_1_foundation> ;
-    ns1:P17 "GR: North-East"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/407227UHer> .
 

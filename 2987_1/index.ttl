@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2987_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6434792> ;
     skos:note "Chalikias (2015)" ;
-    ns1:P17 "GR: Crete South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

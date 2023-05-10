@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -13,10 +12,10 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Berenice_Epideires"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Desanges_1978_Littoral>,
+        "https://en.wikipedia.org/wiki/Berenice_Epideires"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3632_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7294675> ;
-    skos:note "Desanges (1978)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3632_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39335> ;
     ns1:P17 <http://www.wikidata.org/entity/Q977> ;

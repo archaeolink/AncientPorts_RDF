@@ -17,5 +17,5 @@
     skos:note "Cledat (1921)",
         "Hoffmeier (2013)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3877_1_foundation> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/591_5_geom> ;
     skos:note "Talbot-Marsac (1999)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/591_5_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q330920> ;
     skos:note "Long (2014)",
         "Long (2016)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

@@ -17,5 +17,5 @@
     skos:note "Ladstätter (2016)",
         "Steskal (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3172_foundation> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

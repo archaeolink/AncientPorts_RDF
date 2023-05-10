@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q426893> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2291_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599763> ;
-    ns1:P17 "GR: Eastern Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23379> ;
     ns1:P1958 <https://www.trismegistos.org/place/33229> ;
     ns1:P8068 <https://topostext.org/place/372269PLer> .

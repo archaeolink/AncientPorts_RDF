@@ -18,5 +18,5 @@
     skos:note "Sanchez (2014",
         "Sanchez (2014, p 56-76)",
         "Sanchez (2021)" ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

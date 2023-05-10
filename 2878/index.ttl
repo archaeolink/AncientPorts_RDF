@@ -17,7 +17,7 @@
     skos:note "Krauss (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2878_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/511391> ;
-    ns1:P17 "TR: Marmara S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31427> ;
     ns1:P8068 <https://topostext.org/place/404294UPyt> .
 

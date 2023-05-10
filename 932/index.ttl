@@ -13,5 +13,5 @@
     dcterms:isReferencedBy "http://www.turismoroma.it/fr/node/1146"^^xsd:anyURI,
         "https://www.lelloblog.it/scavi-pianabella-villa-procoio/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/932_geom> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

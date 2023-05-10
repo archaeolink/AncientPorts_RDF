@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://dossiers-inventaire.aquitaine.fr/dossier/estey-d-un/c6f6adaa-085f-448a-841f-1edcf98f6d19"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/601_1_geom> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

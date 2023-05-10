@@ -12,6 +12,6 @@
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3677_geom> ;
-    ns1:P17 "Saudi Arab: Red S."^^xsd:string,
-        "Saudi Arabia: Red Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q851>,
+        "Saudi Arab: Red S."^^xsd:string .
 

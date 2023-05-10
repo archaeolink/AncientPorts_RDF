@@ -15,6 +15,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2844_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q65046266> ;
     ns1:P1584 <http://pleiades.stoa.org/places/523223> ;
-    ns1:P17 "TR: Bosph S"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31498> .
 

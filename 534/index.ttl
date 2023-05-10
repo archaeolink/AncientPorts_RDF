@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "http://www.inrap.fr/archeologie-preventive/Actualites/Communiques-de-presse/p-16145-Le-passe-antique-de-Port-en-Bessin-Huppain-revele-par-une-fouille-archeologique.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/534_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q987304> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "https://www.inrap.fr/vestiges-d-une-importante-agglomeration-gauloise-la-baule-escoublac-15773"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/584_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/584_1_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

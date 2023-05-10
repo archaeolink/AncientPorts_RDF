@@ -20,7 +20,7 @@
         "Trethewey" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3101_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/550877> ;
-    ns1:P17 "TR: West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22058> ;
     ns1:P1958 <https://www.trismegistos.org/place/34751> ;
     ns1:P8068 <https://topostext.org/place/400262USig> .

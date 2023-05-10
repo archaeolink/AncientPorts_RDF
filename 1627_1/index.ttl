@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1627_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82310> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1627_1_foundation> ;
-    ns1:P17 "GR: Attica +"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

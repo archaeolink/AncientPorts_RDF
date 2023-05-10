@@ -15,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q65046326> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2805_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/845030> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27524> .
 

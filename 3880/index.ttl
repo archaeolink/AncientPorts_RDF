@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3880_geom> ;
     skos:note "Spencer (2002)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/727121> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23393> ;
     ns1:P1958 <https://www.trismegistos.org/place/800> ;
     ns1:P8068 <https://topostext.org/place/309321UHer> .

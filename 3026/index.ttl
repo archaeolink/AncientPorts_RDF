@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3026_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q490132> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3026_foundation> ;
-    ns1:P17 "GR: Crete South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q41> .
 

@@ -15,6 +15,6 @@
     skos:note "Nehme (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3680_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/814726> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q851> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/30697> .
 

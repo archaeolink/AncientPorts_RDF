@@ -19,7 +19,7 @@
     skos:note "Rodziewicz (1988)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3938_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/727154> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/28492> ;
     ns1:P1958 <https://www.trismegistos.org/place/3431> ;
     ns1:P8068 <https://topostext.org/place/311298WMar> .

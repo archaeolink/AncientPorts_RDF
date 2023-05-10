@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/918_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1012797> ;
     skos:note "Felici (2013)" ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

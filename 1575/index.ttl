@@ -17,7 +17,7 @@
     skos:note "Stiros (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1575_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/531067> ;
-    ns1:P17 "GR: North-West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31632> ;
     ns1:P1958 <https://www.trismegistos.org/place/37645> ;
     ns1:P8068 <https://topostext.org/place/388208XPog> .

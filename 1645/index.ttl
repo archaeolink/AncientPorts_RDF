@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q3219865> ;
     skos:note "Kozelj (2016)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/583623> ;
-    ns1:P17 "GR: Attica +"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22256> ;
     ns1:P1958 <https://www.trismegistos.org/place/37764> ;
     ns1:P8068 <https://topostext.org/place/377241RLau> .

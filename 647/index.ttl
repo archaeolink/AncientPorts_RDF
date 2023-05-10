@@ -15,5 +15,5 @@
     skos:note "Arnaud-Fassetta (1997)",
         "Expo Camargues 2016" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/647_foundation> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

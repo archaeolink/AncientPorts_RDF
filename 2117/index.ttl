@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2117_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1741684> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599715> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/43471> ;
     ns1:P1958 <https://www.trismegistos.org/place/33244> ;
     ns1:P8068 <https://topostext.org/place/368263IKin> .

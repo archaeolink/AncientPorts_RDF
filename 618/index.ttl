@@ -16,6 +16,6 @@
     skos:note "Rouquette (2011)",
         "Sanchez (2014",
         "Sanchez (2014, p 53-54)" ;
-    ns1:P17 "France South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1958 <https://www.trismegistos.org/place/14384> .
 

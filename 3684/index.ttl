@@ -13,13 +13,13 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Nappo_2010_Location> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Nappo_2010_Location>,
+        <http://data.archaeology.link/data/ancientports/bib_Pedersen_2015_Preliminary> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3684_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q27356> ;
-    skos:note "Fiema (2020)",
-        "Pedersen (2015)" ;
+    skos:note "Fiema (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3684_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/814719> ;
-    ns1:P17 "Saudi Arabia: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q851> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/30696> .
 

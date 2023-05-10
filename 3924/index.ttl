@@ -18,7 +18,7 @@
         "Tallet (2017b)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3924_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/727253> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/38025> ;
     ns1:P1958 <https://www.trismegistos.org/place/2480> ;
     ns1:P8068 <https://topostext.org/place/300312LTro> .

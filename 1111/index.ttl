@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1111_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1460> ;
     ns1:P1584 <https://pleiades.stoa.org/places/462492> ;
-    ns1:P17 "Italy Sicily"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1958 <https://www.trismegistos.org/place/2132> ;
     ns1:P8068 <https://topostext.org/place/376145RSic> .
 

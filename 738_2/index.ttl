@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/738_2_geom> ;
     skos:note "Lo Compasso De Navegare",
         "Lo Compasso De Navegare, Debanne (2011)" ;
-    ns1:P17 "France Corsica"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

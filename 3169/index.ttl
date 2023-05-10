@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3169_geom> ;
     skos:note "Steskal (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3169_foundation> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

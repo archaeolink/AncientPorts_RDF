@@ -17,7 +17,7 @@
     skos:note "Uggeri (2003)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2930_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/589873> ;
-    ns1:P17 "GR: Crete North"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/44595> ;
     ns1:P8068 <https://topostext.org/place/355239IKoi> .
 

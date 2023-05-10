@@ -14,5 +14,5 @@
     skos:note "Külzer (2016)",
         "Steskal (2014)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/599864> ;
-    ns1:P17 "TR: West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

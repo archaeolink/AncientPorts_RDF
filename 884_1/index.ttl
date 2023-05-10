@@ -15,5 +15,5 @@
     skos:note "Rendini (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/884_1_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/408457> ;
-    ns1:P17 "Italy West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

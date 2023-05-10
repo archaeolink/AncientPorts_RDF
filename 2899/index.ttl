@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2899_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q950908> ;
     skos:note "Russell (2011)" ;
-    ns1:P17 "TR: Marmara S"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

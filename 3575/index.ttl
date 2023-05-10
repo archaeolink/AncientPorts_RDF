@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3575_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2538716> ;
     ns1:P1584 <https://pleiades.stoa.org/places/785972> ;
-    ns1:P17 "Egypt: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/8793> ;
     ns1:P8068 <https://topostext.org/place/247352IAph> .
 

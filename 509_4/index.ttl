@@ -16,5 +16,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q1367746> ;
     skos:note "Routier (2007)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/509_4_foundation> ;
-    ns1:P17 "France West"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

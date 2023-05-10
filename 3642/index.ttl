@@ -19,6 +19,6 @@
     skos:note "Giumlia-Mair (2002)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3642_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39439> ;
-    ns1:P17 "Yemen: Red Sea"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q805> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27292> .
 

@@ -17,5 +17,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q12225482> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3638_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/40283> ;
-    ns1:P17 "Yemen: Red Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q805> .
 

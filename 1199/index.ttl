@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q4691586> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1199_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/462079> ;
-    ns1:P17 "Italy Sicily"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22894> ;
     ns1:P1958 <https://www.trismegistos.org/place/40470> ;
     ns1:P8068 <https://topostext.org/place/382147UAga> .

@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -13,11 +12,11 @@
     dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://www.ancient-origins.net/ancient-places-africa/adulis-0012642"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Carannante_2015_Adulis>,
+        <http://data.archaeology.link/data/ancientports/bib_Zazzaro_2013_Ancient>,
+        "https://www.ancient-origins.net/ancient-places-africa/adulis-0012642"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3617_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q378940> ;
-    skos:note "Carannante (2015)",
-        "Zazzaro (2013)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3617_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39271> ;
     ns1:P17 <http://www.wikidata.org/entity/Q986> ;

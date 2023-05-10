@@ -15,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q71028> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/578_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/141944> ;
-    ns1:P17 "France West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/43792> .
 

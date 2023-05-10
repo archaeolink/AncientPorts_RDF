@@ -16,7 +16,7 @@
         "Seton-Williams (1954)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3394_2_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/658556> ;
-    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23588.html> ;
     ns1:P1958 <https://www.trismegistos.org/place/12632> .
 

@@ -14,6 +14,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1870_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1925381> ;
     skos:note "Gill (2007)" ;
-    ns1:P17 "GR: Pelop"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P8068 <https://topostext.org/place/376234FMeN> .
 

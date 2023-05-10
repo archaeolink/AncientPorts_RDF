@@ -17,7 +17,7 @@
     skos:note "Oniz (2012)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3338_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/648719> ;
-    ns1:P17 "TR: South"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22052> ;
     ns1:P1958 <https://www.trismegistos.org/place/34273> ;
     ns1:P8068 <https://topostext.org/place/364321USye> .

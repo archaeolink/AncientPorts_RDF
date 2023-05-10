@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q60792197> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1560_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/530965> ;
-    ns1:P17 "GR: North-West"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31590> ;
     ns1:P8068 <https://topostext.org/place/389212UKre> .
 

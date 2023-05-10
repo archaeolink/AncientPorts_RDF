@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q28154829> ;
     skos:note "Doonan (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/845004> ;
-    ns1:P17 "TR: Black Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

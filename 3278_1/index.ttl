@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3278_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1536321> ;
     skos:note "Kizildag (2021)" ;
-    ns1:P17 "TR: South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

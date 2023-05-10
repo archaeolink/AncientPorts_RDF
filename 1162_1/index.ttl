@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1162_1_geom> ;
     skos:note "De Miro (1999)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1162_1_foundation> ;
-    ns1:P17 "Italy Sicily"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3934_5_geom> ;
     skos:note "Goddio (1998)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3934_5_foundation> ;
-    ns1:P17 "Egypt: Med Sea"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q79> .
 

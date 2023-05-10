@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Pedersen_2015_Preliminary> a ns1:Article ;
+    dc:created "2015"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Pedersen_Ralph> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "A Preliminary Report on a Coastal and Underwater Survey in the Area of Jeddah, Saudi Arabia"@en ;
+    ns1:doi "10.3764/aja.119.1.0125"^^xsd:string ;
+    ns1:issuer "American Journal of Archaeology" ;
+    ns1:pageEnd 136 ;
+    ns1:pageStart 125 ;
+    ns1:volume "119"^^xsd:string .
+

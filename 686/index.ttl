@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q292728> ;
     skos:note "Brun (1992)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/157929> ;
-    ns1:P17 "France South"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

@@ -13,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1324_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q643> ;
     ns1:P1584 <http://pleiades.stoa.org/places/393469> ;
-    ns1:P17 "Italy Adriatic"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/16565> ;
     ns1:P1958 <https://www.trismegistos.org/place/42384> ;
     ns1:P8068 <https://topostext.org/place/450120WEri> .

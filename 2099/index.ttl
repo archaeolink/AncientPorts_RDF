@@ -15,7 +15,7 @@
     skos:note "Marthari (2009)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2099_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599857> ;
-    ns1:P17 "GR: Cyclades Isl."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q41> ;
     ns1:P1958 <https://www.trismegistos.org/place/60641> ;
     ns1:P8068 <https://topostext.org/place/368258HPan> .
 

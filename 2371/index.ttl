@@ -15,5 +15,5 @@
     skos:note "Girella (2015)",
         "Krauss (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2371_foundation> ;
-    ns1:P17 "TR: Marmara N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 
