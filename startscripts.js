@@ -56,9 +56,10 @@ var baseurl="http://data.archaeology.link/data/ancientports/"
   $( function() {
     var availableTags = Object.keys(search)
     $( "#search" ).autocomplete({
-      source: availableTags
+      source: availableTags,
+      delay: 300
     });
-    console.log(availableTags)
+    //console.log(availableTags)
     setupJSTree()
   } );
 
@@ -965,8 +966,8 @@ function createColorRangeByAttribute(propertyName,geojsonlayer){
 
 function generateLeafletPopup(feature, layer){
     var popup="<b>"
-    if("label" in feature && feature.label!=""){
-        popup+="<a href=\""+rewriteLink(feature.id)+"\" class=\"footeruri\" target=\"_blank\">"+feature.label+"</a></b><br/><ul>"
+    if("name" in feature && feature.name!=""){
+        popup+="<a href=\""+rewriteLink(feature.id)+"\" class=\"footeruri\" target=\"_blank\">"+feature.name+"</a></b><br/><ul>"
     }else{
         popup+="<a href=\""+rewriteLink(feature.id)+"\" class=\"footeruri\" target=\"_blank\">"+feature.id.substring(feature.id.lastIndexOf('/')+1)+"</a></b><br/><ul>"
     }
@@ -978,7 +979,7 @@ function generateLeafletPopup(feature, layer){
             popup+=prop
         }
         popup+=" : "
-        if(feature.properties[prop].length>1){
+        if(Array.isArray(feature.properties[prop]) && feature.properties[prop].length>1){
             popup+="<ul>"
             for(item of feature.properties[prop]){
                 popup+="<li>"
@@ -990,10 +991,10 @@ function generateLeafletPopup(feature, layer){
                 popup+="</li>"
             }
             popup+="</ul>"
-        }else if((feature.properties[prop][0]+"").startsWith("http")){
+        }else if(Array.isArray(feature.properties[prop]) && (feature.properties[prop][0]+"").startsWith("http")){
             popup+="<a href=\""+rewriteLink(feature.properties[prop][0])+"\" target=\"_blank\">"+feature.properties[prop][0].substring(feature.properties[prop][0].lastIndexOf('/')+1)+"</a>"
         }else{
-            popup+=feature.properties[prop]
+            popup+=feature.properties[prop]+""
         }
         popup+="</li>"
     }
@@ -1001,7 +1002,7 @@ function generateLeafletPopup(feature, layer){
     return popup
 }
 
-function setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map){
+function setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map,dateatt=""){
     if(typeof (baselayers) === 'undefined' || baselayers===[]){
         basemaps["OSM"]=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'})
         baseMaps["OSM"].addTo(map);
@@ -1038,10 +1039,10 @@ function setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map){
         setLatLng: function () {} // Dummy method.
     });
 	var bounds = L.latLngBounds([]);
-    var markercluster = L.markerClusterGroup().addTo(map);
     first=true
     counter=1
     for(feature of featurecolls){
+        var markercluster = L.markerClusterGroup.layerSupport({})
         if(epsg!="" && epsg!="EPSG:4326" && epsg in epsgdefs){
             feature=convertGeoJSON(feature,epsgdefs[epsg],null)
         }
@@ -1060,6 +1061,7 @@ function setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map){
         }else {
             counter += 1
         }
+		markercluster.checkIn(layerr);
         overlayMaps[layername]=L.featureGroup.subGroup(markercluster,[layerr])
         if(first) {
             overlayMaps[layername].addTo(map);
@@ -1070,5 +1072,17 @@ function setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map){
         }
     }
 	layercontrol=L.control.layers(baseMaps,overlayMaps).addTo(map)
+	if(dateatt!=null && dateatt!=""){
+		var sliderControl = L.control.sliderControl({
+			position: "bottomleft",
+			layer: layerr,
+			range: true,
+			rezoom: 10,
+			showAllOnStart: true,
+			timeAttribute: dateatt
+		});
+		map.addControl(sliderControl);
+		sliderControl.startSlider();
+	}
     markercluster.addTo(map)
 }
