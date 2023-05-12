@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/1480> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Gradac"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/5781"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1480_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q981300> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1480_foundation> ;

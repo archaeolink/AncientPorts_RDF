@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/548_1> a <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Roman villa at Langrolay sur Rance, on R Rance"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.youtube.com/watch?v=p12Un9OwpN8"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/548_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1021239> ;
     skos:note "Inrap (2016)" ;

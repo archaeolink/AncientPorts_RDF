@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3101> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "promontory NW of Kumkale with Achille's tomb: the port may have been located in a plain, now silted up by R Scamandre (R Karamenderes) somewhere between Sigeum and Kumtepe"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/400262WSka"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3101_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1583181> ;
     skos:note "Kraft (2003)",

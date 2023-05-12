@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/3837> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Cape Jask"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://pleiades.stoa.org/places/30221"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3837_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q719781> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3837_foundation> ;

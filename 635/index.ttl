@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/635> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Le Barrou, with submerged BA settlement La Fangade"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://capmeroccitanie.fr/village-lacustre-englouti-premiers-setois/"^^xsd:anyURI,
         "http://splashcos-viewer.eu/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/635_geom> ;
     skos:note "Chabal (2010)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/635_foundation> ;

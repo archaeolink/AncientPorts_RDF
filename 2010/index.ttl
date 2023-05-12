@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/2010> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "isle of Cephalonia, some consider this island is the ancient Ithaca"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Same_(ancient_Greece)"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2010_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q178488> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2010_foundation> ;

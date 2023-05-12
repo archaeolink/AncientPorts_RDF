@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/638_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Les Aires de Saint-Jacques, near Maugio, near R Capouillère"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.inrap.fr/la-font-de-mauguio-les-aires-de-saint-jacques-3520"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/638_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q753087> ;
     skos:note "Parodi (1993)" ;

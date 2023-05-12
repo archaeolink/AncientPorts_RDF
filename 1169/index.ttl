@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/1169> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Selinonte east, on R Cottone"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.selinunte.net/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1169_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q952173> ;
     skos:note "Oliveri (2015)" ;

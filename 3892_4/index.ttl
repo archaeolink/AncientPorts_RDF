@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3892_4> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Mahattat al Kibrit, Kabret, near Chalouf, Shaluf, between both Bitter Lakes, 3rd stela of Darius on Nile to Red Sea canal, Ptolemy locates Arsinoe at 20' of latitude north of Clysma"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.livius.org/sources/content/achaemenid-royal-inscriptions/dz/"^^xsd:anyURI,
         "https://fr.wikipedia.org/wiki/Inscriptions_de_Darius_le_Grand_%C3%A0_Suez"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3623994> ;
     skos:note "Bruyere (1966)" ;

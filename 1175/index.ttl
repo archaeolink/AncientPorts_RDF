@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/1175> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Isola Grande, Lehmann mentions a mole at the southern tip of this island, not ancient?"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/the-punic-ship-of-marsala/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1175_geom> ;
     skos:note "Oliveri (2015)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/465844> ;

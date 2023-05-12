@@ -8,11 +8,11 @@
 
 <http://data.archaeology.link/data/ancientports/926> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Ponte Testaccio, archaïc Mattatoio, on right bank of R Tiber"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Martin_2016_Lusitanian>,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/926_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3908034> ;
     ns1:P17 <http://www.wikidata.org/entity/Q38> .

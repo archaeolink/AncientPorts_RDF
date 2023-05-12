@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/1286> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Termoli"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://toponomastica.altervista.org/dovera-buca/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1286_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q118642> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1286_foundation> ;

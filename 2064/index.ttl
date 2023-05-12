@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/2064> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Port in Stadion District, Ghourna, on the isle of Dhilos, Delos"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://portuslimen.eu/2015/11/02/the-port-city-of-delos-and-its-commercial-cityscape/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2064_geom> ;
     skos:note "Duchene (2001)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q41> .

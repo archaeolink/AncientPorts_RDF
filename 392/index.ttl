@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/392> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "La Fonteta, near Guardamar del Segura, on the estuary of R Segura (Herna is located inland at Pena Negra, Crevillent)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://arqueologiaalicante.blogspot.com.es/2010/12/la-fonteta-guardamar.html"^^xsd:anyURI,
         "http://www.diarioinformacion.com/baix-vinalopo/2016/07/03/excavaciones-vienen/1781008.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/392_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q18612> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/392_foundation> ;

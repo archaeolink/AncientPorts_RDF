@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/2850> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Kadiköy in front of Istanbul, near R Ayirliksu"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.artnews.com/art-news/news/2300-year-old-apse-discovered-in-istanbuls-city-of-the-blind-1234593908/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2850_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q337381> ;
     skos:note "Külzer (2011)" ;

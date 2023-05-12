@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/106> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Carlidnack oppidum"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1006687"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/106_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5041284> ;
     skos:note "Weatherhill (2009)" ;

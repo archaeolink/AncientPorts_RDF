@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3468> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Sour, South side"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2020/06/25/tyre-lebanon/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3468_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82070> ;
     skos:note "Carayon (2011)",

@@ -10,10 +10,10 @@
 <http://data.archaeology.link/data/ancientports/2959> a <http://www.ancientports.com/ont#Slipway>,
         <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Niros, Nirou Khani, Haghioi Theodoroi, 2 km east of the temple of Zeus Thenatas ; rock-cut structure visited by several famous authors. I would favour a twin slipway 2 x 5 m wide and 46 m long (see GE picture)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/nirou-khani/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2959_geom> ;
     skos:note "Google Earth picture (15/3/2011)",
         "Loizou (2016)" ;

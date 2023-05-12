@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3608> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Agig, Aqiq, south of wadi Baraka, Barka. The Periplus Maris Erythraei locates Ptolemais at 4000 stadia (740 km) south of Berenike, which corresponds to Aqiq"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Thiers_2007_Ptolemee>,
         "http://www.barnard.nl/desert/ptolemais.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3608_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7257098> ;
     skos:note "Crowfoot (1911)" ;

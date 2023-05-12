@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/624> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Mandirac training walls, Le Castelou, on the Etang de Bages"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/narbonne/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/624_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q84710214> ;
     skos:note "Sanchez (2014",

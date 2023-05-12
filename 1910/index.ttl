@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/1910> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Plytra, Plitra, possible Neolithic settlement, with possible ancient lighthouse and quarries 550 m ENE"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/367228QAso"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1910_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q12874174> ;
     skos:note "Kokkorou (2009)" ;

@@ -4,14 +4,13 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3858> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Sunera, on R Hub, Hab, in front of Churna, Charna island, near Ras Muari, Cape Monze"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Eggermont_1975_Alexander> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3858_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3248039> ;
     ns1:P17 <http://www.wikidata.org/entity/Q843> .

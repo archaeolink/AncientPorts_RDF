@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/495> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Cala Llonga, Puig de ses Torretes, Cap des Llibrell"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.flickr.com/photos/samorini/15068332251/in/photostream/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/495_geom> ;
     skos:note "Guerrero-Ayuzo (2006)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/495_foundation> ;

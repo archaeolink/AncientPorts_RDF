@@ -6,15 +6,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/4180> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Utique, with arched structure near ancient water edge, said to be a cistern"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Paskoff_1991_Le>,
         <http://data.archaeology.link/data/ancientports/bib_Pleuger_2019_The> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4180_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q166523> ;
     skos:note "Delile (2015)" ;

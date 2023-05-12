@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/3865_5> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Gothapabbata, Godavaya? near R Walawe Ganga, on Sri Lanka island"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.sundaytimes.lk/020414/plus/2.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3865_5_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5576200> ;
     skos:note "Gunawardana (2015)" ;

@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/310> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Somewhere in Donana park? Cerro del Trigo? The R Guadalquivir is called R Baetis by the Romans and R Tartessos by the Phoenicians before them. Tartessos is also the name of an ancient tribe who lived in this area of Huelva-Sevilla-Cadix. The ancient city of Tartessos is possibly located here.The Bible mentions Tarshish several times. Pausanias (Greece, 6, 19) locates it near the outlet of the Guadalquivir. However, Avienus indicates in his Ora Maritima that Tartessus is the ancient name of Gaddir. Pliny (Nat Hist, 3, 3) locates Tartessos at Carteia. Some believe it is Huelva."@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Do%C3%B1ana_National_Park"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/310_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q320416> ;
     skos:note "Bonsor (1927)" ;

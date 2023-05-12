@@ -10,11 +10,11 @@
 <http://data.archaeology.link/data/ancientports/1378> a <http://www.ancientports.com/ont#Quay>,
         <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Roman villa at Dragonera, near Peroj, with submerged BA settlement at Sveti Grgur"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/5121"^^xsd:anyURI,
         "http://splashcos-viewer.eu/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1378_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1938608> ;
     skos:note "Terre di Mare (2007)" ;

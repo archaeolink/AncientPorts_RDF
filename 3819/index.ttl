@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/3819> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Bay of Halileh, north of Delvar"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Priestman_2013_Quantitative> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3819_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q41282> ;
     ns1:P17 "Gulf"^^xsd:string .

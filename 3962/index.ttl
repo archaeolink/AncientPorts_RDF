@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/3962> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Marsa Matrouh, Matruh, Bates' island, Geziret el-Yehudiyeh, west of Ras Allem Rum, Alam el-Rum"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Conwell_1987_Ostrich>,
         "https://honorfrostfoundation.org/2021/08/05/nw-egyptian-marmarica-coast-survey-ongoing/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3962_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q393829> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3962_foundation> ;

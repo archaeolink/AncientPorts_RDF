@@ -7,11 +7,11 @@
 
 <http://data.archaeology.link/data/ancientports/398> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Illeta dels Banyets, Banos de la Reina, near El Campello"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Espinosa_2006_Nombre>,
         "http://arqueologiaalicante.blogspot.com.es/2015/04/la-illeta-dels-banyets-16-el-campello.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/398_geom> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/45266> .

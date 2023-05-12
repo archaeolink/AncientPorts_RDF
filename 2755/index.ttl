@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/2755> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Terme, on R Terme Süyu"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/412369WThe"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2755_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q122875> ;
     skos:note "Dan (2009)" ;

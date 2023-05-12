@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/3958> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Marsa Bagush, Baqqush, near Disney Beach"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/grants-awarded/research-grants/egypt/cmauch/marsa-bagoush/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3958_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q17775340> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3958_foundation> ;

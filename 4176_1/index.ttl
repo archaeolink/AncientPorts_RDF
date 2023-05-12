@@ -4,16 +4,15 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/4176_1> a <http://www.ancientports.com/ont#Quay>,
         <http://www.ancientports.com/ont#Shipyard> ;
     rdfs:label "Quay near Neptune block, near Quartier Magon, SE of Saint Louis de Carthage cathedral. This might be the very first landing place of the Phoenicians (?)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hurst_2010_Understanding>,
         <http://data.archaeology.link/data/ancientports/bib_Paskoff_1991_Le> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4176_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1018648> ;
     ns1:P17 <http://www.wikidata.org/entity/Q948> .

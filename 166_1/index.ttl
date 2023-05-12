@@ -8,11 +8,11 @@
 
 <http://data.archaeology.link/data/ancientports/166_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Teroy oppidum"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://ancientmonuments.uk/126004"^^xsd:anyURI,
         "https://mapcarta.com/N8222310986"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/166_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/166_1_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q145> .

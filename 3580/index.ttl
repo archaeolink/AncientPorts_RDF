@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3580> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23°26’ of latitude. The present latitude of Berenike is 23°56’ and it is still a port today. With Hellenistic fort and roads to Nile valley"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2021/07/02/berenike-excavations-at-a-red-sea-maritime-hub-linking-the-mediterranean-world-to-the-indian-ocean-ongoing/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3580_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q819050> ;
     skos:note "Kotarba (2017)",

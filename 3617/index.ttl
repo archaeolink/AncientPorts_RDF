@@ -9,12 +9,12 @@
 
 <http://data.archaeology.link/data/ancientports/3617> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Zula, on wadi Haddas. The Periplus Maris Erythraei locates Adulis at 3000 stadia (ca. 550 km) south of Ptolemais inside a south facing bay, which corresponds to Zula. Pliny locates it at 5 navigation days from Ptolemais, which leads to more or less the same location. It may be noted that Ptolemy is widely mistaken when locating it at 40’ of latitude north of Dire, leading near Assab, 200 km further south. The site of Zula is now widely accepted by modern authors. "@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Carannante_2015_Adulis>,
         <http://data.archaeology.link/data/ancientports/bib_Zazzaro_2013_Ancient>,
         "https://www.ancient-origins.net/ancient-places-africa/adulis-0012642"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3617_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q378940> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3617_foundation> ;

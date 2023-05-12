@@ -9,12 +9,12 @@
 
 <http://data.archaeology.link/data/ancientports/1_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Alta, Bronze Age rock carvings showing many ships"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wickler_2019_Early>,
         "https://en.wikipedia.org/wiki/World_Heritage_Rock_Art_Centre_-_Alta_Museum"^^xsd:anyURI,
         "https://whc.unesco.org/en/list/352"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q433634> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1_1_foundation> ;

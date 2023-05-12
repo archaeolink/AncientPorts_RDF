@@ -10,10 +10,10 @@
 <http://data.archaeology.link/data/ancientports/2251> a <http://www.ancientports.com/ont#Shipshed>,
         <http://www.ancientports.com/ont#Slipway> ;
     rdfs:label "Chio, with Roman quarry at Latomi, on the isle of Chios"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/384261QLat"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2251_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q748832> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2251_foundation> ;

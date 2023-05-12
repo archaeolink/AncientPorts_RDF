@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3806> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Tell el-Muqayyar, with 'two off-river basins enclosed within the walls of Ur' acc. to Blackman (1982, p92)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Michalowski_2011_Correspondence>,
         "https://en.wikipedia.org/wiki/Ishbi-Erra"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5699> ;
     skos:note "Woolley (1974)" ;

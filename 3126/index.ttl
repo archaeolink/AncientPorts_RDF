@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/3126> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Karadag, near Bademli, island now connected to mainland"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.nationalgeographic.fr/histoire/une-ile-perdue-de-la-grece-antique-ete-retrouvee-dans-la-mer-egee"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3126_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q21540081> ;
     skos:note "Pirson (2015)",

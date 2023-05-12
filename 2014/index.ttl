@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/2014> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Poros, near Elio-Proni, Tomb of Odysseus near Tzannata?, on the isle of Cephalonia"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://homericithaca.blogspot.fr/2014/10/la-tombe-tholos-de-tzannata.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2014_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7249936> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2014_foundation> ;

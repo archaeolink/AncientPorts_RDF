@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3892_3> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Deversoir? on Nile to Red Sea canal, near Difarsuwar air base, with 145x45 m fortress (destroyed?)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://bibleatlas.org/etham.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5266913> ;
     skos:note "Bruyere (1966)" ;

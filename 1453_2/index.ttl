@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/1453_2> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Kastel Stari"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7262"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1453_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1290124> ;
     skos:note "Radic Rossi (2008)" ;

@@ -8,11 +8,11 @@
 
 <http://data.archaeology.link/data/ancientports/14> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Woerden, Kruittorenweg & Havenstraat, on R Oude Rijn"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Seinen_2014_Late>,
         "https://vici.org/vici/52/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/14_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     ns1:P1584 <http://pleiades.stoa.org/places/98997> ;

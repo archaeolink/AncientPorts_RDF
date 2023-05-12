@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/30> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Vlaardingen? on R Lek"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://vici.org/vici/2534/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/30_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     skos:note "Eijskoot (2011)" ;

@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/2517> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Taraschina"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://archeologie-danube.hypotheses.org/806"^^xsd:anyURI,
         "http://archeologie-danube.hypotheses.org/le-site-de-taraschina"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2517_geom> ;
     skos:note "Micu (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2517_foundation> ;

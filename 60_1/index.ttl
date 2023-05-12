@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/60_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Winteringham on R Humber"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1005243"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/60_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q8026475> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/60_1_foundation> ;

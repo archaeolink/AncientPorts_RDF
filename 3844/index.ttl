@@ -5,15 +5,14 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3844> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Kushat? Arrian mentions anchoring in front of a beach with heavy surf ; Marcian mentions a port, presumably Pasabandar"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Besenval_1994_Le>,
         <http://data.archaeology.link/data/ancientports/bib_Desse_2005_Les> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3844_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5727580> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3844_foundation> ;

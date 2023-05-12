@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/2279_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Kamari, on the isle of Fournoi"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://news.nationalgeographic.com/2016/07/greece-shipwrecks-discovery-fourni-ancient-diving-archaeology/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2279_1_geom> ;
     skos:note "Campbell (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2279_1_foundation> ;

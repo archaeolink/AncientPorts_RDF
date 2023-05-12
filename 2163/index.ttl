@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/2163> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Quarry at Aliki, on the South coast of the isle of Thasos"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.jstor.org/stable/41736072?seq=1#page_scan_tab_contents"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2163_geom> ;
     skos:note "Bon (1932)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2163_foundation> ;

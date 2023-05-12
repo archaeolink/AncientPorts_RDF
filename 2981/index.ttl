@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/2981> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Paralia Chiona, at Roussolakos Palekastro, Eleia Chora, Mount Dicte, Dikti, east of Crete"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/352263SDik"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2981_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3443476> ;
     skos:note "Bruins (2008)",

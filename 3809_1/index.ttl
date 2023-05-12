@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3809_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell Muhammad? at confluence of R Tigris and R Diyala"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Akkadian_Empire"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3809_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q150996> ;
     skos:note "Wall-Romana (1990)" ;

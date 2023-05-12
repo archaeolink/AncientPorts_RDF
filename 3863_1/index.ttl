@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/3863_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Chaul, Revdanda fort, in front of Korlai Fort, on Roha Creek at outlet of R Kundulika"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://de.wikipedia.org/wiki/Chaul"^^xsd:anyURI,
         "https://en.wikipedia.org/wiki/Korlai_Fort"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3863_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6432353> ;
     skos:note "Dalayan (2018)" ;

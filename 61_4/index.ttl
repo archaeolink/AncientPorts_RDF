@@ -10,11 +10,11 @@
 <http://data.archaeology.link/data/ancientports/61_4> a <http://www.ancientports.com/ont#Shipshed>,
         <http://www.ancientports.com/ont#Slipway> ;
     rdfs:label "Bronze Age settlement at Must Farm"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Knight_2019_Must>,
         "http://www.mustfarm.com/bronze-age-river/archaeology/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/61_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q22047654> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/61_4_foundation> ;

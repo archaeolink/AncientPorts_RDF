@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/2310> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tilos, on the isle of Tilos"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/364274CCha"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2310_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q898718> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2310_foundation> ;

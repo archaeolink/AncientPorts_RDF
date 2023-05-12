@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/101_2> a <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Roman villa at Holcombe"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1002558"^^xsd:anyURI,
         "https://www.lymeregismuseum.co.uk/collection/early-lyme-regis/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/101_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5879023> ;
     skos:note "Ottewell (2019)" ;

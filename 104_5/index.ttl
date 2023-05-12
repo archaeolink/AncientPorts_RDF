@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/104_5> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Roman fort at Calstock, on R Tamar (export of tin)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1140252"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/104_5_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q744317> ;
     skos:note "de Graauw pictures (2019)" ;

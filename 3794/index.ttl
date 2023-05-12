@@ -9,12 +9,12 @@
 
 <http://data.archaeology.link/data/ancientports/3794> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell Khazneh & Tell Sa’ad & Tell Sa'aid, on the isle of Failaka, Koweith"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Connan_2007_Geochemical>,
         <http://data.archaeology.link/data/ancientports/bib_Pawlicki_2015_Preliminary>,
         "https://pcma.uw.edu.pl/en/2019/03/26/failaka-archaeological-survey/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3794_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q748846> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3794_foundation> ;

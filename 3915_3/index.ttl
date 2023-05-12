@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/3915_3> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "East Canopus, submerged temple in the bay of Abu Qir"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.franckgoddio.org/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3915_3_geom> ;
     skos:note "Goddio (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3915_3_foundation> ;

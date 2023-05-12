@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3263> a <http://www.ancientports.com/ont#Shipyard> ;
     rdfs:label "Sülüklü Gölü, near Dalyan on R Dalyan, Strabo, 14, 2 mentions a closable harbour with shipsheds"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/369286WKal"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3263_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q608095> ;
     skos:note "Arnaud (2008)" ;

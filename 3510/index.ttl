@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3510> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell es-Sakan, near  on wadi Gaza, Ghazzeh"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Andreou_2022_Exploring> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3510_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7697545> ;
     skos:note "Morhange (2005)" ;

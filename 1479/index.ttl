@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/1479> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "probably Isle of Scedro, near Hvar, but might also be the Isle of Sipan near Dubrovnik"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/1990"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1479_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q392842> ;
     ns1:P1584 <http://pleiades.stoa.org/places/197544> ;

@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/33> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "submerged at 1.5 km NW of Colijnsplaat, votive altars to Nehalennia goddess, on R Oosterschelde, Eastern Scheldt"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://vici.org/vici/66330/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/33_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     skos:note "Lendering",

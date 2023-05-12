@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/2113> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Kastri, Dokathismata, on the isle of Amorgos"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://amorgos.gr/explore-amorgos/ancient-arkesini/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2113_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2113_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599517> ;

@@ -9,12 +9,12 @@
 
 <http://data.archaeology.link/data/ancientports/2> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tanum, Bronze Age rock carvings showing many ships"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://whc.unesco.org/en/list/557"^^xsd:anyURI,
         "http://www.shfa.se/?lang=en-GB"^^xsd:anyURI,
         "https://en.wikipedia.org/wiki/Nordic_Bronze_Age"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1761052> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2_foundation> ;

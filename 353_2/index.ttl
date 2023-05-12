@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/353_2> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Los Castillejos de Alcorrin, with BA settlement, on R Alcorrin"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://andaluciarustica.com/en/los-castillejos-de-alcorrin-archaeological-site-manilva.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/353_2_geom> ;
     skos:note "May (2022)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/353_2_foundation> ;

@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3779> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "al-Dur, ed-Dur, next to Khor al-Beidah, in Umm al-Quwain Emirate"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The>,
         <http://data.archaeology.link/data/ancientports/bib_Potts_2001_Before> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3779_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q48969546> ;
     skos:note "Haerinck (1988-1993)" ;

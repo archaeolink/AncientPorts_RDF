@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/851> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Stazione Ferroviaria Pisa-San Rossore, near Pisa on R Arno"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/851_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q13375> ;
     skos:note "Camilli (2004)",

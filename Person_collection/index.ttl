@@ -257,6 +257,7 @@
         <http://data.archaeology.link/data/ancientports/author_Zuluaga_Maria_Cruz>,
         <http://data.archaeology.link/data/ancientports/author_arakis_Dimitris>,
         <http://data.archaeology.link/data/ancientports/author_de_Almeida_Rui_Roberto>,
+        <http://data.archaeology.link/data/ancientports/author_de_Graauw_Arthur>,
         <http://data.archaeology.link/data/ancientports/author_de_Procé_Solène_Marion>,
         <http://data.archaeology.link/data/ancientports/author_ers_M>,
         <http://data.archaeology.link/data/ancientports/author_ez_Francisco_José> .

@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3681> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "al-Qusayr, Qassir, on wadi al-Hamd"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.livius.org/articles/place/dedan/hegra/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3681_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q27356> ;
     skos:note "Unesco (2007)" ;

@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3891> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell el-Retabeh, Retabah, Rotaba, Ras al-Wadi, Tell el-Kebir, on wadi Tumilat, near Ismailia Canal"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Thiers_2007_Ptolemee>,
         "https://pcma.uw.edu.pl/en/2019/01/12/tell-el-retaba-2/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3891_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1630019> ;
     skos:note "Somaglino (2011)" ;

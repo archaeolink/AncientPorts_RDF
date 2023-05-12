@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/79_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Cliffsend Farm, with Bronze Age settlement, possible landing place of Caesar in 54 BC at Pegwell Bay"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.megalithic.co.uk/article.php?sid=37855"^^xsd:anyURI,
         "https://www.wessexarch.co.uk/our-work/cliffs-end-farm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/79_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3425604> ;
     skos:note "Ling (2014)" ;

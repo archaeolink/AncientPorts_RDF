@@ -7,10 +7,10 @@
 
 <http://data.archaeology.link/data/ancientports/601_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Estey d'Un at Mapon, port of Brion"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://dossiers-inventaire.aquitaine.fr/dossier/estey-d-un/c6f6adaa-085f-448a-841f-1edcf98f6d19"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/601_1_geom> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

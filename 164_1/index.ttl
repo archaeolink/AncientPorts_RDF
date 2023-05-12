@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/164_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Bladnoch Roman fortlet, on R Bladnoch"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.romanplaces.eu/12-book/celtic-river-names/50-abravannus"^^xsd:anyURI,
         "https://scotlandsplaces.gov.uk/record/hes/318944/bladnoch"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/164_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q20876988> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/164_1_foundation> ;

@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/333> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "La Martela, ca. 250 m south of Castillo de Doña Blanca, on R Guadalete, which later moved southwards"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.gentedelpuerto.com/2020/05/25/48005/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/333_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6169531> ;
     skos:note "Bernal (2012)",

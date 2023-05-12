@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/3606> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Suakin, Ptolemy locates Evangelon at only 35' of latitude north of Ptolemais"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://marea.soton.ac.uk/2019/11/28/suakin-case-study/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3606_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q571215> ;
     skos:note "Berg (1993)",

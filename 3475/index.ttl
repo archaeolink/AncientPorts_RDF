@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3475> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell Kabri, el-Qahweh, near Nahariya, on R Ga'aton"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3475_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2895524> ;
     skos:note "Marcus (1998)" ;

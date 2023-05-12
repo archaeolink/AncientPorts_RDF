@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/274> a <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Roman villa at Boca do Rio, Salema, Budens"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://archaeologynewsnetwork.blogspot.com/2018/09/ancient-roman-port-discovered-portugal.html#WE67Pd2x3PzO3z9w.97"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/274_geom> ;
     skos:note "Hermann (2022)",
         "Teichner (2016)" ;

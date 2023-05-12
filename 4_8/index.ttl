@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/4_8> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Husby Klit, submerged BA settlement"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://splashcos-viewer.eu/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4_8_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/4_8_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q35> .

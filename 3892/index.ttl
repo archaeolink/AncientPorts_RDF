@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3892> a <http://www.ancientports.com/ont#Shipyard> ;
     rdfs:label "Tell el-Maskhuta, on wadi Tumilat, near Ismailia Canal, 1 st stela of Darius on Nile to Red Sea canal"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Thiers_2007_Ptolemee>,
         "https://en.wikipedia.org/wiki/Canal_of_the_Pharaohs"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2538734> ;
     skos:note "Snape (2014:43)" ;

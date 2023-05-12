@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3450_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Byblos offshore anchorage at Dahret-Daaret Martine reef, with many anchor stones at 25 m depth"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2020/06/25/byblos-lebanon/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3450_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q173532> ;
     skos:note "Francis-Allouche (2019)" ;

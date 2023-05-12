@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3288> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "possibly south of Letoon, at ancient outlet of R Esin Cayi"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/363293WXan"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3288_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q464936> ;
     skos:note "Arnaud (2008)" ;

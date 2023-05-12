@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/3065> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Episkopi Phaneromeni, near R Lykos"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/348328WLyk"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3065_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1785592> ;
     skos:note "Crawford (2016)" ;

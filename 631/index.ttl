@@ -10,11 +10,11 @@
 
 <http://data.archaeology.link/data/ancientports/631> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Meze, with submerged BA settlement at La Conque"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://capmeroccitanie.fr/village-lacustre-englouti-premiers-setois/"^^xsd:anyURI,
         "https://france3-regions.francetvinfo.fr/occitanie/plongee-etang-thau-decouvrir-village-vieux-3000-ans-738883.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/631_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q385616> ;
     skos:note "Garcia (1995)" ;

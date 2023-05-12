@@ -9,10 +9,10 @@
 
 <http://data.archaeology.link/data/ancientports/413> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Burriana, port of Onda"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://mayores.uji.es/blogs/antrop/2011/12/05/historia-de-burriana/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/413_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q385070> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/413_foundation> ;

@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/101> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Isle of Portland, near Chesil beach, with Culverwell Mesolithic site"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Wilkes_2004_Iron>,
         "https://portlandarchaeology.weebly.com/culverwell.html"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/101_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q15212174> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/101_foundation> ;

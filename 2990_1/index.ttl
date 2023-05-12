@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/2990_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Cape Mouri, on the isle of Chrysi, Chryssi"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://mysteriousuniverse.org/2019/11/significant-minoan-treasure-discovered-on-libyan-sea-island/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2990_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1088543> ;
     skos:note "Chalikias (2015)" ;

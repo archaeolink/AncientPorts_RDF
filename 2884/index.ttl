@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/2884> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Apolyont, Gölyazi on Lake Uluabat Gölü, near R Kocasu, near Aktopraklik Neolithic settlement"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/401285WRhy"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2884_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q619312> ;
     skos:note "Sahin (2018)" ;

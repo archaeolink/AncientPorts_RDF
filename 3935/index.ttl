@@ -6,14 +6,13 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3935> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Ras el-Teen, Ras el-Tin, before the heptastadion was built, this was an island quite similar to Tyre, many submerged structures are described by Jondet"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Weill_1916_Ports> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3935_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q43244> ;
     skos:note "Belova(2019)",

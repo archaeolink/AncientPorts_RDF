@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/2706> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Poti, on southern arm of R Rioni, with Roman naval base (on lake Paliastomi, which may have been just a bay in ancient times?)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/422417WPha"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2706_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q378091> ;
     skos:note "Dan (2016)",

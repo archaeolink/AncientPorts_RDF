@@ -4,15 +4,14 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3846> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Jiwani, inside Guttar, Gwatar bay, near outlet of R Dasht Kaur (Marcian erroneously places Carmina insula in this area)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Besenval_1994_Le>,
         <http://data.archaeology.link/data/ancientports/bib_Potts_2019_Islands> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3846_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2621751> ;
     ns1:P1584 <http://pleiades.stoa.org/places/30242> ;

@@ -4,14 +4,13 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3616> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Probably somewhere in East Africa, possibly in the area of the Afar people, between Adulis and Djibouti, on the location of the ancient D'mt (Da'amat) kingdom and close to the Kush kingdom and its gold mines, where they could also find silver, ivory, apes, and peacocks. Other possible locations for Punt are Mundus-Mosylium and Opone (Somalia)"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Glazer_2012_Solomon> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3616_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q282350> ;
     ns1:P17 <http://www.wikidata.org/entity/Q986> .

@@ -8,11 +8,11 @@
 
 <http://data.archaeology.link/data/ancientports/9> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Roman fort still visible in the 17th c. at LLW, but now submerged offshore Katwijk, near the outlet of R Oude Rijn (R Old Rhine) which was the northern limit of the Roman empire and was navigable over a long distance, with many river ports"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://maritime-heritage.com/articles/wrecks-waterways"^^xsd:anyURI,
         "https://vici.org/vici/58/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/9_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1265889> ;
     ns1:P1584 <http://pleiades.stoa.org/places/99003> ;

@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/1354_1> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Trieste, via Cavana & Curia & via Cavazzeni"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.trieste-di-ieri-e-di-oggi.it/trieste-romana/"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1354_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q546> ;
     skos:note "Terre di Mare (2007)" ;

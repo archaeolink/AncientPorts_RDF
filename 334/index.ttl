@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/334> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "El Gallinero, Puerto Real shipyard in the Bay of Cadix, east of R San Pedro"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://es.wikipedia.org/wiki/Puerto_Real#Prehistoria_y_Edad_Antigua"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/334_geom> ;
     skos:note "Bernal (2012)",
         "DeFer (1705)" ;

@@ -11,10 +11,10 @@
 <http://data.archaeology.link/data/ancientports/916> a <http://www.ancientports.com/ont#Lighthouse>,
         <http://www.ancientports.com/ont#Warehouse> ;
     rdfs:label "Ostia, with probable lighthouse at Tor Boacciana. It may be noted that Dionysius is more positive on the use of this port than Strabo, although they both lived in the same period"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/916_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1012797> ;
     skos:note "Goiran (2014)" ;

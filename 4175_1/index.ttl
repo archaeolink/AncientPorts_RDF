@@ -9,11 +9,11 @@
 
 <http://data.archaeology.link/data/ancientports/4175_1> a <http://www.ancientports.com/ont#Quay> ;
     rdfs:label "Punic breakwater on Quadrilatere de Falbe, Carthage"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hurst_2010_Understanding>,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4175_1_geom> ;
     skos:note "Flemming (1980)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/4175_1_foundation> ;

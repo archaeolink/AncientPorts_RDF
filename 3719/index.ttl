@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3719> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Ras Hafun, Xaafuun, with bay of Khor Hordiyo, Hurdiyo? Other possible locations for Punt are Mundus, Mosylium and Adulis"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://pleiades.stoa.org/places/40352"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3719_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7098410> ;
     skos:note "Chittick (1976)",

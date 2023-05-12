@@ -7,10 +7,10 @@
 
 <http://data.archaeology.link/data/ancientports/3774> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Dibba al-Hisn"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Potts_2001_Before> ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3774_geom> ;
     ns1:P1584 <http://pleiades.stoa.org/places/932450> ;
     ns1:P17 "Fujairah"^^xsd:string .

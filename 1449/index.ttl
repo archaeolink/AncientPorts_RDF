@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/1449> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Veli Porat, near Luka Drvenik, on the isle of Drvenik Veli "@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/4983"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1449_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1165734> ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> .

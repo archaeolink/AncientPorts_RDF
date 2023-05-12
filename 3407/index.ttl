@@ -10,10 +10,10 @@
 
 <http://data.archaeology.link/data/ancientports/3407> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Al-Mina, at the outlet of R Oronte, R Asi, near Antakya"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://topostext.org/place/361360WOro"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3407_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q200441> ;
     skos:note "Pamir (2005)" ;

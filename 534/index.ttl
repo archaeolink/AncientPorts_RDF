@@ -8,10 +8,10 @@
 
 <http://data.archaeology.link/data/ancientports/534> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Port-en-Bessin-Huppain"@en ;
-    dc:created "2023"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.inrap.fr/archeologie-preventive/Actualites/Communiques-de-presse/p-16145-Le-passe-antique-de-Port-en-Bessin-Huppain-revele-par-une-fouille-archeologique.htm"^^xsd:anyURI ;
+    dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/534_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q987304> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> .
