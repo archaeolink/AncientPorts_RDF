@@ -41,22 +41,23 @@ def resolveWikidataIDFromArticleName(wikipediaurl):
     return qid
     
 
-def bibtexToRDF(triples,entries,ns,nsont):
+def bibtexToRDF(triples,entries,ns,nsont,creatormode=None):
     typeToURI={"report":"http://purl.org/ontology/bibo/Report","inbook":"http://purl.org/ontology/bibo/BookSection","inproceedings":"http://purl.org/ontology/bibo/Proceedings","article":"http://purl.org/ontology/bibo/Article","book":"http://purl.org/ontology/bibo/Book","phdthesis":"http://purl.org/ontology/bibo/Thesis","misc":"http://purl.org/ontology/bibo/Document"}
     bibmap={}
+    dsuri=None
     for entry in entries:
         bibsplit=str(entry["ID"]).split("_")
         bibmap[bibsplit[0]+" ("+bibsplit[1]+")"]=ns+"bib_"+str(entry["ID"])
-        triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(typeToURI[entry["ENTRYTYPE"]])+"> .\n")
-        #if str(typeToURI[entry["ENTRYTYPE"]])!="misc":
-        #    triples.add("<"+str(typeToURI[entry["ENTRYTYPE"]])+"> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/ontology/bibo/Document> .\n")
-        #    triples.add("<http://purl.org/ontology/bibo/Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .\n")
-        #    triples.add("<http://purl.org/ontology/bibo/Document> <http://www.w3.org/2000/01/rdf-schema#label> \"Document\"@en .\n")
+        if creatormode!=None:
+           triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .\n")
+           dsuri=ns+"bib_"+str(entry["ID"])
+        else:
+            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <"+str(typeToURI[entry["ENTRYTYPE"]])+"> .\n")
         triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/dc/elements/1.1/title> \""+str(entry["title"]).replace("\"","'")+"\"@en .\n") 
         if "issn" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/issn> \""+str(entry["issn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
         if "eissn" in entry:
-            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/eissn> \""+str(entry["issn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
+            triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/eissn> \""+str(entry["eissn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
         if "isbn" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/isbn> \""+str(entry["isbn"])+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")              
         if "number" in entry:
@@ -109,7 +110,7 @@ def bibtexToRDF(triples,entries,ns,nsont):
         if "doi" in entry:
             triples.add("<"+ns+"bib_"+str(entry["ID"])+"> <http://purl.org/ontology/bibo/doi> \""+str(entry["doi"]).replace("\_","_")+"\"^^<http://www.w3.org/2001/XMLSchema#string> .\n")
 
-    return {"triples":triples,"bibmap":bibmap}
+    return {"triples":triples,"bibmap":bibmap,"dsuri":dsuri}
 
 def processReference(triples,bibmap,key,row,cururi):
     refs=row[key].split(";")
@@ -136,15 +137,15 @@ def processReference(triples,bibmap,key,row,cururi):
         triples.add("<"+str(cururi)+"> <http://www.w3.org/2004/02/skos/core#note> \"\"\""+row[key]+"\"\"\" .\n")
     return triples
 
-def parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,baseclass,bibmap):
+def parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,baseclass,bibmap,dsuri=None):
     for row in reader:
         #print(row)
         cururi=ns+row["NB"].replace(",","_")
         #print(cururi)
         triples.add("<"+str(cururi)+"> <http://www.opengis.net/ont/geosparql#hasGeometry> <"+str(cururi)+"_geom> .\n")
         triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/creator> <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> .\n")
-        triples.add("<http://data.archaeology.link/data/spphaefen/arthur_de_graauw> <http://www.w3.org/2000/01/rdf-schema#label> \"Arthur de Graauw\"@en  .\n")
-        triples.add("<"+str(cururi)+"> <http://purl.org/dc/elements/1.1/created> \"2023\"^^<http://www.w3.org/2001/XMLSchema#gYear> .\n")
+        if dsuri!=None:
+            triples.add("<"+str(cururi)+"> <http://purl.org/dc/terms/partOf> <"+str(dsuri)+"> .\n")
         triples.add("<"+str(cururi)+"> <http://www.w3.org/2000/01/rdf-schema#label> \"\"\""+str(row["NAME_MOD"]).replace("\"","'")+"\"\"\"@en .\n")
         if row["COUNTRY"] in countries:
             triples.add("<"+str(cururi)+"> <http://www.wikidata.org/prop/direct/P17> <"+countries[str(row["COUNTRY"])]+"> .\n <"+countries[str(row["COUNTRY"])]+"> <http://www.w3.org/2000/01/rdf-schema#label> \""+str(row["COUNTRY"])+"\"@en .\n")
@@ -232,9 +233,16 @@ with open('source/ap.bib',encoding="utf-8") as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 print(bib_database.entries)
 
+with open('source/ap_creator.bib',encoding="utf-8") as bibtex_file:
+    bib_creator = bibtexparser.load(bibtex_file)
+print(bib_creator.entries)
+
 ns="http://data.archaeology.link/data/ancientports/"
 nsont="http://www.ancientports.com/ont#"
 triples=set()
+bibres=bibtexToRDF(triples,bib_creator.entries,ns,nsont,True)
+triples=bibres["triples"]
+dsuri=bibres["dsuri"]
 bibres=bibtexToRDF(triples,bib_database.entries,ns,nsont)
 triples=bibres["triples"]
 bibmap=bibres["bibmap"]
@@ -263,7 +271,7 @@ refnotfound=set()
 countrynotfound=set()
 with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile,delimiter=';')
-    res=parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,"<"+str(nsont)+"Harbour>",bibmap)
+    res=parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,"<"+str(nsont)+"Harbour>",bibmap,dsuri)
     triples=res["triples"]
     refnotfound=res["refnotfound"]
     countryfound=res["countrynotfound"]
@@ -271,7 +279,7 @@ with open('source/AncientPorts.csv', newline='', encoding="utf-8") as csvfile:
     
 with open('source/PotentialAncientPorts.csv', newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile,delimiter=';')
-    res=parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,"<"+str(nsont)+"PotentialHarbour>",bibmap)
+    res=parsePortFile(reader,triples,refnotfound,countrynotfound,wikidatacache,"<"+str(nsont)+"PotentialHarbour>",bibmap,dsuri)
     triples=res["triples"]
     refnotfound=res["refnotfound"]
     countryfound=res["countrynotfound"]
@@ -285,12 +293,12 @@ with open("ap_result.ttl","w",encoding="utf-8") as resfile:
     resfile.write("".join(triples))
     resfile.close()
 
+g=Graph()
+g.parse("ap_result.ttl")
+g.serialize("ap_result.ttl")
+
 for ref in sorted(refnotfound):
     print(ref)
     
 for co in sorted(countrynotfound):
     print(co)
-
-#g=Graph()
-#g.parse("ap_result.ttl")
-#g.serialize("ap_result.ttl")
