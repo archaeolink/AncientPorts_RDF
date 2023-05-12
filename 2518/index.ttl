@@ -16,5 +16,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q5066473> ;
     skos:note "Preoteasa (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2518_foundation> ;
-    ns1:P17 "Ukraine Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q212> .
 

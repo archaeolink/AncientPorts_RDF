@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4341_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q182432> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/4341_2_foundation> ;
-    ns1:P17 "Spain: Canaria"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q29> .
 

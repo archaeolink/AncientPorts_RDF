@@ -17,7 +17,7 @@
     skos:note "Aydingün (2022)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2437_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/511361> ;
-    ns1:P17 "TR: Black Sea N"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23352> ;
     ns1:P1958 <https://www.trismegistos.org/place/41355> ;
     ns1:P8068 <https://topostext.org/place/413287UPhi> .

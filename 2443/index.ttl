@@ -16,5 +16,5 @@
         "Damyanov (2021)",
         "Peev (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2443_foundation> ;
-    ns1:P17 "Bulgaria Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q219> .
 

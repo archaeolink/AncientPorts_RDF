@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -8,10 +9,10 @@
         <http://data.archaeology.link/data/ancientports/author_Morais_Rui> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The Atlantic Roman trade during the Principate: new evidence from the western facade"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q70631906> ;
     ns1:issuer "Oxford Journal of Archaeology" ;
     ns1:number 4 ;
     ns1:pageEnd 441 ;
     ns1:pageStart 419 ;
-    ns1:publisher "Wiley Online Library" ;
     ns1:volume "31"^^xsd:string .
 

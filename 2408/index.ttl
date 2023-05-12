@@ -15,5 +15,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q12907220> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2408_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/521043> ;
-    ns1:P17 "TR: Bosph N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

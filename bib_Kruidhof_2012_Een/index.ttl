@@ -1,8 +1,8 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Kruidhof_2012_Een> a ns1:Article ;
+<http://data.archaeology.link/data/ancientports/bib_Kruidhof_2012_Een> a <http://purl.org/ontology/bibo/Article> ;
     dc:created "2012"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Henk_Y_Raczynski>,
         <http://data.archaeology.link/data/ancientports/author_Koehler_L>,
@@ -10,5 +10,5 @@
         <http://data.archaeology.link/data/ancientports/author_Lyklema_E> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Een boomstamkano in Dijkgatsweide: een bijzondere vondst uit het Midden Neolithicum, gemeente Wieringermeer"@en ;
-    ns1:publisher "RAAP Archeologisch Adviesbureau" .
+    dcterms:publisher "RAAP Archeologisch Adviesbureau" .
 

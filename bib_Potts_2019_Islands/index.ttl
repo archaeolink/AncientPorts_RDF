@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -7,8 +8,8 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Potts_Daniel> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The islands of the XIVth satrapy"@en ;
+    dcterms:publisher "De Gruyter Berlin, Boston" ;
     ns1:issuer "New Perspectives in Seleucid History, Archaeology and Numismatics--Studies in Honor of Getzel M. Cohen" ;
     ns1:pageEnd 396 ;
-    ns1:pageStart 375 ;
-    ns1:publisher "De Gruyter Berlin, Boston" .
+    ns1:pageStart 375 .
 

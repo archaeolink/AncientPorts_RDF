@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q12136761> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2512_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/216730> ;
-    ns1:P17 "Romania Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q218> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23325> ;
     ns1:P1958 <https://www.trismegistos.org/place/30004> .
 

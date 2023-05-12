@@ -16,5 +16,5 @@
     skos:note "Azzopardi (2012)",
         "Gambin (2003)",
         "Gambin (2021)" ;
-    ns1:P17 "Malta: Gozo"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

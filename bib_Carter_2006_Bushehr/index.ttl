@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -10,10 +11,10 @@
         <http://data.archaeology.link/data/ancientports/author_Tofighian_Hossein> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The Bushehr Hinterland results of the first season of the Iranian-British archaeological survey of Bushehr Province, November-December 2004"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q880582> ;
     ns1:issuer "Iran" ;
     ns1:number 1 ;
     ns1:pageEnd 103 ;
     ns1:pageStart 63 ;
-    ns1:publisher "Taylor & Francis" ;
     ns1:volume "44"^^xsd:string .
 

@@ -8,7 +8,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "A Preliminary Report on a Coastal and Underwater Survey in the Area of Jeddah, Saudi Arabia"@en ;
     ns1:doi "10.3764/aja.119.1.0125"^^xsd:string ;
-    ns1:issuer "American Journal of Archaeology" ;
+    ns1:issuer <http://www.wikidata.org/entity/Q465332> ;
     ns1:pageEnd 136 ;
     ns1:pageStart 125 ;
     ns1:volume "119"^^xsd:string .

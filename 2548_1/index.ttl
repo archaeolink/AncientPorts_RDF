@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2548_1_geom> ;
     skos:note "Kozlovskaya (2017)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2548_1_foundation> ;
-    ns1:P17 "Ukraine Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q212> .
 

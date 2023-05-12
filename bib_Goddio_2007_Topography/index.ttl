@@ -1,11 +1,11 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Goddio_2007_Topography> a ns1:Book ;
+<http://data.archaeology.link/data/ancientports/bib_Goddio_2007_Topography> a <http://purl.org/ontology/bibo/Book> ;
     dc:created "2007"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Goddio_Franck> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The Topography and Excavation of Heracleion-Thonis and East Canopus (1996-2006). Underwater Archaeology in the Canopic Region in Egypt 1"@en ;
-    ns1:publisher "Oxford" .
+    dcterms:publisher "Oxford" .
 

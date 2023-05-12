@@ -13,6 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2707_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2862423> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857237> ;
-    ns1:P17 "Georgia Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q230> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23465> .
 

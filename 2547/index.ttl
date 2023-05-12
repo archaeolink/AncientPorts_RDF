@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2547_geom> ;
     skos:note "Damyanov (2021)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/229574> ;
-    ns1:P17 "Ukraine Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q212> .
 

@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2472_1_geom> ;
     skos:note "Peev (2020)" ;
     ns1:P1584 <https://pleiades.stoa.org/places/222212> ;
-    ns1:P17 "Bulgaria Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q219> .
 

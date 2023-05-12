@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2010759> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2562_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/226652> ;
-    ns1:P17 "Ukraine Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q212> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22006> ;
     ns1:P1958 <https://www.trismegistos.org/place/38270> .
 

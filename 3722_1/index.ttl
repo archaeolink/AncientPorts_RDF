@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3722_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82859> ;
     skos:note "Strauch (2016)" ;
-    ns1:P17 "Yemen: Socotra"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q805> .
 

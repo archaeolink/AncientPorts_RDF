@@ -16,5 +16,5 @@
     skos:note "Castelli (2015)",
         "Damyanov (2021)",
         "Peev (2020)" ;
-    ns1:P17 "Bulgaria Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q219> .
 

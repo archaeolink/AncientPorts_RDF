@@ -17,7 +17,7 @@
     skos:note "Bony (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2490_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/216710> ;
-    ns1:P17 "Romania Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q218> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21789> ;
     ns1:P1958 <https://www.trismegistos.org/place/38213> ;
     ns1:P8068 <https://topostext.org/place/448289UOrg> .

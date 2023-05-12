@@ -15,7 +15,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q15547818> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2710_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857362> ;
-    ns1:P17 "Georgia Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q230> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/23464> ;
     ns1:P1958 <https://www.trismegistos.org/place/41418> ;
     ns1:P8068 <https://topostext.org/place/418418FPet> .

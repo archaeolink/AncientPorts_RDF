@@ -15,6 +15,6 @@
     skos:note "Dan (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2706_3_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857320> ;
-    ns1:P17 "Georgia Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q230> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27834> .
 

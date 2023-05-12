@@ -19,7 +19,7 @@
     skos:note "Karasiewicz (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2713_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/857032> ;
-    ns1:P17 "Georgia Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q230> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21796> ;
     ns1:P1958 <https://www.trismegistos.org/place/16526> ;
     ns1:P8068 <https://topostext.org/place/416416UAps> .

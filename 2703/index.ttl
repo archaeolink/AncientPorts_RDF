@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2703_geom> ;
     skos:note "Creemers (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2703_foundation> ;
-    ns1:P17 "Georgia Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q230> .
 

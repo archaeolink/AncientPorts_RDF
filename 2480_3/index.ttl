@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2480_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5065650> ;
-    ns1:P17 "Romania Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q218> .
 

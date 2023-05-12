@@ -13,5 +13,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2436_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3269761> ;
     ns1:P1584 <https://pleiades.stoa.org/places/521105> ;
-    ns1:P17 "TR: Black Sea N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

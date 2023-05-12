@@ -17,7 +17,7 @@
     skos:note "Dan (2013)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2436_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/521160> ;
-    ns1:P17 "TR: Black Sea N"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41451> ;
     ns1:P1958 <https://www.trismegistos.org/place/42371> ;
     ns1:P8068 <https://topostext.org/place/412291IKya> .

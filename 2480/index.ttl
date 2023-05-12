@@ -16,6 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q12743458> ;
     skos:note "Avram (2004)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2480_foundation> ;
-    ns1:P17 "Romania Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q218> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/26807> .
 

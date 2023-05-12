@@ -14,5 +14,5 @@
     dcterms:isReferencedBy "https://dwejra.weebly.com/history--archeology.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1236_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q537627> ;
-    ns1:P17 "Malta: Gozo"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

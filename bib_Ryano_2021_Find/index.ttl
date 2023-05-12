@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -8,10 +9,10 @@
         <http://data.archaeology.link/data/ancientports/author_Ryano_M> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "A Find of Transoceanic Pottery at Bwejuu Island of the Rufiji Delta and Mafia Island, Tanzania: More Clue to the Elusive Ancient Azania’s Metropolis of Rhapta"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q56416796> ;
     ns1:issuer "International Journal of Archaeology" ;
     ns1:number 1 ;
     ns1:pageEnd 33 ;
     ns1:pageStart 24 ;
-    ns1:publisher "Science Publishing Group" ;
     ns1:volume "9"^^xsd:string .
 

@@ -13,6 +13,6 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2418_geom> ;
     skos:note "Külzer (2011)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/521041> ;
-    ns1:P17 "TR: Bosph N"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q43> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/31470> .
 

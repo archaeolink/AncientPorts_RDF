@@ -1,13 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes> a ns1:Book ;
+<http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes> a <http://purl.org/ontology/bibo/Book> ;
     dc:created "1997"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Berger_Catherine>,
         <http://data.archaeology.link/data/ancientports/author_Lauer_Jean_Philippe>,
         <http://data.archaeology.link/data/ancientports/author_Mathieu_Bernard> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Études sur l'Ancien Empire et la nécropole de Saqqâra: dédiées à Jean-Philippe Lauer"@en ;
-    ns1:publisher "Université Paul Valéry" .
+    dcterms:publisher "Université Paul Valéry" .
 

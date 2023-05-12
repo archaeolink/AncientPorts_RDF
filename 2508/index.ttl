@@ -16,6 +16,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q4796287> ;
     skos:note "Tentea (2012)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2508_foundation> ;
-    ns1:P17 "Romania Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q218> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/34892> .
 

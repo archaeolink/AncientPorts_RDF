@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/496_1_geom> ;
     skos:note "Guerrero-Ayuzo (2006)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/496_1_foundation> ;
-    ns1:P17 "Spain Ibiza"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/wiki/Q29> .
 

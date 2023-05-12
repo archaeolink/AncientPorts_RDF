@@ -18,7 +18,7 @@
         "Khotylev (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2664_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/854724> ;
-    ns1:P17 "Russia Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q159> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/22018> ;
     ns1:P1958 <https://www.trismegistos.org/place/38305> ;
     ns1:P8068 <https://topostext.org/place/453370PPha> .

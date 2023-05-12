@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2706_4_geom> ;
     skos:note "Licheli (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2706_4_foundation> ;
-    ns1:P17 "Georgia Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q230> .
 

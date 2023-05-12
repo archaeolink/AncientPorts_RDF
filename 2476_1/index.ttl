@@ -12,5 +12,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2476_1_geom> ;
     skos:note "Peev (2016)" ;
-    ns1:P17 "Bulgaria Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q219> .
 

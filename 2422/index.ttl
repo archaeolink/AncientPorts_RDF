@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2422_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4833523> ;
     skos:note "Külzer (2011)" ;
-    ns1:P17 "TR: Bosph N"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

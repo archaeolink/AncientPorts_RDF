@@ -18,7 +18,7 @@
         "Peev (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2447_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/216706> ;
-    ns1:P17 "Bulgaria Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q219> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21381> ;
     ns1:P1958 <https://www.trismegistos.org/place/16268> ;
     ns1:P8068 <https://topostext.org/place/424277PApo> .

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2440_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2467715> ;
     skos:note "Damyanov (2021)" ;
-    ns1:P17 "Bulgaria Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q219> .
 

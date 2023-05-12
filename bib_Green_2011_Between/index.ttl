@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -7,11 +8,11 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Green_Jeremy> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Between the Seas: transfer and exchange in nautical technology – Edited by Ronald Bockius"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q1508259> ;
     ns1:doi "10.1111/j.1095-9270.2010.00300_8.x"^^xsd:string ;
-    ns1:issuer "International Journal of Nautical Archaeology" ;
+    ns1:issuer <http://www.wikidata.org/entity/Q15750622> ;
     ns1:number 1 ;
     ns1:pageEnd 214 ;
     ns1:pageStart 213 ;
-    ns1:publisher "Routledge" ;
     ns1:volume "40"^^xsd:string .
 

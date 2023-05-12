@@ -14,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2578_7_geom> ;
     skos:note "Tsetskhladze (1998)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2578_7_foundation> ;
-    ns1:P17 "Ukraine Black S."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q212> .
 

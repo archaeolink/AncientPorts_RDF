@@ -17,5 +17,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q907635> ;
     skos:note "Azzopardi (2012)",
         "Gambin (2003)" ;
-    ns1:P17 "Malta: Gozo"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

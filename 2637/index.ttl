@@ -15,6 +15,6 @@
     skos:note "Hojte (2005)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2637_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/825297> ;
-    ns1:P17 "Russia Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q159> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/30732> .
 

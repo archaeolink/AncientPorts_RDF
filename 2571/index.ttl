@@ -15,6 +15,6 @@
     skos:note "Tsetskhladze (1998)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2571_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/226504> ;
-    ns1:P17 "Ukraine Black S."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q212> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27878> .
 

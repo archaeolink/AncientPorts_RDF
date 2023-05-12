@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -8,10 +9,10 @@
         <http://data.archaeology.link/data/ancientports/author_STRUKLEC_Danijel> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Solomon’s Navy in the Context of Maritime Trade Relations in Iron Age South Levant"@en ;
+    dcterms:publisher "Institut dru{{s}}tvenih znanosti IVO PILAR" ;
     ns1:issuer "Histria antiqua" ;
     ns1:number 21 ;
     ns1:pageEnd 168 ;
     ns1:pageStart 161 ;
-    ns1:publisher "Institut dru{{s}}tvenih znanosti IVO PILAR" ;
     ns1:volume "21"^^xsd:string .
 

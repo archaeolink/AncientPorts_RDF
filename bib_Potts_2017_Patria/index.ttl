@@ -7,7 +7,7 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Potts_Daniel> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Patria Persorum, India Dimirica-Evilat and India Thermantica-Elamitis in the Cosmographia of Ravennas Anonymus"@en ;
-    ns1:issuer "Studia Iranica" ;
+    ns1:issuer <http://www.wikidata.org/entity/Q15763633> ;
     ns1:pageEnd 192 ;
     ns1:pageStart 163 ;
     ns1:volume "46"^^xsd:string .
