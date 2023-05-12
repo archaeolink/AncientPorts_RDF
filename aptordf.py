@@ -44,6 +44,7 @@ def resolveWikidataIDFromArticleName(wikipediaurl):
 def bibtexToRDF(triples,entries,ns,nsont,creatormode=None):
     typeToURI={"report":"http://purl.org/ontology/bibo/Report","inbook":"http://purl.org/ontology/bibo/BookSection","inproceedings":"http://purl.org/ontology/bibo/Proceedings","article":"http://purl.org/ontology/bibo/Article","book":"http://purl.org/ontology/bibo/Book","phdthesis":"http://purl.org/ontology/bibo/Thesis","misc":"http://purl.org/ontology/bibo/Document"}
     bibmap={}
+    dsuri=None
     for entry in entries:
         bibsplit=str(entry["ID"]).split("_")
         bibmap[bibsplit[0]+" ("+bibsplit[1]+")"]=ns+"bib_"+str(entry["ID"])
