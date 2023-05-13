@@ -328,7 +328,7 @@ function rewriteLink(thelink){
         curlocpath=window.location.href.replace(baseurl,"")
         rest=thelink.replace(baseurl,"")
     }
-    if(!(rest.endsWith("/"))){
+    if(!(rest.endsWith("/")) && !(rest.endsWith(".html")){
         rest+="/"
     }
     count=0
@@ -350,7 +350,9 @@ function rewriteLink(thelink){
     }
     //console.log(rest)
     //console.log(rest.endsWith("index.html"))
-    rest+="index.html"
+	if(!rest.includes("nonns_") && !rest.endsWith(".html")){
+		rest+="index.html"
+	}
     console.log(rest)
     return rest
 }
