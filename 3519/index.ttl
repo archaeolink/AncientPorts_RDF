@@ -5,7 +5,6 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3519> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell Rafah, Rafia"@en ;
@@ -17,7 +16,7 @@
     owl:sameAs <http://www.wikidata.org/entity/Q172343> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3519_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/688015> ;
-    ns1:P17 "Gaza"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21693> ;
     ns1:P1958 <https://www.trismegistos.org/place/2044> ;
     ns1:P8068 <https://topostext.org/place/313343URap> .

@@ -6,7 +6,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3509> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "el-Qashani"@en ;
@@ -20,7 +19,7 @@
         "Sadeq (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3509_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/687903> ;
-    ns1:P17 "Gaza"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/21691> ;
     ns1:P1958 <https://www.trismegistos.org/place/697> ;
     ns1:P8068 <https://topostext.org/place/315344UGaz> .

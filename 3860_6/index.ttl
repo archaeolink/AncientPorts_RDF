@@ -4,17 +4,16 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
 <http://data.archaeology.link/data/ancientports/3860_6> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Dholavira, near R Mansar and R Manhar, on Khadir bet island"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Agrawal_2018_Archaeological> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3860_6_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q9468> ;
-    skos:note "Agrawal (2018)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3860_6_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/590230980> ;
     ns1:P17 <http://www.wikidata.org/entity/Q668> .

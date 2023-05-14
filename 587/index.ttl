@@ -12,12 +12,12 @@
     rdfs:label "Rezé, Reze, Chapelle Saint-Lupien, near Trentemoux"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://www.inrap.fr/reze-de-remarquables-vestiges-de-quais-antiques-loire-atlantique-15980#"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Arthuis_2010_Archeologie>,
+        "https://www.inrap.fr/reze-de-remarquables-vestiges-de-quais-antiques-loire-atlantique-15980#"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/587_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q326453> ;
-    skos:note "Arthuis (2010)",
-        "Mouchard (2020)" ;
+    skos:note "Mouchard (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/587_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/138533> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> ;

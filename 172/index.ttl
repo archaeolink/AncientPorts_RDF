@@ -14,11 +14,11 @@
     rdfs:label "Irun, Estuary of R Bidasoa, export of silver & lead"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Urteaga_2020_Installations> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/172_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q653443> ;
     skos:note "Santos Yanguas (2005)",
-        "Urteaga (2020)",
         "Urteaga (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/172_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/246526> ;

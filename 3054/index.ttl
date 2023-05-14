@@ -11,11 +11,11 @@
     rdfs:label "Maroni-Tsaroukkas, port of Maroni-Vournes? anchors"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum/maroni/archaeological_sites/maroni-vournes.aspx"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting>,
+        "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum/maroni/archaeological_sites/maroni-vournes.aspx"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3054_geom> ;
-    skos:note "Andreou (2014)",
-        "Sabatini (2016)" ;
+    skos:note "Andreou (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3054_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

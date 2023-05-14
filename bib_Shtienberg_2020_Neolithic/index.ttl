@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Shtienberg_2020_Neolithic> a ns1:Article ;
+    dc:created "2020"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Arkin_Shalev_Ehud>,
+        <http://data.archaeology.link/data/ancientports/author_Cantu_Katrina>,
+        <http://data.archaeology.link/data/ancientports/author_Gadol_Omri>,
+        <http://data.archaeology.link/data/ancientports/author_Lazar_Michael>,
+        <http://data.archaeology.link/data/ancientports/author_Levy_Thomas>,
+        <http://data.archaeology.link/data/ancientports/author_Norris_Richard>,
+        <http://data.archaeology.link/data/ancientports/author_Rittenourid_Tammy>,
+        <http://data.archaeology.link/data/ancientports/author_Shtienberg_Gilad>,
+        <http://data.archaeology.link/data/ancientports/author_Tamberino_Anthony>,
+        <http://data.archaeology.link/data/ancientports/author_Ward_Steven>,
+        <http://data.archaeology.link/data/ancientports/author_au_Assaf> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "A Neolithic mega-tsunami event in the eastern Mediterranean: Prehistoric settlement vulnerability along the Carmel coast, Israel"@en ;
+    ns1:doi "10.1371/journal.pone.0243619"^^xsd:string ;
+    ns1:issuer "PLoS ONE" ;
+    ns1:volume "15"^^xsd:string .
+

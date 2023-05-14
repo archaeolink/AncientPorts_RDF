@@ -8,7 +8,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3865> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, \r\r
+    rdfs:label """Manthai, near R Aruvi Aru, in front of Mannar island, on Sri Lanka island, 
 Ptolemy's Talacori might be placed near the very old Ketheeswaram temple """@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

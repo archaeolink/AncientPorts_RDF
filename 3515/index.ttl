@@ -15,6 +15,6 @@
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3515_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7697530> ;
-    ns1:P17 "Gaza"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/43127> .
 

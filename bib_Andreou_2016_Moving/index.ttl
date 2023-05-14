@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Andreou_2016_Moving> a ns1:Proceedings ;
+    dc:created "2016"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Andreou_Georgia_M>,
+        <http://data.archaeology.link/data/ancientports/author_Manning_Sturt_W>,
+        <http://data.archaeology.link/data/ancientports/author_Sewell_David_A> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Moving targets: mapping the shoreline of Cyprus"@en ;
+    ns1:pageEnd 405 ;
+    ns1:pageStart 392 .
+

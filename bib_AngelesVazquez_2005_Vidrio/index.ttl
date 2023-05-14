@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_AngelesVazquez_2005_Vidrio> a <http://purl.org/ontology/bibo/Article> ;
+    dc:created "2005"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Vázquez_Martínez_María_Angeles> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "El vidrio de época romana en la provincia de A Coruña"@en .
+

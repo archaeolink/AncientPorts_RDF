@@ -5,7 +5,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3512> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell el-Moghraqa"@en ;
@@ -15,5 +14,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3512_geom> ;
     skos:note "Steel (2002)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3512_foundation> ;
-    ns1:P17 "Gaza"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> .
 

@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Aubet_1995_Necropolis> a ns1:Article ;
+    dc:created "1995"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Aubet_M_Eugènia>,
+        <http://data.archaeology.link/data/ancientports/author_Maas-Lindemann_Gerta>,
+        <http://data.archaeology.link/data/ancientports/author_Ruíz_Juan_Antonio_Martín> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "La necrópolis fenicia del cortijo de montañez"@en ;
+    ns1:issuer "Cuadernos de Arqueología Mediterránea" ;
+    ns1:pageEnd 240 ;
+    ns1:pageStart 217 .
+

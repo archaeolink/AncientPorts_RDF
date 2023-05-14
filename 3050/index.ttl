@@ -12,12 +12,12 @@
     rdfs:label "Pyla, near Koutsopetria & Kokkinokremos / krenos"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://honorfrostfoundation.org/2022/09/02/c-pepl-excavations-at-pyla-kokkinokremos-on-cyprus-ongoing/"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting>,
+        "https://honorfrostfoundation.org/2022/09/02/c-pepl-excavations-at-pyla-kokkinokremos-on-cyprus-ongoing/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3050_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6426672> ;
-    skos:note "Caraher (2008)",
-        "Sabatini (2016)" ;
+    skos:note "Caraher (2008)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3050_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/707550> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> ;

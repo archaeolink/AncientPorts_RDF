@@ -12,12 +12,12 @@
     rdfs:label "3 names for one single place, according to Arnaud, near Cape Karatas Fener Burnu"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Mallus_(Cilicia)"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Arnaud_2020_Non>,
+        "https://en.wikipedia.org/wiki/Mallus_(Cilicia)"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3386_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1057961> ;
-    skos:note "Arnaud (2016)",
-        "Arnaud (2020)" ;
+    skos:note "Arnaud (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3386_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/648701> ;
     ns1:P17 <http://www.wikidata.org/entity/Q43> ;

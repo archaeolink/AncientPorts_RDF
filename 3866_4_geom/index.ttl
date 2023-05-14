@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3866_4_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """R Pudavaikattu? on Sri Lanka island,\r\r
+    rdfs:label """R Pudavaikattu? on Sri Lanka island,
 This location agrees with Ptolemy's coordinates with respect to Talacori emporium Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(81.07000 8.87000)"^^geo:wktLiteral .

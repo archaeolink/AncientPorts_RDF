@@ -10,10 +10,10 @@
     rdfs:label "Gözlükule, Tarsus, on R Tarsus, with Karabucak swamps south of it"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Arnaud_2020_Non> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3381_geom> ;
-    skos:note "Arnaud (2020)",
-        "Seton-Williams (1954)",
+    skos:note "Seton-Williams (1954)",
         "Öner (2005)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3381_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/648789> ;

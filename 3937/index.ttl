@@ -12,11 +12,11 @@
     rdfs:label "Harbour basin inside the Port of Eunostos, Strabo, 17, 1 mentions a closable dug basin"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://honorfrostfoundation.org/2022/06/23/geoarchaeology-of-the-kibotos-harbour-and-its-canals-ongoing/"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Mauro_2022_Analysis>,
+        "https://honorfrostfoundation.org/2022/06/23/geoarchaeology-of-the-kibotos-harbour-and-its-canals-ongoing/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3937_geom> ;
-    skos:note "Goiran (2014)",
-        "Mauro (2022)" ;
+    skos:note "Goiran (2014)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q79> ;
     ns1:P1958 <https://www.trismegistos.org/place/5227> .
 

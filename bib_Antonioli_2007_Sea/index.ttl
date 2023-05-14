@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Antonioli_2007_Sea> a ns1:Article ;
+    dc:created "2007"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Antonioli_Fabrizio>,
+        <http://data.archaeology.link/data/ancientports/author_Anzidei_Marco>,
+        <http://data.archaeology.link/data/ancientports/author_Auriemma_Rita>,
+        <http://data.archaeology.link/data/ancientports/author_Furlani_Stefano>,
+        <http://data.archaeology.link/data/ancientports/author_Gaddi_Dario>,
+        <http://data.archaeology.link/data/ancientports/author_Gaspari_Andrej>,
+        <http://data.archaeology.link/data/ancientports/author_Karinja_Snjezana>,
+        <http://data.archaeology.link/data/ancientports/author_Lambeck_Kurt>,
+        <http://data.archaeology.link/data/ancientports/author_Orrù_Paola>,
+        <http://data.archaeology.link/data/ancientports/author_Solinas_Emanuela> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Sea-level change during the Holocene in Sardinia and in the northeastern Adriatic (central Mediterranean Sea) from archaeological and geomorphological data"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q746413> ;
+    ns1:issuer "Quaternary Science Reviews" ;
+    ns1:number "19-21"^^xsd:integer ;
+    ns1:pageEnd 2486 ;
+    ns1:pageStart 2463 ;
+    ns1:volume "26"^^xsd:string .
+

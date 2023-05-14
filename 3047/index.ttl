@@ -4,17 +4,16 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
 <http://data.archaeology.link/data/ancientports/3047> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Nissi Beach"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Ammerman_2011_Underwater> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3047_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7041122> ;
-    skos:note "Ammerman (2011)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3047_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .
 

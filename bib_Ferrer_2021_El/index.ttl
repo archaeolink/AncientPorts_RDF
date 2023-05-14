@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Ferrer_2021_El> a ns1:BookSection ;
+    dc:created "2021"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Albelda_Eduardo>,
+        <http://data.archaeology.link/data/ancientports/author_Rey_Castiñeira_Josefa>,
+        <http://data.archaeology.link/data/ancientports/author_Rodríguez-Corral_Javier>,
+        <http://data.archaeology.link/data/ancientports/author_Saez_Romero_Antonio>,
+        <http://data.archaeology.link/data/ancientports/author_ez_Francisco_José> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "El archipiélago de las Casitérides y el comercio púnico en el noroeste de Iberia"@en ;
+    ns1:isbn "978-84-8181-772-0"^^xsd:string ;
+    ns1:pageEnd 25 ;
+    ns1:pageStart 9 .
+

@@ -6,7 +6,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3516> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Deir el-Balah"@en ;
@@ -18,5 +17,5 @@
     skos:note "Morris (2005)",
         "Sadeq (2012)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3516_foundation> ;
-    ns1:P17 "Gaza"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> .
 

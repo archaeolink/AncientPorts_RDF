@@ -6,7 +6,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3509_1> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Gaza City"@en ;
@@ -20,5 +19,5 @@
         "Sadeq (2015)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3509_1_foundation> ;
     ns1:P1584 <https://pleiades.stoa.org/places/687902> ;
-    ns1:P17 "Gaza"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> .
 

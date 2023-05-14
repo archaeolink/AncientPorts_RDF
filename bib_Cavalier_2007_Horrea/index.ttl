@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Cavalier_2007_Horrea> a ns1:Article ;
+    dc:created "2007"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Cavalier_Laurence> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Horrea d'Andriaké et Patara: Un nouveau type d'édifice fonctionnel en Lycie à l'époque impériale"@en ;
+    ns1:issuer "Revue des études anciennes (Bordeaux)" ;
+    ns1:number 1 ;
+    ns1:pageEnd 65 ;
+    ns1:pageStart 51 ;
+    ns1:volume "109"^^xsd:string .
+

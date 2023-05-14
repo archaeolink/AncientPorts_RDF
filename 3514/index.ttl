@@ -6,7 +6,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3514> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Tell es-Sanam, on wadi Gaza, Ghazzeh, Nahal Habesor"@en ;
@@ -18,5 +17,5 @@
     owl:sameAs <http://www.wikidata.org/entity/Q2668577> ;
     skos:note "Morhange (2005)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3514_foundation> ;
-    ns1:P17 "Gaza"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q39760> .
 

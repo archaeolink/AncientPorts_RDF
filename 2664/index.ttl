@@ -11,11 +11,11 @@
     rdfs:label "near Sennoy"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hojte_2005_Archaeological> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2664_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1344411> ;
-    skos:note "Hojte (2005)",
-        "Khotylev (2020)" ;
+    skos:note "Khotylev (2020)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2664_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/854724> ;
     ns1:P17 <http://www.wikidata.org/entity/Q159> ;

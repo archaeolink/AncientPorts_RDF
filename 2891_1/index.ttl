@@ -10,9 +10,9 @@
     rdfs:label "Rustafjaell's 'East Harbour', on the isthmus of the peninsula of Erdek, Strabo, 12, 8 mentions a closable double harbour with many shipsheds"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Mauro_2022_Analysis> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2891_1_geom> ;
-    skos:note "Blackman (2014)",
-        "Mauro (2022)" ;
+    skos:note "Blackman (2014)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

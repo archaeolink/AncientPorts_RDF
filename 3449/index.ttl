@@ -11,11 +11,11 @@
     rdfs:label "Jbeil, Medieval port"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Artin_2018_Chalcolithic> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3449_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q173532> ;
-    skos:note "Artin (2018)",
-        "Carayon (2011)" ;
+    skos:note "Carayon (2011)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3449_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/668216> ;
     ns1:P17 <http://www.wikidata.org/entity/Q822> ;

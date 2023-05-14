@@ -6,7 +6,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/2449_2> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Krajmorie, Kraymorie, south of Cape Foros\r\r
+    rdfs:label """Krajmorie, Kraymorie, south of Cape Foros
 """@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

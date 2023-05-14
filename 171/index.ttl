@@ -6,7 +6,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/171> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; \r\r
+    rdfs:label """Ireland, with many hillforts on the south, west and north coasts, most of them are small and on promontory cliff-tops without harbour ; 
 We selected the ones with a nautical shelter"""@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

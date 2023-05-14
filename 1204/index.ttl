@@ -12,13 +12,13 @@
     rdfs:label "Portella, north of Santa Marina Salina, on the isle of Salina"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://www.aeolianislandsvacations.com/history-and-archaeology"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Alberti_2011_Radiocarbon>,
+        "http://www.aeolianislandsvacations.com/history-and-archaeology"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1204_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q505847> ;
     skos:note "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29",
-        "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)",
-        "Alberti (2011)" ;
+        "ARCHEOLOGIA SUBACQUEA 2: Isole Eolie (Supplemento al n. 29, 1985)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1204_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/462186> ;
     ns1:P17 <http://www.wikidata.org/entity/Q38> ;

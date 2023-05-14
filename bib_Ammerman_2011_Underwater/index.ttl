@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Ammerman_2011_Underwater> a ns1:Article ;
+    dc:created "2011"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Ammerman_Albert_J>,
+        <http://data.archaeology.link/data/ancientports/author_Benjamin_Jonathan>,
+        <http://data.archaeology.link/data/ancientports/author_Howitt-Marshall_Duncan>,
+        <http://data.archaeology.link/data/ancientports/author_Turnbull_Tim> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Underwater investigations at the early sites of Aspros and Nissi Beach on Cyprus"@en ;
+    dcterms:publisher "Oxbow Books Oxford" ;
+    ns1:issuer "Submerged prehistory" ;
+    ns1:pageEnd 271 ;
+    ns1:pageStart 263 .
+

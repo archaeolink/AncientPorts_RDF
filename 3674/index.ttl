@@ -5,11 +5,11 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/3674> a <http://www.ancientports.com/ont#Harbour> ;
-    rdfs:label """Sharm Yanbu? 15 km NW of Yanbu. \r\r
-This hypothetical area is close to Diodorus' description: \r\r
-> the total circumference is 23 km (close to his 100 stades); \r\r
-> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; \r\r
-> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;\r\r
+    rdfs:label """Sharm Yanbu? 15 km NW of Yanbu. 
+This hypothetical area is close to Diodorus' description: 
+> the total circumference is 23 km (close to his 100 stades); 
+> the central island might be now connected to the mainland on the NE side where siltation occurred over time, near the outlet of the wadi ; 
+> the total area might have been between 2000 and 3000 ha (ample space for his 2000 ships) ;
 > the entrance is 300 m wide (more than his 200 feet = 60 m) but this depends much on coral growth which may have varied in time and with urbanisation."""@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
