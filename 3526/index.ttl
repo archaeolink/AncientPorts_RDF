@@ -10,10 +10,10 @@
     rdfs:label "Maghara, al-Markha, near Ras Budran"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Tallet_2015_Ports> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3526_geom> ;
     skos:note "Mumford (2012)",
-        "Tallet (2015)",
         "Tallet (2016)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3526_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q79> ;

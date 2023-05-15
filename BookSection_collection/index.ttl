@@ -7,6 +7,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/bib_Fernandez_2021_El>,
         <http://data.archaeology.link/data/ancientports/bib_Ferrer_2021_El>,
+        <http://data.archaeology.link/data/ancientports/bib_Filipova_2011_Palaeoecology>,
         <http://data.archaeology.link/data/ancientports/bib_Janowski_2013_Harbours>,
         <http://data.archaeology.link/data/ancientports/bib_Klooß_2009_The>,
         <http://data.archaeology.link/data/ancientports/bib_Lübke_2000_Final>,

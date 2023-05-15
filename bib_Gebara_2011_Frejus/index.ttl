@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Gebara_2011_Frejus> a ns1:Article ;
+    dc:created "2011"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Gébara_Chérine>,
+        <http://data.archaeology.link/data/ancientports/author_Morhange_Christophe> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Fréjus (Forum Julii): Le port antique/the ancient harbour"@en ;
+    ns1:issuer <http://www.wikidata.org/entity/Q465332> ;
+    ns1:number 4 ;
+    ns1:volume "115"^^xsd:string .
+

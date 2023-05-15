@@ -9,11 +9,11 @@
     rdfs:label "Toulon, ancient coastline on montée des horeia/place Besagne, rue Magnaque"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Pasqualini_2000_Les> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/682_geom> ;
     skos:note "Arnaud (2004)",
-        "Brun (1992)",
-        "Pasqualini (2000)" ;
+        "Brun (1992)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/157936> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/187> ;

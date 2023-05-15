@@ -10,10 +10,10 @@
     rdfs:label "Marsa Nakari, 18 km south of Marsa Alam, possibly called Chaouinah by Jacotin, with road to Nile valley"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Obied_2010_Searching> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3571_geom> ;
-    skos:note "Obied (2010)",
-        "Seeger (2005)" ;
+    skos:note "Seeger (2005)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3571_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/786074> ;
     ns1:P17 <http://www.wikidata.org/entity/Q79> ;

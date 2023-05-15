@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Obied_2010_Searching> a <http://purl.org/ontology/bibo/Thesis> ;
+    dc:created "2010"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Macleroy-Obied_CT> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Searching for the Ancient Harbours of the Erythraean Sea: An Analytical Investigation"@en .
+

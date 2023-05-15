@@ -11,11 +11,11 @@
     rdfs:label "San Antioco"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Begemann_2001_Chemical> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/778_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1782566> ;
-    skos:note "Begemann (2001)",
-        "Terre di Mare (2007)" ;
+    skos:note "Terre di Mare (2007)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/778_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/472024> ;
     ns1:P17 <http://www.wikidata.org/entity/Q38> ;

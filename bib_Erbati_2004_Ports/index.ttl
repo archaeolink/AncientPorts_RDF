@@ -6,7 +6,7 @@
     dc:created "2004"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Erbati_E> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dc:title "Le ports du Maroc mediterran{'e}en en Moyen Age"@en ;
+    dc:title "Le ports du Maroc mediterranéen en Moyen Age"@en ;
     ns1:issuer "Le strutture dei porti e gli approdi antichi" ;
     ns1:pageEnd 158 ;
     ns1:pageStart 151 .

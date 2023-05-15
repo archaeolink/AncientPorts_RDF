@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Filipova_2011_Palaeoecology> a ns1:BookSection ;
+    dc:created "2011"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Angelova_Hristina>,
+        <http://data.archaeology.link/data/ancientports/author_Filipova-Marinova_Mariana>,
+        <http://data.archaeology.link/data/ancientports/author_Giosan_Liviu>,
+        <http://data.archaeology.link/data/ancientports/author_Pavlov_Danail>,
+        <http://data.archaeology.link/data/ancientports/author_Preisinger_Anton>,
+        <http://data.archaeology.link/data/ancientports/author_Vergiev_Stoyan> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Palaeoecology of submerged prehistoric settlements in Sozopol Harbour, Bulgaria"@en ;
+    ns1:doi "10.13140/2.1.1029.6649"^^xsd:string ;
+    ns1:isbn "978-1-84217-418-0"^^xsd:string ;
+    ns1:pageEnd 244 ;
+    ns1:pageStart 230 .
+

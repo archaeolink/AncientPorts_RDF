@@ -11,11 +11,11 @@
     rdfs:label "Marsa Gawasis, near wadi Jasus, 26 km south of Safaga port. Pliny speaks of Aennus. Modern authors seem to agree to locate this port at Marsa Gawasis near Safaga."@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Tallet_2015_Ports> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3544_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1536350> ;
-    skos:note "Bard & Fattovich (2007)",
-        "Tallet (2015)" ;
+    skos:note "Bard & Fattovich (2007)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3544_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/767851> ;
     ns1:P17 <http://www.wikidata.org/entity/Q79> ;
