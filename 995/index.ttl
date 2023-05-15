@@ -4,17 +4,16 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/995> a <http://www.ancientports.com/ont#Pila>,
         <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Pollion's villa at Porto Marechiaro, with pilae"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Aucelli_2017_Coastal> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/995_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q589347> ;
-    skos:note "Aucelli (2017)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/24883> .
 

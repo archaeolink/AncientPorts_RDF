@@ -11,12 +11,12 @@
     rdfs:label "Roman villa of San Pawl Milqi, near Burmarrad, near Salina bay with  salt production"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Marriner_2012_Geoarchaeology> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1217_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q852182> ;
     skos:note "Azzopardi (2012)",
-        "Gambin (2003)",
-        "Marriner (2012)" ;
+        "Gambin (2003)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1217_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q233> .
 

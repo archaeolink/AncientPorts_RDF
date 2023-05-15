@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Aucelli_2016_Historical> a ns1:Article ;
+    dc:created "2016"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Aucelli_Pietro>,
+        <http://data.archaeology.link/data/ancientports/author_Cinque_Aldo>,
+        <http://data.archaeology.link/data/ancientports/author_Mattei_Gaia>,
+        <http://data.archaeology.link/data/ancientports/author_Pappone_Gerardo> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Historical sea level changes and effects on the coasts of Sorrento Peninsula (Gulf of Naples): New constrains from recent geoarchaeological investigations"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q746413> ;
+    ns1:issuer "Palaeogeography, Palaeoclimatology, Palaeoecology" ;
+    ns1:pageEnd 125 ;
+    ns1:pageStart 112 ;
+    ns1:volume "463"^^xsd:string .
+

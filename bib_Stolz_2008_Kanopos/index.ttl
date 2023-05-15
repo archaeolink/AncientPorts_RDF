@@ -9,7 +9,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Kanopos oder Menouthis? 1 Zur Identifikation einer Ruinenst{'a}tte in der Bucht von Abuqir in {'A}gypten"@en ;
     dcterms:publisher "De Gruyter (A)" ;
-    ns1:issuer "Klio" ;
+    ns1:issuer <http://www.wikidata.org/entity/Q1495737> ;
     ns1:number 1 ;
     ns1:pageEnd 207 ;
     ns1:pageStart 193 ;

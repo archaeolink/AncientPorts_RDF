@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -12,11 +11,11 @@
     rdfs:label "Roman villa at Zambratija, with Neolithic settlement"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/5198"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Macheboeuf_2013_Pourpre>,
+        "http://baza.iarh.hr/public/locality/detail/5198"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1365_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1827556> ;
-    skos:note "Macheboeuf (2013)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1365_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q224> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/38873> .

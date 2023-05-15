@@ -12,6 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Evidence of vertical tectonic uplift at Briatico (Calabria, Italy) inferred from Roman age maritime archaeological indicators"@en ;
     ns1:doi "10.1016/j.quaint.2012.01.019"^^xsd:string ;
-    ns1:issuer "Quaternary International" ;
+    ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
     ns1:volume "288"^^xsd:string .
 

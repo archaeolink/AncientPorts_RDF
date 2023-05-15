@@ -11,11 +11,11 @@
     rdfs:label "Capo di Pula, Cala di Nora, with Molo Schmiedt"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Auriemma_2009_Archaeological> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/768_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q677175> ;
-    skos:note "Auriemma (2009)",
-        "Bonetto (2021)" ;
+    skos:note "Bonetto (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/768_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/471979> ;
     ns1:P17 <http://www.wikidata.org/entity/Q38> ;

@@ -12,7 +12,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Water saturated sand and a shallow bay: Combining coastal geophysics and underwater archaeology in the south bay of Tel Dor"@en ;
     dcterms:publisher <http://www.wikidata.org/entity/Q746413> ;
-    ns1:issuer "Quaternary International" ;
+    ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
     ns1:pageEnd 119 ;
     ns1:pageStart 112 ;
     ns1:volume "473"^^xsd:string .

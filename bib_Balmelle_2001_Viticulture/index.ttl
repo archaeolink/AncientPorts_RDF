@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Balmelle_2001_Viticulture> a ns1:Article ;
+    dc:created "2001"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Balmelle_Catherine>,
+        <http://data.archaeology.link/data/ancientports/author_Barraud_Dany>,
+        <http://data.archaeology.link/data/ancientports/author_Brun_Jean-Pierre>,
+        <http://data.archaeology.link/data/ancientports/author_Duprat_Béatrice>,
+        <http://data.archaeology.link/data/ancientports/author_Gaillard_Hervé>,
+        <http://data.archaeology.link/data/ancientports/author_Jacques_Philippe>,
+        <http://data.archaeology.link/data/ancientports/author_Maurin_Louis>,
+        <http://data.archaeology.link/data/ancientports/author_Petit-Aupert_Catherine>,
+        <http://data.archaeology.link/data/ancientports/author_Rigal_Didier>,
+        <http://data.archaeology.link/data/ancientports/author_Robin_Karine>,
+        <http://data.archaeology.link/data/ancientports/author_Roudié_Philippe>,
+        <http://data.archaeology.link/data/ancientports/author_Sillières_Pierre>,
+        <http://data.archaeology.link/data/ancientports/author_Vernou_Christian> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "La viticulture antique en Aquitaine"@en ;
+    ns1:doi "10.3406/galia.2001.3177"^^xsd:string ;
+    ns1:issuer <http://www.wikidata.org/entity/Q3094813> ;
+    ns1:number 1 ;
+    ns1:pageEnd 164 ;
+    ns1:pageStart 129 ;
+    ns1:volume "58"^^xsd:string .
+

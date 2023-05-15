@@ -4,15 +4,14 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/592> a <http://www.ancientports.com/ont#VillaMaritima> ;
     rdfs:label "Roman winery at Haut-Pampin, l'Houmeau, near Port du Plomb"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Balmelle_2001_Viticulture> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/592_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q19232138> ;
-    skos:note "Balmelle (2001)" ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> .
 

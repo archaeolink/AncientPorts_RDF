@@ -9,11 +9,11 @@
     rdfs:label "Aynaz Batakligi swamps, Kulak, near outlet of R Tarsus"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Arnaud_2020_Non> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Arnaud_2020_Non>,
+        <http://data.archaeology.link/data/ancientports/bib_Taffet_2001_Likely> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3382_geom> ;
-    skos:note "Oruc (2013)",
-        "Taffet (2001)" ;
+    skos:note "Oruc (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648755> ;
     ns1:P17 <http://www.wikidata.org/entity/Q43> .
 

@@ -6,6 +6,7 @@
     rdfs:label "Book Instances Collection" ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/bib_Akpinar_2004_Hellenistic>,
+        <http://data.archaeology.link/data/ancientports/bib_Atauz_1997_Asardibi>,
         <http://data.archaeology.link/data/ancientports/bib_Berger_1997_Etudes>,
         <http://data.archaeology.link/data/ancientports/bib_Besnier_1914_Lexique>,
         <http://data.archaeology.link/data/ancientports/bib_Chankowski_2018_Entrepots>,
