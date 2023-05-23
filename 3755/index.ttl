@@ -5,7 +5,6 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3755> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Al-Ghayda?"@en ;
@@ -16,6 +15,6 @@
     owl:sameAs <http://www.wikidata.org/entity/Q310626> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3755_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/39301> ;
-    ns1:P17 "Yemen Ind Oc."^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q805> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/27298> .
 

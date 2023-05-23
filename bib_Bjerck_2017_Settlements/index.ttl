@@ -5,7 +5,7 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Bjerck_2017_Settlements> a ns1:Article ;
     dc:created "2017"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Bjerck_Hein_B.> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Bjerck_Hein_B_> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Settlements and Seafaring: Reflections on the Integration of Boats and Settlements Among Marine Foragers in Early Mesolithic Norway and the Yámana of Tierra del Fuego"@en ;
     dcterms:publisher <http://www.wikidata.org/entity/Q1508259> ;

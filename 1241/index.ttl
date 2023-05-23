@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1241> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Lampedusa, on the isle of Lampedusa"@en ;
@@ -14,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1241_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q107338> ;
     ns1:P1584 <http://pleiades.stoa.org/places/465897> ;
-    ns1:P17 "Italy Lampedusa"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41240> ;
     ns1:P1958 <https://www.trismegistos.org/place/61078> ;
     ns1:P8068 <https://topostext.org/place/355126ILop> .

@@ -16,5 +16,5 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3743_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2005211> ;
     ns1:P1584 <https://pleiades.stoa.org/places/39379> ;
-    ns1:P17 "Yemen Ind Oc."^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q805> .
 

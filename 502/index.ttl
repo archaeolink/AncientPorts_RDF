@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/502> a <http://www.ancientports.com/ont#Harbour> ;
     rdfs:label "Puerto del Espalmador, on Formentera island"@en ;
@@ -14,7 +13,7 @@
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/502_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/502_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/265875> ;
-    ns1:P17 "Spain Formentera"^^xsd:string ;
+    ns1:P17 <http://www.wikidata.org/entity/Q29> ;
     ns1:P1936 <http://imperium.ahlfeldt.se/places/41583> ;
     ns1:P1958 <https://www.trismegistos.org/place/27682> ;
     ns1:P8068 <https://topostext.org/place/387014UCol> .

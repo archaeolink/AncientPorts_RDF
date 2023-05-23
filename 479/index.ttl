@@ -3,7 +3,6 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/479> a <http://www.ancientports.com/ont#Harbour>,
         <http://www.ancientports.com/ont#PotentialHarbour> ;
@@ -12,5 +11,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/479_geom> ;
-    ns1:P17 "Spain Cabrera"^^xsd:string .
+    ns1:P17 <http://www.wikidata.org/entity/Q29> .
 
