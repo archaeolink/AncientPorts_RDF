@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/2449_2_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    rdfs:label """Krajmorie, Kraymorie, south of Cape Foros
+    rdfs:label """Krajmorie, Kraymorie, south of Cape Foros\r
  Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(27.47500 42.45100)"^^geo:wktLiteral .

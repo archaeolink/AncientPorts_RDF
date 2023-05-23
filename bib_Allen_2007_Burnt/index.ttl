@@ -4,9 +4,9 @@
 
 <http://data.archaeology.link/data/ancientports/bib_Allen_2007_Burnt> a ns1:Article ;
     dc:created "2007"^^xsd:gYear ;
-    dc:creator <http://data.archaeology.link/data/ancientports/author_Allen_J.R.L.>,
-        <http://data.archaeology.link/data/ancientports/author_Fulford_M.G.>,
-        <http://data.archaeology.link/data/ancientports/author_Todd_J.A.> ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Allen_J_R_L_>,
+        <http://data.archaeology.link/data/ancientports/author_Fulford_M_G_>,
+        <http://data.archaeology.link/data/ancientports/author_Todd_J_A_> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Burnt Kimmeridgian Shale At Early Roman Silchester, South-East England, And The Roman Poole–Purbeck Complex-Agglomerated Geomaterials Industry"@en ;
     ns1:doi "10.1111/j.1468-0092.2007.00279.x"^^xsd:string ;
