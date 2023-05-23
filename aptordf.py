@@ -87,7 +87,7 @@ def bibtexToRDF(triples,entries,ns,nsont,creatormode=None):
         if "and" in entry["author"]:
             for author in entry["author"].split("and"):
                 if "," in author:
-                    authoruri=str(author).replace(","," ").strip()
+                    authoruri=str(author).replace(","," ").replace(".","_").strip()
                     authoruri=authoruri.replace(" ","_")
                     authoruri=authoruri.replace("__","_")
                     authoruri=authoruri.strip()
