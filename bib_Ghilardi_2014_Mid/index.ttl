@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Ghilardi_2014_Mid> a ns1:Article ;
+    dc:created "2014"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Bicket_Andrew>,
+        <http://data.archaeology.link/data/ancientports/author_Celka_Sylvie_Müller>,
+        <http://data.archaeology.link/data/ancientports/author_Fachard_Sylvian>,
+        <http://data.archaeology.link/data/ancientports/author_Ghilardi_Matthieu>,
+        <http://data.archaeology.link/data/ancientports/author_Knodell_Alex_R>,
+        <http://data.archaeology.link/data/ancientports/author_Pavlopoulos_Kosmas>,
+        <http://data.archaeology.link/data/ancientports/author_Psomiadis_David>,
+        <http://data.archaeology.link/data/ancientports/author_Theodoropoulou_Tatiana>,
+        <http://data.archaeology.link/data/ancientports/author_Theurillat_Thierry>,
+        <http://data.archaeology.link/data/ancientports/author_Verdan_Samuel> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Mid-to late Holocene shoreline reconstruction and human occupation in Ancient Eretria (South Central Euboea, Greece)"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q746413> ;
+    ns1:issuer "Geomorphology" ;
+    ns1:pageEnd 237 ;
+    ns1:pageStart 225 ;
+    ns1:volume "208"^^xsd:string .
+

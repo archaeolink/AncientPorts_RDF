@@ -15,12 +15,12 @@
     rdfs:label "Le Piree, The Piraeus, with a possible lighthouse at Themistocles' tomb"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Goiran_2011_Piraeus>,
+        "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1628_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q82310> ;
-    skos:note "Goiran (2011)",
-        "Loven (2021)" ;
+    skos:note "Loven (2021)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1628_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/580062> ;
     ns1:P17 <http://www.wikidata.org/entity/Q41> ;

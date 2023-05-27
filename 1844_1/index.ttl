@@ -4,7 +4,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -12,11 +11,11 @@
     rdfs:label "Avdira, in Thrace, at Agios Giannis"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Samiou_1993_Ancient>,
+        "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1844_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q4258195> ;
-    skos:note "Samiou (1993)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1844_1_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/501323> ;
     ns1:P17 <http://www.wikidata.org/entity/Q41> ;

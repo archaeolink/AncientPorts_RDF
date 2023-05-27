@@ -11,11 +11,11 @@
     rdfs:label "Mandraki harbour, Kos, on the isle of Kos, Istanköy"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bouras_2016_Geography> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2302_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q187027> ;
-    skos:note "Bouras (2016)",
-        "Sheppard Baird (2011)" ;
+    skos:note "Sheppard Baird (2011)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2302_foundation> ;
     ns1:P1584 <http://pleiades.stoa.org/places/599728> ;
     ns1:P17 <http://www.wikidata.org/entity/Q41> ;

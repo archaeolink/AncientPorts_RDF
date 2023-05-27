@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Ghilardi_2018_Geoarcheologie> a ns1:Article ;
+    dc:created "2018"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Currás_Andrés>,
+        <http://data.archaeology.link/data/ancientports/author_Ghilardi_Matthieu>,
+        <http://data.archaeology.link/data/ancientports/author_Lemos_Irene>,
+        <http://data.archaeology.link/data/ancientports/author_Müller_Celka_Sylvie>,
+        <http://data.archaeology.link/data/ancientports/author_Pavlopoulos_Kosmas>,
+        <http://data.archaeology.link/data/ancientports/author_Theurillat_Thierry>,
+        <http://data.archaeology.link/data/ancientports/author_Vacchi_Matteo> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Géoarchéologie des paysages littoraux le long du golfe sud‑eubéen (île d'Eubée, Grèce) au cours de l'Holocène"@en ;
+    dcterms:publisher "Association Francaise pour l’Étude du Quaternaire" ;
+    ns1:issuer "Quaternaire. Revue de l'Association francaise pour l'étude du Quaternaire" ;
+    ns1:number 2 ;
+    ns1:pageEnd 120 ;
+    ns1:pageStart 95 ;
+    ns1:volume "29"^^xsd:string .
+

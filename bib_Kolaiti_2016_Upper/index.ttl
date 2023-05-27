@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/bib_Kolaiti_2016_Upper> a ns1:Article ;
+    dc:created "2016"^^xsd:gYear ;
+    dc:creator <http://data.archaeology.link/data/ancientports/author_Kolaiti_E>,
+        <http://data.archaeology.link/data/ancientports/author_Mourtzas_ND> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dc:title "Upper Holocene sea level changes in the west Saronic Gulf, Greece"@en ;
+    dcterms:publisher <http://www.wikidata.org/entity/Q746413> ;
+    ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
+    ns1:pageEnd 90 ;
+    ns1:pageStart 71 ;
+    ns1:volume "401"^^xsd:string .
+
