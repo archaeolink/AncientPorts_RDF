@@ -6,6 +6,6 @@ https://www.researchgate.net/publication/344899365_Geodatabase_of_Ancient_Ports_
 This dataset can be accessed in the following ways:
 * As HTML using the [Github page](https://archaeolink.github.io/AncientPorts_RDF/) of this repository
 * In QGIS using the static OGC API Features API of this repository: [https://archaeolink.github.io/AncientPorts_RDF/index.json](https://archaeolink.github.io/AncientPorts_RDF/index.json) [OpenAPI](https://archaeolink.github.io/AncientPorts_RDF/api/api.html)
-* As RDF in JavaScript [SPARQL Interface in JavaScript](https://archaeolink.github.io/AncientPorts_RDF/sparql.html)
+* As RDF in JavaScript [SPARQL Interface in JavaScript](https://archaeolink.github.io/AncientPorts_RDF/sparql.html?endpoint=[https://RGZM.github.io/ars-lod/index.ttl)
 * As individual class-based RDF dumps on every URL hierarchy, e.g., all RDF [RDF Dump on Github Page](https://archaeolink.github.io/AncientPorts_RDF/index.ttl)
   
