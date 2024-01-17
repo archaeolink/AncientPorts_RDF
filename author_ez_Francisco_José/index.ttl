@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "ez, Francisco José"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "ez"@en ;
+    foaf:familyName "ez"@en ;
     foaf:firstName "Francisco José"@en .
 

@@ -1,1 +1,1 @@
-{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Robin, Christian Julien"], "http://xmlns.com/foaf/0.1/family_Name": ["Robin"], "http://xmlns.com/foaf/0.1/firstName": ["Christian Julien"]}
+{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Robin, Christian Julien"], "http://xmlns.com/foaf/0.1/familyName": ["Robin"], "http://xmlns.com/foaf/0.1/firstName": ["Christian Julien"]}

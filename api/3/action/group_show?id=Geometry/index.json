@@ -1,1 +1,1 @@
-{"success": true, "result": {"description": "Geometry", "display_name": "Geometry (ns5:Geometry)", "name": "Geometry (ns5:Geometry)", "title": "Geometry (ns5:Geometry)", "type": "group"}}
+{"success": true, "result": {"description": "Geometry", "display_name": "Geometry (geo:Geometry)", "name": "Geometry (geo:Geometry)", "title": "Geometry (geo:Geometry)", "type": "group"}}

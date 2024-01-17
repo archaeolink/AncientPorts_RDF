@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "de Graauw, Arthur"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "de Graauw"@en ;
+    foaf:familyName "de Graauw"@en ;
     foaf:firstName "Arthur"@en .
 

@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Castro, Filipe"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Castro"@en ;
+    foaf:familyName "Castro"@en ;
     foaf:firstName "Filipe"@en .
 

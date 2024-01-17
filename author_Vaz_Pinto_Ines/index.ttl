@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Vaz Pinto, Ines"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Vaz Pinto"@en ;
+    foaf:familyName "Vaz Pinto"@en ;
     foaf:firstName "Ines"@en .
 

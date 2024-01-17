@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Djamali, Morteza"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Djamali"@en ;
+    foaf:familyName "Djamali"@en ;
     foaf:firstName "Morteza"@en .
 

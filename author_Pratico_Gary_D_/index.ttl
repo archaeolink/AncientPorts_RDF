@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Pratico, Gary D."@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Pratico"@en ;
+    foaf:familyName "Pratico"@en ;
     foaf:firstName "Gary D."@en .
 

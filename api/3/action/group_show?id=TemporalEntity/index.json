@@ -1,1 +1,1 @@
-{"success": true, "result": {"description": "TemporalEntity", "display_name": "TemporalEntity (ns3:TemporalEntity) [3849]", "name": "TemporalEntity (ns3:TemporalEntity) [3849]", "title": "TemporalEntity (ns3:TemporalEntity) [3849]", "type": "group"}}
+{"success": true, "result": {"description": "TemporalEntity", "display_name": "TemporalEntity (time:TemporalEntity) [3849]", "name": "TemporalEntity (time:TemporalEntity) [3849]", "title": "TemporalEntity (time:TemporalEntity) [3849]", "type": "group"}}

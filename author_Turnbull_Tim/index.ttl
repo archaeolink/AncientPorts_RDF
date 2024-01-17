@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Turnbull, Tim"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Turnbull"@en ;
+    foaf:familyName "Turnbull"@en ;
     foaf:firstName "Tim"@en .
 

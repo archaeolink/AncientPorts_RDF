@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Azzopardi, Elaine"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Azzopardi"@en ;
+    foaf:familyName "Azzopardi"@en ;
     foaf:firstName "Elaine"@en .
 

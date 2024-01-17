@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Goiran, Jean-Philippe"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Goiran"@en ;
+    foaf:familyName "Goiran"@en ;
     foaf:firstName "Jean-Philippe"@en .
 

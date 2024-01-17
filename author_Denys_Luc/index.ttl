@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Denys, Luc"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Denys"@en ;
+    foaf:familyName "Denys"@en ;
     foaf:firstName "Luc"@en .
 

@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Benini, Aless"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Benini"@en ;
+    foaf:familyName "Benini"@en ;
     foaf:firstName "Aless"@en .
 

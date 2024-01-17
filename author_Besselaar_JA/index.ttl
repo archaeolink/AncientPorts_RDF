@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Besselaar, JA"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Besselaar"@en ;
+    foaf:familyName "Besselaar"@en ;
     foaf:firstName "JA"@en .
 

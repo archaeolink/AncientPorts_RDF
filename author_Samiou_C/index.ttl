@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Samiou, C"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Samiou"@en ;
+    foaf:familyName "Samiou"@en ;
     foaf:firstName "C"@en .
 

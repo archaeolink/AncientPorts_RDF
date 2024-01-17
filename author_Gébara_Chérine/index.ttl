@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Gébara, Chérine"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Gébara"@en ;
+    foaf:familyName "Gébara"@en ;
     foaf:firstName "Chérine"@en .
 

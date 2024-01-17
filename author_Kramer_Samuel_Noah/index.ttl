@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Kramer, Samuel Noah"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Kramer"@en ;
+    foaf:familyName "Kramer"@en ;
     foaf:firstName "Samuel Noah"@en .
 

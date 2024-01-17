@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Sánchez, Juan de Dios Ramírez"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Sánchez"@en ;
+    foaf:familyName "Sánchez"@en ;
     foaf:firstName "Juan de Dios Ramírez"@en .
 

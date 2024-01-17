@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ruiz, Àngel Recio"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Ruiz"@en ;
+    foaf:familyName "Ruiz"@en ;
     foaf:firstName "Àngel Recio"@en .
 

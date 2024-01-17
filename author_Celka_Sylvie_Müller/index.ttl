@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Celka, Sylvie Müller"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Celka"@en ;
+    foaf:familyName "Celka"@en ;
     foaf:firstName "Sylvie Müller"@en .
 

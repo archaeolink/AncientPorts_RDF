@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Robin, Christian Julien"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Robin"@en ;
+    foaf:familyName "Robin"@en ;
     foaf:firstName "Christian Julien"@en .
 

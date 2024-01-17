@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Steerwood, Robert"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Steerwood"@en ;
+    foaf:familyName "Steerwood"@en ;
     foaf:firstName "Robert"@en .
 

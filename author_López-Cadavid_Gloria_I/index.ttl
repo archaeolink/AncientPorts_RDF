@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "López-Cadavid, Gloria I"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "López-Cadavid"@en ;
+    foaf:familyName "López-Cadavid"@en ;
     foaf:firstName "Gloria I"@en .
 

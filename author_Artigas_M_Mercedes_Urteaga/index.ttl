@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Artigas, M Mercedes Urteaga"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Artigas"@en ;
+    foaf:familyName "Artigas"@en ;
     foaf:firstName "M Mercedes Urteaga"@en .
 

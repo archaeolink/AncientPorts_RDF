@@ -1,1 +1,1 @@
-{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Ochoa, Carmen Fern\u00e1ndez"], "http://xmlns.com/foaf/0.1/family_Name": ["Ochoa"], "http://xmlns.com/foaf/0.1/firstName": ["Carmen Fern\u00e1ndez"]}
+{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Ochoa, Carmen Fern\u00e1ndez"], "http://xmlns.com/foaf/0.1/familyName": ["Ochoa"], "http://xmlns.com/foaf/0.1/firstName": ["Carmen Fern\u00e1ndez"]}

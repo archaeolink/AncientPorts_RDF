@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Glørstad, Håkon"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Glørstad"@en ;
+    foaf:familyName "Glørstad"@en ;
     foaf:firstName "Håkon"@en .
 

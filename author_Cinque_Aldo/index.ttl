@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Cinque, Aldo"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Cinque"@en ;
+    foaf:familyName "Cinque"@en ;
     foaf:firstName "Aldo"@en .
 

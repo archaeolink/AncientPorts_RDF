@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Peev, Preslav"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Peev"@en ;
+    foaf:familyName "Peev"@en ;
     foaf:firstName "Preslav"@en .
 

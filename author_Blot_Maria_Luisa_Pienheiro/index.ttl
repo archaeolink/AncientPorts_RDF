@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Blot, Maria Luisa Pienheiro"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Blot"@en ;
+    foaf:familyName "Blot"@en ;
     foaf:firstName "Maria Luisa Pienheiro"@en .
 

@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Thomas, Ross"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Thomas"@en ;
+    foaf:familyName "Thomas"@en ;
     foaf:firstName "Ross"@en .
 

@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Alonso-Olazabal, Ainhoa"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Alonso-Olazabal"@en ;
+    foaf:familyName "Alonso-Olazabal"@en ;
     foaf:firstName "Ainhoa"@en .
 

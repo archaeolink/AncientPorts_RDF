@@ -1,1 +1,1 @@
-{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Hamzeh, Mohammad Ali"], "http://xmlns.com/foaf/0.1/family_Name": ["Hamzeh"], "http://xmlns.com/foaf/0.1/firstName": ["Mohammad Ali"]}
+{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Hamzeh, Mohammad Ali"], "http://xmlns.com/foaf/0.1/familyName": ["Hamzeh"], "http://xmlns.com/foaf/0.1/firstName": ["Mohammad Ali"]}

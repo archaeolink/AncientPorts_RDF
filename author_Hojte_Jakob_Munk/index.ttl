@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Hojte, Jakob Munk"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Hojte"@en ;
+    foaf:familyName "Hojte"@en ;
     foaf:firstName "Jakob Munk"@en .
 

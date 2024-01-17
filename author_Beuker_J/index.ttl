@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Beuker, J"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Beuker"@en ;
+    foaf:familyName "Beuker"@en ;
     foaf:firstName "J"@en .
 

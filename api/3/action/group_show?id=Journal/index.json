@@ -1,1 +1,1 @@
-{"success": true, "result": {"description": "Journal", "display_name": "Journal (ns8:Journal) [16]", "name": "Journal (ns8:Journal) [16]", "title": "Journal (ns8:Journal) [16]", "type": "group"}}
+{"success": true, "result": {"description": "Journal", "display_name": "Journal (bibo:Journal) [16]", "name": "Journal (bibo:Journal) [16]", "title": "Journal (bibo:Journal) [16]", "type": "group"}}

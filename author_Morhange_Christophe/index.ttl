@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Morhange, Christophe"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Morhange"@en ;
+    foaf:familyName "Morhange"@en ;
     foaf:firstName "Christophe"@en .
 

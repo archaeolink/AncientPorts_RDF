@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Pimenta, João"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Pimenta"@en ;
+    foaf:familyName "Pimenta"@en ;
     foaf:firstName "João"@en .
 

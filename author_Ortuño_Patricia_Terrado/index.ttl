@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ortuño, Patricia Terrado"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Ortuño"@en ;
+    foaf:familyName "Ortuño"@en ;
     foaf:firstName "Patricia Terrado"@en .
 

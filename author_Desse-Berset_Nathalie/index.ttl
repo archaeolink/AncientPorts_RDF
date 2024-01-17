@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Desse-Berset, Nathalie"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Desse-Berset"@en ;
+    foaf:familyName "Desse-Berset"@en ;
     foaf:firstName "Nathalie"@en .
 

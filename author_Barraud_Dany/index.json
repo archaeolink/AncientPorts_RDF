@@ -1,1 +1,1 @@
-{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Barraud, Dany"], "http://xmlns.com/foaf/0.1/family_Name": ["Barraud"], "http://xmlns.com/foaf/0.1/firstName": ["Dany"]}
+{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Barraud, Dany"], "http://xmlns.com/foaf/0.1/familyName": ["Barraud"], "http://xmlns.com/foaf/0.1/firstName": ["Dany"]}

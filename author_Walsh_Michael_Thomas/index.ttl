@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Walsh, Michael Thomas"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Walsh"@en ;
+    foaf:familyName "Walsh"@en ;
     foaf:firstName "Michael Thomas"@en .
 

@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Benjamin, Jonathan"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Benjamin"@en ;
+    foaf:familyName "Benjamin"@en ;
     foaf:firstName "Jonathan"@en .
 

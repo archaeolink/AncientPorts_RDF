@@ -1,1 +1,1 @@
-{"success": true, "result": {"description": "SpatialObject", "display_name": "SpatialObject (ns5:SpatialObject)", "name": "SpatialObject (ns5:SpatialObject)", "title": "SpatialObject (ns5:SpatialObject)", "type": "group"}}
+{"success": true, "result": {"description": "SpatialObject", "display_name": "SpatialObject (geo:SpatialObject)", "name": "SpatialObject (geo:SpatialObject)", "title": "SpatialObject (geo:SpatialObject)", "type": "group"}}

@@ -1,1 +1,1 @@
-{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Knodell, Alex R"], "http://xmlns.com/foaf/0.1/family_Name": ["Knodell"], "http://xmlns.com/foaf/0.1/firstName": ["Alex R"]}
+{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Knodell, Alex R"], "http://xmlns.com/foaf/0.1/familyName": ["Knodell"], "http://xmlns.com/foaf/0.1/firstName": ["Alex R"]}

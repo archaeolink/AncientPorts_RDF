@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Almahari, Salman"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Almahari"@en ;
+    foaf:familyName "Almahari"@en ;
     foaf:firstName "Salman"@en .
 

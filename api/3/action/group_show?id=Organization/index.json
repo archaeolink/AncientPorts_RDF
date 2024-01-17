@@ -1,1 +1,1 @@
-{"success": true, "result": {"description": "Organization", "display_name": "Organization (ns7:Organization) [8]", "name": "Organization (ns7:Organization) [8]", "title": "Organization (ns7:Organization) [8]", "type": "group"}}
+{"success": true, "result": {"description": "Organization", "display_name": "Organization (foaf:Organization) [8]", "name": "Organization (foaf:Organization) [8]", "title": "Organization (foaf:Organization) [8]", "type": "group"}}

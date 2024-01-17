@@ -1,1 +1,1 @@
-{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Terberger, Thomas"], "http://xmlns.com/foaf/0.1/family_Name": ["Terberger"], "http://xmlns.com/foaf/0.1/firstName": ["Thomas"]}
+{"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://xmlns.com/foaf/0.1/Person"], "http://www.w3.org/2000/01/rdf-schema#label": ["Terberger, Thomas"], "http://xmlns.com/foaf/0.1/familyName": ["Terberger"], "http://xmlns.com/foaf/0.1/firstName": ["Thomas"]}

@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Carlo Beltrame"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Carlo Beltram"@en ;
+    foaf:familyName "Carlo Beltram"@en ;
     foaf:firstName "Carlo Beltrame"@en .
 

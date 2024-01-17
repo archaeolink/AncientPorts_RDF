@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "De Clercq, Wim"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "De Clercq"@en ;
+    foaf:familyName "De Clercq"@en ;
     foaf:firstName "Wim"@en .
 

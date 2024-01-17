@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Espinosa Ruiz, Antonio"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Espinosa Ruiz"@en ;
+    foaf:familyName "Espinosa Ruiz"@en ;
     foaf:firstName "Antonio"@en .
 

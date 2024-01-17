@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Levy, Thomas"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Levy"@en ;
+    foaf:familyName "Levy"@en ;
     foaf:firstName "Thomas"@en .
 

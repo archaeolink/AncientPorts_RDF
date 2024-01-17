@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Lourenço, S"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Lourenço"@en ;
+    foaf:familyName "Lourenço"@en ;
     foaf:firstName "S"@en .
 

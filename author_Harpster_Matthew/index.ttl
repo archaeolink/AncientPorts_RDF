@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Harpster, Matthew"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Harpster"@en ;
+    foaf:familyName "Harpster"@en ;
     foaf:firstName "Matthew"@en .
 

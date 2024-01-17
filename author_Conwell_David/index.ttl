@@ -7,6 +7,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Conwell, David"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    foaf:family_Name "Conwell"@en ;
+    foaf:familyName "Conwell"@en ;
     foaf:firstName "David"@en .
 
