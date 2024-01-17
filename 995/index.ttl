@@ -6,7 +6,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://data.archaeology.link/data/ancientports/995> a <http://www.ancientports.com/ont#Pila>,
-        <http://www.ancientports.com/ont#VillaMaritima> ;
+        <http://www.ancientports.com/ont#VillaMaritima>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Pollion's villa at Porto Marechiaro, with pilae"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

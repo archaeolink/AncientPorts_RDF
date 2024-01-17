@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3861_1_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3861_1_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Isle of Dwarka, in Gulf of Kutch, with possible port near Rupen Bandar. Acc. to Mar Erythr Periplus, Baraca bay (Gulf of Kutch) is very dangerous sailing and ships should stop at its entrance (Dwarka).  Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-1500"^^xsd:gYear .

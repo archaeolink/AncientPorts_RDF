@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4321_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/4321_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Tchemmich hill, 5 km east of Larache, very large Roman fish processing factory and possible salt production and amphora kilns on wadi Loukkos Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-1180"^^xsd:gYear .

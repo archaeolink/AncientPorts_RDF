@@ -2,7 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/3400_foundation> a time:TemporalEntity ;
+<http://data.archaeology.link/data/ancientports/3400_foundation> a time:TemporalEntity,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Iskenderun, Alexandretta, Indicatte, hypothetical location north of the Technical University, this may also have been the port of Myriandros? Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3400_foundation_beginning> .

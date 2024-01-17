@@ -2,7 +2,9 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Milne_1985_Port> a <http://purl.org/ontology/bibo/Book> ;
+<http://data.archaeology.link/data/ancientports/bib_Milne_1985_Port> a <http://purl.org/ontology/bibo/Book>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "1985"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Milne_Gustav> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

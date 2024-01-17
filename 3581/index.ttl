@@ -8,7 +8,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3581> a <http://www.ancientports.com/ont#Quay> ;
+<http://data.archaeology.link/data/ancientports/3581> a <http://www.ancientports.com/ont#Quay>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label """Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23°26’ of latitude. The present latitude of Berenike is 23°56’ and it is still a port today. \r
 With probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts at Siket and at wadi Kalalat."""@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

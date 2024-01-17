@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/113_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/113_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Countisbury castle, on Wind Hill, and Myrtleberry castles, oppidums, near outlet of R Lyn Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(-3.80650 51.22900)"^^geo:wktLiteral .

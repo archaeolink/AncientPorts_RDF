@@ -2,7 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/2829_foundation> a time:TemporalEntity ;
+<http://data.archaeology.link/data/ancientports/2829_foundation> a time:TemporalEntity,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "rocks 250 m NE of the Anadolu Feneri modern lighthouse, near Cape Yom Burnu, but another possible location is Sogan Adasi, 1 km west of R Riva outlet Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/2829_foundation_beginning> .

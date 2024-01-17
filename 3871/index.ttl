@@ -6,7 +6,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<http://data.archaeology.link/data/ancientports/3871> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/3871> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "The Nile Delta contains hundreds of archaeological sites on 'tells' and 'koms' which have been listed elsewhere (see http://deltasurvey.ees.ac.uk/dsintro.html). We mention here the most important sites which are located on the main branches of the Nile and may have offered harbour facilities accessible to sea-ships."@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

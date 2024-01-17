@@ -5,7 +5,9 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3575> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/3575> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Sharm Luli, in front of wadi el-Gamal islands, this place has been taken for Myos Hormos because of Strabo's description, but Pliny mentions Iambe insula between Myos Hormos and Berenike. Jacotin (1809) calls it Sharm el-Koman. Belzoni (1822:328) calls the island Gambe."@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

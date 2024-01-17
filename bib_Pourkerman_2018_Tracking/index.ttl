@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Pourkerman_2018_Tracking> a ns1:Article ;
+<http://data.archaeology.link/data/ancientports/bib_Pourkerman_2018_Tracking> a ns1:Article,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2018"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Amjadi_Sedighe>,
         <http://data.archaeology.link/data/ancientports/author_Beni_Abdolmajid_Naderi>,

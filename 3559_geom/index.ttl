@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3559_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/3559_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Marsa Imbarak, Port Ghalib, Port Galibou, Jacotin locates Port Galibou at Marsa Mubarak and Port Blanc much further north, but Obied strongly suggests this was Leucos Limen Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(34.63400 25.53090)"^^geo:wktLiteral .

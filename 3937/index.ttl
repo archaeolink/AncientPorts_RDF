@@ -8,7 +8,9 @@
 
 <http://data.archaeology.link/data/ancientports/3937> a <http://www.ancientports.com/ont#Shipshed>,
         <http://www.ancientports.com/ont#Shipyard>,
-        <http://www.ancientports.com/ont#Slipway> ;
+        <http://www.ancientports.com/ont#Slipway>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Harbour basin inside the Port of Eunostos, Strabo, 17, 1 mentions a closable dug basin"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

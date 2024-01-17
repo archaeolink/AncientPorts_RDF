@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/11_1_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/11_1_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Westervaartpark, near Hazerswoude-Rijndijk, on R Oude Rijn Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "1201"^^xsd:gYear .

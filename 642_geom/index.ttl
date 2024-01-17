@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/642_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/642_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Saintes-Maries-de-la-Mer (also called Artemis because the saintes in question came from Ephesus where godin Artemis is worshiped), on former Saint Ferreol branch of R Rhone, now submerged offshore Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(4.42304 43.44282)"^^geo:wktLiteral .

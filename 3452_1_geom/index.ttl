@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3452_1_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/3452_1_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ksar Akil, Aqil, Paleolothic cave, on R Nahr Antelias. Famous Paleolithic site in Lebanon, but one of many others Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(35.60325 33.91185)"^^geo:wktLiteral .

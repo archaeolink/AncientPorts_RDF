@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3544_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3544_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Marsa Gawasis, near wadi Jasus, 26 km south of Safaga port. Pliny speaks of Aennus. Modern authors seem to agree to locate this port at Marsa Gawasis near Safaga. Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-1940"^^xsd:gYear .

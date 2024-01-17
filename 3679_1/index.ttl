@@ -6,7 +6,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3679_1> a <http://www.ancientports.com/ont#Harbour>,
-        <http://www.ancientports.com/ont#PotentialHarbour> ;
+        <http://www.ancientports.com/ont#PotentialHarbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Harrat Qalib"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

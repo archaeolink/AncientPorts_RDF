@@ -7,7 +7,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/4342> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/4342> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Isle of Herne in the gulf of Dakhla? Hanno indicates he navigated 2 days to the South from Larache, 1 day to the East, and that the island has a perimeter of ½ nautical mile, and that it is inside a gulf, about 850 nautical miles from Ceuta. The isle of Herne is inside of the gulf of Dakhla (also called Rio de Oro) which is more than 20 nautical miles long and is located about 1000 nautical miles from Ceuta. The isle of Herne has a perimeter in the order of 1 nautical mile. Despite the approximations, there does not seem to be any other site in this part of the world that corresponds better to Hanon's description. "@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

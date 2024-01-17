@@ -7,7 +7,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/50> a <http://www.ancientports.com/ont#Warehouse> ;
+<http://data.archaeology.link/data/ancientports/50> a <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "South Shields, at the eastern end of Hadrien's wall, near Newcastle"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3615_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/3615_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Massawa, Ptolemy locates Saba at 50’ of latitude north of Adulis, which could be Massawa at only 20 nautical miles Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(39.46311 15.60981)"^^geo:wktLiteral .

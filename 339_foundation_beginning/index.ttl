@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/339_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/339_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Cadiz, Cadix, with ancient lighthouse. Puerto interior on ancient canal of Bahia-Caleta. Initially, Gadir was an island as indicated by Strabo who speaks about « the Isle of the gaditans » (Geogr, 3, 2). Port remains were also found at c/ Sagasta 96-98. Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-1104"^^xsd:gYear .

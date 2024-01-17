@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting> a ns1:BookSection ;
+<http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting> a ns1:BookSection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2016"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Sabatini_Serena> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

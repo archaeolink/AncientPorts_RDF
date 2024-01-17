@@ -2,7 +2,9 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Kruidhof_2012_Een> a <http://purl.org/ontology/bibo/Article> ;
+<http://data.archaeology.link/data/ancientports/bib_Kruidhof_2012_Een> a <http://purl.org/ontology/bibo/Article>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2012"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Henk_Y_Raczynski>,
         <http://data.archaeology.link/data/ancientports/author_Koehler_L>,

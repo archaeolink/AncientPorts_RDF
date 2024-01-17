@@ -1,9 +1,10 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<http://data.archaeology.link/data/ancientports/Proceedings_collection> a skos:Collection ;
-    rdfs:label "Proceedings Instances Collection" ;
+<http://data.archaeology.link/data/ancientports/Proceedings_collection> a <http://purl.org/ontology/bibo/Collection>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Proceedings Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/bib_Amato_2013_New>,
         <http://data.archaeology.link/data/ancientports/bib_Andreou_2016_Moving>,

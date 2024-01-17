@@ -11,7 +11,9 @@
 <http://data.archaeology.link/data/ancientports/1628> a <http://www.ancientports.com/ont#Quay>,
         <http://www.ancientports.com/ont#Shipshed>,
         <http://www.ancientports.com/ont#Slipway>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Le Piree, The Piraeus, with a possible lighthouse at Themistocles' tomb"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

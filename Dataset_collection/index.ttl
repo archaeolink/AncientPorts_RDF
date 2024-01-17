@@ -1,9 +1,11 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<http://data.archaeology.link/data/ancientports/Dataset_collection> a skos:Collection ;
-    rdfs:label "Dataset Instances Collection" ;
+<http://data.archaeology.link/data/ancientports/Dataset_collection> a <http://www.w3.org/ns/ldp#Resource>,
+        <http://www.w3.org/ns/lemon/lime#Catalog>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Dataset Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    rdfs:member <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> .
+    dcat:dataset <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> .
 

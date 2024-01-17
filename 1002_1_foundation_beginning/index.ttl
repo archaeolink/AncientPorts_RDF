@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/1002_1_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/1002_1_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Pompei, uncertain location of ancient port on R Sarno near Porta Marina and/or near Porta Stabia?, with several Roman villas: Misteri, Diomede, Colonne a mosaico, Cicerone, Imperiale Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-750"^^xsd:gYear .

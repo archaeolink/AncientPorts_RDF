@@ -9,7 +9,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/916> a <http://www.ancientports.com/ont#Lighthouse>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ostia, with probable lighthouse at Tor Boacciana. It may be noted that Dionysius is more positive on the use of this port than Strabo, although they both lived in the same period"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

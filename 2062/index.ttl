@@ -7,7 +7,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/2062> a <http://www.ancientports.com/ont#Quay>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Port area on ca. 800 m south of the modern breakwater, on the isle of Dhilos, Delos, east of Megalo Remmatia, Rematiari islet"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

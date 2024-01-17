@@ -6,7 +6,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3625> a <http://www.ancientports.com/ont#Harbour>,
-        <http://www.ancientports.com/ont#PotentialHarbour> ;
+        <http://www.ancientports.com/ont#PotentialHarbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Edd"@en,
         "Edd, beach sheltered from south"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

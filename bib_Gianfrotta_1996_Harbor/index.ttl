@@ -1,7 +1,9 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Gianfrotta_1996_Harbor> a <http://purl.org/ontology/bibo/Book> ;
+<http://data.archaeology.link/data/ancientports/bib_Gianfrotta_1996_Harbor> a <http://purl.org/ontology/bibo/Book>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "1996"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Gianfrotta_Piero_A> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

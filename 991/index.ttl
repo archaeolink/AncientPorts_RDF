@@ -11,7 +11,9 @@
         <http://www.ancientports.com/ont#Pila>,
         <http://www.ancientports.com/ont#Quay>,
         <http://www.ancientports.com/ont#Shipyard>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Pozzuoli, Pouzzoles, Puteoles, in the Campi Flegrei volcano district, pilae of arched mole are under modern breakwater (Molo Caligoliano)"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

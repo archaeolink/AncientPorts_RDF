@@ -5,7 +5,9 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/451> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/451> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "El Port de la Selva? « Le Pyrenee » generally means the oriental extremity of this chain of mountains that literally falls into the sea between Port Vendres in France and Roses in Spain. Its end is Cape Creus. Shelters are few and of bad quality, as they face the East, and the mountain is hostile. The best shelter is Port de la Selva on the Spanish side. Note that Herodotus (Hist. 2, 33) erroneously placed the source of the Danube here"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

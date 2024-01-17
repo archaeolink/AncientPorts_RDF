@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3735_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3735_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Zeila, Saylac, in Somalia, 50 km east of Djibouti. Avalites seems to be located with some certainty at Zeila (in Somalia) on a former island protected by a sand spit Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-30"^^xsd:gYear .

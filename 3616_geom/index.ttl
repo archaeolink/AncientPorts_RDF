@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3616_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/3616_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Probably somewhere in East Africa, possibly in the area of the Afar people, between Adulis and Djibouti, on the location of the ancient D'mt (Da'amat) kingdom and close to the Kush kingdom and its gold mines, where they could also find silver, ivory, apes, and peacocks. Other possible locations for Punt are Mundus-Mosylium and Opone (Somalia) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(39.25000 15.35000)"^^geo:wktLiteral .

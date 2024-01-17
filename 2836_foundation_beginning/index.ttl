@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2836_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/2836_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Beykoz, Daphné is located by Arrian at 40 stadia (7.5 km) south of Hieron (on the Asian side) and at 80 stadia (15 km) of Byzance Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-330"^^xsd:gYear .

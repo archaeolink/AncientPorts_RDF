@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3452_1_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3452_1_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ksar Akil, Aqil, Paleolothic cave, on R Nahr Antelias. Famous Paleolithic site in Lebanon, but one of many others Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-40000"^^xsd:gYear .

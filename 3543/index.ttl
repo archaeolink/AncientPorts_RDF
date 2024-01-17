@@ -7,7 +7,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/3543> a <http://www.ancientports.com/ont#Harbour>,
-        <http://www.ancientports.com/ont#PotentialHarbour> ;
+        <http://www.ancientports.com/ont#PotentialHarbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Coral Garden"@en,
         "Wadi Gasus, at Coral Garden resort"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

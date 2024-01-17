@@ -1,7 +1,9 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Marcotte_2017_Ocean> a <http://purl.org/ontology/bibo/Document> ;
+<http://data.archaeology.link/data/ancientports/bib_Marcotte_2017_Ocean> a <http://purl.org/ontology/bibo/Document>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2017"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Marcotte_Didier> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

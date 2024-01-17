@@ -7,7 +7,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/3000> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/3000> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Kaloi Limenes, 'Good Ports', today a small LPG terminal well protected from northern winds, one wonders just why the captain of St Paul's ship preferred to winter at Phoenix rather than here: perhaps he did not realise that the coast between Matala and Frangokastello is subject to northern wind gusts due to the topography of the coastal mountain ridge …"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

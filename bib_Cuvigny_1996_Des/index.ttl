@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Cuvigny_1996_Des> a ns1:Article ;
+<http://data.archaeology.link/data/ancientports/bib_Cuvigny_1996_Des> a ns1:Article,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "1996"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Cuvigny_Hélène>,
         <http://data.archaeology.link/data/ancientports/author_Robin_Christian_Julien> ;

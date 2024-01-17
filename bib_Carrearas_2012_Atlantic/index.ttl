@@ -3,7 +3,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Carrearas_2012_Atlantic> a ns1:Article ;
+<http://data.archaeology.link/data/ancientports/bib_Carrearas_2012_Atlantic> a ns1:Article,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2012"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Carreras_Cesar>,
         <http://data.archaeology.link/data/ancientports/author_Morais_Rui> ;

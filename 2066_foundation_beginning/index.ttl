@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2066_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/2066_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ha Kyriaki, on the isle of Rinia, Rhenee, near Delos, with 3 possible ancient lighthouses at Marmarokopio (SE end of the island), Steni (isthmus) and Paliofanero (North end of island) Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-750"^^xsd:gYear .

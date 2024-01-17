@@ -2,8 +2,10 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/Quay_collection> a geo:FeatureCollection ;
-    rdfs:label "Quay Instances Collection" ;
+<http://data.archaeology.link/data/ancientports/Quay_collection> a geo:FeatureCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Quay Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/10>,
         <http://data.archaeology.link/data/ancientports/1006>,

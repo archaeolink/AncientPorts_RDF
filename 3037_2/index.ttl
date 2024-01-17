@@ -7,7 +7,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 
 <http://data.archaeology.link/data/ancientports/3037_2> a <http://www.ancientports.com/ont#Shipshed>,
-        <http://www.ancientports.com/ont#Slipway> ;
+        <http://www.ancientports.com/ont#Slipway>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "North of Campanopetra Basilica"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

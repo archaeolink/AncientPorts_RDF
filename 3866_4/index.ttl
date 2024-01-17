@@ -4,7 +4,9 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3866_4> a <http://www.ancientports.com/ont#Harbour> ;
+<http://data.archaeology.link/data/ancientports/3866_4> a <http://www.ancientports.com/ont#Harbour>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label """R Pudavaikattu? on Sri Lanka island,\r
 This location agrees with Ptolemy's coordinates with respect to Talacori emporium"""@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;

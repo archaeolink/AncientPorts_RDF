@@ -7,7 +7,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/599> a <http://www.ancientports.com/ont#Quay>,
-        <http://www.ancientports.com/ont#Shipyard> ;
+        <http://www.ancientports.com/ont#Shipyard>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Bordeaux, Porte Navigere, at the outlet of R Deveze, rue de la Devise"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

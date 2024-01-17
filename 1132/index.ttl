@@ -9,7 +9,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1132> a <http://www.ancientports.com/ont#Shipyard>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Siracusa, ancient port possibly near Corso Umberto I, and/or at present Porto Grande on Foro Vittorio Emanuele II, on Ortigia"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

@@ -2,7 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/387_foundation> a time:TemporalEntity ;
+<http://data.archaeology.link/data/ancientports/387_foundation> a time:TemporalEntity,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Roman villa at El Castillet, near Cabo de Palos, from where one could sail directly to Caesarea Mauretania Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/387_foundation_beginning> .

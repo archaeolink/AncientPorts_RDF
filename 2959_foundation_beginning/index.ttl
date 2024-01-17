@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/2959_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/2959_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Niros, Nirou Khani, Haghioi Theodoroi, 2 km east of the temple of Zeus Thenatas ; rock-cut structure visited by several famous authors. I would favour a twin slipway 2 x 5 m wide and 46 m long (see GE picture) Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-1500"^^xsd:gYear .

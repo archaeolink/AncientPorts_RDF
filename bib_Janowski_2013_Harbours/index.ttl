@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Janowski_2013_Harbours> a ns1:BookSection ;
+<http://data.archaeology.link/data/ancientports/bib_Janowski_2013_Harbours> a ns1:BookSection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2013"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Janowski_Andrzej> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

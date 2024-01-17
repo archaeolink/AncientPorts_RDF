@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3892_3_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3892_3_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Deversoir? on Nile to Red Sea canal, near Difarsuwar air base, with 145x45 m fortress (destroyed?) Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-1500"^^xsd:gYear .

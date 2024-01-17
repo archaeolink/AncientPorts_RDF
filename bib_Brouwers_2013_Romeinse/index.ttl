@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Brouwers_2013_Romeinse> a ns1:Article ;
+<http://data.archaeology.link/data/ancientports/bib_Brouwers_2013_Romeinse> a ns1:Article,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2013"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Brouwers_Will>,
         <http://data.archaeology.link/data/ancientports/author_Jansma_E>,

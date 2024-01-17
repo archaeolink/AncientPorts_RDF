@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3710_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3710_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Kilwa Kisiwani island & Songo Mnara island, this area of Swahili culture might be beyond the southern limit of pre-islamic trading ports as archaeology has not (yet?) found any older artefacts Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "8001"^^xsd:gYear .

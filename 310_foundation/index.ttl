@@ -2,7 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/310_foundation> a time:TemporalEntity ;
+<http://data.archaeology.link/data/ancientports/310_foundation> a time:TemporalEntity,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Somewhere in Donana park? Cerro del Trigo? The R Guadalquivir is called R Baetis by the Romans and R Tartessos by the Phoenicians before them. Tartessos is also the name of an ancient tribe who lived in this area of Huelva-Sevilla-Cadix. The ancient city of Tartessos is possibly located here.The Bible mentions Tarshish several times. Pausanias (Greece, 6, 19) locates it near the outlet of the Guadalquivir. However, Avienus indicates in his Ora Maritima that Tartessus is the ancient name of Gaddir. Pliny (Nat Hist, 3, 3) locates Tartessos at Carteia. Some believe it is Huelva. Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/310_foundation_beginning> .

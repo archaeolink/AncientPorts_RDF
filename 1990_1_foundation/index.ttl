@@ -2,7 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/1990_1_foundation> a time:TemporalEntity ;
+<http://data.archaeology.link/data/ancientports/1990_1_foundation> a time:TemporalEntity,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "in front of Nydri, on Geni peninsula, on the isle of Lefkada, with lighthouse near the Agia Kiriaki church Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/1990_1_foundation_beginning> .

@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Amato_2013_New> a ns1:Proceedings ;
+<http://data.archaeology.link/data/ancientports/bib_Amato_2013_New> a ns1:Proceedings,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2013"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Amato_Lucio>,
         <http://data.archaeology.link/data/ancientports/author_Gialanella_C> ;

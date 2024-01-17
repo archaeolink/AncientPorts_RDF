@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Andreou_2016_Moving> a ns1:Proceedings ;
+<http://data.archaeology.link/data/ancientports/bib_Andreou_2016_Moving> a ns1:Proceedings,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2016"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Andreou_Georgia_M>,
         <http://data.archaeology.link/data/ancientports/author_Manning_Sturt_W>,

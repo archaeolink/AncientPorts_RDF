@@ -6,7 +6,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/271> a <http://www.ancientports.com/ont#Shipyard> ;
+<http://data.archaeology.link/data/ancientports/271> a <http://www.ancientports.com/ont#Shipyard>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Mythical site located by Plato beyond the Pillars of Hercules and by Diodore at several days of navigation near West Afrika, but the location of this island is still much debated (perhaps somewhere between R Guadiana and R Guadalquivir in the Tartessos country, some locate it on Santorini island)"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

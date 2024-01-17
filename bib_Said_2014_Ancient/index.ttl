@@ -2,7 +2,9 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Said_2014_Ancient> a <http://purl.org/ontology/bibo/Document> ;
+<http://data.archaeology.link/data/ancientports/bib_Said_2014_Ancient> a <http://purl.org/ontology/bibo/Document>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2014"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Hussein_Shidad>,
         <http://data.archaeology.link/data/ancientports/author_Said_M> ;

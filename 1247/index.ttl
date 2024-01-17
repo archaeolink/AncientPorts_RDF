@@ -6,7 +6,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/1247> a <http://www.ancientports.com/ont#Lighthouse> ;
+<http://data.archaeology.link/data/ancientports/1247> a <http://www.ancientports.com/ont#Lighthouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Brindisi, with possibly two ancient lighthouses: on Barra island and at the entrance of the inner port"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

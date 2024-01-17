@@ -8,7 +8,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 
 <http://data.archaeology.link/data/ancientports/953> a <http://www.ancientports.com/ont#Pila>,
-        <http://www.ancientports.com/ont#VillaMaritima> ;
+        <http://www.ancientports.com/ont#VillaMaritima>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Inside Lago di Paola, several Roman villas incl. Piscina di Lucullo, with access via canal and breakwaters"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

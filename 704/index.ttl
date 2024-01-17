@@ -10,7 +10,9 @@
         <http://www.ancientports.com/ont#Pila>,
         <http://www.ancientports.com/ont#Quay>,
         <http://www.ancientports.com/ont#VillaMaritima>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Roman naval base at Frejus, with one lighthouse at the Butte St Antoine and 3 landmarks: the Lanterne d'Auguste, the Triton Monument and the Lion de Mer islet in front of St Raphael"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

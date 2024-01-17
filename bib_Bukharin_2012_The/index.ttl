@@ -1,7 +1,9 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The> a <http://purl.org/ontology/bibo/Proceedings> ;
+<http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The> a <http://purl.org/ontology/bibo/Proceedings>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2012"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Bukharin_Michael_D_> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

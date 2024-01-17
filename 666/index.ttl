@@ -13,7 +13,9 @@
         <http://www.ancientports.com/ont#Shipshed>,
         <http://www.ancientports.com/ont#Shipyard>,
         <http://www.ancientports.com/ont#Slipway>,
-        <http://www.ancientports.com/ont#Warehouse> ;
+        <http://www.ancientports.com/ont#Warehouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Marseille, Vieux Port, place Jules Verne & place Villeneuve-Bargemon (see also nearby Musee des docks: Dolia warehouse)"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

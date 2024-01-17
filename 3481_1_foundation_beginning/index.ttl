@@ -3,7 +3,9 @@
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/3481_1_foundation_beginning> a time:Instant ;
+<http://data.archaeology.link/data/ancientports/3481_1_foundation_beginning> a time:Instant,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Tell Ḥreiz, with unique seawall structure, 1.6 km south of outlet of R Galim, with other submerged Neolithic sites at Kfar Samir, Hishuley Carmel, Kfar Galim, Nahal Galim, Hahotrim  Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:inXSDgYear "-5500"^^xsd:gYear .

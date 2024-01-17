@@ -2,7 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Klooß_2009_The> a ns1:BookSection ;
+<http://data.archaeology.link/data/ancientports/bib_Klooß_2009_The> a ns1:BookSection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2009"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Klooß_Stefanie>,
         <http://data.archaeology.link/data/ancientports/author_Lübke_Harald> ;

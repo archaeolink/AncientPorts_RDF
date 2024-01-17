@@ -6,7 +6,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.archaeology.link/data/ancientports/962_1> a <http://www.ancientports.com/ont#Pila>,
-        <http://www.ancientports.com/ont#VillaMaritima> ;
+        <http://www.ancientports.com/ont#VillaMaritima>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Spiaggia di Fontania, with Roman villa La Catena, La Nave, and many others on Spiaggia Serapo and around Gaeta"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

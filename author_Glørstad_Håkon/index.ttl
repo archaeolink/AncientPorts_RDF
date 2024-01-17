@@ -2,7 +2,9 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/author_Glørstad_Håkon> a foaf:Person ;
+<http://data.archaeology.link/data/ancientports/author_Glørstad_Håkon> a <http://www.w3.org/ns/ldp#Resource>,
+        foaf:Person,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Glørstad, Håkon"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     foaf:family_Name "Glørstad"@en ;

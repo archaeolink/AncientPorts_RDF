@@ -2,7 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-<http://data.archaeology.link/data/ancientports/3014_foundation> a time:TemporalEntity ;
+<http://data.archaeology.link/data/ancientports/3014_foundation> a time:TemporalEntity,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Loutro East, well protected from northern winds, Ptolemy locates Phoenicis limen/portus east of Phoenix polis/civitas, BAtlas locates Phoenix at Finikas, on the west side of the promontory, Uggeri indicates that the Loutro peninsula has a typical Phoenician shape with one port on each side Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3014_foundation_beginning> .

@@ -5,7 +5,9 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/2409> a <http://www.ancientports.com/ont#Lighthouse> ;
+<http://data.archaeology.link/data/ancientports/2409> a <http://www.ancientports.com/ont#Lighthouse>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Bukoleon Sarayi, probably built by Justinian I in the 6th century, beneath the Palace of Bucoleon built by Theodosius II in the 5th century"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;

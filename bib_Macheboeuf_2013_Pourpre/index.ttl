@@ -3,7 +3,9 @@
 @prefix ns1: <http://purl.org/ontology/bibo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/bib_Macheboeuf_2013_Pourpre> a ns1:Article ;
+<http://data.archaeology.link/data/ancientports/bib_Macheboeuf_2013_Pourpre> a ns1:Article,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     dc:created "2013"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Ferri_Narcisa_Bolsec>,
         <http://data.archaeology.link/data/ancientports/author_Hanry_Alex>,

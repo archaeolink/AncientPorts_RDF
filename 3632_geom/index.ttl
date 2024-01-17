@@ -2,7 +2,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/ancientports/3632_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/ancientports/3632_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ras Siyan, on the west side of Bab el-Mandeb, the Gate of Tears. Cape Dire is located in front of Cape Acila (Cheikh Saïd in Yemen) as Strabo indicates. It is also just in front of the six islands mentioned by Strabo: Ras Siyan is a former island now connected to the mainland, but before that, it was a member of the 'Seven Islands' (Sawabi islands). It provides good shelter against the south-eastern waves prevailing in this area. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     geo:asWKT "POINT(43.31450 12.46780)"^^geo:wktLiteral .

@@ -8,7 +8,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/707> a <http://www.ancientports.com/ont#Lighthouse>,
-        <http://www.ancientports.com/ont#VillaMaritima> ;
+        <http://www.ancientports.com/ont#VillaMaritima>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Roman villa on the Isle of Ste Marguerite in the isles of Lerins, with ancient lighthouse of la Tour Ste Anne at the NW end of the island, and submerged BA settlement at Etang de Bateguier"@en ;
     dc:creator <http://data.archaeology.link/data/spphaefen/arthur_de_graauw> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
