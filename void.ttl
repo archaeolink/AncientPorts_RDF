@@ -31,12 +31,12 @@
 <http:/data.archaeology.link/data/ancientports/theds> a void:Dataset ;
     rdfs:label ""@en ;
     dcterms:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:modified "2024-01-20T04:37:33"^^xsd:dateTime ;
+    dcterms:modified "2024-01-20T17:09:32"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
     dcterms:title ""@en ;
-    void:classes 19787 ;
+    void:classes 33 ;
     void:dataDump <https://archaeolink.github.io/AncientPorts_RDF/index.ttl> ;
     void:distinctObjects 68796 ;
     void:distinctSubjects 33068 ;
