@@ -1,1 +1,1 @@
-{"success": true, "result": {"description": "Feature", "display_name": "Feature (geo:Feature)", "name": "Feature (geo:Feature)", "title": "Feature (geo:Feature)", "type": "group"}}
+{"success": true, "result": {"description": "Feature", "display_name": "Feature (gsp:Feature)", "name": "Feature (gsp:Feature)", "title": "Feature (gsp:Feature)", "type": "group"}}
