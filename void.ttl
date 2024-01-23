@@ -28,26 +28,434 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http:/data.archaeology.link/data/ancientports/theds> a void:Dataset ;
-    rdfs:label ""@en ;
+<http://data.archaeology.link/data/ancientports/dataset_> a void:Linkset ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.ancientports.com/ont#>,
+        geo:,
+        <http://www.opengis.net/ont/sf#>,
+        skos:,
+        time:,
+        <http://www.w3.org/2006/vcard/ns#>,
+        dcat: ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1,
+        2,
+        11,
+        5710,
+        6113,
+        7698 .
+
+<http://data.archaeology.link/data/ancientports/dataset_0.1> a void:Linkset ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget foaf: ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 393 .
+
+<http://data.archaeology.link/data/ancientports/dataset_579988> a void:Linkset ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
+    void:objectsTarget <https://pleiades.stoa.org/places/579988/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_746700> a void:Linkset ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
+    void:objectsTarget <https://pleiades.stoa.org/places/746700/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_alexandria> a void:Linkset ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
+    void:objectsTarget <http://www.ancientportsantiques.com/a-few-ports/alexandria/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_bibo> a void:Linkset ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://purl.org/ontology/bibo/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 203 .
+
+<http://data.archaeology.link/data/ancientports/dataset_entity> a void:Linkset ;
+    void:linkPredicate dcterms:publisher,
+        <http://purl.org/ontology/bibo/issuer>,
+        owl:sameAs,
+        <http://www.wikidata.org/prop/direct/P17> ;
+    void:objectsTarget <http://www.wikidata.org/entity/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 39,
+        3367,
+        5579 .
+
+<http://data.archaeology.link/data/ancientports/dataset_place> a void:Linkset ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1958>,
+        <http://www.wikidata.org/prop/direct/P8068> ;
+    void:objectsTarget <https://topostext.org/place/>,
+        <https://www.trismegistos.org/place/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1857,
+        1974 .
+
+<http://data.archaeology.link/data/ancientports/dataset_places> a void:Linkset ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1584>,
+        <http://www.wikidata.org/prop/direct/P1936> ;
+    void:objectsTarget <http://dare.ht.lu.se/places/>,
+        <http://imperium.ahlfeldt.se/places/>,
+        <http://pleiades.stoa.org/places/>,
+        <https://pleiades.stoa.org/places/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1,
+        12,
+        238,
+        3370,
+        3390 .
+
+<http://data.archaeology.link/data/ancientports/dataset_spphaefen> a void:Linkset ;
+    void:linkPredicate dc:creator ;
+    void:objectsTarget <http://data.archaeology.link/data/spphaefen/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 5710 .
+
+<http://data.archaeology.link/data/ancientports/dataset_wiki> a void:Linkset ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1584>,
+        <http://www.wikidata.org/prop/direct/P17> ;
+    void:objectsTarget <http://www.wikidata.org/wiki/>,
+        <https://en.wikipedia.org/wiki/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1,
+        9 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Article> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Article> ;
+    void:entities 155 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Book> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Book> ;
+    void:entities 16 .
+
+<http://data.archaeology.link/data/ancientports/dataset_BookSection> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/BookSection> ;
+    void:entities 7 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Catalog> a void:Dataset ;
+    void:class dcat:Catalog ;
+    void:entities 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Collection> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Collection>,
+        skos:Collection ;
+    void:entities 2,
+        6 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Dataset> a void:Dataset ;
+    void:class dcat:Dataset ;
+    void:entities 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Document> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Document> ;
+    void:entities 3 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Feature> a void:Dataset ;
+    void:class geo:Feature .
+
+<http://data.archaeology.link/data/ancientports/dataset_FeatureCollection> a void:Dataset ;
+    void:class geo:FeatureCollection ;
+    void:entities 10 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Geometry> a void:Dataset ;
+    void:class geo:Geometry .
+
+<http://data.archaeology.link/data/ancientports/dataset_GeometryCollection> a void:Dataset ;
+    void:class geo:GeometryCollection ;
+    void:entities 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Group> a void:Dataset ;
+    void:class <http://www.w3.org/2006/vcard/ns#Group> ;
+    void:entities 1 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Harbour> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Harbour> ;
+    void:entities 4818 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Instant> a void:Dataset ;
+    void:class time:Instant ;
+    void:entities 3849 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Journal> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Journal> .
+
+<http://data.archaeology.link/data/ancientports/dataset_Lighthouse> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Lighthouse> ;
+    void:entities 63 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Organization> a void:Dataset ;
+    void:class foaf:Organization .
+
+<http://data.archaeology.link/data/ancientports/dataset_P1584> a void:Dataset ;
+    void:property <http://www.wikidata.org/prop/direct/P1584> ;
+    void:triples 3632 .
+
+<http://data.archaeology.link/data/ancientports/dataset_P17> a void:Dataset ;
+    void:property <http://www.wikidata.org/prop/direct/P17> ;
+    void:triples 5735 .
+
+<http://data.archaeology.link/data/ancientports/dataset_P1936> a void:Dataset ;
+    void:property <http://www.wikidata.org/prop/direct/P1936> ;
+    void:triples 3383 .
+
+<http://data.archaeology.link/data/ancientports/dataset_P1958> a void:Dataset ;
+    void:property <http://www.wikidata.org/prop/direct/P1958> ;
+    void:triples 1974 .
+
+<http://data.archaeology.link/data/ancientports/dataset_P8068> a void:Dataset ;
+    void:property <http://www.wikidata.org/prop/direct/P8068> ;
+    void:triples 1857 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Person> a void:Dataset ;
+    void:class foaf:Person ;
+    void:entities 393 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Pila> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Pila> ;
+    void:entities 42 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Point> a void:Dataset ;
+    void:class <http://www.opengis.net/ont/sf#Point> ;
+    void:entities 5710 .
+
+<http://data.archaeology.link/data/ancientports/dataset_PotentialHarbour> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#PotentialHarbour> ;
+    void:entities 175 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Proceedings> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Proceedings> ;
+    void:entities 10 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Quay> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Quay> ;
+    void:entities 326 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Shipshed> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Shipshed> ;
+    void:entities 45 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Shipyard> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Shipyard> ;
+    void:entities 50 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Slipway> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Slipway> ;
+    void:entities 89 .
+
+<http://data.archaeology.link/data/ancientports/dataset_SpatialObject> a void:Dataset ;
+    void:class geo:SpatialObject .
+
+<http://data.archaeology.link/data/ancientports/dataset_SpatialObjectCollection> a void:Dataset ;
+    void:class geo:SpatialObjectCollection .
+
+<http://data.archaeology.link/data/ancientports/dataset_TemporalEntity> a void:Dataset ;
+    void:class time:TemporalEntity ;
+    void:entities 3849 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Thesis> a void:Dataset ;
+    void:class <http://purl.org/ontology/bibo/Thesis> ;
+    void:entities 6 .
+
+<http://data.archaeology.link/data/ancientports/dataset_VillaMaritima> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#VillaMaritima> ;
+    void:entities 444 .
+
+<http://data.archaeology.link/data/ancientports/dataset_Warehouse> a void:Dataset ;
+    void:class <http://www.ancientports.com/ont#Warehouse> ;
+    void:entities 61 .
+
+<http://data.archaeology.link/data/ancientports/dataset_asWKT> a void:Dataset ;
+    void:property geo:asWKT ;
+    void:triples 5722 .
+
+<http://data.archaeology.link/data/ancientports/dataset_created> a void:Dataset ;
+    void:property dc:created ;
+    void:triples 198 .
+
+<http://data.archaeology.link/data/ancientports/dataset_creator> a void:Dataset ;
+    void:property dc:creator ;
+    void:triples 6163 .
+
+<http://data.archaeology.link/data/ancientports/dataset_doi> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/doi> ;
+    void:triples 34 .
+
+<http://data.archaeology.link/data/ancientports/dataset_familyName> a void:Dataset ;
+    void:property foaf:familyName ;
+    void:triples 393 .
+
+<http://data.archaeology.link/data/ancientports/dataset_firstName> a void:Dataset ;
+    void:property foaf:firstName ;
+    void:triples 393 .
+
+<http://data.archaeology.link/data/ancientports/dataset_hasBeginning> a void:Dataset ;
+    void:property time:hasBeginning ;
+    void:triples 3849 .
+
+<http://data.archaeology.link/data/ancientports/dataset_hasGeometry> a void:Dataset ;
+    void:property geo:hasGeometry ;
+    void:triples 5710 .
+
+<http://data.archaeology.link/data/ancientports/dataset_hasTime> a void:Dataset ;
+    void:property time:hasTime ;
+    void:triples 3849 .
+
+<http://data.archaeology.link/data/ancientports/dataset_inXSDgYear> a void:Dataset ;
+    void:property time:inXSDgYear ;
+    void:triples 3849 .
+
+<http://data.archaeology.link/data/ancientports/dataset_isReferencedBy> a void:Dataset ;
+    void:property dcterms:isReferencedBy ;
+    void:triples 1504 .
+
+<http://data.archaeology.link/data/ancientports/dataset_isbn> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/isbn> ;
+    void:triples 6 .
+
+<http://data.archaeology.link/data/ancientports/dataset_issn> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/issn> ;
+    void:triples 11 .
+
+<http://data.archaeology.link/data/ancientports/dataset_issuer> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/issuer> ;
+    void:triples 147 .
+
+<http://data.archaeology.link/data/ancientports/dataset_label> a void:Dataset ;
+    void:property rdfs:label ;
+    void:triples 32969 .
+
+<http://data.archaeology.link/data/ancientports/dataset_note> a void:Dataset ;
+    void:property skos:note ;
+    void:triples 2363 .
+
+<http://data.archaeology.link/data/ancientports/dataset_number> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/number> ;
+    void:triples 82 .
+
+<http://data.archaeology.link/data/ancientports/dataset_pageEnd> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/pageEnd> ;
+    void:triples 138 .
+
+<http://data.archaeology.link/data/ancientports/dataset_pageStart> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/pageStart> ;
+    void:triples 138 .
+
+<http://data.archaeology.link/data/ancientports/dataset_partOf> a void:Dataset ;
+    void:property dcterms:partOf ;
+    void:triples 5710 .
+
+<http://data.archaeology.link/data/ancientports/dataset_publisher> a void:Dataset ;
+    void:property dcterms:publisher ;
+    void:triples 102 .
+
+<http://data.archaeology.link/data/ancientports/dataset_sameAs> a void:Dataset ;
+    void:property owl:sameAs ;
+    void:triples 3367 .
+
+<http://data.archaeology.link/data/ancientports/dataset_subClassOf> a void:Dataset ;
+    void:property rdfs:subClassOf ;
+    void:triples 4 .
+
+<http://data.archaeology.link/data/ancientports/dataset_title> a void:Dataset ;
+    void:property dc:title ;
+    void:triples 198 .
+
+<http://data.archaeology.link/data/ancientports/dataset_type> a void:Dataset ;
+    void:property rdf:type ;
+    void:triples 20139 .
+
+<http://data.archaeology.link/data/ancientports/dataset_volume> a void:Dataset ;
+    void:property <http://purl.org/ontology/bibo/volume> ;
+    void:triples 117 .
+
+<http://data.archaeology.link/data/ancientports/dataset> a void:Dataset ;
+    rdfs:label "dataset"@en ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dcterms:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:modified "2024-01-20T17:09:32"^^xsd:dateTime ;
+    dcterms:modified "2024-01-23T12:26:32"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
-    dcterms:title ""@en ;
+    dcterms:title "dataset"@en ;
+    void:classPartition <http://data.archaeology.link/data/ancientports/dataset_Article>,
+        <http://data.archaeology.link/data/ancientports/dataset_Book>,
+        <http://data.archaeology.link/data/ancientports/dataset_BookSection>,
+        <http://data.archaeology.link/data/ancientports/dataset_Catalog>,
+        <http://data.archaeology.link/data/ancientports/dataset_Collection>,
+        <http://data.archaeology.link/data/ancientports/dataset_Dataset>,
+        <http://data.archaeology.link/data/ancientports/dataset_Document>,
+        <http://data.archaeology.link/data/ancientports/dataset_Feature>,
+        <http://data.archaeology.link/data/ancientports/dataset_FeatureCollection>,
+        <http://data.archaeology.link/data/ancientports/dataset_Geometry>,
+        <http://data.archaeology.link/data/ancientports/dataset_GeometryCollection>,
+        <http://data.archaeology.link/data/ancientports/dataset_Group>,
+        <http://data.archaeology.link/data/ancientports/dataset_Harbour>,
+        <http://data.archaeology.link/data/ancientports/dataset_Instant>,
+        <http://data.archaeology.link/data/ancientports/dataset_Journal>,
+        <http://data.archaeology.link/data/ancientports/dataset_Lighthouse>,
+        <http://data.archaeology.link/data/ancientports/dataset_Organization>,
+        <http://data.archaeology.link/data/ancientports/dataset_Person>,
+        <http://data.archaeology.link/data/ancientports/dataset_Pila>,
+        <http://data.archaeology.link/data/ancientports/dataset_Point>,
+        <http://data.archaeology.link/data/ancientports/dataset_PotentialHarbour>,
+        <http://data.archaeology.link/data/ancientports/dataset_Proceedings>,
+        <http://data.archaeology.link/data/ancientports/dataset_Quay>,
+        <http://data.archaeology.link/data/ancientports/dataset_Shipshed>,
+        <http://data.archaeology.link/data/ancientports/dataset_Shipyard>,
+        <http://data.archaeology.link/data/ancientports/dataset_Slipway>,
+        <http://data.archaeology.link/data/ancientports/dataset_SpatialObject>,
+        <http://data.archaeology.link/data/ancientports/dataset_SpatialObjectCollection>,
+        <http://data.archaeology.link/data/ancientports/dataset_TemporalEntity>,
+        <http://data.archaeology.link/data/ancientports/dataset_Thesis>,
+        <http://data.archaeology.link/data/ancientports/dataset_VillaMaritima>,
+        <http://data.archaeology.link/data/ancientports/dataset_Warehouse> ;
     void:classes 33 ;
     void:dataDump <https://archaeolink.github.io/AncientPorts_RDF/index.ttl> ;
     void:distinctObjects 68796 ;
     void:distinctSubjects 33068 ;
-    void:entities 19730 ;
+    void:entities 19731 ;
     void:exampleResource <> ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 31 ;
+    void:propertyPartition <http://data.archaeology.link/data/ancientports/dataset_P1584>,
+        <http://data.archaeology.link/data/ancientports/dataset_P17>,
+        <http://data.archaeology.link/data/ancientports/dataset_P1936>,
+        <http://data.archaeology.link/data/ancientports/dataset_P1958>,
+        <http://data.archaeology.link/data/ancientports/dataset_P8068>,
+        <http://data.archaeology.link/data/ancientports/dataset_asWKT>,
+        <http://data.archaeology.link/data/ancientports/dataset_created>,
+        <http://data.archaeology.link/data/ancientports/dataset_creator>,
+        <http://data.archaeology.link/data/ancientports/dataset_doi>,
+        <http://data.archaeology.link/data/ancientports/dataset_familyName>,
+        <http://data.archaeology.link/data/ancientports/dataset_firstName>,
+        <http://data.archaeology.link/data/ancientports/dataset_hasBeginning>,
+        <http://data.archaeology.link/data/ancientports/dataset_hasGeometry>,
+        <http://data.archaeology.link/data/ancientports/dataset_hasTime>,
+        <http://data.archaeology.link/data/ancientports/dataset_inXSDgYear>,
+        <http://data.archaeology.link/data/ancientports/dataset_isReferencedBy>,
+        <http://data.archaeology.link/data/ancientports/dataset_isbn>,
+        <http://data.archaeology.link/data/ancientports/dataset_issn>,
+        <http://data.archaeology.link/data/ancientports/dataset_issuer>,
+        <http://data.archaeology.link/data/ancientports/dataset_label>,
+        <http://data.archaeology.link/data/ancientports/dataset_note>,
+        <http://data.archaeology.link/data/ancientports/dataset_number>,
+        <http://data.archaeology.link/data/ancientports/dataset_pageEnd>,
+        <http://data.archaeology.link/data/ancientports/dataset_pageStart>,
+        <http://data.archaeology.link/data/ancientports/dataset_partOf>,
+        <http://data.archaeology.link/data/ancientports/dataset_publisher>,
+        <http://data.archaeology.link/data/ancientports/dataset_sameAs>,
+        <http://data.archaeology.link/data/ancientports/dataset_subClassOf>,
+        <http://data.archaeology.link/data/ancientports/dataset_title>,
+        <http://data.archaeology.link/data/ancientports/dataset_type>,
+        <http://data.archaeology.link/data/ancientports/dataset_volume> ;
     void:rootResource <> ;
-    void:triples 133896 ;
-    void:uriSpace "http:/data.archaeology.link/data/ancientports/"^^xsd:string ;
+    void:triples 153626 ;
+    void:uriSpace "http://data.archaeology.link/data/ancientports/"^^xsd:string ;
     void:vocabulary dcam:,
         dcmitype:,
         dc:,

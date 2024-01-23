@@ -3,6 +3,7 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/218> a <http://www.ancientports.com/ont#VillaMaritima>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -12,6 +13,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Ochoa_1994_Industrias> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/218_geom> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> .
 

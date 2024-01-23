@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Shtienberg_2020_Neolithic> a ns1:Article,
@@ -21,5 +22,6 @@
     dc:title "A Neolithic mega-tsunami event in the eastern Mediterranean: Prehistoric settlement vulnerability along the Carmel coast, Israel"@en ;
     ns1:doi "10.1371/journal.pone.0243619"^^xsd:string ;
     ns1:issuer "PLoS ONE" ;
-    ns1:volume "15"^^xsd:string .
+    ns1:volume "15"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

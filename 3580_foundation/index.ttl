@@ -1,11 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/3580_foundation> a time:TemporalEntity,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Medinet el-Haras, 4 km south of Bender el-Kebir inside the gulf of Ras Banas and on the Tropic of Cancer. Pliny is most accurate as he indicates that there is no shadow at noon on the day of summer solstice, which is the definition of the tropic located at 23°26’ of latitude. The present latitude of Berenike is 23°56’ and it is still a port today. With Hellenistic fort and roads to Nile valley Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3580_foundation_beginning> .
 

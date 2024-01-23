@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Conwell_1987_Ostrich> a ns1:Article,
@@ -13,5 +14,6 @@
     dcterms:publisher "University Museum of the University of Pennsylvania" ;
     ns1:issuer "Expedition" ;
     ns1:number 3 ;
-    ns1:volume "29"^^xsd:string .
+    ns1:volume "29"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

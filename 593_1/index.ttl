@@ -4,6 +4,7 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/593_1> a <http://www.ancientports.com/ont#Harbour>,
@@ -16,6 +17,7 @@
         "http://mediolanum-santonum.fr/romanisation-de-l-aunis.html"^^xsd:anyURI,
         "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/593_1_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/593_1_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> .

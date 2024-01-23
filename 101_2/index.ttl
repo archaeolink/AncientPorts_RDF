@@ -6,6 +6,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/101_2> a <http://www.ancientports.com/ont#VillaMaritima>,
@@ -17,6 +18,7 @@
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1002558"^^xsd:anyURI,
         "https://www.lymeregismuseum.co.uk/collection/early-lyme-regis/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/101_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5879023> ;
     skos:note "Ottewell (2019)" ;

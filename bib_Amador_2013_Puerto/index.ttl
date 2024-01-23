@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Amador_2013_Puerto> a ns1:Article,
@@ -10,5 +11,6 @@
         <http://data.archaeology.link/data/ancientports/author_Fernández_E_Pérez> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "El puerto gaditano de Balbo"@en ;
-    ns1:issuer "El Puerto de Santa" .
+    ns1:issuer "El Puerto de Santa" ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

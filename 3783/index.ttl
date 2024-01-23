@@ -4,6 +4,7 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3783> a <http://www.ancientports.com/ont#Harbour>,
@@ -15,6 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The>,
         "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3783_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3546517> ;
     ns1:P17 "Gulf"^^xsd:string .

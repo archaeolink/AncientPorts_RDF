@@ -5,6 +5,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/4_5> a <http://www.ancientports.com/ont#Harbour>,
@@ -15,6 +16,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.hjortspring.dk/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4_5_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1621365> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/4_5_foundation> ;

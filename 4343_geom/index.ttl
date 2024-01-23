@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/4343_geom> a <http://www.opengis.net/ont/sf#Point>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -8,5 +9,6 @@
     rdfs:label """This bay is where Hanno decided to go back home. This bay was located at 3 sailing days south of a high mountain with fire called Theon Ochema which might be Mount Cameroon. An island with gorillas was located on a lake which was located on an island in this bay: the isle of Mbanié is now a tiny island which might once have been part of Corisco island and its surrounding lagoon, itself located in Corisco bay (Gabon) around 200 nautical miles south of Mount Cameroon. This similarity is obviously hypothetical, but it is plausible ...\r
 Note that in this area trade winds and currents are North oriented, and therefore  quite adverse for navigating further South. Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:asWKT "POINT(9.37900 0.81000)"^^geo:wktLiteral .
 

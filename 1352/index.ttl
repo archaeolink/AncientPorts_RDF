@@ -4,6 +4,7 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1352> a <http://www.ancientports.com/ont#VillaMaritima>,
@@ -15,6 +16,7 @@
     dcterms:isReferencedBy "https://ilpiccolo.gelocal.it/trieste/cronaca/2016/06/07/news/il-mosaico-impossibile-della-villa-romana-1.13619385"^^xsd:anyURI,
         "https://youtu.be/Z3Rm3HaZvLs"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1352_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q53133> ;
     ns1:P1584 <http://pleiades.stoa.org/places/187264> ;

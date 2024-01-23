@@ -5,6 +5,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3824> a <http://www.ancientports.com/ont#Harbour>,
@@ -17,6 +18,7 @@
         <http://data.archaeology.link/data/ancientports/bib_Priestman_2013_Quantitative>,
         "https://www.tehrantimes.com/news/473819/Torpedo-tip-jars-discovered-in-ancient-Iranian-port"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3824_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q168056> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3824_foundation> ;

@@ -1,11 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/3372_geom> a <http://www.opengis.net/ont/sf#Point>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Kizkalesi, with Kizkalezi island and Maiden Castle, possibly connected to the mainland in ancient times, thus creating a large harbour on the eastern side Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:asWKT "POINT(34.15033 36.46254)"^^geo:wktLiteral .
 

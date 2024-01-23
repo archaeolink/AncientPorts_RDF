@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Marcotte_2017_Ocean> a <http://purl.org/ontology/bibo/Document>,
@@ -7,5 +8,6 @@
     dc:created "2017"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Marcotte_Didier> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dc:title "L’oc{'e}an Indien dans l’Antiquit{'e}: science, commerce et g{'e}opolitique"@en .
+    dc:title "L’oc{'e}an Indien dans l’Antiquit{'e}: science, commerce et g{'e}opolitique"@en ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

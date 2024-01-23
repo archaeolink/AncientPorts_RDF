@@ -6,6 +6,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/900> a <http://www.ancientports.com/ont#Lighthouse>,
@@ -18,6 +19,7 @@
     dcterms:isReferencedBy "https://www.ancientportsantiques.com/a-few-ports/centumcellae/"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/900_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q242533> ;
     skos:note "Noli (2015)" ;

@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Hairy_2011_Canal> a ns1:Article,
@@ -12,5 +13,6 @@
     dc:title "Le canal d’Alexandrie: la course au Nil"@en ;
     ns1:issuer "Du Nil à Alexandrie: histoires d’eaux, edited by: Hairy, I., Céntre d’Études Alexandrines, De Boccard, Alexandrie" ;
     ns1:pageEnd 161 ;
-    ns1:pageStart 140 .
+    ns1:pageStart 140 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

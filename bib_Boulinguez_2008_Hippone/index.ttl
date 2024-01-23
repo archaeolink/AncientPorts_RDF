@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Boulinguez_2008_Hippone> a ns1:Article,
@@ -12,5 +13,6 @@
     dc:title "Hippone, port de l’annone: la contribution de l’iconographie"@en ;
     ns1:issuer "Le ricchezze dell’Africa. Risorse, produzioni, scambi, Atti del XVII convegno di studio L’Africa Romana (Sevilla, 14-17 dicembre 2006), Gonz{'a}lez J., Ruggeri P., Vismara C., Zucca R.[eds], Roma: Carocci" ;
     ns1:pageEnd 732 ;
-    ns1:pageStart 703 .
+    ns1:pageStart 703 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

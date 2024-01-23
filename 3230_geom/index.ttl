@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/3230_geom> a <http://www.opengis.net/ont/sf#Point>,
         <http://www.w3.org/ns/ldp#Resource>,
@@ -8,5 +9,6 @@
     rdfs:label "Okluk Koyu, inside Degirmen Bükü Geometry"@en,
         "Okluk Köyü, inside Degirmen Bükü Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:asWKT "POINT(28.17160 36.92055)"^^geo:wktLiteral .
 

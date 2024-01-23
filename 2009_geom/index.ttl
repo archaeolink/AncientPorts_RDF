@@ -1,11 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/2009_geom> a <http://www.opengis.net/ont/sf#Point>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "ilset of Daskalion. This Asteris island was supposed to be between the islands of Ithaca and Cephalonia and to have twin ports, according to Homer. The islet of Daskalion is all that remains today, perhaps after some tectonic movement? Cuisenier considers that Homer makes a mistake and that the twin ports are those located in Fiskardo, 2 miles from there. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:asWKT "POINT(20.59819 38.43155)"^^geo:wktLiteral .
 

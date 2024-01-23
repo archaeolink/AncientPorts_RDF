@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Bouras_2016_Geography> a ns1:Article,
@@ -11,5 +12,6 @@
     dc:title "The Geography of Connections: A Harbour Network in the Aegean Sea during the Roman Imperial Period?"@en ;
     ns1:issuer "Ancient Ports, the Geography of Connections. Uppsala" ;
     ns1:pageEnd 223 ;
-    ns1:pageStart 202 .
+    ns1:pageStart 202 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

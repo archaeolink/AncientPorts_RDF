@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Walsh_2006_Pudding> a <http://purl.org/ontology/bibo/Thesis>,
@@ -7,5 +8,6 @@
     dc:created "2006"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Walsh_Michael_Thomas> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dc:title "Pudding Pan: a Roman shipwreck and its cargo in context"@en .
+    dc:title "Pudding Pan: a Roman shipwreck and its cargo in context"@en ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

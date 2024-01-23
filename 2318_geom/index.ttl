@@ -1,11 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/2318_geom> a <http://www.opengis.net/ont/sf#Point>,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Naval base at Port Mandraki with its supposed Colossus of Rhodes (acting as a lighthouse?). Diodorus (Hist, 20, 85-86) distinguishes a « small port » and a « large port » during the siege of Demetrius in 303 BC. The small port would thus be the port of Mandraki now protected by jetties decorated with a deer on each side. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:asWKT "POINT(28.22624 36.45097)"^^geo:wktLiteral .
 

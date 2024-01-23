@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Anzidei_2013_Evidence> a ns1:Article,
@@ -15,5 +16,6 @@
     dc:title "Evidence of vertical tectonic uplift at Briatico (Calabria, Italy) inferred from Roman age maritime archaeological indicators"@en ;
     ns1:doi "10.1016/j.quaint.2012.01.019"^^xsd:string ;
     ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
-    ns1:volume "288"^^xsd:string .
+    ns1:volume "288"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

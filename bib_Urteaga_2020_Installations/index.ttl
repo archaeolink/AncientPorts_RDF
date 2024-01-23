@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Urteaga_2020_Installations> a ns1:Article,
@@ -15,5 +16,6 @@
     ns1:number "77-1"^^xsd:integer ;
     ns1:pageEnd 488 ;
     ns1:pageStart 475 ;
-    ns1:volume "77"^^xsd:string .
+    ns1:volume "77"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

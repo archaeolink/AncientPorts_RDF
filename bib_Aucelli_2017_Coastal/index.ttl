@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Aucelli_2017_Coastal> a ns1:Article,
@@ -14,5 +15,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Coastal landscape evolution of Naples (Southern Italy) since the Roman period from archaeological and geomorphological data at Palazzo degli Spiriti site"@en ;
     ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
-    ns1:volume "30"^^xsd:string .
+    ns1:volume "30"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

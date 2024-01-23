@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Morrillo_2016_Hispania> a ns1:Article,
@@ -15,5 +16,6 @@
     ns1:issuer "Oxford Journal of Archaeology" ;
     ns1:pageEnd 284 ;
     ns1:pageStart 267 ;
-    ns1:volume "35"^^xsd:string .
+    ns1:volume "35"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

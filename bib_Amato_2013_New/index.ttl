@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Amato_2013_New> a ns1:Proceedings,
@@ -10,5 +11,6 @@
         <http://data.archaeology.link/data/ancientports/author_Gialanella_C> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "New evidences on the Phlegraean bradyseism in the area of Puteolis harbour"@en ;
-    ns1:doi "10.13140/2.1.2326.0482"^^xsd:string .
+    ns1:doi "10.13140/2.1.2326.0482"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

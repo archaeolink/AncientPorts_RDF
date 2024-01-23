@@ -5,6 +5,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/991> a <http://www.ancientports.com/ont#Lighthouse>,
@@ -21,6 +22,7 @@
         <http://data.archaeology.link/data/ancientports/bib_Gianfrotta_1996_Harbor>,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/991_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q72425> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/991_foundation> ;

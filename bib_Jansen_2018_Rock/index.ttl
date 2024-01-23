@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Jansen_2018_Rock> a ns1:Article,
@@ -13,5 +14,6 @@
     ns1:issn "2076-0752"^^xsd:string ;
     ns1:issuer "Arts" ;
     ns1:number 4 ;
-    ns1:volume "7"^^xsd:string .
+    ns1:volume "7"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

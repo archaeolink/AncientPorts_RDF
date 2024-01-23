@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Maarleveld_2009_Boomstamboot> a ns1:Book,
@@ -9,5 +10,6 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Maarleveld_Thijs> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Boomstamboot Kadoelerveld"@en ;
-    ns1:isbn "9788799221424"^^xsd:string .
+    ns1:isbn "9788799221424"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

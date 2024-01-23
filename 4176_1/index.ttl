@@ -4,6 +4,7 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/4176_1> a <http://www.ancientports.com/ont#Quay>,
         <http://www.ancientports.com/ont#Shipyard>,
@@ -15,6 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Hurst_2010_Understanding>,
         <http://data.archaeology.link/data/ancientports/bib_Paskoff_1991_Le> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4176_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1018648> ;
     ns1:P17 <http://www.wikidata.org/entity/Q948> .

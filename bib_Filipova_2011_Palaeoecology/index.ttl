@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Filipova_2011_Palaeoecology> a ns1:BookSection,
@@ -17,5 +18,6 @@
     ns1:doi "10.13140/2.1.1029.6649"^^xsd:string ;
     ns1:isbn "978-1-84217-418-0"^^xsd:string ;
     ns1:pageEnd 244 ;
-    ns1:pageStart 230 .
+    ns1:pageStart 230 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

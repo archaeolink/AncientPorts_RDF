@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Martin_2016_Lusitanian> a ns1:Article,
@@ -15,5 +16,6 @@
     dcterms:publisher "Archaeopress" ;
     ns1:issuer "Lusitanian Amphorae" ;
     ns1:pageEnd 474 ;
-    ns1:pageStart 1 .
+    ns1:pageStart 1 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

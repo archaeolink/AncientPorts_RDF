@@ -1,11 +1,13 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
 <http://data.archaeology.link/data/ancientports/3617_foundation> a time:TemporalEntity,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Zula, on wadi Haddas. The Periplus Maris Erythraei locates Adulis at 3000 stadia (ca. 550 km) south of Ptolemais inside a south facing bay, which corresponds to Zula. Pliny locates it at 5 navigation days from Ptolemais, which leads to more or less the same location. It may be noted that Ptolemy is widely mistaken when locating it at 40’ of latitude north of Dire, leading near Assab, 200 km further south. The site of Zula is now widely accepted by modern authors.  Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3617_foundation_beginning> .
 

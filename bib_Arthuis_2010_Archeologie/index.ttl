@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Arthuis_2010_Archeologie> a ns1:Article,
@@ -15,5 +16,6 @@
     dc:title "Archéologie portuaire estuarienne entre Loire et Seine: principaux résultats et questions d’ordre méthodologique. L’exemple des sites antiques d’Aizier (Eure) et de Rezé (Loire-Atlantique)"@en ;
     ns1:issuer "Hugot L., Tranoy L.(dir.)" ;
     ns1:pageEnd 82 ;
-    ns1:pageStart 61 .
+    ns1:pageStart 61 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

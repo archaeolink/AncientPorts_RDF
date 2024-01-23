@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Benini_2010_Porto> a ns1:Proceedings,
@@ -11,5 +12,6 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Il porto romano di Misenum: nuove acquisizioni"@en ;
     ns1:pageEnd 116 ;
-    ns1:pageStart 109 .
+    ns1:pageStart 109 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

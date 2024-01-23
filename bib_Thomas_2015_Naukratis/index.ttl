@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Thomas_2015_Naukratis> a <http://purl.org/ontology/bibo/Article>,
@@ -9,5 +10,6 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Thomas_Ross> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Naukratis,“Mistress of ships” in context"@en ;
-    dcterms:publisher "Oxford Centre for Maritime Archaeology" .
+    dcterms:publisher "Oxford Centre for Maritime Archaeology" ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

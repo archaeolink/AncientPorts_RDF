@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Ramazzotti_2015_Iraqi> a ns1:Article,
@@ -13,5 +14,6 @@
     dcterms:publisher "Edizioni Quasar" ;
     ns1:issuer "The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu (AMEr)" ;
     ns1:pageEnd 29 ;
-    ns1:pageStart 3 .
+    ns1:pageStart 3 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3731_foundation_beginning> a time:Instant,
@@ -8,5 +9,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Bosaso, Bandar Kasim? Another possible location is Ceelayo, Elayo, Elayu, 33 km west of Bosaso, with black volcanic cliffs that may have been taken for a promontory. Also possible is Ras Hantara, Aantaara, 45 km NE of Bosasso, below the Karkaar frankincense production area Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     time:inXSDgYear "-30"^^xsd:gYear .
 

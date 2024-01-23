@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Fernandez_2021_El> a ns1:BookSection,
@@ -15,5 +16,6 @@
     dc:title "El archipiélago de las Casitérides y el comercio púnico en el noroeste de Iberia"@en ;
     ns1:isbn "978-84-8181-772-0"^^xsd:string ;
     ns1:pageEnd 25 ;
-    ns1:pageStart 9 .
+    ns1:pageStart 9 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

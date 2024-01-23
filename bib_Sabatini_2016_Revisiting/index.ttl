@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting> a ns1:BookSection,
@@ -11,5 +12,6 @@
     dc:title "Revisiting Late Bronze Age oxhide ingots: Meanings, questions and perspectives"@en ;
     ns1:isbn "978-960-85145-5-3"^^xsd:string ;
     ns1:pageEnd 62 ;
-    ns1:pageStart 15 .
+    ns1:pageStart 15 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

@@ -1,4 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Saez_2014_Fish> a <http://purl.org/ontology/bibo/Proceedings>,
@@ -7,5 +8,6 @@
     dc:created "2014"^^xsd:gYear ;
     dc:creator <http://data.archaeology.link/data/ancientports/author_Saez_Romero_Antonio> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    dc:title "Fish processing and salted-fish trade in the Punic West: New archaeological data and historical evolution."@en .
+    dc:title "Fish processing and salted-fish trade in the Punic West: New archaeological data and historical evolution."@en ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

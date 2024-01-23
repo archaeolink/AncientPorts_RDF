@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Oniz_2014_Multi> a ns1:Article,
@@ -13,5 +14,6 @@
     dcterms:publisher "Fabrizio Serra" ;
     ns1:issuer "Multi-holed stone anchors of Antalya/Turkey-2011" ;
     ns1:pageEnd 24 ;
-    ns1:pageStart 13 .
+    ns1:pageStart 13 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

@@ -5,6 +5,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix time: <http://www.w3.org/2006/time#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/3806_3> a <http://www.ancientports.com/ont#Harbour>,
@@ -16,6 +17,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Ramazzotti_2015_Iraqi>,
         "http://www.antikforever.com/Mesopotamie/Sumer%20Akkad/eridou.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806_3_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q210065> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3806_3_foundation> ;

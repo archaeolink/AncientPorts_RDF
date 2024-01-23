@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Klooß_2009_The> a ns1:BookSection,
@@ -12,5 +13,6 @@
     dc:title "The Terminal Mesolithic and Early Neolithic log boats of Stralsund-Mischwasserspeicher (Hansestadt Stralsund, Fpl. 225). Evidence of early waterborne transport on the German Southern Baltic coast"@en ;
     ns1:isbn "978-3-88467-142-9"^^xsd:string ;
     ns1:pageEnd 105 ;
-    ns1:pageStart 97 .
+    ns1:pageStart 97 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

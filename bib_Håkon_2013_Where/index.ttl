@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Håkon_2013_Where> a ns1:Article,
@@ -16,5 +17,6 @@
     ns1:number 1 ;
     ns1:pageEnd 80 ;
     ns1:pageStart 57 ;
-    ns1:volume "46"^^xsd:string .
+    ns1:volume "46"^^xsd:string ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

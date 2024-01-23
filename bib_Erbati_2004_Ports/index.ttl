@@ -1,5 +1,6 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Erbati_2004_Ports> a ns1:Article,
@@ -11,5 +12,6 @@
     dc:title "Le ports du Maroc mediterranéen en Moyen Age"@en ;
     ns1:issuer "Le strutture dei porti e gli approdi antichi" ;
     ns1:pageEnd 158 ;
-    ns1:pageStart 151 .
+    ns1:pageStart 151 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 

@@ -5,6 +5,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/1372_2> a <http://www.ancientports.com/ont#Harbour>,
@@ -16,6 +17,7 @@
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7518"^^xsd:anyURI,
         "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1372_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3298444> ;
     skos:note "Degrassi (1955)" ;

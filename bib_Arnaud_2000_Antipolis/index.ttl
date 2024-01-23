@@ -1,6 +1,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://purl.org/ontology/bibo/> .
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/ancientports/bib_Arnaud_2000_Antipolis> a ns1:Article,
@@ -12,5 +13,6 @@
     dc:title "Antipolis à l'époque romaine. Multiculturalité et romanisation"@en ;
     dcterms:publisher "Unité de recherches Migrations et société (URMIS)" ;
     ns1:issuer "Cahiers de l’Urmis" ;
-    ns1:number 6 .
+    ns1:number 6 ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
 
