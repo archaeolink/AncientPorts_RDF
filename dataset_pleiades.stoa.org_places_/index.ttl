@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/dataset_pleiades.stoa.org_places_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: dataset - Pleiades Places (ple:)"@en,
+        "Linkset: dataset - places"@en ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    void:linkPredicate <http://www.wikidata.org/prop/direct/P1584>,
+        <http://www.wikidata.org/prop/direct/P1936> ;
+    void:objectsTarget <http://pleiades.stoa.org/places/>,
+        <https://pleiades.stoa.org/places/> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:triples 1,
+        238,
+        3390 .
+
