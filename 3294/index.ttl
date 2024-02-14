@@ -18,7 +18,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Cavalier_2007_Horrea>,
         <http://data.archaeology.link/data/ancientports/bib_Hohlfelder_2000_Cabotage> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3294_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q618234> ;
     skos:note "Arnaud (2008)" ;

@@ -17,7 +17,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Cuvigny_1996_Des>,
         "https://pleiades.stoa.org/places/39331"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3658_geom> ;
     skos:note "Robin (2022)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3658_foundation> ;

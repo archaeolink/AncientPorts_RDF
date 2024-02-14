@@ -9,6 +9,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ksar Akil, Aqil, Paleolothic cave, on R Nahr Antelias. Famous Paleolithic site in Lebanon, but one of many others Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:inXSDgYear "-40000"^^xsd:gYear .
 

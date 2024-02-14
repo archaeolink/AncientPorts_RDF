@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Türkbükü, Gölköy, with Mycenaean tomb at Dirmil/Gökcebel, 3 km E of modern marina Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3210_foundation_beginning> .
 

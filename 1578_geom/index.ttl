@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Roman fort at Xylokastro, near Episkopi, on the isle of Kalamos  Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(20.94360 38.65130)"^^geo:wktLiteral .
 

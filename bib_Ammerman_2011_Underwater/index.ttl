@@ -18,5 +18,5 @@
     ns1:issuer "Submerged prehistory" ;
     ns1:pageEnd 271 ;
     ns1:pageStart 263 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

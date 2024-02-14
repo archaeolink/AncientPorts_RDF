@@ -14,5 +14,5 @@
     dcterms:publisher "Centre francais de recherche de la péninsule Arabique" ;
     ns1:issuer "Arabian Humanities. Revue internationale d’archéologie et de sciences sociales sur la péninsule Arabique/International Journal of Archaeology and Social Sciences in the Arabian Peninsula" ;
     ns1:number 9 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

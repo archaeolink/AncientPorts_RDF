@@ -18,7 +18,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Michalowski_2011_Correspondence>,
         "https://en.wikipedia.org/wiki/Ishbi-Erra"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5699> ;
     skos:note "Woolley (1974)" ;

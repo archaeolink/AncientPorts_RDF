@@ -18,7 +18,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Thiers_2007_Ptolemee>,
         "https://en.wikipedia.org/wiki/Canal_of_the_Pharaohs"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3892_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2538734> ;
     skos:note "Snape (2014:43)" ;

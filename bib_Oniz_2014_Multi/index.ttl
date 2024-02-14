@@ -15,5 +15,5 @@
     ns1:issuer "Multi-holed stone anchors of Antalya/Turkey-2011" ;
     ns1:pageEnd 24 ;
     ns1:pageStart 13 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

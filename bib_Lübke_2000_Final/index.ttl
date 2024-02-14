@@ -14,5 +14,5 @@
     dc:title "Final Mesolithic and Early Neolithic Coastal Settlements on the Island of Rügen and in Northern Vorpommern."@en ;
     ns1:pageEnd 449 ;
     ns1:pageStart 439 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

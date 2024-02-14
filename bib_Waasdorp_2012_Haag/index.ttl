@@ -11,5 +11,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Den Haag Ockenburgh. Een fortificatie als onderdeel van de Romeinse kustverdediging"@en ;
     ns1:issuer "Gemeente Den Haag, The Hague" ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

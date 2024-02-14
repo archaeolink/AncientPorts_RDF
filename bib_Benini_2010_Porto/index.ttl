@@ -13,5 +13,5 @@
     dc:title "Il porto romano di Misenum: nuove acquisizioni"@en ;
     ns1:pageEnd 116 ;
     ns1:pageStart 109 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

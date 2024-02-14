@@ -13,5 +13,5 @@
     dc:title "Alexander's Campaigns in Sind and Baluchistan and the Siege of the Brahmin Town of Harmatelia"@en ;
     dcterms:publisher "Peeters Publishers" ;
     ns1:volume "3"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

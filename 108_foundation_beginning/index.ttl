@@ -9,6 +9,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Isles of Scilly, west of Cornwall ; some believe these are the Cassiterides islands, but no tin is mined here ; many megaliths are found there Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:inXSDgYear "-2500"^^xsd:gYear .
 

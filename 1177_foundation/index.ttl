@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Favignana, on the isle of Favignana, the largest of the Egadi islands (Cuisenier mentions this site with two other possible sites: Faraglioni and Nisida, the latter clearly providing the best shelter as described by Homer) Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/1177_foundation_beginning> .
 

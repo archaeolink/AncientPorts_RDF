@@ -9,6 +9,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Niros, Nirou Khani, Haghioi Theodoroi, 2 km east of the temple of Zeus Thenatas ; rock-cut structure visited by several famous authors. I would favour a twin slipway 2 x 5 m wide and 46 m long (see GE picture) Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:inXSDgYear "-1500"^^xsd:gYear .
 

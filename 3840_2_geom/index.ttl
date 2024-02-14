@@ -9,6 +9,6 @@
     rdfs:label """Area between Pozm Tiyak and Konarak, where a large island may have been connected to the mainland by a tombolo\r
  Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(60.37700 25.30300)"^^geo:wktLiteral .
 

@@ -1,3 +1,4 @@
+@prefix adms: <http://www.w3.org/ns/adms#> .
 @prefix brick: <https://brickschema.org/schema/Brick#> .
 @prefix csvw: <http://www.w3.org/ns/csvw#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
@@ -8,7 +9,6 @@
 @prefix doap: <http://usefulinc.com/ns/doap#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix ns1: <http://ldf.fi/void-ext#> .
 @prefix odrl: <http://www.w3.org/ns/odrl/2/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -24,475 +24,620 @@
 @prefix ssn: <http://www.w3.org/ns/ssn/> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
+@prefix vext: <http://ldf.fi/void-ext#> .
+@prefix voaf: <http://purl.org/vocommons/voaf#> .
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/ancientports/dataset_dare.ht.lu.se_places_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - places"@en ;
+<http://data.archaeology.link/data/ancientports/adms_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/ap_dataset_dare.ht.lu.se_places_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - places"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1936> ;
     void:objectsTarget <http://dare.ht.lu.se/places/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 12 .
 
-<http://data.archaeology.link/data/ancientports/dataset_data.archaeology.link_data_spphaefen_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - spphaefen"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_data.archaeology.link_data_spphaefen_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - spphaefen"@en ;
     void:linkPredicate dc:creator ;
     void:objectsTarget <http://data.archaeology.link/data/spphaefen/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 5710 .
 
-<http://data.archaeology.link/data/ancientports/dataset_en.wikipedia.org_wiki_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - wiki"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_en.wikipedia.org_wiki_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - wiki"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
     void:objectsTarget <https://en.wikipedia.org/wiki/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_imperium.ahlfeldt.se_places_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - places"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_imperium.ahlfeldt.se_places_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - places"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1936> ;
     void:objectsTarget <http://imperium.ahlfeldt.se/places/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 3370 .
 
-<http://data.archaeology.link/data/ancientports/dataset_pleiades.stoa.org_places_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - Pleiades Places (ple:)"@en,
-        "Linkset: dataset - places"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_pleiades.stoa.org_places_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - Pleiades Places (ple:)"@en,
+        "Linkset: ap_dataset - places"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1584>,
         <http://www.wikidata.org/prop/direct/P1936> ;
     void:objectsTarget <http://pleiades.stoa.org/places/>,
         <https://pleiades.stoa.org/places/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1,
         238,
         3390 .
 
-<http://data.archaeology.link/data/ancientports/dataset_pleiades.stoa.org_places_579988_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - 579988"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_pleiades.stoa.org_places_579988_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - 579988"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
     void:objectsTarget <https://pleiades.stoa.org/places/579988/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_pleiades.stoa.org_places_746700_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - 746700"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_pleiades.stoa.org_places_746700_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - 746700"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
     void:objectsTarget <https://pleiades.stoa.org/places/746700/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_purl.org_ontology_bibo_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - Bibliography Ontology (bibo:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_purl.org_ontology_bibo_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - Bibliography Ontology (bibo:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://purl.org/ontology/bibo/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 203 .
 
-<http://data.archaeology.link/data/ancientports/dataset_topostext.org_place_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - place"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_topostext.org_place_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - place"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P8068> ;
     void:objectsTarget <https://topostext.org/place/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1857 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.ancientports.com_ont_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - "@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.ancientports.com_ont_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - "@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.ancientports.com/ont#> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 6113 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.ancientportsantiques.com_a-few-ports_alexandria_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - alexandria"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.ancientportsantiques.com_a-few-ports_alexandria_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - alexandria"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1584> ;
     void:objectsTarget <http://www.ancientportsantiques.com/a-few-ports/alexandria/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.opengis.net_ont_geosparql_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - The GeoSPARQL Ontology (gsp:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.opengis.net_ont_geosparql_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - The GeoSPARQL Ontology (gsp:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget geo: ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 11 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.opengis.net_ont_sf_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - Simple Features Vocabulary (sf:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.opengis.net_ont_sf_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - Simple Features Vocabulary (sf:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.opengis.net/ont/sf#> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 5710 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.trismegistos.org_place_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - place"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.trismegistos.org_place_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - place"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P1958> ;
     void:objectsTarget <https://www.trismegistos.org/place/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1974 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.w3.org_2004_02_skos_core_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - skos:"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.w3.org_2004_02_skos_core_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - skos:"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget skos: ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 2 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.w3.org_2006_time_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - time:"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.w3.org_2006_time_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - time:"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget time: ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 7698 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.w3.org_2006_vcard_ns_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - Vcard Vocabulary (vcard2006:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.w3.org_2006_vcard_ns_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - Vcard Vocabulary (vcard2006:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.w3.org/2006/vcard/ns#> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.w3.org_ns_dcat_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - DCAT Vocabulary (dcat:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.w3.org_ns_dcat_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - DCAT Vocabulary (dcat:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget dcat: ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 2 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.wikidata.org_entity_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - Wikidata Entities (wde:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.wikidata.org_entity_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - Wikidata Entities (wde:)"@en ;
     void:linkPredicate dcterms:publisher,
         <http://purl.org/ontology/bibo/issuer>,
         owl:sameAs,
         <http://www.wikidata.org/prop/direct/P17> ;
     void:objectsTarget <http://www.wikidata.org/entity/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 39,
         3367,
         5579 .
 
-<http://data.archaeology.link/data/ancientports/dataset_www.wikidata.org_wiki_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - wiki"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_www.wikidata.org_wiki_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - wiki"@en ;
     void:linkPredicate <http://www.wikidata.org/prop/direct/P17> ;
     void:objectsTarget <http://www.wikidata.org/wiki/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 9 .
 
-<http://data.archaeology.link/data/ancientports/dataset_xmlns.com_foaf_0.1_> a void:Linkset ;
-    rdfs:label "Linkset: dataset - Friend Of A Friend Ontology (foaf:)"@en ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_xmlns.com_foaf_0.1_> a void:Linkset ;
+    rdfs:label "Linkset: ap_dataset - Friend Of A Friend Ontology (foaf:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget foaf: ;
-    void:subjectsTarget <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     void:triples 393 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Article> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/brick_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/csvw_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/dc_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/dcam_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/dcat_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
+    voaf:occurrences 4 .
+
+<http://data.archaeology.link/data/ancientports/dcmitype_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/dcterms_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/doap_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/foaf_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
+    voaf:occurrences 786 .
+
+<http://data.archaeology.link/data/ancientports/geo_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
+    voaf:occurrences 22 .
+
+<http://data.archaeology.link/data/ancientports/odrl_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/org_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/owl_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/prof_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/prov_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/qb_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/rdf_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/rdfs_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/schema_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://schema.org/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/sh_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/skos_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
+    voaf:occurrences 4 .
+
+<http://data.archaeology.link/data/ancientports/sosa_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/ssn_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/time_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
+    voaf:occurrences 15396 .
+
+<http://data.archaeology.link/data/ancientports/vann_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/vext_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/voaf_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/void_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/wgs_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/xml_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/xsd_ap_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in ap_dataset" ;
+    voaf:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<https://github.com/archaeolink/AncientPorts_RDF> a adms:AssetRepository ;
+    rdfs:label "Repository for ap_dataset"@en ;
+    dcat:accessURL "https://github.com/archaeolink/AncientPorts_RDF"^^xsd:anyURI ;
+    dcat:dataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
+
+<http://data.archaeology.link/data/ancientports/ap_dataset_Article> a void:Dataset ;
     rdfs:label "Class Partition: Article"@en ;
     void:class <http://purl.org/ontology/bibo/Article> ;
     void:entities 155 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Book> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Book> a void:Dataset ;
     rdfs:label "Class Partition: Book"@en ;
     void:class <http://purl.org/ontology/bibo/Book> ;
     void:entities 16 .
 
-<http://data.archaeology.link/data/ancientports/dataset_BookSection> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_BookSection> a void:Dataset ;
     rdfs:label "Class Partition: BookSection"@en ;
     void:class <http://purl.org/ontology/bibo/BookSection> ;
     void:entities 7 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Catalog> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Catalog> a void:Dataset ;
     rdfs:label "Class Partition: Catalog"@en ;
     void:class dcat:Catalog ;
     void:entities 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Collection> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Collection> a void:Dataset ;
     rdfs:label "Class Partition: Collection"@en ;
     void:class <http://purl.org/ontology/bibo/Collection>,
         skos:Collection ;
     void:entities 2,
         6 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Dataset> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Dataset> a void:Dataset ;
     rdfs:label "Class Partition: Dataset"@en ;
     void:class dcat:Dataset ;
     void:entities 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Document> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Document> a void:Dataset ;
     rdfs:label "Class Partition: Document"@en ;
     void:class <http://purl.org/ontology/bibo/Document> ;
     void:entities 3 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Feature> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Feature> a void:Dataset ;
     rdfs:label "Class Partition: Feature"@en ;
     void:class geo:Feature .
 
-<http://data.archaeology.link/data/ancientports/dataset_FeatureCollection> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_FeatureCollection> a void:Dataset ;
     rdfs:label "Class Partition: FeatureCollection"@en ;
     void:class geo:FeatureCollection ;
     void:entities 10 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Geometry> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Geometry> a void:Dataset ;
     rdfs:label "Class Partition: Geometry"@en ;
     void:class geo:Geometry .
 
-<http://data.archaeology.link/data/ancientports/dataset_GeometryCollection> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_GeometryCollection> a void:Dataset ;
     rdfs:label "Class Partition: GeometryCollection"@en ;
     void:class geo:GeometryCollection ;
     void:entities 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Group> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Group> a void:Dataset ;
     rdfs:label "Class Partition: Group"@en ;
     void:class <http://www.w3.org/2006/vcard/ns#Group> ;
     void:entities 1 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Harbour> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Harbour> a void:Dataset ;
     rdfs:label "Class Partition: Harbour"@en ;
     void:class <http://www.ancientports.com/ont#Harbour> ;
     void:entities 4818 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Instant> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Instant> a void:Dataset ;
     rdfs:label "Class Partition: Instant"@en ;
     void:class time:Instant ;
     void:entities 3849 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Journal> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Journal> a void:Dataset ;
     rdfs:label "Class Partition: Journal"@en ;
     void:class <http://purl.org/ontology/bibo/Journal> .
 
-<http://data.archaeology.link/data/ancientports/dataset_Lighthouse> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Lighthouse> a void:Dataset ;
     rdfs:label "Class Partition: Lighthouse"@en ;
     void:class <http://www.ancientports.com/ont#Lighthouse> ;
     void:entities 63 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Organization> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Organization> a void:Dataset ;
     rdfs:label "Class Partition: Organization"@en ;
     void:class foaf:Organization .
 
-<http://data.archaeology.link/data/ancientports/dataset_P1584> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_P1584> a void:Dataset ;
     rdfs:label "Property Partition: P1584"@en ;
     void:property <http://www.wikidata.org/prop/direct/P1584> ;
     void:triples 3632 .
 
-<http://data.archaeology.link/data/ancientports/dataset_P17> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_P17> a void:Dataset ;
     rdfs:label "Property Partition: P17"@en ;
     void:property <http://www.wikidata.org/prop/direct/P17> ;
     void:triples 5735 .
 
-<http://data.archaeology.link/data/ancientports/dataset_P1936> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_P1936> a void:Dataset ;
     rdfs:label "Property Partition: P1936"@en ;
     void:property <http://www.wikidata.org/prop/direct/P1936> ;
     void:triples 3383 .
 
-<http://data.archaeology.link/data/ancientports/dataset_P1958> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_P1958> a void:Dataset ;
     rdfs:label "Property Partition: P1958"@en ;
     void:property <http://www.wikidata.org/prop/direct/P1958> ;
     void:triples 1974 .
 
-<http://data.archaeology.link/data/ancientports/dataset_P8068> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_P8068> a void:Dataset ;
     rdfs:label "Property Partition: P8068"@en ;
     void:property <http://www.wikidata.org/prop/direct/P8068> ;
     void:triples 1857 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Person> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Person> a void:Dataset ;
     rdfs:label "Class Partition: Person"@en ;
     void:class foaf:Person ;
     void:entities 393 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Pila> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Pila> a void:Dataset ;
     rdfs:label "Class Partition: Pila"@en ;
     void:class <http://www.ancientports.com/ont#Pila> ;
     void:entities 42 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Point> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Point> a void:Dataset ;
     rdfs:label "Class Partition: Point"@en ;
     void:class <http://www.opengis.net/ont/sf#Point> ;
     void:entities 5710 .
 
-<http://data.archaeology.link/data/ancientports/dataset_PotentialHarbour> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_PotentialHarbour> a void:Dataset ;
     rdfs:label "Class Partition: PotentialHarbour"@en ;
     void:class <http://www.ancientports.com/ont#PotentialHarbour> ;
     void:entities 175 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Proceedings> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Proceedings> a void:Dataset ;
     rdfs:label "Class Partition: Proceedings"@en ;
     void:class <http://purl.org/ontology/bibo/Proceedings> ;
     void:entities 10 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Quay> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Quay> a void:Dataset ;
     rdfs:label "Class Partition: Quay"@en ;
     void:class <http://www.ancientports.com/ont#Quay> ;
     void:entities 326 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Shipshed> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Shipshed> a void:Dataset ;
     rdfs:label "Class Partition: Shipshed"@en ;
     void:class <http://www.ancientports.com/ont#Shipshed> ;
     void:entities 45 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Shipyard> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Shipyard> a void:Dataset ;
     rdfs:label "Class Partition: Shipyard"@en ;
     void:class <http://www.ancientports.com/ont#Shipyard> ;
     void:entities 50 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Slipway> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Slipway> a void:Dataset ;
     rdfs:label "Class Partition: Slipway"@en ;
     void:class <http://www.ancientports.com/ont#Slipway> ;
     void:entities 89 .
 
-<http://data.archaeology.link/data/ancientports/dataset_SpatialObject> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_SpatialObject> a void:Dataset ;
     rdfs:label "Class Partition: SpatialObject"@en ;
     void:class geo:SpatialObject .
 
-<http://data.archaeology.link/data/ancientports/dataset_SpatialObjectCollection> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_SpatialObjectCollection> a void:Dataset ;
     rdfs:label "Class Partition: SpatialObjectCollection"@en ;
     void:class geo:SpatialObjectCollection .
 
-<http://data.archaeology.link/data/ancientports/dataset_TemporalEntity> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_TemporalEntity> a void:Dataset ;
     rdfs:label "Class Partition: TemporalEntity"@en ;
     void:class time:TemporalEntity ;
     void:entities 3849 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Thesis> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Thesis> a void:Dataset ;
     rdfs:label "Class Partition: Thesis"@en ;
     void:class <http://purl.org/ontology/bibo/Thesis> ;
     void:entities 6 .
 
-<http://data.archaeology.link/data/ancientports/dataset_VillaMaritima> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_VillaMaritima> a void:Dataset ;
     rdfs:label "Class Partition: VillaMaritima"@en ;
     void:class <http://www.ancientports.com/ont#VillaMaritima> ;
     void:entities 444 .
 
-<http://data.archaeology.link/data/ancientports/dataset_Warehouse> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_Warehouse> a void:Dataset ;
     rdfs:label "Class Partition: Warehouse"@en ;
     void:class <http://www.ancientports.com/ont#Warehouse> ;
     void:entities 61 .
 
-<http://data.archaeology.link/data/ancientports/dataset_asWKT> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_asWKT> a void:Dataset ;
     rdfs:label "Property Partition: asWKT"@en ;
     void:property geo:asWKT ;
     void:triples 5722 .
 
-<http://data.archaeology.link/data/ancientports/dataset_created> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_created> a void:Dataset ;
     rdfs:label "Property Partition: created"@en ;
     void:property dc:created ;
     void:triples 198 .
 
-<http://data.archaeology.link/data/ancientports/dataset_creator> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_creator> a void:Dataset ;
     rdfs:label "Property Partition: creator"@en ;
     void:property dc:creator ;
     void:triples 6163 .
 
-<http://data.archaeology.link/data/ancientports/dataset_doi> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "ap_dataset TTL Distribution"@en ;
+    dcat:downloadURL "https://archaeolink.github.io/AncientPorts_RDF/index.ttl"^^xsd:anyURI ;
+    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
+
+<http://data.archaeology.link/data/ancientports/ap_dataset_doi> a void:Dataset ;
     rdfs:label "Property Partition: doi"@en ;
     void:property <http://purl.org/ontology/bibo/doi> ;
     void:triples 34 .
 
-<http://data.archaeology.link/data/ancientports/dataset_familyName> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_familyName> a void:Dataset ;
     rdfs:label "Property Partition: familyName"@en ;
     void:property foaf:familyName ;
     void:triples 393 .
 
-<http://data.archaeology.link/data/ancientports/dataset_firstName> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_firstName> a void:Dataset ;
     rdfs:label "Property Partition: firstName"@en ;
     void:property foaf:firstName ;
     void:triples 393 .
 
-<http://data.archaeology.link/data/ancientports/dataset_hasBeginning> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_hasBeginning> a void:Dataset ;
     rdfs:label "Property Partition: hasBeginning"@en ;
     void:property time:hasBeginning ;
     void:triples 3849 .
 
-<http://data.archaeology.link/data/ancientports/dataset_hasGeometry> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_hasGeometry> a void:Dataset ;
     rdfs:label "Property Partition: hasGeometry"@en ;
     void:property geo:hasGeometry ;
     void:triples 5710 .
 
-<http://data.archaeology.link/data/ancientports/dataset_hasTime> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_hasTime> a void:Dataset ;
     rdfs:label "Property Partition: hasTime"@en ;
     void:property time:hasTime ;
     void:triples 3849 .
 
-<http://data.archaeology.link/data/ancientports/dataset_inXSDgYear> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_inXSDgYear> a void:Dataset ;
     rdfs:label "Property Partition: inXSDgYear"@en ;
     void:property time:inXSDgYear ;
     void:triples 3849 .
 
-<http://data.archaeology.link/data/ancientports/dataset_isReferencedBy> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_isReferencedBy> a void:Dataset ;
     rdfs:label "Property Partition: isReferencedBy"@en ;
     void:property dcterms:isReferencedBy ;
     void:triples 1504 .
 
-<http://data.archaeology.link/data/ancientports/dataset_isbn> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_isbn> a void:Dataset ;
     rdfs:label "Property Partition: isbn"@en ;
     void:property <http://purl.org/ontology/bibo/isbn> ;
     void:triples 6 .
 
-<http://data.archaeology.link/data/ancientports/dataset_issn> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_issn> a void:Dataset ;
     rdfs:label "Property Partition: issn"@en ;
     void:property <http://purl.org/ontology/bibo/issn> ;
     void:triples 11 .
 
-<http://data.archaeology.link/data/ancientports/dataset_issuer> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_issuer> a void:Dataset ;
     rdfs:label "Property Partition: issuer"@en ;
     void:property <http://purl.org/ontology/bibo/issuer> ;
     void:triples 147 .
 
-<http://data.archaeology.link/data/ancientports/dataset_label> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_label> a void:Dataset ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
     void:triples 32969 .
 
-<http://data.archaeology.link/data/ancientports/dataset_note> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_note> a void:Dataset ;
     rdfs:label "Property Partition: note"@en ;
     void:property skos:note ;
     void:triples 2363 .
 
-<http://data.archaeology.link/data/ancientports/dataset_number> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_number> a void:Dataset ;
     rdfs:label "Property Partition: number"@en ;
     void:property <http://purl.org/ontology/bibo/number> ;
     void:triples 82 .
 
-<http://data.archaeology.link/data/ancientports/dataset_pageEnd> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_pageEnd> a void:Dataset ;
     rdfs:label "Property Partition: pageEnd"@en ;
     void:property <http://purl.org/ontology/bibo/pageEnd> ;
     void:triples 138 .
 
-<http://data.archaeology.link/data/ancientports/dataset_pageStart> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_pageStart> a void:Dataset ;
     rdfs:label "Property Partition: pageStart"@en ;
     void:property <http://purl.org/ontology/bibo/pageStart> ;
     void:triples 138 .
 
-<http://data.archaeology.link/data/ancientports/dataset_partOf> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_partOf> a void:Dataset ;
     rdfs:label "Property Partition: partOf"@en ;
     void:property dcterms:partOf ;
     void:triples 5710 .
 
-<http://data.archaeology.link/data/ancientports/dataset_publisher> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_publisher> a void:Dataset ;
     rdfs:label "Property Partition: publisher"@en ;
     void:property dcterms:publisher ;
     void:triples 102 .
 
-<http://data.archaeology.link/data/ancientports/dataset_sameAs> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_sameAs> a void:Dataset ;
     rdfs:label "Property Partition: sameAs"@en ;
     void:property owl:sameAs ;
     void:triples 3367 .
 
-<http://data.archaeology.link/data/ancientports/dataset_subClassOf> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_subClassOf> a void:Dataset ;
     rdfs:label "Property Partition: subClassOf"@en ;
     void:property rdfs:subClassOf ;
     void:triples 4 .
 
-<http://data.archaeology.link/data/ancientports/dataset_title> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_title> a void:Dataset ;
     rdfs:label "Property Partition: title"@en ;
     void:property dc:title ;
     void:triples 198 .
 
-<http://data.archaeology.link/data/ancientports/dataset_type> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_type> a void:Dataset ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
     void:triples 20139 .
 
-<http://data.archaeology.link/data/ancientports/dataset_volume> a void:Dataset ;
+<http://data.archaeology.link/data/ancientports/ap_dataset_volume> a void:Dataset ;
     rdfs:label "Property Partition: volume"@en ;
     void:property <http://purl.org/ontology/bibo/volume> ;
     void:triples 117 .
@@ -503,64 +648,259 @@
 
 <http://dbpedia.org/resource/Time> rdfs:label "Time Data"@en .
 
+vext: a voaf:Vocabulary ;
+    rdfs:label "vext Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vext"^^xsd:string ;
+    vann:preferredNamespaceUri "http://ldf.fi/void-ext#"^^xsd:anyURI ;
+    voaf:usageInDataset vext:_ap_dataset_occ .
+
+dcam: a voaf:Vocabulary ;
+    rdfs:label "dcam Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcam"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcam/"^^xsd:anyURI ;
+    voaf:usageInDataset dcam:_ap_dataset_occ .
+
+dcmitype: a voaf:Vocabulary ;
+    rdfs:label "dcmitype Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcmitype"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcmitype/"^^xsd:anyURI ;
+    voaf:usageInDataset dcmitype:_ap_dataset_occ .
+
+dc: a voaf:Vocabulary ;
+    rdfs:label "dc Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dc"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/elements/1.1/"^^xsd:anyURI ;
+    voaf:usageInDataset dc:_ap_dataset_occ .
+
+dcterms: a voaf:Vocabulary ;
+    rdfs:label "dcterms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcterms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/terms/"^^xsd:anyURI ;
+    voaf:usageInDataset dcterms:_ap_dataset_occ .
+
+qb: a voaf:Vocabulary ;
+    rdfs:label "qb Vocabulary"@en ;
+    vann:preferredNamespacePrefix "qb"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/linked-data/cube#"^^xsd:anyURI ;
+    voaf:usageInDataset qb:_ap_dataset_occ .
+
+vann: a voaf:Vocabulary ;
+    rdfs:label "vann Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vann"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocab/vann/"^^xsd:anyURI ;
+    voaf:usageInDataset vann:_ap_dataset_occ .
+
+voaf: a voaf:Vocabulary ;
+    rdfs:label "voaf Vocabulary"@en ;
+    vann:preferredNamespacePrefix "voaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocommons/voaf#"^^xsd:anyURI ;
+    voaf:usageInDataset voaf:_ap_dataset_occ .
+
+void: a voaf:Vocabulary ;
+    rdfs:label "Vocabulary of Interlinked Datasets (VoID)"@en ;
+    vann:preferredNamespacePrefix "void"^^xsd:string ;
+    vann:preferredNamespaceUri "http://rdfs.org/ns/void#"^^xsd:anyURI ;
+    voaf:usageInDataset void:_ap_dataset_occ .
+
+doap: a voaf:Vocabulary ;
+    rdfs:label "doap Vocabulary"@en ;
+    vann:preferredNamespacePrefix "doap"^^xsd:string ;
+    vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
+    voaf:usageInDataset doap:_ap_dataset_occ .
+
+rdf: a voaf:Vocabulary ;
+    rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
+    vann:preferredNamespacePrefix "rdf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ;
+    voaf:usageInDataset rdf:_ap_dataset_occ .
+
+rdfs: a voaf:Vocabulary ;
+    rdfs:label "The RDF Schema vocabulary (RDFS)"@en ;
+    vann:preferredNamespacePrefix "rdfs"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2000/01/rdf-schema#"^^xsd:anyURI ;
+    voaf:usageInDataset rdfs:_ap_dataset_occ .
+
+xsd: a voaf:Vocabulary ;
+    rdfs:label "XML Schema"@en ;
+    vann:preferredNamespacePrefix "xsd"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ;
+    voaf:usageInDataset xsd:_ap_dataset_occ .
+
+owl: a voaf:Vocabulary ;
+    rdfs:label "Web Ontology Language 2 Vocabulary"@en ;
+    vann:preferredNamespacePrefix "owl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
+    voaf:usageInDataset owl:_ap_dataset_occ .
+
+xml: a voaf:Vocabulary ;
+    rdfs:label "xml Vocabulary"@en ;
+    vann:preferredNamespacePrefix "xml"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/XML/1998/namespace"^^xsd:anyURI ;
+    voaf:usageInDataset xml:_ap_dataset_occ .
+
+adms: a voaf:Vocabulary ;
+    rdfs:label "adms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "adms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/adms#"^^xsd:anyURI ;
+    voaf:usageInDataset adms:_ap_dataset_occ .
+
+csvw: a voaf:Vocabulary ;
+    rdfs:label "csvw Vocabulary"@en ;
+    vann:preferredNamespacePrefix "csvw"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
+    voaf:usageInDataset csvw:_ap_dataset_occ .
+
+prof: a voaf:Vocabulary ;
+    rdfs:label "prof Vocabulary"@en ;
+    vann:preferredNamespacePrefix "prof"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dx/prof/"^^xsd:anyURI ;
+    voaf:usageInDataset prof:_ap_dataset_occ .
+
+odrl: a voaf:Vocabulary ;
+    rdfs:label "odrl Vocabulary"@en ;
+    vann:preferredNamespacePrefix "odrl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/odrl/2/"^^xsd:anyURI ;
+    voaf:usageInDataset odrl:_ap_dataset_occ .
+
+org: a voaf:Vocabulary ;
+    rdfs:label "org Vocabulary"@en ;
+    vann:preferredNamespacePrefix "org"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/org#"^^xsd:anyURI ;
+    voaf:usageInDataset org:_ap_dataset_occ .
+
+prov: a voaf:Vocabulary ;
+    rdfs:label "W3C Provenance Ontology"@en ;
+    vann:preferredNamespacePrefix "prov"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
+    voaf:usageInDataset prov:_ap_dataset_occ .
+
+sh: a voaf:Vocabulary ;
+    rdfs:label "Shapes Constraint Language (SHACL)"@en ;
+    vann:preferredNamespacePrefix "sh"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/shacl#"^^xsd:anyURI ;
+    voaf:usageInDataset sh:_ap_dataset_occ .
+
+sosa: a voaf:Vocabulary ;
+    rdfs:label "Sensor, Observation, Sample, and Actuator (SOSA) Ontology"@en ;
+    vann:preferredNamespacePrefix "sosa"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/sosa/"^^xsd:anyURI ;
+    voaf:usageInDataset sosa:_ap_dataset_occ .
+
+ssn: a voaf:Vocabulary ;
+    rdfs:label "ssn Vocabulary"@en ;
+    vann:preferredNamespacePrefix "ssn"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/ssn/"^^xsd:anyURI ;
+    voaf:usageInDataset ssn:_ap_dataset_occ .
+
 <http://www.wikidata.org/entity/Q121810372> rdfs:label "geospatial data"@en .
+
+brick: a voaf:Vocabulary ;
+    rdfs:label "brick Vocabulary"@en ;
+    vann:preferredNamespacePrefix "brick"^^xsd:string ;
+    vann:preferredNamespaceUri "https://brickschema.org/schema/Brick#"^^xsd:anyURI ;
+    voaf:usageInDataset brick:_ap_dataset_occ .
+
+schema: a voaf:Vocabulary ;
+    rdfs:label "schema Vocabulary"@en ;
+    vann:preferredNamespacePrefix "schema"^^xsd:string ;
+    vann:preferredNamespaceUri "https://schema.org/"^^xsd:anyURI ;
+    voaf:usageInDataset schema:_ap_dataset_occ .
+
+wgs: a voaf:Vocabulary ;
+    rdfs:label "wgs Vocabulary"@en ;
+    vann:preferredNamespacePrefix "wgs"^^xsd:string ;
+    vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
+    voaf:usageInDataset wgs:_ap_dataset_occ .
+
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset geo:_ap_dataset_occ .
+
+skos: a voaf:Vocabulary ;
+    rdfs:label "skos Vocabulary"@en ;
+    vann:preferredNamespacePrefix "skos"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
+    voaf:usageInDataset skos:_ap_dataset_occ .
+
+time: a voaf:Vocabulary ;
+    rdfs:label "time Vocabulary"@en ;
+    vann:preferredNamespacePrefix "time"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2006/time#"^^xsd:anyURI ;
+    voaf:usageInDataset time:_ap_dataset_occ .
+
+dcat: a voaf:Vocabulary ;
+    rdfs:label "DCAT Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
+    voaf:usageInDataset dcat:_ap_dataset_occ .
+
+foaf: a voaf:Vocabulary ;
+    rdfs:label "Friend Of A Friend Ontology"@en ;
+    vann:preferredNamespacePrefix "foaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://xmlns.com/foaf/0.1/"^^xsd:anyURI ;
+    voaf:usageInDataset foaf:_ap_dataset_occ .
 
 foaf:Person rdfs:label "Person"@en .
 
-<http://data.archaeology.link/data/ancientports/dataset> a void:Dataset ;
-    rdfs:label "dataset"@en ;
-    ns1:averageLiteralLength 33 ;
-    ns1:averageObjectIRILength 51 ;
-    ns1:averagePropertyIRILength 38 ;
-    ns1:averageSubjectIRILength 59 ;
-    ns1:datatypes 5 ;
-    ns1:distinctBlankNodes 0 ;
-    ns1:distinctIRIReferences 101895 ;
-    ns1:distinctLiterals 28506 ;
-    ns1:distinctRDFNodes 130401 ;
-    ns1:languages 1 ;
-    ns1:propertyClasses 0 ;
+<http://data.archaeology.link/data/ancientports/ap_dataset> a void:Dataset,
+        adms:Asset ;
+    rdfs:label "ap_dataset"@en ;
+    vext:averageLiteralLength 33 ;
+    vext:averageObjectIRILength 51 ;
+    vext:averagePropertyIRILength 38 ;
+    vext:averageSubjectIRILength 59 ;
+    vext:datatypes 5 ;
+    vext:distinctBlankNodes 0 ;
+    vext:distinctIRIReferences 101895 ;
+    vext:distinctLiterals 28506 ;
+    vext:distinctRDFNodes 130401 ;
+    vext:languages 1 ;
+    vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dcterms:license <http://creativecommons.org/licenses/by/4.0> ;
-    dcterms:modified "2024-02-01T01:45:55"^^xsd:dateTime ;
+    dcterms:modified "2024-02-14T01:54:22"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
-    dcterms:title "dataset"@en ;
-    void:classPartition <http://data.archaeology.link/data/ancientports/dataset_Article>,
-        <http://data.archaeology.link/data/ancientports/dataset_Book>,
-        <http://data.archaeology.link/data/ancientports/dataset_BookSection>,
-        <http://data.archaeology.link/data/ancientports/dataset_Catalog>,
-        <http://data.archaeology.link/data/ancientports/dataset_Collection>,
-        <http://data.archaeology.link/data/ancientports/dataset_Dataset>,
-        <http://data.archaeology.link/data/ancientports/dataset_Document>,
-        <http://data.archaeology.link/data/ancientports/dataset_Feature>,
-        <http://data.archaeology.link/data/ancientports/dataset_FeatureCollection>,
-        <http://data.archaeology.link/data/ancientports/dataset_Geometry>,
-        <http://data.archaeology.link/data/ancientports/dataset_GeometryCollection>,
-        <http://data.archaeology.link/data/ancientports/dataset_Group>,
-        <http://data.archaeology.link/data/ancientports/dataset_Harbour>,
-        <http://data.archaeology.link/data/ancientports/dataset_Instant>,
-        <http://data.archaeology.link/data/ancientports/dataset_Journal>,
-        <http://data.archaeology.link/data/ancientports/dataset_Lighthouse>,
-        <http://data.archaeology.link/data/ancientports/dataset_Organization>,
-        <http://data.archaeology.link/data/ancientports/dataset_Person>,
-        <http://data.archaeology.link/data/ancientports/dataset_Pila>,
-        <http://data.archaeology.link/data/ancientports/dataset_Point>,
-        <http://data.archaeology.link/data/ancientports/dataset_PotentialHarbour>,
-        <http://data.archaeology.link/data/ancientports/dataset_Proceedings>,
-        <http://data.archaeology.link/data/ancientports/dataset_Quay>,
-        <http://data.archaeology.link/data/ancientports/dataset_Shipshed>,
-        <http://data.archaeology.link/data/ancientports/dataset_Shipyard>,
-        <http://data.archaeology.link/data/ancientports/dataset_Slipway>,
-        <http://data.archaeology.link/data/ancientports/dataset_SpatialObject>,
-        <http://data.archaeology.link/data/ancientports/dataset_SpatialObjectCollection>,
-        <http://data.archaeology.link/data/ancientports/dataset_TemporalEntity>,
-        <http://data.archaeology.link/data/ancientports/dataset_Thesis>,
-        <http://data.archaeology.link/data/ancientports/dataset_VillaMaritima>,
-        <http://data.archaeology.link/data/ancientports/dataset_Warehouse> ;
+    dcterms:title "ap_dataset"@en ;
+    vann:preferredNamespacePrefix "ap"^^xsd:string ;
+    vann:preferredNamespaceUri "http://data.archaeology.link/data/ancientports/"^^xsd:anyURI ;
+    void:classPartition <http://data.archaeology.link/data/ancientports/ap_dataset_Article>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Book>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_BookSection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Catalog>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Collection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Dataset>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Document>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Feature>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_FeatureCollection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Geometry>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_GeometryCollection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Group>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Harbour>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Instant>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Journal>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Lighthouse>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Organization>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Person>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Pila>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Point>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_PotentialHarbour>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Proceedings>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Quay>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Shipshed>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Shipyard>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Slipway>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_SpatialObject>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_SpatialObjectCollection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_TemporalEntity>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Thesis>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_VillaMaritima>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Warehouse> ;
     void:classes 33 ;
     void:dataDump <https://archaeolink.github.io/AncientPorts_RDF/index.ttl> ;
     void:distinctObjects 68796 ;
@@ -569,45 +909,47 @@ foaf:Person rdfs:label "Person"@en .
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 31 ;
-    void:propertyPartition <http://data.archaeology.link/data/ancientports/dataset_P1584>,
-        <http://data.archaeology.link/data/ancientports/dataset_P17>,
-        <http://data.archaeology.link/data/ancientports/dataset_P1936>,
-        <http://data.archaeology.link/data/ancientports/dataset_P1958>,
-        <http://data.archaeology.link/data/ancientports/dataset_P8068>,
-        <http://data.archaeology.link/data/ancientports/dataset_asWKT>,
-        <http://data.archaeology.link/data/ancientports/dataset_created>,
-        <http://data.archaeology.link/data/ancientports/dataset_creator>,
-        <http://data.archaeology.link/data/ancientports/dataset_doi>,
-        <http://data.archaeology.link/data/ancientports/dataset_familyName>,
-        <http://data.archaeology.link/data/ancientports/dataset_firstName>,
-        <http://data.archaeology.link/data/ancientports/dataset_hasBeginning>,
-        <http://data.archaeology.link/data/ancientports/dataset_hasGeometry>,
-        <http://data.archaeology.link/data/ancientports/dataset_hasTime>,
-        <http://data.archaeology.link/data/ancientports/dataset_inXSDgYear>,
-        <http://data.archaeology.link/data/ancientports/dataset_isReferencedBy>,
-        <http://data.archaeology.link/data/ancientports/dataset_isbn>,
-        <http://data.archaeology.link/data/ancientports/dataset_issn>,
-        <http://data.archaeology.link/data/ancientports/dataset_issuer>,
-        <http://data.archaeology.link/data/ancientports/dataset_label>,
-        <http://data.archaeology.link/data/ancientports/dataset_note>,
-        <http://data.archaeology.link/data/ancientports/dataset_number>,
-        <http://data.archaeology.link/data/ancientports/dataset_pageEnd>,
-        <http://data.archaeology.link/data/ancientports/dataset_pageStart>,
-        <http://data.archaeology.link/data/ancientports/dataset_partOf>,
-        <http://data.archaeology.link/data/ancientports/dataset_publisher>,
-        <http://data.archaeology.link/data/ancientports/dataset_sameAs>,
-        <http://data.archaeology.link/data/ancientports/dataset_subClassOf>,
-        <http://data.archaeology.link/data/ancientports/dataset_title>,
-        <http://data.archaeology.link/data/ancientports/dataset_type>,
-        <http://data.archaeology.link/data/ancientports/dataset_volume> ;
+    void:propertyPartition <http://data.archaeology.link/data/ancientports/ap_dataset_P1584>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P17>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P1936>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P1958>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P8068>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_asWKT>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_created>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_creator>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_doi>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_familyName>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_firstName>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_hasBeginning>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_hasGeometry>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_hasTime>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_inXSDgYear>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_isReferencedBy>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_isbn>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_issn>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_issuer>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_label>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_note>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_number>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_pageEnd>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_pageStart>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_partOf>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_publisher>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_sameAs>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_subClassOf>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_title>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_type>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_volume> ;
     void:triples 153626 ;
     void:uriSpace "http://data.archaeology.link/data/ancientports/"^^xsd:string ;
-    void:vocabulary dcam:,
+    void:vocabulary vext:,
+        dcam:,
         dcmitype:,
         dc:,
         dcterms:,
         qb:,
         vann:,
+        voaf:,
         void:,
         doap:,
         geo:,
@@ -618,6 +960,7 @@ foaf:Person rdfs:label "Person"@en .
         skos:,
         time:,
         xml:,
+        adms:,
         csvw:,
         dcat:,
         prof:,
@@ -631,6 +974,13 @@ foaf:Person rdfs:label "Person"@en .
         brick:,
         schema:,
         wgs: ;
+    dcat:distribution <http://data.archaeology.link/data/ancientports/ap_dataset_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://archaeolink.github.io/AncientPorts_RDF> ;
     foaf:homepage <https://archaeolink.github.io/AncientPorts_RDF> ;
     foaf:page <https://archaeolink.github.io/AncientPorts_RDF/index.html> .
 

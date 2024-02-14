@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Tio at Ras Anrata? Ptolemy locates Colobon at 2° of latitude north of Adulis, which does not correspond to any cape or promontary, but Strabo locates it very close to Antiphilus portus, hence Tio might be the right location Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(38.48928 18.38242)"^^geo:wktLiteral .
 

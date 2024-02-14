@@ -21,5 +21,5 @@
     ns1:issuer "Radiocarbon" ;
     ns1:number 1 ;
     ns1:volume "54"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

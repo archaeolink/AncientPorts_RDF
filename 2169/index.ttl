@@ -17,7 +17,7 @@
     dcterms:isReferencedBy "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html"^^xsd:anyURI,
         "http://www.yppo.gr/5/g5111.jsp?obj_id=1382"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2169_geom> ;
     skos:note "Matsas (1995)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2169_foundation> ;

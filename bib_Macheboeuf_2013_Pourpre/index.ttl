@@ -17,5 +17,5 @@
     dcterms:publisher "École francaise de Rome" ;
     ns1:issuer "Mélanges de l'École francaise de Rome-Antiquité" ;
     ns1:number "125-1"^^xsd:integer ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

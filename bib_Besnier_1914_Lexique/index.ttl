@@ -13,5 +13,5 @@
     dc:title "Lexique de géographie ancienne"@en ;
     dcterms:publisher "C. Klincksieck" ;
     ns1:volume "30"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

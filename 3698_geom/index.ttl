@@ -9,6 +9,6 @@
     rdfs:label """Tiran island, at the entrance of the gulf of Aqaba? a very strategic location for controlling sea trade entering the Gulf of Aqaba and levying taxes …\r
 Another option would be at Ras Mohammed Geometry"""@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(34.56818 27.94629)"^^geo:wktLiteral .
 

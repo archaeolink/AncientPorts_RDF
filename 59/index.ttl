@@ -18,7 +18,7 @@
         "http://www.ferribyboats.co.uk/"^^xsd:anyURI,
         "https://historicengland.org.uk/listing/the-list/list-entry/1005219"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/59_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7179412> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/59_foundation> ;

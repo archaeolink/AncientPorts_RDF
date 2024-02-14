@@ -17,7 +17,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://solarey.net/ruins-of-kilwa-kisiwani-and-songo-mnara-from-tanzania-africa/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3710_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1741475> ;
     skos:note "Pollard (2016)" ;

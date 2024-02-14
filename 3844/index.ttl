@@ -16,7 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Besenval_1994_Le>,
         <http://data.archaeology.link/data/ancientports/bib_Desse_2005_Les> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3844_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5727580> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3844_foundation> ;

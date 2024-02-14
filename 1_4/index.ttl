@@ -17,7 +17,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://www.grind.no/en/sunnhordland/kvinnherad/halsnoy-boat"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2891132> ;
     skos:note "Glorstad (2013)" ;

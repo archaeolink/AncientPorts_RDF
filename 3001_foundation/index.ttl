@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Matala, N.C.Flemming and P.A. Pirazzoli, 1981 mention this slipway in the SE corner of the Matala creek, below the 'Hippies' cave' Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3001_foundation_beginning> .
 

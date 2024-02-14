@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Banchinamento Orsi, on R Cantera, in Augusta harbour, Scylax locates Megaris on R Simaithos, now R Simeto, possibly Paterno Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(15.18374 37.20577)"^^geo:wktLiteral .
 

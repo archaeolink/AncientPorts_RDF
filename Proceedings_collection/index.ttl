@@ -7,7 +7,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Proceedings Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/bib_Amato_2013_New>,
         <http://data.archaeology.link/data/ancientports/bib_Andreou_2016_Moving>,
         <http://data.archaeology.link/data/ancientports/bib_Benini_2010_Porto>,

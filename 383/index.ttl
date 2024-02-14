@@ -19,7 +19,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.laopiniondemurcia.es/cartagena/2016/10/04/obras-casa-llagostera-sacan-luz/772068.html"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/383_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6128054> ;
     skos:note "Cerezo (2017)",

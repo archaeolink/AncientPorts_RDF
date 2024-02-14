@@ -16,7 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Balmelle_2001_Viticulture>,
         "http://socgeo-rochefort.fr/archeologie.php?sub_ref=32"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/593_5_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/593_5_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> .

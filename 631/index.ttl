@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "http://capmeroccitanie.fr/village-lacustre-englouti-premiers-setois/"^^xsd:anyURI,
         "https://france3-regions.francetvinfo.fr/occitanie/plongee-etang-thau-decouvrir-village-vieux-3000-ans-738883.html"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/631_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q385616> ;
     skos:note "Garcia (1995)" ;

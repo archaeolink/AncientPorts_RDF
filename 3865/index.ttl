@@ -17,7 +17,7 @@ Ptolemy's Talacori might be placed near the very old Ketheeswaram temple """@en 
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Ketheeswaram_temple"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3865_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q15245625> ;
     skos:note "Gunawardana (2015)",

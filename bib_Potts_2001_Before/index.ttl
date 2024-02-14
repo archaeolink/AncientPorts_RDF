@@ -15,5 +15,5 @@
     ns1:issuer "United Arab Emirates: a new perspective" ;
     ns1:pageEnd 69 ;
     ns1:pageStart 28 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

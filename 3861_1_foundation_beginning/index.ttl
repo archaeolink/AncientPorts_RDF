@@ -9,6 +9,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Isle of Dwarka, in Gulf of Kutch, with possible port near Rupen Bandar. Acc. to Mar Erythr Periplus, Baraca bay (Gulf of Kutch) is very dangerous sailing and ships should stop at its entrance (Dwarka).  Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:inXSDgYear "-1500"^^xsd:gYear .
 

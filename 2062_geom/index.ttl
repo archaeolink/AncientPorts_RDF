@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Port area on ca. 800 m south of the modern breakwater, on the isle of Dhilos, Delos, east of Megalo Remmatia, Rematiari islet Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(25.26430 37.39680)"^^geo:wktLiteral .
 

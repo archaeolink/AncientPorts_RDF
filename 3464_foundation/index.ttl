@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Roman port at Ras el-Shiq , near Sarafand, with fish tank & quarry west of the port Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3464_foundation_beginning> .
 

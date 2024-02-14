@@ -18,7 +18,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Knight_2019_Must>,
         "http://www.mustfarm.com/bronze-age-river/archaeology/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/61_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q22047654> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/61_4_foundation> ;

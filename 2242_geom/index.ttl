@@ -9,6 +9,6 @@
     rdfs:label "Planitis, on the isle of Kyra Panagia, Pelagonisi Geometry"@en,
         "Planitis, on the isle of Pelagos Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(24.07197 39.34733)"^^geo:wktLiteral .
 

@@ -11,5 +11,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "{Qal'at al-Bahrain, Ancient Capital and Harbour of Dilmun. The Site Museum}"@en ;
     dcterms:publisher "{Bahrain Authority for Culture and Antiquities}" ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

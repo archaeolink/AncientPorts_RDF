@@ -17,7 +17,7 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Anglesey"^^xsd:anyURI,
         "https://www.megalithic.co.uk/article.php?sid=5955"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/137_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q5016875> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/137_foundation> ;

@@ -9,5 +9,5 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Walsh_Michael_Thomas> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Pudding Pan: a Roman shipwreck and its cargo in context"@en ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

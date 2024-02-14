@@ -9,6 +9,6 @@
     rdfs:label "Tongue island, near Monfreid's Zoukour, Zuqar Geometry"@en,
         "Tongue island, near Monfreid's Zoukour, Zuqar island Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(42.71369 13.88127)"^^geo:wktLiteral .
 

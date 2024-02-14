@@ -17,7 +17,7 @@
     dcterms:isReferencedBy "https://www.livius.org/articles/place/alexandria-near-issus/"^^xsd:anyURI,
         "https://www.newadvent.org/cathen/03216a.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3400_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q174341> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3400_foundation> ;

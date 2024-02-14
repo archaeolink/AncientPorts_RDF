@@ -11,5 +11,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Asardibi (Casara), a Classical, Hellenistic and Early Roman Harbor in the Rhodian Peraea"@en ;
     dcterms:publisher "Bilkent Universitesi (Turkey)" ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

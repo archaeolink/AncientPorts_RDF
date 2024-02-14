@@ -19,7 +19,7 @@
         <http://data.archaeology.link/data/ancientports/bib_Kolaiti_2016_Upper>,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1859_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1738703> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1859_foundation> ;

@@ -17,7 +17,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/03/18/gonio-apsaros-2/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2713_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q944813> ;
     skos:note "Karasiewicz (2016)" ;

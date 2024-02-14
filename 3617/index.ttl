@@ -18,7 +18,7 @@
         <http://data.archaeology.link/data/ancientports/bib_Zazzaro_2013_Ancient>,
         "https://www.ancient-origins.net/ancient-places-africa/adulis-0012642"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3617_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q378940> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3617_foundation> ;

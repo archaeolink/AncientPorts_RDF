@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "al-Khuraybah in Aynunah bay, a road to Petra starts there. Some scholars locate Leuke Kome at al-Wajh, 240 km further south. Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/3694_foundation_beginning> .
 

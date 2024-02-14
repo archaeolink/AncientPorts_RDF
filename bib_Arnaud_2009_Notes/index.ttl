@@ -11,5 +11,5 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Notes sur le Stadiasme de la Grande Mer (1): la Lycie et la Carie"@en ;
     ns1:issuer "IN GRECIA EA ROMA" ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

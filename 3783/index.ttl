@@ -16,7 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Bukharin_2012_The>,
         "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3783_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3546517> ;
     ns1:P17 "Gulf"^^xsd:string .

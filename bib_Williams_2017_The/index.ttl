@@ -9,5 +9,5 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Williams_R_> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "The Great Orme Bronze Age copper mine: Linking ores to metals by developing a geochemically and isotopically defined mine-based methodology"@en ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

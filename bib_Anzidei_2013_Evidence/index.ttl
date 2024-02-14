@@ -17,5 +17,5 @@
     ns1:doi "10.1016/j.quaint.2012.01.019"^^xsd:string ;
     ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
     ns1:volume "288"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

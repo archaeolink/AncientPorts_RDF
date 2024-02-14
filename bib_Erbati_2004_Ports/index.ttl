@@ -13,5 +13,5 @@
     ns1:issuer "Le strutture dei porti e gli approdi antichi" ;
     ns1:pageEnd 158 ;
     ns1:pageStart 151 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

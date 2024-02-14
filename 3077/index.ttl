@@ -16,7 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting>,
         "https://mapcarta.com/W221241980"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3077_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3077_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q229> .

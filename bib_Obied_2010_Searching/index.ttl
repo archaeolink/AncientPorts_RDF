@@ -9,5 +9,5 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Macleroy-Obied_CT> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Searching for the Ancient Harbours of the Erythraean Sea: An Analytical Investigation"@en ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

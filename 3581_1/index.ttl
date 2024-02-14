@@ -18,7 +18,7 @@ With probable quaywall (Trench 7) and possible ancient lighthouse. Roman forts a
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/04/17/berenike-2/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3581_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q819050> ;
     skos:note "Kotarba (2017)",

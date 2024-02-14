@@ -17,7 +17,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Sabatini_2016_Revisiting>,
         "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum/maroni/archaeological_sites/maroni-vournes.aspx"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3054_geom> ;
     skos:note "Andreou (2014)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3054_foundation> ;

@@ -13,5 +13,5 @@
     ns1:issuer "Pyrenae" ;
     ns1:pageEnd "244+"^^xsd:integer ;
     ns1:pageStart 185 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

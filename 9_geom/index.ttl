@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Roman fort still visible in the 17th c. at LLW, but now submerged offshore Katwijk, near the outlet of R Oude Rijn (R Old Rhine) which was the northern limit of the Roman empire and was navigable over a long distance, with many river ports Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(4.39324 52.21348)"^^geo:wktLiteral .
 

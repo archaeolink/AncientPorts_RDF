@@ -17,7 +17,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Nappo_2010_Location>,
         <http://data.archaeology.link/data/ancientports/bib_Pedersen_2015_Preliminary> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3684_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q27356> ;
     skos:note "Fiema (2020)" ;

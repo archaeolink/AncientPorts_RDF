@@ -9,7 +9,7 @@
     rdfs:label "Al-Hassani island? Geometry"@en,
         "Sharm Hasy Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(37.08500 24.97000)"^^geo:wktLiteral,
         "POINT(37.33731 24.62587)"^^geo:wktLiteral .
 

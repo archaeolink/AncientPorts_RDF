@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Marseille, Vieux Port, place Jules Verne & place Villeneuve-Bargemon (see also nearby Musee des docks: Dolia warehouse) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(5.36960 43.29685)"^^geo:wktLiteral .
 

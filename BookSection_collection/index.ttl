@@ -7,7 +7,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "BookSection Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/bib_Fernandez_2021_El>,
         <http://data.archaeology.link/data/ancientports/bib_Ferrer_2021_El>,
         <http://data.archaeology.link/data/ancientports/bib_Filipova_2011_Palaeoecology>,

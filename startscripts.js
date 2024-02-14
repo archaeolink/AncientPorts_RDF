@@ -910,7 +910,7 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
     }
     
     
-    let camera, scene, renderer, controls;
+    let camera, scene, renderer, controls, axesHelper;
     
     function viewGeometry(geometry) {
       const material = new THREE.MeshPhongMaterial({
@@ -1086,7 +1086,7 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
                 });
             }
         }
-        camera = new THREE.PerspectiveCamera(90,width / height, 0.1, 150 );
+        camera = new THREE.PerspectiveCamera(90,width / height, 0.1, 2000 );
         scene.add(new THREE.AmbientLight(0x222222));
         var light = new THREE.DirectionalLight(0xffffff, 1);
         light.position.set(20, 20, 0);
@@ -1094,27 +1094,31 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
         lightingFolder.add(light.position, "x").min(-5).max(5).step(0.01).name("X Position")
         lightingFolder.add(light.position, "y").min(-5).max(5).step(0.01).name("Y Position")
         lightingFolder.add(light.position, "z").min(-5).max(5).step(0.01).name("Z Position")
-        var axesHelper = new THREE.AxesHelper( Math.max(maxx, maxy, maxz)*4 );
+        axesHelper = new THREE.AxesHelper( Math.max(1000, 1000, 1000) );
         scene.add( axesHelper );
         console.log("Depth: "+(maxz-minz))
         scene.add( annotations );
         centervec=new THREE.Vector3()
         controls = new THREE.OrbitControls( camera, renderer.domElement );
-        controls.target.set( centervec.x,centervec.y,centervec.z );
+        //controls.target.set( centervec.x,centervec.y,centervec.z );
         controls.target.set( 0,0,0 );
-        camera.position.x= centervec.x
-        camera.position.y= centervec.y
-        camera.position.z = 40;
-        controls.maxDistance= Math.max(maxx, maxy, maxz)*5
+        camera.position.x= 0
+        camera.position.y= 0
+        camera.position.z = 150;
+        controls.maxDistance= Math.max(1000, 1000, 1000)
         controls.update();
         const updateCamera = () => {
             camera.updateProjectionMatrix();
         }
         const cameraFolder = geometryFolder.addFolder("Camera");
-        cameraFolder.add (camera, 'fov', 1, 250).name('Zoom').onChange(updateCamera);
+        cameraFolder.add (camera, 'fov', 1, 180).name('Zoom').onChange(updateCamera);
+        cameraFolder.add (camera.position, 'x').min(-500).max(500).step(5).name("X Position").onChange(updateCamera);
+        cameraFolder.add (camera.position, 'y').min(-500).max(500).step(5).name("Y Position").onChange(updateCamera);
+        cameraFolder.add (camera.position, 'z').min(-500).max(500).step(5).name("Z Position").onChange(updateCamera);
         gui.add(objects, 'visible').name('Meshes')
         gui.add(annotations, 'visible').name('Annotations')
-        if(meshurls[0].includes(".nxs") || meshurls[0].includes(".nxz")){
+        gui.add(axesHelper, 'visible').name('Axis Helper')
+        if(meshurls.length>0 && (meshurls[0].includes(".nxs") || meshurls[0].includes(".nxz"))){
             renderNXS()
         }
         animate()
@@ -1182,23 +1186,27 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
     function formatHTMLTableForPropertyRelations(propuri,result,propicon){
         dialogcontent="<h3><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+propuri.replace('/index.json','/index.html')+"\" target=\"_blank\"> "+shortenURI(propuri)+"</a></h3><table border=1 id=classrelationstable><thead><tr><th>Incoming Concept</th><th>Relation</th><th>Outgoing Concept</th></tr></thead><tbody>"
         console.log(result)
-        for(instance in result["from"]){
-    //
-                if(result["from"][instance]=="instancecount"){
-                    continue;
-                }
-                dialogcontent+="<tr><td><img src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+result["from"][instance]+"\" target=\"_blank\">"+shortenURI(result["from"][instance])+"</a></td>"
-                dialogcontent+="<td><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+propuri+"\" target=\"_blank\">"+shortenURI(propuri)+"</a></td><td></td></tr>"
-           // }
+        if("from" in result){
+            for(instance in result["from"]){
+        //
+                    if(result["from"][instance]=="instancecount"){
+                        continue;
+                    }
+                    dialogcontent+="<tr><td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('"+result["from"][instance]+"'))\" src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+result["from"][instance]+"\" target=\"_blank\">"+shortenURI(result["from"][instance])+"</a></td>"
+                    dialogcontent+="<td><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+propuri+"\" target=\"_blank\">"+shortenURI(propuri)+"</a></td><td></td></tr>"
+               // }
+            }
         }
-        for(instance in result["to"]){
-            //for(instance in result["to"][res]){
-                if(result["to"][instance]=="instancecount"){
-                    continue;
-                }
-                dialogcontent+="<tr><td></td><td><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+propuri+"\" target=\"_blank\">"+shortenURI(propuri)+"</a></td>"
-                dialogcontent+="<td><img src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+result["to"][instance]+"\" target=\"_blank\">"+shortenURI(result["to"][instance])+"</a></td></tr>"
-           // }
+        if("to" in result){
+            for(instance in result["to"]){
+                //for(instance in result["to"][res]){
+                    if(result["to"][instance]=="instancecount"){
+                        continue;
+                    }
+                    dialogcontent+="<tr><td></td><td><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+propuri+"\" target=\"_blank\">"+shortenURI(propuri)+"</a></td>"
+                    dialogcontent+="<td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('"+result["to"][instance]+"'))\" src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+result["to"][instance]+"\" target=\"_blank\">"+shortenURI(result["to"][instance])+"</a></td></tr>"
+               // }
+            }
         }
         dialogcontent+="</tbody></table>"
         dialogcontent+="<button style=\"float:right\" id=\"closebutton\" onclick='document.getElementById(\"classrelationdialog\").close()'>Close</button>"
@@ -1206,34 +1214,34 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
     }
     
     function determineTableCellLogo(uri){
-        result="<td><a href=\""+uri+"\" target=\"_blank\">"
+        result="<td>"
         logourl=""
         finished=false
         if(uri in labelproperties){
-            result+="<img src=\""+iconprefix+"labelproperty.png\" height=\"25\" width=\"25\" alt=\"Label Property\"/>"
+            result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"labelproperty.png')\" src=\""+iconprefix+"labelproperty.png\" height=\"25\" width=\"25\" alt=\"Label Property\"/>"
             logourl=iconprefix+"labelproperty.png"
             finished=true
         }
         if(!finished){
             for(ns in annotationnamespaces){
                 if(uri.includes(annotationnamespaces[ns])){
-                    result+="<img src=\""+iconprefix+"annotationproperty.png\" height=\"25\" width=\"25\" alt=\"Annotation Property\"/>"
+                    result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"annotationproperty.png')\" src=\""+iconprefix+"annotationproperty.png\" height=\"25\" width=\"25\" alt=\"Annotation Property\"/>"
                     logourl=iconprefix+"annotationproperty.png"
                     finished=true
                 }
             }
         }
         if(!finished && uri in geoproperties && geoproperties[uri]=="ObjectProperty"){
-            result+="<img src=\""+iconprefix+"geoobjectproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Object Property\"/>"
+            result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"geoobjectproperty.png')\" src=\""+iconprefix+"geoobjectproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Object Property\"/>"
             logourl=iconprefix+"geoobjectproperty.png"
         }else if(!finished && uri in geoproperties && geoproperties[uri]=="DatatypeProperty"){
-            result+="<img src=\""+iconprefix+"geodatatypeproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Datatype Property\"/>"
+            result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"geodatatypeproperty.png')\" src=\""+iconprefix+"geodatatypeproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Datatype Property\"/>"
             logourl=iconprefix+"geodatatypeproperty.png"
         }else if(!finished){
-            result+="<img src=\""+iconprefix+"objectproperty.png\" height=\"25\" width=\"25\" alt=\"Object Property\"/>"
+            result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"objectproperty.png')\" src=\""+iconprefix+"objectproperty.png\" height=\"25\" width=\"25\" alt=\"Object Property\"/>"
             logourl=iconprefix+"objectproperty.png"
         }
-        result+=shortenURI(uri)+"</a></td>"
+        result+="<a href=\""+uri+"\" target=\"_blank\">"+shortenURI(uri)+"</a></td>"
         return [result,logourl]
     }
     
@@ -1243,24 +1251,28 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
             nodelabel=nodelabel.substring(0,nodelabel.lastIndexOf("[")-1)
         }
         dialogcontent="<h3><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid.replace('/index.json','/index.html')+"\" target=\"_blank\"> "+nodelabel+"</a></h3><table border=1 id=classrelationstable><thead><tr><th>Incoming Concept</th><th>Incoming Relation</th><th>Concept</th><th>Outgoing Relation</th><th>Outgoing Concept</th></tr></thead><tbody>"
-        for(res in result["from"]){
-            for(instance in result["from"][res]){
-                if(instance=="instancecount"){
-                    continue;
+        if("from" in result){
+            for(res in result["from"]){
+                for(instance in result["from"][res]){
+                    if(instance=="instancecount"){
+                        continue;
+                    }
+                    dialogcontent+="<tr><td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('"+instance+"'))\" src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+instance+"\" target=\"_blank\">"+shortenURI(instance)+"</a></td>"
+                    dialogcontent+=determineTableCellLogo(res)[0]
+                    dialogcontent+="<td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('"+nodeid+"'))\" src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid+"\" target=\"_blank\">"+nodelabel+"</a></td><td></td><td></td></tr>"
                 }
-                dialogcontent+="<tr><td><img src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+instance+"\" target=\"_blank\">"+shortenURI(instance)+"</a></td>"
-                dialogcontent+=determineTableCellLogo(res)[0]
-                dialogcontent+="<td><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid+"\" target=\"_blank\">"+nodelabel+"</a></td><td></td><td></td></tr>"
             }
         }
-        for(res in result["to"]){
-            for(instance in result["to"][res]){
-                if(instance=="instancecount"){
-                    continue;
+        if("to" in result){
+            for(res in result["to"]){
+                for(instance in result["to"][res]){
+                    if(instance=="instancecount"){
+                        continue;
+                    }
+                    dialogcontent+="<tr><td></td><td></td><td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('"+nodeid+"'))\" src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid+"\" target=\"_blank\">"+nodelabel+"</a></td>"
+                    dialogcontent+=determineTableCellLogo(res)[0]
+                    dialogcontent+="<td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('"+instance+"'))\"  src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+instance+"\" target=\"_blank\">"+shortenURI(instance)+"</a></td></tr>"
                 }
-                dialogcontent+="<tr><td></td><td></td><td><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid+"\" target=\"_blank\">"+nodelabel+"</a></td>"
-                dialogcontent+=determineTableCellLogo(res)[0]
-                dialogcontent+="<td><img src=\""+iconprefix+"class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+instance+"\" target=\"_blank\">"+shortenURI(instance)+"</a></td></tr>"
             }
         }
         dialogcontent+="</tbody></table>"

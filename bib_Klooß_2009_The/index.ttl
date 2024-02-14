@@ -14,5 +14,5 @@
     ns1:isbn "978-3-88467-142-9"^^xsd:string ;
     ns1:pageEnd 105 ;
     ns1:pageStart 97 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

@@ -14,5 +14,5 @@
     ns1:issuer "Du Nil à Alexandrie: histoires d’eaux, edited by: Hairy, I., Céntre d’Études Alexandrines, De Boccard, Alexandrie" ;
     ns1:pageEnd 161 ;
     ns1:pageStart 140 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

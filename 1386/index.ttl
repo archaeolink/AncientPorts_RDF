@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7941"^^xsd:anyURI,
         "https://mapcarta.com/W426766670"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1386_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q923561> ;
     skos:note "Matijasic (2001)" ;

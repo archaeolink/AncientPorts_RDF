@@ -17,7 +17,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://en.m.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/107_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1431121> ;
     skos:note "Taylor (2016)" ;

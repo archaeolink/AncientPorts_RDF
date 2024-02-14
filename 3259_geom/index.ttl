@@ -9,6 +9,6 @@
     rdfs:label "Aksaz modern naval base, in Karaagac Limani Geometry"@en,
         "Aksaz, in Karaagaç Limani Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(28.39104 36.84044)"^^geo:wktLiteral .
 

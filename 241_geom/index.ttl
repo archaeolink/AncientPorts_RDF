@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Alfeizerao, near Sao Martinho do Porto, such a nice shelter must have been used since very ancient times, first for beaching, then possibly with port infrastructure on the north side of the bay Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(-9.13787 39.51069)"^^geo:wktLiteral .
 

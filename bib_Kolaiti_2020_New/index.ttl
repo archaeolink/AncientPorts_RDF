@@ -13,5 +13,5 @@
     dc:title "New insights on the relative sea level changes during the Late Holocene along the coast of Paros Island and the northern Cyclades (Greece)"@en ;
     ns1:issuer "Ann. Geophys" ;
     ns1:volume "63"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

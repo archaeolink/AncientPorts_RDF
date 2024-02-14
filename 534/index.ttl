@@ -15,7 +15,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://www.inrap.fr/archeologie-preventive/Actualites/Communiques-de-presse/p-16145-Le-passe-antique-de-Port-en-Bessin-Huppain-revele-par-une-fouille-archeologique.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/534_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q987304> ;
     ns1:P17 <http://www.wikidata.org/entity/Q142> .

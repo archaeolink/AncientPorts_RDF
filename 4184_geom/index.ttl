@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Ile Plane, Jaziret el-Monbasta, east of Raf Raf? These two islands are mentioned by Antonine between La Galite and Egimure (Zembra). These two small islands, located offshore Raf Raf, are the only ones to be seen during the trip from La Galite to Zembra Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(10.32845 37.18157)"^^geo:wktLiteral .
 

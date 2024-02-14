@@ -17,5 +17,5 @@
     ns1:number 92 ;
     ns1:pageEnd 254 ;
     ns1:pageStart 239 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

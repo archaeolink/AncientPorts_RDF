@@ -15,5 +15,5 @@
     ns1:issuer "The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu (AMEr)" ;
     ns1:pageEnd 29 ;
     ns1:pageStart 3 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

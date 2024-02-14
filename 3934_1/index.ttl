@@ -19,7 +19,7 @@
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/alexandria/"^^xsd:anyURI,
         "https://www.franckgoddio.org/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3934_1_geom> ;
     skos:note "Goddio (1998)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3934_1_foundation> ;

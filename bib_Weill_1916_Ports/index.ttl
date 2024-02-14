@@ -9,5 +9,5 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Weill_R> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Les ports antéhelléniques de la côte d’Alexandrie et l’Empire crétois’’, Bulletin de l’Institut Français d’Archéologie Orientale, Tome XVI"@en ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

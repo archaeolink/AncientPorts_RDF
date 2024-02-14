@@ -17,5 +17,5 @@
     ns1:doi "10.4000/books.efa.3420"^^xsd:string ;
     ns1:number 58 ;
     ns1:volume "supplément 58"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

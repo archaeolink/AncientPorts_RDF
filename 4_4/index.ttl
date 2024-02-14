@@ -17,7 +17,7 @@
     dcterms:isReferencedBy "https://www.abc.se/~m10354/uwa/nydam-e.htm"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4_4_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q897611> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/4_4_foundation> ;

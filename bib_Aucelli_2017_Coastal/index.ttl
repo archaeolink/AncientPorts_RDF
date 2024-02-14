@@ -16,5 +16,5 @@
     dc:title "Coastal landscape evolution of Naples (Southern Italy) since the Roman period from archaeological and geomorphological data at Palazzo degli Spiriti site"@en ;
     ns1:issuer <http://www.wikidata.org/entity/Q7269556> ;
     ns1:volume "30"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

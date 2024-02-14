@@ -17,7 +17,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Potts_2019_Islands>,
         "https://iranicaonline.org/articles/kharg-island-02"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3814_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q913355> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3814_foundation> ;

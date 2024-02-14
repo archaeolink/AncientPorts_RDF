@@ -18,7 +18,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Cavalier_2007_Horrea>,
         "https://mapcarta.com/W822853663"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3300_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q510000> ;
     skos:note "Cevik (2012)" ;

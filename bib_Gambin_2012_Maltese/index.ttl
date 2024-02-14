@@ -13,5 +13,5 @@
     ns1:issuer "The Maltese Islands and the Sea; Gambin, T., Ed.; Midsea Books Ltd.: Santa Venera, Malta" ;
     ns1:pageEnd 20 ;
     ns1:pageStart 1 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

@@ -9,6 +9,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Husn al-Ghurab ('Crow's fort', Fort du Corbeau), at Mawiyat, near Bir Ali Foundation Beginning"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:inXSDgYear "-30"^^xsd:gYear .
 

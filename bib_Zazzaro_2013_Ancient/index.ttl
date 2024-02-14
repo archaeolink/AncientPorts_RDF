@@ -12,5 +12,5 @@
     dc:title "The Ancient Red Sea port of Adulis and the Eritrean coastal region"@en ;
     ns1:issuer "BAR International series" ;
     ns1:volume "2569"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

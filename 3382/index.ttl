@@ -15,7 +15,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Arnaud_2020_Non>,
         <http://data.archaeology.link/data/ancientports/bib_Taffet_2001_Likely> ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3382_geom> ;
     skos:note "Oruc (2013)" ;
     ns1:P1584 <http://pleiades.stoa.org/places/648755> ;

@@ -15,7 +15,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://whc.unesco.org/en/tentativelists/6551/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3830_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2986542> ;
     ns1:P17 "Gulf"^^xsd:string .

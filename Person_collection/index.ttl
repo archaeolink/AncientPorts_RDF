@@ -8,7 +8,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Person Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     ns1:hasMember <http://data.archaeology.link/data/ancientports/author_Akerraz_Aomar>,
         <http://data.archaeology.link/data/ancientports/author_Akpinar_Ezgi>,
         <http://data.archaeology.link/data/ancientports/author_Albelda_Eduardo>,

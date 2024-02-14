@@ -9,5 +9,5 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_Wilkes_Eileen> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Iron Age maritime nodes on the English Channel coast: an investigation into the location, nature and context of early ports and harbours"@en ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

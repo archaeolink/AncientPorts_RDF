@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "https://www.franckgoddio.org/"^^xsd:anyURI,
         "https://www.youtube.com/watch?v=47B11rPX4ic"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3915_2_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q1607758> ;
     skos:note "Goddio (2015)" ;

@@ -13,5 +13,5 @@
     dc:title "Sobre el nombre de la ciudad ibérica y romana de Villajoyosa y la ubicación del topónimo Alonís/Alonai/Allon"@en ;
     dcterms:publisher "Universidad de Alicante. Departamento de Prehistoria, Arqueología, Historia~…" ;
     ns1:issuer "Lucentum, XXV (2006); pp. 223-248" ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

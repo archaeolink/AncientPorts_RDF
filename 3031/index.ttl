@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "http://www.whatson-northcyprus.com/interest/dipkarpaz/kastros.htm"^^xsd:anyURI,
         "https://de.wikipedia.org/wiki/Aphrodite_Akraia"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3031_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q6374839> ;
     skos:note "Le Brun (1993)" ;

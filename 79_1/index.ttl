@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "https://www.megalithic.co.uk/article.php?sid=37855"^^xsd:anyURI,
         "https://www.wessexarch.co.uk/our-work/cliffs-end-farm"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/79_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3425604> ;
     skos:note "Ling (2014)" ;

@@ -17,7 +17,7 @@
     dcterms:isReferencedBy "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html"^^xsd:anyURI,
         "https://www.ajaonline.org/book-review/684"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1914_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q56670610> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1914_foundation> ;

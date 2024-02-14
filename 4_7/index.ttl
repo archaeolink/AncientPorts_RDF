@@ -16,7 +16,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Malm_1995_Excavating>,
         "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tybrind-vig"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4_7_geom> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/4_7_foundation> ;
     ns1:P17 <http://www.wikidata.org/entity/Q35> .

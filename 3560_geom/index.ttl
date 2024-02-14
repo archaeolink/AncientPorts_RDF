@@ -9,7 +9,7 @@
     rdfs:label "Marsa Mubarak Geometry"@en,
         "Marsa Mubarak, Three Corners Fayrouz Plaza Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(34.65100 25.51200)"^^geo:wktLiteral,
         "POINT(34.65270 25.50900)"^^geo:wktLiteral .
 

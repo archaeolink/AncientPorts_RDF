@@ -17,7 +17,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2017/01/01/kubba-coastal-survey/"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3448_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3285145> ;
     skos:note "Carayon (2012)" ;

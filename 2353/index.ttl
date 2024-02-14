@@ -16,7 +16,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2353_geom> ;
     skos:note "Platon (2003)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/2353_foundation> ;

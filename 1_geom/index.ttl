@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Iceland? Pliny and Strabo, who cite Pytheas (ca 325 BC?), place Thule at 6 navigation days from (Great) Britain, which may be 400-600 nautical miles. Iceland is at 450 miles north of Scotland. The mention of six months long days and nights means a position beyond the Arctic Circle, which corresponds better to Iceland than to the Shetland islands. Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(-14.76131 63.27477)"^^geo:wktLiteral .
 

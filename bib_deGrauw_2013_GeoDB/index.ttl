@@ -10,5 +10,5 @@
     dc:creator <http://data.archaeology.link/data/ancientports/author_de_Graauw_Arthur> ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dc:title "Geodatabase of Ancient Ports and Harbours (xls table)"@en ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Frankincense#Production"^^xsd:anyURI,
         "https://en.wikipedia.org/wiki/Salweyn"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3732_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q946211> ;
     skos:note "Chittick (1976)" ;

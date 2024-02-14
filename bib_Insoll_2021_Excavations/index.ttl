@@ -19,5 +19,5 @@
     ns1:pageEnd 421 ;
     ns1:pageStart 395 ;
     ns1:volume "32"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

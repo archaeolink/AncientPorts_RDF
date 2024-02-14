@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2020/02/27/further-investigation-of-marine-archaeology-heritage-at-akanthou-ongoing/"^^xsd:anyURI,
         "https://www.sciencemag.org/news/2017/10/studies-world-s-first-farmers-hampered-bitter-political-stalemate-cyprus"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3094_1_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2714727> ;
     skos:note "Sevketoglu (2008)" ;

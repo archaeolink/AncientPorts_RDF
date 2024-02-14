@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Falasarna, Phalasarna. There are only a few places protected from the western waves on the West coast of Crete;  the only good natural shelter from a nautical point of view is at Gramvousa (Balos Beach). However, the ancient port was identified as an artificial dug-out basin at the toe of a promontory located 1 km north of the city of Phalasarna, it was uplifted 6.5 m during the 365 AD earthquake Foundation"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     time:hasBeginning <http://data.archaeology.link/data/ancientports/2918_foundation_beginning> .
 

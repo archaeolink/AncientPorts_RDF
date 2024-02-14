@@ -13,5 +13,5 @@
     dc:title "Caesarea Mauretaniae"@en ;
     dcterms:publisher "Éditions Peeters" ;
     ns1:number 11 ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

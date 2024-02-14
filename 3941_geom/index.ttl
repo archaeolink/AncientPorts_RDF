@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Geziret Kunaiyisa & former Geziret el-Marabit now connected to mainland, where Stadiasmus mentions a 'harbour for ships smaller than 7000 [artaba]' Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(29.78080 31.14380)"^^geo:wktLiteral .
 

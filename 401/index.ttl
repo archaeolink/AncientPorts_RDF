@@ -15,7 +15,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "http://arqueologiaalicante.blogspot.com.es/2010/12/tossal-de-la-cala-benidorm.html"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/401_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q487981> ;
     ns1:P17 <http://www.wikidata.org/entity/Q29> .

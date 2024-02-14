@@ -7,7 +7,7 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Document Instances Collection"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     rdfs:member <http://data.archaeology.link/data/ancientports/bib_Lawler_2010_Forgotten>,
         <http://data.archaeology.link/data/ancientports/bib_Marcotte_2017_Ocean>,
         <http://data.archaeology.link/data/ancientports/bib_Said_2014_Ancient> .

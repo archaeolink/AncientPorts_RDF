@@ -18,7 +18,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Coupry_1964_Fouilles>,
         "https://fr.wikipedia.org/wiki/Salins_d%27Hy%C3%A8res"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/683_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q192574> ;
     skos:note "Bats (2006)" ;

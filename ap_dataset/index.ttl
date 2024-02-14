@@ -1,0 +1,174 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ancientports/ap_dataset> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "ap_dataset"@en ;
+    ns1:averageLiteralLength 33 ;
+    ns1:averageObjectIRILength 51 ;
+    ns1:averagePropertyIRILength 38 ;
+    ns1:averageSubjectIRILength 59 ;
+    ns1:datatypes 5 ;
+    ns1:distinctBlankNodes 0 ;
+    ns1:distinctIRIReferences 101895 ;
+    ns1:distinctLiterals 28506 ;
+    ns1:distinctRDFNodes 130401 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dc:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:license <http://creativecommons.org/licenses/by/4.0> ;
+    dcterms:modified "2024-02-14T01:54:22"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "ap_dataset"@en ;
+    vann:preferredNamespacePrefix "ap"^^xsd:string ;
+    vann:preferredNamespaceUri "http://data.archaeology.link/data/ancientports/"^^xsd:anyURI ;
+    void:classPartition <http://data.archaeology.link/data/ancientports/ap_dataset_Article>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Book>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_BookSection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Catalog>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Collection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Dataset>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Document>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Feature>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_FeatureCollection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Geometry>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_GeometryCollection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Group>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Harbour>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Instant>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Journal>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Lighthouse>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Organization>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Person>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Pila>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Point>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_PotentialHarbour>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Proceedings>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Quay>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Shipshed>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Shipyard>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Slipway>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_SpatialObject>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_SpatialObjectCollection>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_TemporalEntity>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Thesis>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_VillaMaritima>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_Warehouse> ;
+    void:classes 33 ;
+    void:dataDump <https://archaeolink.github.io/AncientPorts_RDF/index.ttl> ;
+    void:distinctObjects 68796 ;
+    void:distinctSubjects 33068 ;
+    void:entities 19731 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 31 ;
+    void:propertyPartition <http://data.archaeology.link/data/ancientports/ap_dataset_P1584>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P17>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P1936>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P1958>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_P8068>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_asWKT>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_created>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_creator>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_doi>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_familyName>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_firstName>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_hasBeginning>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_hasGeometry>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_hasTime>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_inXSDgYear>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_isReferencedBy>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_isbn>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_issn>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_issuer>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_label>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_note>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_number>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_pageEnd>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_pageStart>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_partOf>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_publisher>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_sameAs>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_subClassOf>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_title>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_type>,
+        <http://data.archaeology.link/data/ancientports/ap_dataset_volume> ;
+    void:triples 153626 ;
+    void:uriSpace "http://data.archaeology.link/data/ancientports/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://data.archaeology.link/data/ancientports/ap_dataset_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://archaeolink.github.io/AncientPorts_RDF> ;
+    foaf:homepage <https://archaeolink.github.io/AncientPorts_RDF> ;
+    foaf:page <https://archaeolink.github.io/AncientPorts_RDF/index.html> .
+

@@ -9,7 +9,7 @@
     rdfs:label "Jeddah, al-Balad old town Geometry"@en,
         "Sharm Abhur, Bihar Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(39.09844 21.71735)"^^geo:wktLiteral,
         "POINT(39.18240 21.48850)"^^geo:wktLiteral .
 

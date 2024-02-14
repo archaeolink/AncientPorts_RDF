@@ -8,6 +8,6 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Mythical site located by Plato beyond the Pillars of Hercules and by Diodore at several days of navigation near West Afrika, but the location of this island is still much debated (perhaps somewhere between R Guadiana and R Guadalquivir in the Tartessos country, some locate it on Santorini island) Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(-9.11912 37.01227)"^^geo:wktLiteral .
 

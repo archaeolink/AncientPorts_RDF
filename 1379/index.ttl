@@ -19,7 +19,7 @@
         <http://data.archaeology.link/data/ancientports/bib_Macheboeuf_2013_Pourpre>,
         "http://baza.iarh.hr/public/locality/detail/921"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1379_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2572091> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/1379_foundation> ;

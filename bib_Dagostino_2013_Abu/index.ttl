@@ -15,5 +15,5 @@
     dc:title "Abu Theirah, Nasiriyah (Southern Iraq): Preliminary report on the 2013 excavation campaign"@en ;
     dcterms:publisher "Universidad Aut{'o}noma de Madrid. Centro Superior de Estudios de Oriente~…" ;
     ns1:issuer "ISIMU: Revista sobre Oriente Pr{'o}ximo y Egipto en la anitg{\"u}edad" ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

@@ -9,6 +9,6 @@
     rdfs:label "Coral Garden Geometry"@en,
         "Wadi Gasus, at Coral Garden resort Geometry"@en ;
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:asWKT "POINT(34.03200 26.57180)"^^geo:wktLiteral .
 

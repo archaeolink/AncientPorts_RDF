@@ -13,5 +13,5 @@
     dc:title "Ptolémée Philadelphe et les prêtres d'Atoum de Tjékou. Nouvelle édition commentée de la' stèle de Pithom'(CGC 22183)"@en ;
     dcterms:publisher "Université Paul Valéry Montpellier 3" ;
     ns1:volume "17"^^xsd:string ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> .
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> .
 

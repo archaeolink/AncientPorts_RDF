@@ -17,7 +17,7 @@
     dcterms:isReferencedBy <http://data.archaeology.link/data/ancientports/bib_Desanges_1978_Littoral>,
         "https://en.wikipedia.org/wiki/Berenice_Epideires"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3632_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q7294675> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/3632_foundation> ;

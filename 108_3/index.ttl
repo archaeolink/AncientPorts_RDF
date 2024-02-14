@@ -16,7 +16,7 @@
     dc:license <http://creativecommons.org/licenses/by/4.0> ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1004390"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/108_3_geom> ;
     skos:note "Weatherhill (2009)" ;
     time:hasTime <http://data.archaeology.link/data/ancientports/108_3_foundation> ;

@@ -17,7 +17,7 @@
     dcterms:isReferencedBy "https://mapcarta.com/W799039590"^^xsd:anyURI,
         "https://www.megalithic.co.uk/article.php?sid=5958"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/140_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q3402044> ;
     time:hasTime <http://data.archaeology.link/data/ancientports/140_foundation> ;

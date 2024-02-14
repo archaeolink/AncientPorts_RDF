@@ -18,7 +18,7 @@
     dcterms:isReferencedBy "https://timesofindia.indiatimes.com/city/kochi/kerala-sphinx-seal-ring-recovered-from-pattanam/articleshow/78227316.cms"^^xsd:anyURI,
         "https://www.newindianexpress.com/cities/kochi/2020/sep/25/new-excavations-unravelpattanams-global-trade-past-2201449.html"^^xsd:anyURI ;
     dcterms:partOf <http://data.archaeology.link/data/ancientports/bib_deGrauw_2013_GeoDB> ;
-    void:inDataset <http://data.archaeology.link/data/ancientports/dataset> ;
+    void:inDataset <http://data.archaeology.link/data/ancientports/ap_dataset> ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3864_geom> ;
     owl:sameAs <http://www.wikidata.org/entity/Q2974112> ;
     skos:note "Dalayan (2018)" ;
