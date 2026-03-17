@@ -6,6 +6,10 @@
   "id": "NB",
   "onlyschema":true,
   "columns":{
+    "DOC1_Papers": {"bibref":true,"prop": "obj"},
+    "DOC2_Papers": {"bibref":true,"prop": "obj"},
+    "DOC3_www": {"bibref":true,"prop": "obj"},
+    "DOC4_www": {"bibref":true,"prop": "obj"},
     "HO": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
         "x":"http://www.ancientports.com/ont#Warehouse",
         "X":"http://www.ancientports.com/ont#Warehouse"
