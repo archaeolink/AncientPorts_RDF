@@ -7,35 +7,43 @@
   "onlyschema":true,
   "columns":{
     "HO": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Warehouse"
+        "x":"http://www.ancientports.com/ont#Warehouse",
+        "X":"http://www.ancientports.com/ont#Warehouse"
     }
     },
     "PH": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Lighthouse"
+        "x":"http://www.ancientports.com/ont#Lighthouse",
+        "X":"http://www.ancientports.com/ont#Lighthouse"
     }
     },
     "PL": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Pila"
+        "x":"http://www.ancientports.com/ont#Pila",
+        "X":"http://www.ancientports.com/ont#Pila"
     }
     },
     "QU": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Quay"
+        "x":"http://www.ancientports.com/ont#Quay",
+        "X":"http://www.ancientports.com/ont#Quay"
     }
     },
     "SH": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Shipshed"
+        "x":"http://www.ancientports.com/ont#Shipshed",
+        "X":"http://www.ancientports.com/ont#Shipshed"
     }
     },
     "SL": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Slipway"
+        "x":"http://www.ancientports.com/ont#Slipway",
+        "X":"http://www.ancientports.com/ont#Slipway"
     }
     },
     "SY": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#Shipyard"
+        "x":"http://www.ancientports.com/ont#Shipyard",
+        "X":"http://www.ancientports.com/ont#Shipyard"
     }
     },
     "VM": {"propiri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type","prop": "obj","order": 1,"valuemapping":{
-        "x":"http://www.ancientports.com/ont#VillaMaritima"
+        "x":"http://www.ancientports.com/ont#VillaMaritima",
+        "X":"http://www.ancientports.com/ont#VillaMaritima"
     }
     },
     "PLEIADES": {"propiri": "http://www.wikidata.org/prop/direct/P1584","prop": "obj","order": 1},
