@@ -33,7 +33,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with: 
-        version: v017
+        version: v018
         rdffilepath: ap_result.ttl
         docpath: docs
         prefixns: http://data.archaeology.link/data/ancientports/
