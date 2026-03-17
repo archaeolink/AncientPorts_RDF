@@ -15,6 +15,19 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  
+  mapit:
+
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+  uses: situx/geordfconverter/.github/workflows/geordfconvert.yml@main
+  with: 
+      input: source/AncientPorts.csv
+      output: docs
+      ghpages: true
+      mapping: ap_mapping.json
+      bibtex: source/ap.bib
+      sepchar: ","
+  
   # This workflow contains a single job called "build"  
   build:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
