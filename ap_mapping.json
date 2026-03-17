@@ -5,6 +5,10 @@
   "class": {"uri": "http://www.ancientports.com/ont#Harbour","labels": {"en": "harbour","de": "Hafen"}},
   "id": "NB",
   "onlyschema":true,
+  "prefixes":{
+    "bibo":"http://purl.org/ontology/bibo/",
+    "wdt":"http://www.wikidata.org/prop/direct/"
+  }
   "columns":{
     "DOC1_Papers": {"bibref":true,"prop": "obj"},
     "DOC2_papers": {"bibref":true,"prop": "obj"},
