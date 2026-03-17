@@ -26,7 +26,7 @@ jobs:
         ghpages: true
         mapping: ap_mapping.json
         bibtex: source/ap.bib
-        sepchar: ","
+        sepchar: ";"
   
   # This workflow contains a single job called "build"  
   build:
