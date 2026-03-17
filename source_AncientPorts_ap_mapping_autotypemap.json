@@ -1,0 +1,274 @@
+{
+  "columns": {
+    "AM": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "AUTH_ANC": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "AUTH_MOD": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "BW": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "CN": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "COUNTRY": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "DARE": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "DOC1_Papers": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "DOC2_papers": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "DOC3_www": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "DOC4_www": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "EX": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "FO": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "FOUNDATION": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "FP": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "FT": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "HO": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "LATITUDE": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "LK": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "LONGITUDE": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "MO": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "Mi": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "My": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "NAME": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "NAME_MOD": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "NB": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "PH": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "PL": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "PLEIADES": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "PP": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "PS": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "Pn": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "QR": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "QU": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "RE": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "SH": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "SI": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "SL": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "SU": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "SW": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "SY": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "TOPOSText": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "TRISMEGISTOS": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "VM": {
+      "category": false,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    },
+    "WIKIPEDIA": {
+      "category": true,
+      "prop": "data",
+      "range": "xsd:string",
+      "unique": false
+    }
+  }
+}
