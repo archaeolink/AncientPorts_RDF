@@ -86,8 +86,8 @@ ap:1001 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1002 a ont:Harbour,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:VillaMaritima ;
     geo:hasGeometry ap:1002_geom ;
     skos:note "Arkadias",
         "Beneduce (2012)",
@@ -231,12 +231,12 @@ ap:1010 a ont:Harbour,
 
 ap:1011 a ont:Harbour,
         ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:1011_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1012 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:1012_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
@@ -247,7 +247,7 @@ ap:1013 a ont:Harbour,
 
 <http://data.archaeology.link/data/ancientports/1013,1> a ont:Harbour,
         ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1013,1_geom> ;
     wdt:P1584 <http://pleiades.stoa.org/places/433124> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -352,8 +352,8 @@ ap:1022 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/16727> .
 
 ap:1023 a ont:Harbour,
-        ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Pila ;
     geo:hasGeometry ap:1023_geom ;
     skos:note "Agizza (2021)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/442775> ;
@@ -840,7 +840,7 @@ ap:1060 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/23161> .
 
 ap:1061 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1061_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/452416> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -1241,7 +1241,8 @@ ap:1098 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1099 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:1099_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/442658> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -1489,7 +1490,7 @@ ap:112 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> .
 
 <http://data.archaeology.link/data/ancientports/112,4> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1003882"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/112,4_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> ;
@@ -1556,7 +1557,8 @@ ap:1125 a ont:Harbour ;
 
 ap:1126 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:1126_geom ;
     skos:note "Scicchitano (2008)",
         "Treziny (2011)" ;
@@ -1897,7 +1899,7 @@ ap:1162 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1163 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1163_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/462086> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -2216,7 +2218,7 @@ ap:1188 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/382133HHer> .
 
 ap:1189 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1189_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/462410> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -2283,7 +2285,7 @@ ap:1195 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/380140PCep> .
 
 ap:1196 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1196_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/462225> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -2725,7 +2727,7 @@ ap:1242 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1243 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1243_geom ;
     skos:note "Auriemma (2001)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/442615> ;
@@ -2896,7 +2898,7 @@ ap:1257 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/30415> .
 
 ap:1258 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1258_geom ;
     skos:note "Disantarosa (2021)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/442500> ;
@@ -2906,7 +2908,7 @@ ap:1258 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/411169UBar> .
 
 <http://data.archaeology.link/data/ancientports/1258,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1258,1_geom> ;
     skos:note "Disantarosa (2021)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/442501> ;
@@ -3097,8 +3099,8 @@ ap:1274 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/30422> .
 
 ap:1275 a ont:Harbour,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:VillaMaritima ;
     geo:hasGeometry ap:1275_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/442654> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -3418,7 +3420,7 @@ ap:1302 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/435136UNum> .
 
 ap:1303 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1303_geom ;
     skos:note "Ciuccarelli (2021)",
         "Nuovo (2013)" ;
@@ -3562,7 +3564,7 @@ ap:1318 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/44084> .
 
 ap:1319 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://mapcarta.com/N5820109023"^^xsd:anyURI ;
     geo:hasGeometry ap:1319_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/393498> ;
@@ -3631,7 +3633,7 @@ ap:1325 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/17830> .
 
 ap:1326 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1326_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/393436> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -3737,7 +3739,7 @@ ap:1339 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/455124UAlt> .
 
 ap:134 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:134_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> .
 
@@ -3766,13 +3768,13 @@ ap:1342 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1343 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1343_geom ;
     skos:note "D'agostino (2010)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:1344 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1344_geom ;
     skos:note "D'agostino (2010)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/393414> ;
@@ -3833,7 +3835,7 @@ ap:1349 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:135 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:135_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/79678> ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> ;
@@ -3866,9 +3868,9 @@ ap:1350 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/457134UGra> .
 
 ap:1351 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:1351_geom ;
     skos:note "Arnaud-Fassetta (2003)",
@@ -4058,7 +4060,7 @@ ap:1361 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q215> .
 
 ap:1362 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1362_geom ;
     skos:note "Carre (2011)",
         "Stokin (2007)" ;
@@ -4163,7 +4165,7 @@ ap:1369 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/12238> .
 
 ap:137 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Anglesey"^^xsd:anyURI,
         "https://www.megalithic.co.uk/article.php?sid=5955"^^xsd:anyURI ;
     geo:hasGeometry ap:137_geom ;
@@ -4447,8 +4449,8 @@ ap:1383 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q224> .
 
 <http://data.archaeology.link/data/ancientports/1383,2> a ont:Harbour,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:VillaMaritima ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/4842"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1383,2_geom> ;
     skos:note "Carre (2011)",
@@ -4838,7 +4840,7 @@ ap:1411 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q224> .
 
 ap:1412 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipyard ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/2489"^^xsd:anyURI ;
     geo:hasGeometry ap:1412_geom ;
     skos:note "Kurilic (2012)",
@@ -4991,7 +4993,8 @@ ap:1424 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q224> .
 
 ap:1425 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Shipyard ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/1082"^^xsd:anyURI,
         "https://en.wikipedia.org/wiki/Liburnia"^^xsd:anyURI ;
     geo:hasGeometry ap:1425_geom ;
@@ -5337,8 +5340,8 @@ ap:1453 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q224> .
 
 ap:1454 a ont:Harbour,
-        ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Shipyard ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7244"^^xsd:anyURI,
         "http://splashcos-viewer.eu/"^^xsd:anyURI ;
     geo:hasGeometry ap:1454_geom ;
@@ -5351,7 +5354,7 @@ ap:1454 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/435165USal> .
 
 <http://data.archaeology.link/data/ancientports/1454,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/7271"^^xsd:anyURI,
         "https://www.total-croatia-news.com/lifestyle/58225-spalatum-port"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1454,1_geom> ;
@@ -5498,7 +5501,7 @@ ap:147 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25414> .
 
 ap:1470 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/1754"^^xsd:anyURI ;
     geo:hasGeometry ap:1470_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/197433> ;
@@ -5591,7 +5594,7 @@ ap:1482 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q224> .
 
 ap:1483 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "http://baza.iarh.hr/public/locality/detail/1084"^^xsd:anyURI ;
     geo:hasGeometry ap:1483_geom ;
     skos:note "Cambi (2001)",
@@ -5984,7 +5987,7 @@ ap:1518 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q222> .
 
 ap:1519 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://www.archeologie-dyrrachium-durres.com/chantiers"^^xsd:anyURI ;
     geo:hasGeometry ap:1519_geom ;
     skos:note "Abadie (2019)",
@@ -6838,7 +6841,7 @@ ap:1604 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/384224WHyl> .
 
 ap:1605 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:1605_geom ;
     skos:note "Chabrol (2013)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/540868> ;
@@ -6903,7 +6906,9 @@ ap:1612 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
 ap:1613 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:1613_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/541102> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -6921,7 +6926,7 @@ ap:1614 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/382231UKre> .
 
 ap:1615 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:1615_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/570051> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -7102,11 +7107,12 @@ ap:1627 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/379236UCho> .
 
 ap:1628 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
         ont:Shipshed,
+        ont:Shipyard,
         ont:Slipway,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:1628_geom ;
     skos:note "Flemming (1980)",
@@ -7139,9 +7145,11 @@ ap:163 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25383> .
 
 ap:1630 a ont:Harbour,
+        ont:Lighthouse,
+        ont:Quay,
+        ont:Shipshed,
         ont:Shipyard,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:1630_geom ;
     skos:note "Loven (2011)",
@@ -7444,7 +7452,7 @@ ap:1657 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/382240DRha> .
 
 ap:1658 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:1658_geom ;
     skos:note "Blackman (2022)",
         "Laoupi (2007)" ;
@@ -8161,7 +8169,8 @@ ap:1712 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
 ap:1713 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:1713_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/570258> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -8408,7 +8417,8 @@ ap:1741 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
 ap:1742 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:1742_geom ;
     skos:note "Ginalis (2021)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -9646,9 +9656,9 @@ ap:1858 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/379230USch> .
 
 ap:1859 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:1859_geom ;
     skos:note "Bouras (2016)",
@@ -9842,7 +9852,8 @@ ap:1872 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/375234XMMa> .
 
 ap:1873 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     dcterms:isReferencedBy "http://www.kalaureia.org/"^^xsd:anyURI ;
     geo:hasGeometry ap:1873_geom ;
     skos:note "Kolaiti (2016)" ;
@@ -9863,7 +9874,7 @@ ap:1873 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/375235XMod> .
 
 <http://data.archaeology.link/data/ancientports/1873,3> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "http://www.poros.nu/sightsee/bourtzi/pp/pp.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1873,3_geom> ;
     skos:note "Nikos Mourtzas (2022)" ;
@@ -10065,7 +10076,7 @@ ap:189 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/44660> .
 
 <http://data.archaeology.link/data/ancientports/189,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/189,1_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
@@ -10324,7 +10335,7 @@ ap:191 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
 ap:1910 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://topostext.org/place/367228QAso"^^xsd:anyURI ;
     geo:hasGeometry ap:1910_geom ;
     skos:note "Kokkorou (2009)" ;
@@ -10679,7 +10690,8 @@ ap:1943 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/373218PAul> .
 
 <http://data.archaeology.link/data/ancientports/1943,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1943,1_geom> ;
     wdt:P1584 <http://pleiades.stoa.org/places/570502> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -10768,7 +10780,7 @@ ap:1948 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/377213BSta> .
 
 <http://data.archaeology.link/data/ancientports/1948,2> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1948,2_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
     wdt:P8068 <https://topostext.org/place/378213XAAK> .
@@ -10990,10 +11002,10 @@ ap:1964 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/380227PSik> .
 
 ap:1965 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
         ont:Shipshed,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:1965_geom ;
     skos:note "Kolaiti (2017)",
@@ -11036,8 +11048,8 @@ ap:1967 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/380230UThe> .
 
 ap:1968 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:1968_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/570288> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -11213,7 +11225,8 @@ ap:1989 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/388207BHbr> .
 
 <http://data.archaeology.link/data/ancientports/1989,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/1989,1_geom> ;
     skos:note "Gazi (2013)",
         "Murray (1988)" ;
@@ -11259,7 +11272,7 @@ ap:1991 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/387207XNyd> .
 
 ap:1992 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:1992_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/531145> ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
@@ -11356,17 +11369,17 @@ ap:200 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/40432> .
 
 <http://data.archaeology.link/data/ancientports/200,3> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/200,3_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
 <http://data.archaeology.link/data/ancientports/200,4> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/200,4_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
 <http://data.archaeology.link/data/ancientports/200,5> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/200,5_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
@@ -11726,7 +11739,7 @@ ap:204 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27992> .
 
 ap:2040 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:2040_geom ;
     skos:note "Mourtzas (2022)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/570623> ;
@@ -11772,7 +11785,7 @@ ap:2044 a ont:Harbour ;
 
 ap:2045 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:2045_geom ;
     skos:note "Kolaiti (2022)",
         "Rutishauser (2012)" ;
@@ -11990,7 +12003,7 @@ ap:2065 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
 ap:2066 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2066_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> ;
     wdt:P1958 <https://www.trismegistos.org/place/38026> ;
@@ -12202,7 +12215,7 @@ ap:2089 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/371253XOik> .
 
 <http://data.archaeology.link/data/ancientports/2089,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2089,1_geom> ;
     skos:note "Kolaiti (2020)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
@@ -12305,7 +12318,7 @@ ap:2098 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/372255AApo> .
 
 ap:2099 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:2099_geom ;
     skos:note "Marthari (2009)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/599857> ;
@@ -12548,7 +12561,7 @@ ap:2124 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/368245PKim> .
 
 <http://data.archaeology.link/data/ancientports/2124,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2124,1_geom> ;
     skos:note "Eleni Kolaiti (2022)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
@@ -12829,11 +12842,11 @@ ap:2156 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
 ap:2157 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
         ont:Shipshed,
         ont:Slipway,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:2157_geom ;
     skos:note "Bouras (2014)",
@@ -12846,8 +12859,8 @@ ap:2157 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/408247PTha> .
 
 ap:2158 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:2158_geom ;
     skos:note "Bouras (2014)",
@@ -12857,7 +12870,7 @@ ap:2158 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41114> .
 
 ap:2159 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2159_geom ;
     skos:note "Sintes (2003)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/501634> ;
@@ -13097,10 +13110,10 @@ ap:2187 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/391266BHSM> .
 
 ap:2188 a ont:Harbour,
+        ont:Lighthouse,
         ont:Shipshed,
         ont:Shipyard,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:2188_geom ;
     skos:note "Mauro (2022)",
         "Theodoulou (2008)" ;
@@ -13229,7 +13242,8 @@ ap:220 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/39628> .
 
 ap:2200 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:2200_geom ;
     skos:note "Theodoulou (2008)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/550851> ;
@@ -14360,7 +14374,7 @@ ap:2316 a ont:Harbour,
 
 ap:2317 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry ap:2317_geom ;
     skos:note "Bouras (2016)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/590030> ;
@@ -14370,10 +14384,10 @@ ap:2317 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/364282IRho> .
 
 ap:2318 a ont:Harbour,
+        ont:Lighthouse,
         ont:Shipshed,
         ont:Shipyard,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:2318_geom ;
     skos:note "Bouras (2016)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/590030> ;
@@ -14398,7 +14412,7 @@ ap:232 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/411-86WDur> .
 
 ap:2320 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry ap:2320_geom ;
     skos:note "Bouras (2016)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/590030> ;
@@ -14622,7 +14636,8 @@ ap:235 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q45> .
 
 ap:2350 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:2350_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
@@ -14805,7 +14820,8 @@ ap:2363 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/406268UKob> .
 
 ap:2364 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:2364_geom ;
     skos:note "Körpe (2015)",
         "Tsvetkova (2008)" ;
@@ -14868,7 +14884,7 @@ ap:237 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/40125> .
 
 ap:2370 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:2370_geom ;
     skos:note "Girella (2015)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/501438> ;
@@ -14930,7 +14946,7 @@ ap:2375 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/15982> .
 
 ap:2376 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2376_geom ;
     skos:note "Tsvetkova (2008)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/501609> ;
@@ -15179,7 +15195,8 @@ ap:2397 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/410286UAth> .
 
 <http://data.archaeology.link/data/ancientports/2397,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Warehouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/2397,1_geom> ;
     skos:note "Aydingün (2017)",
         "Aydingün (2022)",
@@ -15332,7 +15349,7 @@ ap:241 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q45> .
 
 ap:2410 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2410_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/523227> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -15563,7 +15580,7 @@ ap:2434 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:2435 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2435_geom ;
     skos:note "Külzer (2011)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/521090> ;
@@ -15576,7 +15593,7 @@ ap:2435 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:2436 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2436_geom ;
     skos:note "Dan (2013)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/521160> ;
@@ -15654,7 +15671,7 @@ ap:2439 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:244 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:244_geom ;
     skos:note "Bugalhao (2011)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/256272> ;
@@ -16493,7 +16510,7 @@ ap:2526 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27887> .
 
 ap:2527 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2527_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/229583> ;
     wdt:P17 <http://www.wikidata.org/entity/Q212> ;
@@ -16506,7 +16523,7 @@ ap:2528 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27969> .
 
 ap:2529 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2529_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/226800> ;
     wdt:P17 <http://www.wikidata.org/entity/Q212> ;
@@ -17891,8 +17908,8 @@ ap:2709 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27832> .
 
 ap:271 a ont:Harbour,
-        ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Shipyard ;
     dcterms:isReferencedBy "https://www.atlantis-scout.de/"^^xsd:anyURI ;
     geo:hasGeometry ap:271_geom ;
     wdt:P1584 <https://pleiades.stoa.org/places/845> ;
@@ -18715,7 +18732,7 @@ ap:2810 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:2811 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2811_geom ;
     skos:note "Saprykin (2017)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/844944> ;
@@ -18996,7 +19013,7 @@ ap:2847 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:2848 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2848_geom ;
     skos:note "Külzer (2011)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/521001> ;
@@ -19025,7 +19042,7 @@ ap:285 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/38455> .
 
 ap:2850 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://www.artnews.com/art-news/news/2300-year-old-apse-discovered-in-istanbuls-city-of-the-blind-1234593908/"^^xsd:anyURI ;
     geo:hasGeometry ap:2850_geom ;
     skos:note "Külzer (2011)" ;
@@ -19259,7 +19276,7 @@ ap:2876 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/57152> .
 
 ap:2877 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:2877_geom ;
     skos:note "Gündüz (2020)",
         "Koral (2018)" ;
@@ -19327,7 +19344,7 @@ ap:2881 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/55877> .
 
 ap:2882 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2882_geom ;
     skos:note "Gündüz (2015)",
         "Sahin (2011)" ;
@@ -19442,7 +19459,8 @@ ap:2890 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/52851> .
 
 ap:2891 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     dcterms:isReferencedBy "https://topostext.org/place/405279IArc"^^xsd:anyURI ;
     geo:hasGeometry ap:2891_geom ;
     skos:note "Blackman (2014)",
@@ -19464,7 +19482,8 @@ ap:2891 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:2892 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:2892_geom ;
     skos:note "Blackman (2014)",
         "Mauro (2022)",
@@ -19608,7 +19627,7 @@ ap:2908 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/403266UPer> .
 
 ap:2909 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:2909_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/501325> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -20086,7 +20105,8 @@ ap:296 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q45> .
 
 ap:2960 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:2960_geom ;
     skos:note "Cline (2011)",
         "Mourtzas (2022)",
@@ -20115,7 +20135,7 @@ ap:2960 a ont:Harbour,
 
 ap:2961 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "http://antiquatedantiquarian.blogspot.fr/2015/04/the-minoans-international-trade.html"^^xsd:anyURI ;
     geo:hasGeometry ap:2961_geom ;
     skos:note "Rutter (2004)",
@@ -20309,7 +20329,8 @@ ap:298 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q45> .
 
 ap:2980 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:2980_geom ;
     skos:note "Nadia Coutsinas (2022)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/589824> ;
@@ -20325,7 +20346,7 @@ ap:2980 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
 
 ap:2981 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "https://topostext.org/place/352263SDik"^^xsd:anyURI ;
     geo:hasGeometry ap:2981_geom ;
     skos:note "Bruins (2008)",
@@ -20409,7 +20430,7 @@ ap:2989 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/349257IChr> .
 
 ap:299 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:299_geom ;
     skos:note "Rodrigues (2004)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/256013> ;
@@ -20436,7 +20457,7 @@ ap:2990 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/349257IChr> .
 
 ap:2991 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:2991_geom ;
     skos:note "Theodopoulos (2019)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q41> .
@@ -20558,9 +20579,9 @@ ap:3001 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/350248UMat> .
 
 ap:3002 a ont:Harbour,
+        ont:Shipshed,
         ont:Slipway,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry ap:3002_geom ;
     skos:note "Loizou (2016)",
         "Mourtzas (2022)",
@@ -20822,7 +20843,7 @@ ap:3032 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q229> .
 
 ap:3033 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:3033_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/707532> ;
     wdt:P17 <http://www.wikidata.org/entity/Q229> ;
@@ -20861,7 +20882,7 @@ ap:3037 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/352339PSal> .
 
 <http://data.archaeology.link/data/ancientports/3037,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3037,1_geom> ;
     skos:note "Davies (2012)",
         "Davies (2016)",
@@ -21128,7 +21149,7 @@ ap:3062 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/346330CAet> .
 
 ap:3063 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "https://in-cyprus.com/akrotiri-dreamers-bay-underwater-survey-confirms-shipwreck-photos/"^^xsd:anyURI ;
     geo:hasGeometry ap:3063_geom ;
     skos:note "Blue (2018)",
@@ -21475,7 +21496,7 @@ ap:3098 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/356344PKar> .
 
 ap:3099 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "http://www.whatson-northcyprus.com/interest/dipkarpaz/aphendrika.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:3099_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q229> .
@@ -21507,7 +21528,7 @@ ap:3100 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/356344UOur> .
 
 ap:3101 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://topostext.org/place/400262WSka"^^xsd:anyURI ;
     geo:hasGeometry ap:3101_geom ;
     skos:note "Kayan (1995)",
@@ -21875,7 +21896,7 @@ ap:313 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/26238> .
 
 ap:3130 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:3130_geom ;
     skos:note "Feuser (2021)",
         "Pirson (2015)" ;
@@ -21895,8 +21916,9 @@ ap:3131 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/389269PPit> .
 
 ap:3132 a ont:Harbour,
+        ont:Shipshed,
         ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:3132_geom ;
     skos:note "Feuser (2021)",
         "Pirson (2014)",
@@ -21945,7 +21967,8 @@ ap:3136 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/388270PMyr> .
 
 ap:3137 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:3137_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/550506> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -22791,7 +22814,8 @@ ap:3218 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/370274PHal> .
 
 ap:3219 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:3219_geom ;
     skos:note "SDU (2017)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/600000> ;
@@ -22918,10 +22942,10 @@ ap:3233 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:3234 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
         ont:Shipyard,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:3234_geom ;
     skos:note "Mauro (2022)",
         "Sheppard Baird (2011)" ;
@@ -22932,7 +22956,7 @@ ap:3234 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/367274PKni> .
 
 ap:3235 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:3235_geom ;
     skos:note "Sheppard Baird (2011)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/599576> ;
@@ -23215,8 +23239,9 @@ ap:3262 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27741> .
 
 ap:3263 a ont:Harbour,
+        ont:Shipshed,
         ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "https://topostext.org/place/369286WKal"^^xsd:anyURI ;
     geo:hasGeometry ap:3263_geom ;
     skos:note "Arnaud (2008)",
@@ -23422,7 +23447,7 @@ ap:3280 a ont:Harbour,
 
 ap:3281 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry ap:3281_geom ;
     skos:note "Kizildag (2021)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/638956> ;
@@ -23500,8 +23525,9 @@ ap:3288 a ont:Harbour ;
 ap:3289 a ont:Harbour,
         ont:Lighthouse,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway,
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://topostext.org/place/363293WXan"^^xsd:anyURI ;
     geo:hasGeometry ap:3289_geom ;
     skos:note "Arnaud (2008)",
@@ -23514,7 +23540,7 @@ ap:3289 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/363293BPaL> .
 
 ap:329 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:329_geom ;
     skos:note "Alonso&Menanteau (2010)",
         "Caro Bellido (1985)" ;
@@ -23819,7 +23845,7 @@ ap:3323 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27803> .
 
 ap:3324 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:3324_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/639048> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -23849,10 +23875,10 @@ ap:3327 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/58982> .
 
 ap:3328 a ont:Harbour,
+        ont:Lighthouse,
         ont:Pila,
         ont:Quay,
-        ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Shipyard ;
     geo:hasGeometry ap:3328_geom ;
     skos:note "Knoblauch (1977)",
         "Öniz (2014)" ;
@@ -23999,7 +24025,8 @@ ap:3342 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/34274> .
 
 ap:3343 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:3343_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/648560> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -24087,7 +24114,8 @@ ap:3352 a ont:Harbour ;
 
 ap:3353 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:3353_geom ;
     skos:note "Korkmaz (2014)",
         "Levent Zoroglu's mosaïc" ;
@@ -24149,7 +24177,7 @@ ap:3360 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/362337UAph> .
 
 ap:3361 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:3361_geom ;
     skos:note "Aydingün (2018)",
         "Jones (2021)",
@@ -24219,7 +24247,7 @@ ap:3369 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/30320> .
 
 ap:337 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:337_geom ;
     skos:note "Bernal (2012)",
         "Saez (2021)" ;
@@ -24510,7 +24538,7 @@ ap:3391 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> .
 
 ap:3392 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:3392_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/658368> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -24625,7 +24653,7 @@ ap:34 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/50329> .
 
 ap:340 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry ap:340_geom ;
     skos:note "Saez (2021)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
@@ -24702,7 +24730,8 @@ ap:3405 a ont:Harbour,
 
 ap:3406 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:3406_geom ;
     skos:note "Chapot (1907)",
         "Pamir (2014)",
@@ -25375,6 +25404,7 @@ ap:3466 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/333352PTyr> .
 
 ap:3467 a ont:Harbour,
+        ont:Quay,
         "X?"^^xsd:string ;
     geo:hasGeometry ap:3467_geom ;
     skos:note "Carayon (2011)",
@@ -25387,6 +25417,7 @@ ap:3467 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/333352PTyr> .
 
 ap:3468 a ont:Harbour,
+        ont:Quay,
         "X?"^^xsd:string ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2020/06/25/tyre-lebanon/"^^xsd:anyURI ;
     geo:hasGeometry ap:3468_geom ;
@@ -25523,7 +25554,7 @@ ap:348 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/31248> .
 
 ap:3480 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:3480_geom ;
     skos:note "Artzy (2006)",
         "Vanschoonwinkel (2006)" ;
@@ -25657,7 +25688,7 @@ ap:3490 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/37424> .
 
 ap:3491 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:3491_geom ;
     skos:note "Raban (2009",
         "Raban (2009, p 21)",
@@ -25669,8 +25700,8 @@ ap:3491 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/325349UCae> .
 
 ap:3492 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:3492_geom ;
     skos:note "Raban (1996)",
         "Raban (200",
@@ -25685,8 +25716,9 @@ ap:3492 a ont:Harbour,
 <http://data.archaeology.link/data/ancientports/3492,1> a ont:Harbour,
         ont:Pila,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway,
+        ont:Warehouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3492,1_geom> ;
     skos:note "Flemming (1980)",
         "Hohlfelder (2007)",
@@ -25703,8 +25735,9 @@ ap:3492 a ont:Harbour,
         ont:Lighthouse,
         ont:Pila,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway,
+        ont:Warehouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3492,2_geom> ;
     skos:note "Flemming (1980)",
         "Hohlfelder (2007)",
@@ -26490,7 +26523,7 @@ ap:3581 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/239355UBer> .
 
 <http://data.archaeology.link/data/ancientports/3581,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/04/17/berenike-2/"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3581,1_geom> ;
     skos:note "Kotarba (2017)",
@@ -27491,7 +27524,7 @@ ap:3701 a ont:Harbour ;
     wdt:P17 "Gulf of Aqaba "^^xsd:string .
 
 ap:3702 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:3702_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/746819> ;
     wdt:P17 "Gulf of Aqaba "^^xsd:string ;
@@ -27881,7 +27914,7 @@ ap:3745 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q805> .
 
 ap:3746 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:3746_geom ;
     skos:note "Marcotte (2017)",
         "Schiettecatte (2008)",
@@ -28386,7 +28419,7 @@ ap:3804 a ont:Harbour ;
     wdt:P17 "Gulf"^^xsd:string .
 
 ap:3805 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:3805_geom ;
     wdt:P17 "Gulf"^^xsd:string .
 
@@ -30354,8 +30387,9 @@ ap:3934 a ont:Harbour,
         ont:Lighthouse,
         ont:Pila,
         ont:Quay,
+        ont:Shipshed,
         ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/alexandria/"^^xsd:anyURI,
         "https://livestream.com/oxuni/goddio/videos/227804296"^^xsd:anyURI ;
     geo:hasGeometry ap:3934_geom ;
@@ -30509,8 +30543,8 @@ ap:3941 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q79> .
 
 ap:3942 a ont:Harbour,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Slipway ;
     geo:hasGeometry ap:3942_geom ;
     skos:note "Gwiazda (2021)",
         "Khalil (2010)",
@@ -31151,7 +31185,8 @@ ap:4002 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/329216HPhy> .
 
 ap:4003 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/el-hanieh-ancient-anchorage/"^^xsd:anyURI ;
     geo:hasGeometry ap:4003_geom ;
     skos:note "Hesein (2014)",
@@ -31231,7 +31266,7 @@ ap:401 a ont:Harbour ;
 
 ap:4010 a ont:Harbour,
         ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:4010_geom ;
     skos:note "Boardman (1968)",
         "Laronde (1992)",
@@ -31443,7 +31478,8 @@ ap:404 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22236> .
 
 ap:4040 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:4040_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/363948> ;
     wdt:P17 <http://www.wikidata.org/entity/Q1016> ;
@@ -31816,8 +31852,8 @@ ap:4087 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/23628> .
 
 ap:4088 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:4088_geom ;
     skos:note "Flemming (2021)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/344282> ;
@@ -31921,7 +31957,7 @@ ap:4099 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/35458> .
 
 <http://data.archaeology.link/data/ancientports/4099,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4099,1_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q948> .
 
@@ -32166,7 +32202,7 @@ ap:4126 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q948> .
 
 ap:4127 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:4127_geom ;
     skos:note "Paskoff (1991)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/324772> ;
@@ -32207,8 +32243,8 @@ ap:413 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/33205> .
 
 ap:4130 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:4130_geom ;
     skos:note "Paskoff (1991)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/963100992> ;
@@ -32241,7 +32277,7 @@ ap:4133 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/351110UAch> .
 
 ap:4134 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:4134_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/324758> ;
     wdt:P17 <http://www.wikidata.org/entity/Q948> ;
@@ -32274,6 +32310,7 @@ ap:4136 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32502> .
 
 ap:4137 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
         "X?"^^xsd:string ;
     geo:hasGeometry ap:4137_geom ;
@@ -32287,7 +32324,7 @@ ap:4137 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/356110UTha> .
 
 ap:4138 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:4138_geom ;
     skos:note "Younes (1997)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/324827> ;
@@ -32353,8 +32390,8 @@ ap:4143 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/358106UHad> .
 
 ap:4144 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:4144_geom ;
     skos:note "Al-Sabil (2016)",
         "Trousset (2000)" ;
@@ -32509,8 +32546,8 @@ ap:4161 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28047> .
 
 ap:4162 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:4162_geom ;
     skos:note "Trabelsi (2019)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q948> .
@@ -32549,7 +32586,7 @@ ap:4166 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/37210> .
 
 ap:4167 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:4167_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/315165> ;
     wdt:P17 <http://www.wikidata.org/entity/Q948> ;
@@ -32615,11 +32652,11 @@ ap:4174 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/368102UTun> .
 
 ap:4175 a ont:Harbour,
+        ont:Lighthouse,
         ont:Pila,
         ont:Quay,
         ont:Shipshed,
-        ont:Slipway,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:4175_geom ;
     skos:note "Flemming (1980)",
@@ -32653,6 +32690,7 @@ ap:4176 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/23800> .
 
 <http://data.archaeology.link/data/ancientports/4176,1> a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
         ont:Shipyard,
         "X?"^^xsd:string ;
@@ -32838,7 +32876,7 @@ ap:4195 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28142> .
 
 ap:4196 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:4196_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/315166> ;
     wdt:P17 <http://www.wikidata.org/entity/Q948> ;
@@ -32974,7 +33012,7 @@ ap:4210 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/369069URus> .
 
 ap:4211 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:4211_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/305032> ;
     wdt:P17 <http://www.wikidata.org/entity/Q262> ;
@@ -33433,7 +33471,7 @@ ap:4255 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27049> .
 
 ap:4256 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:4256_geom ;
     skos:note "Boussadia (2014)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/297472> ;
@@ -33616,6 +33654,7 @@ ap:428 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/411013UTar> .
 
 <http://data.archaeology.link/data/ancientports/428,1> a ont:Harbour,
+        ont:Lighthouse,
         "X?"^^xsd:string ;
     dcterms:isReferencedBy "https://www.romanports.org/en/articles/ports-in-focus/645-tarragona.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/428,1_geom> ;
@@ -34226,8 +34265,8 @@ ap:447 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
 ap:448 a ont:Harbour,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Warehouse ;
     geo:hasGeometry ap:448_geom ;
     skos:note "Bony (2011)",
         "Castanyer (2021)",
@@ -34303,7 +34342,8 @@ ap:453 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/38494> .
 
 ap:454 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:454_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/265998> ;
     wdt:P17 <http://www.wikidata.org/entity/Q8828> ;
@@ -34548,7 +34588,7 @@ ap:489 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q29> .
 
 ap:49 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1005914"^^xsd:anyURI ;
     geo:hasGeometry ap:49_geom ;
     wdt:P1584 <https://pleiades.stoa.org/places/89288> ;
@@ -34775,7 +34815,7 @@ ap:509 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 ap:51 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:51_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/89202> ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> ;
@@ -34851,7 +34891,7 @@ ap:519 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/18758> .
 
 ap:52 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1016537"^^xsd:anyURI ;
     geo:hasGeometry ap:52_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/89194> ;
@@ -35021,7 +35061,7 @@ ap:539 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/15048> .
 
 ap:54 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:54_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/89277> ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> ;
@@ -35099,7 +35139,7 @@ ap:549 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/39093> .
 
 ap:55 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1011374"^^xsd:anyURI ;
     geo:hasGeometry ap:55_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/89285> ;
@@ -35183,7 +35223,7 @@ ap:559 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 ap:56 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:56_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/89185> ;
     wdt:P17 <http://www.wikidata.org/entity/Q145> ;
@@ -35477,8 +35517,8 @@ ap:589 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 ap:59 a ont:Harbour,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:VillaMaritima ;
     dcterms:isReferencedBy "http://www.ferribyboats.co.uk/"^^xsd:anyURI,
         "https://historicengland.org.uk/listing/the-list/list-entry/1005219"^^xsd:anyURI ;
     geo:hasGeometry ap:59_geom ;
@@ -35949,9 +35989,9 @@ ap:620 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/14179> .
 
 ap:621 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://www.francetvpro.fr/contenu-de-presse/5406676"^^xsd:anyURI ;
     geo:hasGeometry ap:621_geom ;
     skos:note "Carayon (2018)",
@@ -35996,7 +36036,7 @@ ap:624 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 ap:625 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:625_geom ;
     skos:note "Grenier (1934)",
         "Sanchez (2014",
@@ -36007,7 +36047,7 @@ ap:625 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/17489> .
 
 ap:626 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:626_geom ;
     skos:note "Duperron (2015)",
         "Falguera (2000)",
@@ -36022,7 +36062,7 @@ ap:627 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 <http://data.archaeology.link/data/ancientports/627,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/627,1_geom> ;
     skos:note "Falguera (2000)",
         "Sanchez (2014",
@@ -36295,7 +36335,7 @@ ap:650 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/14041> .
 
 ap:651 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:651_geom ;
     skos:note "Marty (2017)",
         "Marty (2019)" ;
@@ -36313,7 +36353,11 @@ ap:652 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/21379> .
 
 ap:653 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:Shipshed,
+        ont:Shipyard,
+        ont:Slipway,
+        ont:Warehouse ;
     dcterms:isReferencedBy "http://www.arkaeos.fr/?digue-de-la-marronede-golfe-de-fos"^^xsd:anyURI ;
     geo:hasGeometry ap:653_geom ;
     skos:note "Fontaine (2016)",
@@ -36403,8 +36447,8 @@ ap:660 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/14038> .
 
 ap:661 a ont:Harbour,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:VillaMaritima ;
     geo:hasGeometry ap:661_geom ;
     skos:note "Franca Cibecchini (2022)",
         "Moerman (1994)",
@@ -36611,7 +36655,7 @@ ap:682 a ont:Harbour,
     wdt:P1958 <https://www.trismegistos.org/place/21742> .
 
 ap:683 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "https://fr.wikipedia.org/wiki/Salins_d%27Hy%C3%A8res"^^xsd:anyURI ;
     geo:hasGeometry ap:683_geom ;
     skos:note "Bats (2006)",
@@ -36758,8 +36802,9 @@ ap:703 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 <http://data.archaeology.link/data/ancientports/703,1> a ont:Harbour,
+        ont:Shipyard,
         ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/703,1_geom> ;
     skos:note "Bertoncello (2011)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
@@ -36786,7 +36831,7 @@ ap:705 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 ap:706 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry ap:706_geom ;
     wdt:P1584 <https://pleiades.stoa.org/places/157814> ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> ;
@@ -36813,7 +36858,7 @@ ap:709 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q142> .
 
 ap:71 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "https://historicengland.org.uk/listing/the-list/list-entry/1110942"^^xsd:anyURI ;
     geo:hasGeometry ap:71_geom ;
     skos:note "Wilmott (2018)" ;
@@ -36978,7 +37023,8 @@ ap:729 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/31231> .
 
 ap:73 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:73_geom ;
     skos:note "Milne (1985)",
         "Milne (2005)",
@@ -37214,8 +37260,8 @@ ap:752 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/402920ISar> .
 
 ap:753 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:753_geom ;
     skos:note "Nervi (2014)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/471987> ;
@@ -37266,7 +37312,7 @@ ap:758 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/36277> .
 
 ap:759 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:759_geom ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
@@ -37310,7 +37356,7 @@ ap:764 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/35719> .
 
 ap:765 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:765_geom ;
     skos:note "Nervi (2014)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/471899> ;
@@ -37353,7 +37399,7 @@ ap:767 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/390090UNor> .
 
 ap:768 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:768_geom ;
     skos:note "Auriemma (2009)",
         "Bonetto (2021)",
@@ -37452,7 +37498,7 @@ ap:779 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41297> .
 
 ap:78 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:78_geom ;
     skos:note "Walsh (2017)",
         "Wilmott (2018)" ;
@@ -37524,7 +37570,7 @@ ap:786 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:787 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:787_geom ;
     skos:note "Mureddu (2022)",
         "Pascucci (2018)",
@@ -37536,7 +37582,7 @@ ap:787 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/399084UTar> .
 
 <http://data.archaeology.link/data/ancientports/787,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/787,1_geom> ;
     skos:note "Spanu (2011)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/472032> ;
@@ -37672,8 +37718,8 @@ ap:799 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/30260> .
 
 ap:8 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     dcterms:isReferencedBy "https://vici.org/vici/57/"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:8_geom ;
@@ -37829,7 +37875,7 @@ ap:817 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/17378> .
 
 ap:818 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:818_geom ;
     skos:note "Martino (2021)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/157803> ;
@@ -37897,7 +37943,9 @@ ap:825 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/44323> .
 
 ap:826 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Shipyard,
+        ont:Slipway ;
     geo:hasGeometry ap:826_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/383551> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> ;
@@ -38175,7 +38223,7 @@ ap:852 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22570> .
 
 ap:853 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry ap:853_geom ;
     skos:note "Allinne (2014)",
         "Kaniewski (2018)",
@@ -38184,8 +38232,8 @@ ap:853 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:854 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Quay ;
     geo:hasGeometry ap:854_geom ;
     skos:note "Allinne (2014)",
         "DeFer (1705)",
@@ -38487,7 +38535,7 @@ ap:888 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:889 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:889_geom ;
     skos:note "Rendini (2008)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/403182> ;
@@ -38529,7 +38577,7 @@ ap:891 a ont:Harbour,
         ont:Pila,
         ont:Quay,
         ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry ap:891_geom ;
     skos:note "Camilli (2005)",
         "Felici (1997)",
@@ -38606,7 +38654,7 @@ ap:899 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:9 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://maritime-heritage.com/articles/wrecks-waterways"^^xsd:anyURI,
         "https://vici.org/vici/58/"^^xsd:anyURI ;
     geo:hasGeometry ap:9_geom ;
@@ -38718,7 +38766,7 @@ ap:906 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/410120UPyr> .
 
 <http://data.archaeology.link/data/ancientports/906,1> a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/906,1_geom> ;
     skos:note "Daum (2018)",
         "Enei (2017)",
@@ -38801,9 +38849,11 @@ ap:913 a ont:Harbour,
     wdt:P1958 <https://www.trismegistos.org/place/30631> .
 
 ap:914 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway,
+        ont:Warehouse ;
     dcterms:isReferencedBy "http://www.ancientportsantiques.com/a-few-ports/portus/"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:914_geom ;
@@ -38913,8 +38963,9 @@ ap:926 a ont:Harbour,
 
 ap:927 a ont:Harbour,
         ont:Quay,
-        ont:Warehouse,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway,
+        ont:Warehouse ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Horrea_Galbae"^^xsd:anyURI,
         "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:927_geom ;
@@ -38946,7 +38997,8 @@ ap:93 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/507000IVec> .
 
 ap:930 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:930_geom ;
     skos:note "Keay (2012)" ;
@@ -38954,8 +39006,9 @@ ap:930 a ont:Harbour,
 
 ap:931 a ont:Harbour,
         ont:Quay,
+        ont:Shipshed,
         ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Slipway ;
     geo:hasGeometry ap:931_geom ;
     skos:note "Keay (2012)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/423025> ;
@@ -39097,7 +39150,8 @@ ap:945 a ont:Harbour ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/26600> .
 
 ap:946 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:946_geom ;
     skos:note "Attema (2010)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/422985> ;
@@ -39125,8 +39179,8 @@ ap:948 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:949 a ont:Harbour,
-        ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Pila ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:949_geom ;
     skos:note "Attema (2010)",
@@ -39169,9 +39223,9 @@ ap:952 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/35108> .
 
 ap:953 a ont:Harbour,
+        ont:Lighthouse,
         ont:Pila,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry ap:953_geom ;
     skos:note "Daum (2018)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/432783> ;
@@ -39224,9 +39278,9 @@ ap:957 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/409130IPon> .
 
 ap:958 a ont:Harbour,
+        ont:Lighthouse,
         ont:Quay,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:958_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/433011> ;
@@ -39237,7 +39291,7 @@ ap:958 a ont:Harbour,
 
 <http://data.archaeology.link/data/ancientports/958,1> a ont:Harbour,
         ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Warehouse ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/958,1_geom> ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
@@ -39259,7 +39313,7 @@ ap:96 a ont:Harbour,
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25698> .
 
 ap:960 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     geo:hasGeometry ap:960_geom ;
     skos:note "Pesando (2016)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/433127> ;
@@ -39302,8 +39356,8 @@ ap:962 a ont:Harbour ;
 
 <http://data.archaeology.link/data/ancientports/962,1> a ont:Harbour,
         ont:Pila,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/962,1_geom> ;
     skos:note "Stefanile (2022)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
@@ -39447,7 +39501,9 @@ ap:974 a ont:Harbour ;
     wdt:P8068 <https://topostext.org/place/409140ULit> .
 
 ap:975 a ont:Harbour,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Shipshed,
+        ont:Slipway ;
     geo:hasGeometry ap:975_geom ;
     skos:note "Poupet (2005)",
         "Vecchi (2000)" ;
@@ -39568,8 +39624,8 @@ ap:980 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/408141HMis> .
 
 ap:981 a ont:Harbour,
-        ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Pila ;
     geo:hasGeometry ap:981_geom ;
     skos:note "Caporizzo (2022)",
         "Gianfrotta (1996)" ;
@@ -39579,8 +39635,8 @@ ap:981 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/408141HMis> .
 
 ap:982 a ont:Harbour,
-        ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Pila ;
     geo:hasGeometry ap:982_geom ;
     skos:note "Gianfrotta (1996)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/432941> ;
@@ -39630,9 +39686,9 @@ ap:985 a ont:Harbour,
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
 
 ap:986 a ont:Harbour,
+        ont:Lighthouse,
         ont:Pila,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry ap:986_geom ;
     skos:note "Brandon (2008)",
         "Caporizzo (2022)",
@@ -39645,8 +39701,8 @@ ap:986 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/408141PBai> .
 
 ap:987 a ont:Harbour,
-        ont:Pila,
-        "X?"^^xsd:string ;
+        ont:Lighthouse,
+        ont:Pila ;
     dcterms:isReferencedBy "https://www2.rgzm.de/navis2/home/frames.htm"^^xsd:anyURI ;
     geo:hasGeometry ap:987_geom ;
     skos:note "Brandon (2008)",
@@ -39764,8 +39820,8 @@ ap:994 a ont:Harbour,
 
 <http://data.archaeology.link/data/ancientports/994,1> a ont:Harbour,
         ont:Pila,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:Quay,
+        ont:VillaMaritima ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/994,1_geom> ;
     skos:note "Aucelli (2017)" ;
     wdt:P17 <http://www.wikidata.org/entity/Q38> .
@@ -66930,13 +66986,9 @@ ont:Pila rdfs:label "X"@en .
 
 <http://www.wikidata.org/entity/Q55> rdfs:label "Netherlands"@en .
 
-ont:Shipshed rdfs:label "X"@en .
-
 <http://www.wikidata.org/entity/Q801> rdfs:label "Israel"@en .
 
 <http://www.wikidata.org/entity/Q218> rdfs:label "Romania Black S."@en .
-
-ont:Shipyard rdfs:label "X"@en .
 
 <http://www.wikidata.org/entity/Q668> rdfs:label "India"@en .
 
@@ -66944,22 +66996,25 @@ ont:Shipyard rdfs:label "X"@en .
 
 <http://www.wikidata.org/entity/Q822> rdfs:label "Lebanon"@en .
 
-<http://www.wikidata.org/entity/Q219> rdfs:label "Bulgaria Black S."@en .
+ont:Shipyard rdfs:label "X"@en,
+        "X?"@en .
 
-ont:Warehouse rdfs:label "X"@en .
+<http://www.wikidata.org/entity/Q219> rdfs:label "Bulgaria Black S."@en .
 
 <http://www.wikidata.org/entity/Q159> rdfs:label "Russia"@en,
         "Russia Black S."@en .
 
-ont:Lighthouse rdfs:label "X"@en .
-
 <http://www.wikidata.org/entity/Q1028> rdfs:label "Morocco"@en .
+
+ont:Warehouse rdfs:label "X"@en,
+        "X?"@en .
 
 <http://www.wikidata.org/entity/Q229> rdfs:label "Cyprus"@en .
 
-<http://www.wikidata.org/entity/Q45> rdfs:label "Portugal"@en .
+ont:Shipshed rdfs:label "X"@en,
+        "X?"@en .
 
-ont:Slipway rdfs:label "X"@en .
+<http://www.wikidata.org/entity/Q45> rdfs:label "Portugal"@en .
 
 <http://www.wikidata.org/entity/Q262> rdfs:label "Algeria"@en .
 
@@ -66968,6 +67023,12 @@ ont:Slipway rdfs:label "X"@en .
 <http://www.wikidata.org/entity/Q212> rdfs:label "Ukraine Black S."@en .
 
 <http://www.wikidata.org/entity/Q1016> rdfs:label "Libya"@en .
+
+ont:Slipway rdfs:label "X"@en,
+        "X?"@en .
+
+ont:Lighthouse rdfs:label "X"@en,
+        "X?"@en .
 
 <http://www.wikidata.org/entity/Q224> rdfs:label "Croatia"@en .
 
@@ -66985,15 +67046,17 @@ ont:Slipway rdfs:label "X"@en .
         "Spain South"@en,
         "Spain: Canaria"@en .
 
-ont:Quay rdfs:label "X"@en .
-
 <http://www.wikidata.org/entity/Q142> rdfs:label "France Corsica"@en,
         "France South"@en,
         "France West"@en .
 
 <http://www.wikidata.org/entity/Q145> rdfs:label "UK"@en .
 
-ont:VillaMaritima rdfs:label "X"@en .
+ont:Quay rdfs:label "X"@en,
+        "X?"@en .
+
+ont:VillaMaritima rdfs:label "X"@en,
+        "X?"@en .
 
 <http://www.wikidata.org/entity/Q38> rdfs:label "Italy Adriatic"@en,
         "Italy Lampedusa"@en,
