@@ -34,6 +34,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with: 
         version: v018
+        pythonversion: 3.14
         rdffilepath: ap_result.ttl
         docpath: docs
         prefixns: http://data.archaeology.link/data/ancientports/
