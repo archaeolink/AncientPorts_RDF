@@ -5,8 +5,11 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.opengis.net/ont/crs/> .
+@prefix om: <http://www.ontology-of-units-of-measure.org/resource/om-2/> .
 @prefix ont: <http://www.ancientports.com/ont#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sf: <http://www.opengis.net/ont/sf#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
@@ -17,7 +20,6 @@ ap:1 a ont:Harbour ;
     geo:hasGeometry ap:1_geom ;
     skos:note "Journes (2000)" ;
     wdt:P1584 <https://pleiades.stoa.org/places/20624> ;
-    wdt:P17 "Iceland?"^^xsd:string ;
     wdt:P1958 <https://www.trismegistos.org/place/19731> ;
     wdt:P8068 <https://topostext.org/place/000000UThu> .
 
@@ -121,8 +123,7 @@ ap:1003 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/407145USta> .
 
 ap:1004 a ont:Harbour,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry ap:1004_geom ;
     skos:note "Aucelli (2016)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/432649> ;
@@ -13468,8 +13469,7 @@ ap:2226 a ont:Harbour,
 
 ap:2227 a ont:Harbour,
         ont:Quay,
-        ont:VillaMaritima,
-        "X?"^^xsd:string ;
+        ont:VillaMaritima ;
     geo:hasGeometry ap:2227_geom ;
     skos:note "Ginalis (2018b)",
         "Ginalis (2021)" ;
@@ -17728,13 +17728,11 @@ ap:2687 a ont:Harbour ;
 ap:2688 a ont:Harbour ;
     geo:hasGeometry ap:2688_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857007> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/21068> .
 
 ap:2689 a ont:Harbour ;
     geo:hasGeometry ap:2689_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857334> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/34181> .
 
 ap:269 a ont:Harbour ;
@@ -17747,61 +17745,51 @@ ap:269 a ont:Harbour ;
 ap:2690 a ont:Harbour ;
     geo:hasGeometry ap:2690_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857283> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/21794> ;
     wdt:P8068 <https://topostext.org/place/432403UPit> .
 
 ap:2691 a ont:Harbour ;
     geo:hasGeometry ap:2691_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857213> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/29572> .
 
 ap:2692 a ont:Harbour ;
     geo:hasGeometry ap:2692_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857358> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41088> .
 
 ap:2693 a ont:Harbour ;
     geo:hasGeometry ap:2693_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857142> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/29557> .
 
 ap:2694 a ont:Harbour ;
     geo:hasGeometry ap:2694_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857201> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/29569> .
 
 ap:2695 a ont:Harbour ;
     geo:hasGeometry ap:2695_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857107> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22021> ;
     wdt:P1958 <https://www.trismegistos.org/place/16538> ;
     wdt:P8068 <https://topostext.org/place/430410UDio> .
 
 ap:2696 a ont:Harbour ;
-    geo:hasGeometry ap:2696_geom ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string .
+    geo:hasGeometry ap:2696_geom .
 
 ap:2697 a ont:Harbour ;
     geo:hasGeometry ap:2697_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857049> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/21067> .
 
 ap:2698 a ont:Harbour ;
     geo:hasGeometry ap:2698_geom ;
-    wdt:P1584 <http://pleiades.stoa.org/places/857163> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/857163> .
 
 ap:2699 a ont:Harbour ;
     geo:hasGeometry ap:2699_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857143> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25182> .
 
 ap:27 a ont:Harbour ;
@@ -17822,20 +17810,17 @@ ap:270 a ont:Harbour ;
 ap:2700 a ont:Harbour ;
     geo:hasGeometry ap:2700_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857170> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/34388> .
 
 ap:2701 a ont:Harbour ;
     geo:hasGeometry ap:2701_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/857385> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/34184> .
 
 ap:2702 a ont:Harbour ;
     geo:hasGeometry ap:2702_geom ;
     skos:note "Kvirkvelia (2005)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/857280> ;
-    wdt:P17 "Abkhazia Black S."^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27831> .
 
 ap:2703 a ont:Harbour ;
@@ -18897,8 +18882,7 @@ ap:2831 a ont:Harbour ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/31458> .
 
-ap:2832 a ont:Harbour,
-        "X?"^^xsd:string ;
+ap:2832 a ont:Harbour ;
     geo:hasGeometry ap:2832_geom ;
     wdt:P1584 <https://pleiades.stoa.org/places/521046> ;
     wdt:P17 <http://www.wikidata.org/entity/Q43> ;
@@ -25404,8 +25388,7 @@ ap:3466 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/333352PTyr> .
 
 ap:3467 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:3467_geom ;
     skos:note "Carayon (2011)",
         "Carayon (2012)",
@@ -25417,8 +25400,7 @@ ap:3467 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/333352PTyr> .
 
 ap:3468 a ont:Harbour,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     dcterms:isReferencedBy "https://honorfrostfoundation.org/2020/06/25/tyre-lebanon/"^^xsd:anyURI ;
     geo:hasGeometry ap:3468_geom ;
     skos:note "Carayon (2011)",
@@ -27484,12 +27466,10 @@ ap:3698 a ont:Harbour ;
         "Nappo (2015)",
         "Pereira (1899",
         "Pereira (1899, p 65)" ;
-    wdt:P1584 <https://pleiades.stoa.org/places/746747> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/746747> .
 
 ap:3699 a ont:Harbour ;
-    geo:hasGeometry ap:3699_geom ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string .
+    geo:hasGeometry ap:3699_geom .
 
 ap:37 a ont:Harbour,
         ont:VillaMaritima ;
@@ -27516,49 +27496,41 @@ ap:370 a ont:Harbour ;
 ap:3700 a ont:Harbour ;
     geo:hasGeometry ap:3700_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/746777> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28680> .
 
 ap:3701 a ont:Harbour ;
-    geo:hasGeometry ap:3701_geom ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string .
+    geo:hasGeometry ap:3701_geom .
 
 ap:3702 a ont:Harbour,
         ont:Lighthouse ;
     geo:hasGeometry ap:3702_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/746819> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28685> .
 
 ap:3703 a ont:Harbour ;
     geo:hasGeometry ap:3703_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/746818> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28684> .
 
 ap:3704 a ont:Harbour ;
     geo:hasGeometry ap:3704_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/746788> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28681> .
 
 ap:3705 a ont:Harbour ;
     geo:hasGeometry ap:3705_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/746709> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28664> .
 
 ap:3706 a ont:Harbour ;
-    geo:hasGeometry ap:3706_geom ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string .
+    geo:hasGeometry ap:3706_geom .
 
 ap:3707 a ont:Harbour,
         ont:Quay ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Ezion-Geber"^^xsd:anyURI ;
     geo:hasGeometry ap:3707_geom ;
     skos:note "Flinder (1989)" ;
-    wdt:P1584 <https://pleiades.stoa.org/places/746700/gazirat-fir2bfaun> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/746700/gazirat-fir2bfaun> .
 
 <http://data.archaeology.link/data/ancientports/3707,1> a ont:Harbour ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Ezion-Geber"^^xsd:anyURI ;
@@ -27566,7 +27538,6 @@ ap:3707 a ont:Harbour,
     skos:note "Finkelstein (2014)",
         "Pratico (1985)" ;
     wdt:P1584 <https://pleiades.stoa.org/places/746754> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/28668> .
 
 ap:3708 a ont:Harbour ;
@@ -27575,15 +27546,13 @@ ap:3708 a ont:Harbour ;
         "Parker (1997)",
         "Parker (2014)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/746700> ;
-    wdt:P17 "Gulf of Aqaba "^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/21749> ;
     wdt:P1958 <https://www.trismegistos.org/place/8852> ;
     wdt:P8068 <https://topostext.org/place/295350UAil> .
 
 ap:3709 a ont:Harbour ;
     geo:hasGeometry ap:3709_geom ;
-    skos:note "Torres (2015)" ;
-    wdt:P17 "Mozambic"^^xsd:string .
+    skos:note "Torres (2015)" .
 
 ap:371 a ont:Harbour ;
     dcterms:isReferencedBy "http://www.ideal.es/almeria/v/20100307/poniente/vuelta-mundo-cerro-montecristo-20100307.html"^^xsd:anyURI ;
@@ -27853,20 +27822,16 @@ ap:3735 a ont:Harbour ;
     wdt:P1958 <https://www.trismegistos.org/place/8273> .
 
 ap:3736 a ont:Harbour ;
-    geo:hasGeometry ap:3736_geom ;
-    wdt:P17 "Djibouti Ind Oc."^^xsd:string .
+    geo:hasGeometry ap:3736_geom .
 
 ap:3737 a ont:Harbour ;
-    geo:hasGeometry ap:3737_geom ;
-    wdt:P17 "Djibouti Ind Oc."^^xsd:string .
+    geo:hasGeometry ap:3737_geom .
 
 <http://data.archaeology.link/data/ancientports/3737,1> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3737,1_geom> ;
-    wdt:P17 "Djibouti Ind Oc."^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3737,1_geom> .
 
 ap:3738 a ont:Harbour ;
-    geo:hasGeometry ap:3738_geom ;
-    wdt:P17 "Djibouti Ind Oc."^^xsd:string .
+    geo:hasGeometry ap:3738_geom .
 
 ap:3739 a ont:Harbour ;
     geo:hasGeometry ap:3739_geom ;
@@ -28130,28 +28095,23 @@ ap:3773 a ont:Harbour ;
 ap:3774 a ont:Harbour ;
     geo:hasGeometry ap:3774_geom ;
     skos:note "Potts (2001)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/932450> ;
-    wdt:P17 "Fujairah"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/932450> .
 
 ap:3775 a ont:Harbour ;
-    geo:hasGeometry ap:3775_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3775_geom .
 
 ap:3776 a ont:Harbour ;
     geo:hasGeometry ap:3776_geom ;
     skos:note "Marcotte (2017)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/932470> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41012> .
 
 ap:3777 a ont:Harbour ;
-    geo:hasGeometry ap:3777_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3777_geom .
 
 ap:3778 a ont:Harbour ;
     geo:hasGeometry ap:3778_geom ;
-    skos:note "Priestman (2013)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Priestman (2013)" .
 
 ap:3779 a ont:Harbour ;
     geo:hasGeometry ap:3779_geom ;
@@ -28161,14 +28121,12 @@ ap:3779 a ont:Harbour ;
         "Potts (2001)",
         "Salles (TOPOI 2012)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/932474> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25239> .
 
 <http://data.archaeology.link/data/ancientports/3779,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3779,1_geom> ;
     skos:note "Lawler (2010)",
-        "Potts (2000)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Potts (2000)" .
 
 ap:378 a ont:Harbour ;
     geo:hasGeometry ap:378_geom ;
@@ -28177,45 +28135,38 @@ ap:378 a ont:Harbour ;
 ap:3780 a ont:Harbour ;
     geo:hasGeometry ap:3780_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/29617> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27102> .
 
 ap:3781 a ont:Harbour ;
     geo:hasGeometry ap:3781_geom ;
     skos:note "Bhacker (1997)",
-        "Potts (2001)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Potts (2001)" .
 
 <http://data.archaeology.link/data/ancientports/3781,1> a ont:Harbour ;
     dcterms:isReferencedBy "http://www.adias-uae.com/marawah.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3781,1_geom> ;
-    skos:note "Beech (2016)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Beech (2016)" .
 
 <http://data.archaeology.link/data/ancientports/3781,2> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3781,2_geom> ;
-    skos:note "Beech (2016)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Beech (2016)" .
 
 ap:3782 a ont:Harbour ;
     geo:hasGeometry ap:3782_geom ;
     skos:note "Potts (2009)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/932481> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/932481> .
 
 ap:3783 a ont:Harbour ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
     geo:hasGeometry ap:3783_geom ;
     skos:note "Bukharin (2012)",
-        "Robin (2013)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Robin (2013)" .
 
 ap:3784 a ont:Harbour ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Gerrha"^^xsd:anyURI ;
     geo:hasGeometry ap:3784_geom ;
     skos:note "Potts (2001)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/932483> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25240> ;
     wdt:P1958 <https://www.trismegistos.org/place/52866> .
 
@@ -28226,54 +28177,45 @@ ap:3785 a ont:Harbour ;
         "Radner (2010)",
         "Rausch (2010)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/932432> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41326> ;
     wdt:P1958 <https://www.trismegistos.org/place/37164> ;
     wdt:P8068 <https://topostext.org/place/262505ITyl> .
 
 <http://data.archaeology.link/data/ancientports/3785,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3785,1_geom> ;
-    skos:note "Priestman (2013)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Priestman (2013)" .
 
 <http://data.archaeology.link/data/ancientports/3785,2> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3785,2_geom> ;
-    skos:note "Potts (2009)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2009)" .
 
 <http://data.archaeology.link/data/ancientports/3785,3> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3785,3_geom> ;
-    skos:note "Potts (2009)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2009)" .
 
 <http://data.archaeology.link/data/ancientports/3785,4> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3785,4_geom> ;
-    skos:note "Insoll (2021)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Insoll (2021)" .
 
 ap:3786 a ont:Harbour ;
     geo:hasGeometry ap:3786_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/932431> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32901> .
 
 ap:3787 a ont:Harbour ;
     geo:hasGeometry ap:3787_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/932447> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32903> .
 
 ap:3788 a ont:Harbour ;
     geo:hasGeometry ap:3788_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/932448> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32904> .
 
 ap:3789 a ont:Harbour ;
     geo:hasGeometry ap:3789_geom ;
     skos:note "Potts (1999)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/932479> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32910> .
 
 ap:379 a ont:Harbour ;
@@ -28294,32 +28236,26 @@ ap:3790 a ont:Harbour ;
     geo:hasGeometry ap:3790_geom ;
     skos:note "Potts (2001)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/932428> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32899> .
 
 ap:3791 a ont:Harbour ;
-    geo:hasGeometry ap:3791_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3791_geom .
 
 ap:3792 a ont:Harbour ;
     geo:hasGeometry ap:3792_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/932461> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/32907> .
 
 <http://data.archaeology.link/data/ancientports/3792,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3792,1_geom> ;
-    wdt:P1584 <https://pleiades.stoa.org/places/933946> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/933946> .
 
 <http://data.archaeology.link/data/ancientports/3792,2> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3792,2_geom> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3792,2_geom> .
 
 ap:3793 a ont:Harbour ;
     geo:hasGeometry ap:3793_geom ;
-    skos:note "Connan (2005)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Connan (2005)" .
 
 ap:3794 a ont:Harbour ;
     dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/03/26/failaka-archaeological-survey/"^^xsd:anyURI ;
@@ -28328,7 +28264,6 @@ ap:3794 a ont:Harbour ;
         "Parpas (2014)",
         "Pawlicki (2015)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912851> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27148> ;
     wdt:P1958 <https://www.trismegistos.org/place/37188> ;
     wdt:P8068 <https://topostext.org/place/294483IIka> .
@@ -28336,37 +28271,31 @@ ap:3794 a ont:Harbour ;
 ap:3795 a ont:Harbour ;
     geo:hasGeometry ap:3795_geom ;
     skos:note "Parpas (2014)",
-        "Pawlicki (2015)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Pawlicki (2015)" .
 
 <http://data.archaeology.link/data/ancientports/3795,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3795,1_geom> ;
     skos:note "Parpas (2014)",
-        "Pawlicki (2015)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Pawlicki (2015)" .
 
 ap:3796 a ont:Harbour ;
     geo:hasGeometry ap:3796_geom ;
-    skos:note "Potts (2001) citing Groom (1994)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2001) citing Groom (1994)" .
 
 ap:3797 a ont:Harbour ;
     geo:hasGeometry ap:3797_geom ;
     skos:note "Connan (2007)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912798> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27137> .
 
 ap:3798 a ont:Harbour ;
     geo:hasGeometry ap:3798_geom ;
-    skos:note "Connan (2007)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Connan (2007)" .
 
 ap:3799 a ont:Harbour ;
     dcterms:isReferencedBy "https://pcma.uw.edu.pl/en/2019/04/26/al-subiyah-2/"^^xsd:anyURI ;
     geo:hasGeometry ap:3799_geom ;
-    skos:note "Rutkowski (2018)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Rutkowski (2018)" .
 
 ap:38 a ont:Harbour ;
     geo:hasGeometry ap:38_geom ;
@@ -28385,8 +28314,7 @@ ap:3800 a ont:Harbour ;
     geo:hasGeometry ap:3800_geom ;
     skos:note "Potts (2017)",
         "Salles (TOPOI 2012)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/915902> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/915902> .
 
 ap:3801 a ont:Harbour,
         ont:Warehouse ;
@@ -28394,39 +28322,33 @@ ap:3801 a ont:Harbour,
     geo:hasGeometry ap:3801_geom ;
     skos:note "Salles (TOPOI 2012)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912807> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27141> .
 
 ap:3802 a ont:Harbour ;
     geo:hasGeometry ap:3802_geom ;
     skos:note "Salles (TOPOI 2012)" ;
-    wdt:P1584 <https://pleiades.stoa.org/places/912899> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/912899> .
 
 ap:3803 a ont:Harbour ;
     geo:hasGeometry ap:3803_geom ;
     skos:note "Potts (2017)",
         "Salles (TOPOI 2012)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912872> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22654> ;
     wdt:P1958 <https://www.trismegistos.org/place/42178> ;
     wdt:P8068 <https://topostext.org/place/309476UCha> .
 
 ap:3804 a ont:Harbour ;
     geo:hasGeometry ap:3804_geom ;
-    skos:note "Kramer (1964)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Kramer (1964)" .
 
 ap:3805 a ont:Harbour,
         ont:Quay ;
-    geo:hasGeometry ap:3805_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3805_geom .
 
 <http://data.archaeology.link/data/ancientports/3805,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3805,1_geom> ;
-    skos:note "Nadali (2016)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Nadali (2016)" .
 
 ap:3806 a ont:Harbour,
         ont:Quay ;
@@ -28436,7 +28358,6 @@ ap:3806 a ont:Harbour,
         "Michalowski (2011)",
         "Woolley (1974)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912985> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22335> ;
     wdt:P1958 <https://www.trismegistos.org/place/51203> .
 
@@ -28447,7 +28368,6 @@ ap:3806 a ont:Harbour,
         "Michalowski (2011)",
         "Woolley (1974)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912985> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22335> ;
     wdt:P1958 <https://www.trismegistos.org/place/51203> .
 
@@ -28455,15 +28375,13 @@ ap:3806 a ont:Harbour,
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806,2_geom> ;
     skos:note "Dagostino (2013)",
         "Dagostino (2014)",
-        "Haaretz (2018)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Haaretz (2018)" .
 
 <http://data.archaeology.link/data/ancientports/3806,3> a ont:Harbour ;
     dcterms:isReferencedBy "http://www.antikforever.com/Mesopotamie/Sumer%20Akkad/eridou.htm"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3806,3_geom> ;
     skos:note "Ramazzotti (2015)" ;
     wdt:P1584 <https://pleiades.stoa.org/places/912845> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22334> ;
     wdt:P1958 <https://www.trismegistos.org/place/54431> .
 
@@ -28471,7 +28389,6 @@ ap:3807 a ont:Harbour ;
     geo:hasGeometry ap:3807_geom ;
     skos:note "Potts (2017)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912986> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22332> ;
     wdt:P1958 <https://www.trismegistos.org/place/14026> .
 
@@ -28479,14 +28396,12 @@ ap:3808 a ont:Harbour ;
     geo:hasGeometry ap:3808_geom ;
     skos:note "Potts (2017)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/893964> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25269> ;
     wdt:P1958 <https://www.trismegistos.org/place/11621> .
 
 ap:3809 a ont:Harbour ;
     geo:hasGeometry ap:3809_geom ;
     wdt:P1584 <http://pleiades.stoa.org/places/893951> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22328> ;
     wdt:P1958 <https://www.trismegistos.org/place/390> ;
     wdt:P8068 <https://topostext.org/place/325444UBab> .
@@ -28496,20 +28411,17 @@ ap:3809 a ont:Harbour ;
         "https://www.cemml.colostate.edu/cultural/09476/iraq05-094.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3809,1_geom> ;
     skos:note "Wall-Romana (1990)" ;
-    wdt:P1584 <https://pleiades.stoa.org/places/63806066> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/63806066> .
 
 <http://data.archaeology.link/data/ancientports/3809,2> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3809,2_geom> ;
     wdt:P1584 <https://pleiades.stoa.org/places/912936> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/22221> ;
     wdt:P1958 <https://www.trismegistos.org/place/3634> .
 
 <http://data.archaeology.link/data/ancientports/3809,3> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3809,3_geom> ;
-    wdt:P1584 <https://pleiades.stoa.org/places/915821> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/915821> .
 
 ap:381 a ont:Harbour ;
     geo:hasGeometry ap:381_geom ;
@@ -28520,62 +28432,51 @@ ap:381 a ont:Harbour ;
 
 ap:3810 a ont:Harbour ;
     geo:hasGeometry ap:3810_geom ;
-    wdt:P1584 <https://pleiades.stoa.org/places/915873> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/915873> .
 
 <http://data.archaeology.link/data/ancientports/3810,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3810,1_geom> ;
     skos:note "Potts (2019)" ;
-    wdt:P1584 <https://pleiades.stoa.org/places/915884> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/915884> .
 
 <http://data.archaeology.link/data/ancientports/3810,2> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3810,2_geom> ;
-    wdt:P1584 <https://pleiades.stoa.org/places/912877> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/912877> .
 
 <http://data.archaeology.link/data/ancientports/3810,3> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3810,3_geom> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3810,3_geom> .
 
 <http://data.archaeology.link/data/ancientports/3810,4> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3810,4_geom> ;
-    wdt:P1584 <https://pleiades.stoa.org/places/915901> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/915901> .
 
 <http://data.archaeology.link/data/ancientports/3810,5> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3810,5_geom> ;
-    wdt:P1584 <https://pleiades.stoa.org/places/915869> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/915869> .
 
 ap:3811 a ont:Harbour ;
     geo:hasGeometry ap:3811_geom ;
     skos:note "Potts (2017)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/912992> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/912992> .
 
 ap:3812 a ont:Harbour ;
     geo:hasGeometry ap:3812_geom ;
-    wdt:P1584 <http://pleiades.stoa.org/places/930175> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/930175> .
 
 ap:3813 a ont:Harbour ;
     geo:hasGeometry ap:3813_geom ;
-    wdt:P1584 <http://pleiades.stoa.org/places/922632> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/922632> .
 
 ap:3814 a ont:Harbour ;
     dcterms:isReferencedBy "https://iranicaonline.org/articles/kharg-island-02"^^xsd:anyURI ;
     geo:hasGeometry ap:3814_geom ;
     skos:note "Potts (2019)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/912881> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27150> .
 
 ap:3815 a ont:Harbour ;
     geo:hasGeometry ap:3815_geom ;
-    skos:note "Carter (2006)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Carter (2006)" .
 
 <http://data.archaeology.link/data/ancientports/3815,1> a ont:Harbour ;
     dcterms:isReferencedBy "https://en.wikipedia.org/wiki/Temukan"^^xsd:anyURI ;
@@ -28583,27 +28484,23 @@ ap:3815 a ont:Harbour ;
     skos:note "Carter (2006)",
         "Karimian (2011)",
         "Potts (2022)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/922626> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/922626> .
 
 ap:3816 a ont:Harbour ;
     geo:hasGeometry ap:3816_geom ;
     skos:note "Carter (2006)",
-        "Potts (2022)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Potts (2022)" .
 
 ap:3817 a ont:Harbour ;
     geo:hasGeometry ap:3817_geom ;
     skos:note "Potts (2019)",
         "Potts (2022)",
         "Tofighian (2017)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/922680> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/922680> .
 
 <http://data.archaeology.link/data/ancientports/3817,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3817,1_geom> ;
     wdt:P1584 <http://pleiades.stoa.org/places/922627> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25235> .
 
 ap:3818 a ont:Harbour ;
@@ -28613,13 +28510,11 @@ ap:3818 a ont:Harbour ;
     skos:note "Pezard (1914)",
         "Priestman (2013)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/922711> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/25238> .
 
 ap:3819 a ont:Harbour ;
     geo:hasGeometry ap:3819_geom ;
-    skos:note "Priestman (2013)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Priestman (2013)" .
 
 ap:382 a ont:Harbour ;
     geo:hasGeometry ap:382_geom ;
@@ -28628,25 +28523,21 @@ ap:382 a ont:Harbour ;
 
 ap:3820 a ont:Harbour ;
     geo:hasGeometry ap:3820_geom ;
-    wdt:P1584 <http://pleiades.stoa.org/places/930194> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/930194> .
 
 ap:3821 a ont:Harbour ;
     geo:hasGeometry ap:3821_geom ;
-    wdt:P1584 <http://pleiades.stoa.org/places/922675> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/922675> .
 
 ap:3822 a ont:Harbour ;
-    geo:hasGeometry ap:3822_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3822_geom .
 
 ap:3823 a ont:Harbour ;
     dcterms:isReferencedBy "https://www.tehrantimes.com/news/470206/Archaeological-trenches-carved-to-redefine-southern-Iranian-port"^^xsd:anyURI ;
     geo:hasGeometry ap:3823_geom ;
     skos:note "Askari Chaverdi (2017)",
         "Poukerman (2019)",
-        "Poukerman (2021)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+        "Poukerman (2021)" .
 
 ap:3824 a ont:Harbour ;
     dcterms:isReferencedBy "https://www.tehrantimes.com/news/473819/Torpedo-tip-jars-discovered-in-ancient-Iranian-port"^^xsd:anyURI ;
@@ -28655,46 +28546,37 @@ ap:3824 a ont:Harbour ;
         "Pourkerman (2018)",
         "Priestman (2013)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/29762> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27114> .
 
 ap:3825 a ont:Harbour ;
-    geo:hasGeometry ap:3825_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3825_geom .
 
 <http://data.archaeology.link/data/ancientports/3825,1> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3825,1_geom> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3825,1_geom> .
 
 ap:3826 a ont:Harbour ;
-    geo:hasGeometry ap:3826_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3826_geom .
 
 ap:3827 a ont:Harbour ;
     geo:hasGeometry ap:3827_geom ;
-    skos:note "Potts (2019)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2019)" .
 
 <http://data.archaeology.link/data/ancientports/3827,1> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3827,1_geom> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3827,1_geom> .
 
 ap:3828 a ont:Harbour ;
     geo:hasGeometry ap:3828_geom ;
-    skos:note "Potts (2019)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2019)" .
 
 ap:3829 a ont:Harbour ;
     geo:hasGeometry ap:3829_geom ;
     skos:note "Potts (2019)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/29630> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41324> .
 
 <http://data.archaeology.link/data/ancientports/3829,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3829,1_geom> ;
-    wdt:P1584 <https://pleiades.stoa.org/places/30240> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <https://pleiades.stoa.org/places/30240> .
 
 ap:383 a ont:Harbour,
         ont:Quay,
@@ -28713,56 +28595,46 @@ ap:383 a ont:Harbour,
 
 ap:3830 a ont:Harbour ;
     dcterms:isReferencedBy "https://whc.unesco.org/en/tentativelists/6551/"^^xsd:anyURI ;
-    geo:hasGeometry ap:3830_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3830_geom .
 
 ap:3831 a ont:Harbour ;
     geo:hasGeometry ap:3831_geom ;
-    skos:note "Potts (2019)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2019)" .
 
 ap:3832 a ont:Harbour ;
-    geo:hasGeometry ap:3832_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3832_geom .
 
 <http://data.archaeology.link/data/ancientports/3832,1> a ont:Harbour ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3832,1_geom> ;
     skos:note "Potts (2019)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/29691> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/41323> .
 
 <http://data.archaeology.link/data/ancientports/3832,2> a ont:Harbour ;
     dcterms:isReferencedBy "http://www.iranicaonline.org/articles/larak-island"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/3832,2_geom> ;
-    skos:note "Potts (2019)" ;
-    wdt:P17 "Gulf"^^xsd:string .
+    skos:note "Potts (2019)" .
 
 <http://data.archaeology.link/data/ancientports/3832,3> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3832,3_geom> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3832,3_geom> .
 
 ap:3833 a ont:Harbour ;
     geo:hasGeometry ap:3833_geom ;
     skos:note "Potts (2019)" ;
-    wdt:P1584 <http://pleiades.stoa.org/places/30251> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    wdt:P1584 <http://pleiades.stoa.org/places/30251> .
 
 <http://data.archaeology.link/data/ancientports/3833,1> a ont:Harbour ;
-    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3833,1_geom> ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry <http://data.archaeology.link/data/ancientports/3833,1_geom> .
 
 ap:3834 a ont:Harbour ;
     geo:hasGeometry ap:3834_geom ;
     skos:note "Marcotte (2017)",
         "Potts (2022)" ;
     wdt:P1584 <http://pleiades.stoa.org/places/29586> ;
-    wdt:P17 "Gulf"^^xsd:string ;
     wdt:P1936 <http://imperium.ahlfeldt.se/places/27101> .
 
 ap:3835 a ont:Harbour ;
-    geo:hasGeometry ap:3835_geom ;
-    wdt:P17 "Gulf"^^xsd:string .
+    geo:hasGeometry ap:3835_geom .
 
 ap:3836 a ont:Harbour ;
     geo:hasGeometry ap:3836_geom ;
@@ -32311,8 +32183,7 @@ ap:4136 a ont:Harbour,
 
 ap:4137 a ont:Harbour,
         ont:Lighthouse,
-        ont:Quay,
-        "X?"^^xsd:string ;
+        ont:Quay ;
     geo:hasGeometry ap:4137_geom ;
     skos:note "Flemming (1980)",
         "Paskoff (1991)",
@@ -32692,8 +32563,7 @@ ap:4176 a ont:Harbour,
 <http://data.archaeology.link/data/ancientports/4176,1> a ont:Harbour,
         ont:Lighthouse,
         ont:Quay,
-        ont:Shipyard,
-        "X?"^^xsd:string ;
+        ont:Shipyard ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/4176,1_geom> ;
     skos:note "Aounallah (2020:33)",
         "Hurst (2010)",
@@ -33654,8 +33524,7 @@ ap:428 a ont:Harbour,
     wdt:P8068 <https://topostext.org/place/411013UTar> .
 
 <http://data.archaeology.link/data/ancientports/428,1> a ont:Harbour,
-        ont:Lighthouse,
-        "X?"^^xsd:string ;
+        ont:Lighthouse ;
     dcterms:isReferencedBy "https://www.romanports.org/en/articles/ports-in-focus/645-tarragona.html"^^xsd:anyURI ;
     geo:hasGeometry <http://data.archaeology.link/data/ancientports/428,1_geom> ;
     skos:note "Macias (2015)",
@@ -42099,6 +41968,30 @@ ap:bib_Zazzaro_2013_Ancient a bibo:Article,
     dc:title "The Ancient Red Sea port of Adulis and the Eritrean coastal region"@en ;
     bibo:issuer "BAR International series" ;
     bibo:volume "2569"^^xsd:string .
+
+<http://www.opengis.net/def/crs/EPSG/0/4326> a ns1:GeographicCRS,
+        owl:NamedIndividual,
+        prov:Entity ;
+    rdfs:label "WGS 84"@en ;
+    ns1:area_of_use <http://www.opengis.net/def/crs/EPSG/0/4326_area_of_use> ;
+    ns1:asProj4 "+proj=longlat +datum=WGS84 +no_defs +type=crs"^^xsd:string ;
+    ns1:asProjJSON "{'$schema':'https://proj.org/schemas/v0.7/projjson.schema.json','type':'GeographicCRS','name':'WGS 84','datum_ensemble':{'name':'World Geodetic System 1984 ensemble','members':[{'name':'World Geodetic System 1984 (Transit)','id':{'authority':'EPSG','code':1166}},{'name':'World Geodetic System 1984 (G730)','id':{'authority':'EPSG','code':1152}},{'name':'World Geodetic System 1984 (G873)','id':{'authority':'EPSG','code':1153}},{'name':'World Geodetic System 1984 (G1150)','id':{'authority':'EPSG','code':1154}},{'name':'World Geodetic System 1984 (G1674)','id':{'authority':'EPSG','code':1155}},{'name':'World Geodetic System 1984 (G1762)','id':{'authority':'EPSG','code':1156}},{'name':'World Geodetic System 1984 (G2139)','id':{'authority':'EPSG','code':1309}},{'name':'World Geodetic System 1984 (G2296)','id':{'authority':'EPSG','code':1383}}],'ellipsoid':{'name':'WGS 84','semi_major_axis':6378137,'inverse_flattening':298.257223563},'accuracy':'2.0','id':{'authority':'EPSG','code':6326}},'coordinate_system':{'subtype':'ellipsoidal','axis':[{'name':'Geodetic latitude','abbreviation':'Lat','direction':'north','unit':'degree'},{'name':'Geodetic longitude','abbreviation':'Lon','direction':'east','unit':'degree'}]},'scope':'Horizontal component of 3D system.','area':'World.','bbox':{'south_latitude':-90,'west_longitude':-180,'north_latitude':90,'east_longitude':180},'id':{'authority':'EPSG','code':4326}}"^^xsd:string ;
+    ns1:asWKT "GEOGCRS['WGS 84',ENSEMBLE['World Geodetic System 1984 ensemble',MEMBER['World Geodetic System 1984 (Transit)'],MEMBER['World Geodetic System 1984 (G730)'],MEMBER['World Geodetic System 1984 (G873)'],MEMBER['World Geodetic System 1984 (G1150)'],MEMBER['World Geodetic System 1984 (G1674)'],MEMBER['World Geodetic System 1984 (G1762)'],MEMBER['World Geodetic System 1984 (G2139)'],MEMBER['World Geodetic System 1984 (G2296)'],ELLIPSOID['WGS 84',6378137,298.257223563,LENGTHUNIT['metre',1]],ENSEMBLEACCURACY[2.0]],PRIMEM['Greenwich',0,ANGLEUNIT['degree',0.0174532925199433]],CS[ellipsoidal,2],AXIS['geodetic latitude (Lat)',north,ORDER[1],ANGLEUNIT['degree',0.0174532925199433]],AXIS['geodetic longitude (Lon)',east,ORDER[2],ANGLEUNIT['degree',0.0174532925199433]],USAGE[SCOPE['Horizontal component of 3D system.'],AREA['World.'],BBOX[-90,-180,90,180]],ID['EPSG',4326]]"^^ns1:wktLiteral ;
+    ns1:coordinateSystem <http://www.opengis.net/def/crs/EPSG/0/4326_cs> ;
+    ns1:datum <http://www.opengis.net/ont/crs/datum/World_Geodetic_System_1984_ensemble> ;
+    ns1:ellipsoid <http://www.opengis.net/ont/crs/geod/1> ;
+    ns1:epsgCode "EPSG:4326"^^xsd:string ;
+    ns1:isApplicableTo <http://www.opengis.net/ont/crs/isbody/Earth> ;
+    ns1:isBound false ;
+    ns1:isGeocentric false ;
+    ns1:isGeographic true ;
+    ns1:isProjected false ;
+    ns1:isVertical false ;
+    ns1:scope "Horizontal component of 3D system."^^xsd:string .
+
+<http://www.opengis.net/ont/crs/cs/axis/east> a ns1:AxisDirection .
+
+<http://www.opengis.net/ont/crs/cs/axis/north> a ns1:AxisDirection .
 
 geo:asWKT a owl:DatatypeProperty .
 
@@ -66666,17 +66559,73 @@ ap:author_ers_M a foaf:Person ;
     foaf:family_Name "ers"@en ;
     foaf:firstName "M"@en .
 
+<http://www.opengis.net/def/crs/EPSG/0/4326_area_of_use> a ns1:AreaOfUse ;
+    rdfs:label "World."@en .
+
+<http://www.opengis.net/def/crs/EPSG/0/4326_cs> a ns1:EllipsoidalCoordinateSystem,
+        ns1:PlanarCoordinateSystem ;
+    rdfs:label "EPSG:4326 CS: ellipsoidal" ;
+    ns1:asProjJSON "{'$schema':'https://proj.org/schemas/v0.7/projjson.schema.json','type':'CoordinateSystem','subtype':'ellipsoidal','axis':[{'name':'Geodetic latitude','abbreviation':'Lat','direction':'north','unit':'degree'},{'name':'Geodetic longitude','abbreviation':'Lon','direction':'east','unit':'degree'}],'id':{'authority':'EPSG','code':6422}}" ;
+    ns1:asWKT "CS[ellipsoidal,2],AXIS['geodetic latitude (Lat)',north,ORDER[1],ANGLEUNIT['degree',0.0174532925199433,ID['EPSG',9122]]],AXIS['geodetic longitude (Lon)',east,ORDER[2],ANGLEUNIT['degree',0.0174532925199433,ID['EPSG',9122]]]" ;
+    ns1:axis <http://www.opengis.net/ont/crs/cs/axis/Geodetic_latitude_degree_north>,
+        <http://www.opengis.net/ont/crs/cs/axis/Geodetic_longitude_degree_east> .
+
+<http://www.opengis.net/ont/crs/cs/axis/Geodetic_latitude_degree_north> a ns1:CoordinateSystemAxis ;
+    rdfs:label "Geodetic latitude (degree)"@en ;
+    ns1:abbreviation "Lat"^^xsd:string ;
+    ns1:direction ns1:north ;
+    ns1:unit om:degree ;
+    ns1:unit_auth_code "EPSG"^^xsd:string ;
+    ns1:unit_code "9122"^^xsd:string ;
+    ns1:unit_conversion_factor 1.745329e-02 .
+
+<http://www.opengis.net/ont/crs/cs/axis/Geodetic_longitude_degree_east> a ns1:CoordinateSystemAxis ;
+    rdfs:label "Geodetic longitude (degree)"@en ;
+    ns1:abbreviation "Lon"^^xsd:string ;
+    ns1:direction ns1:east ;
+    ns1:unit om:degree ;
+    ns1:unit_auth_code "EPSG"^^xsd:string ;
+    ns1:unit_code "9122"^^xsd:string ;
+    ns1:unit_conversion_factor 1.745329e-02 .
+
+<http://www.opengis.net/ont/crs/datum/World_Geodetic_System_1984_ensemble> a ns1:Datum ;
+    rdfs:label "Datum: World Geodetic System 1984 ensemble"@en ;
+    ns1:primeMeridian <http://www.opengis.net/ont/crs/primeMeridian/Greenwich> ;
+    ns1:scope "Satellite navigation."^^xsd:string .
+
+<http://www.opengis.net/ont/crs/geod/1> a ns1:Geoid ;
+    rdfs:label "Geoid 1"@en ;
+    ns1:approximates <http://www.opengis.net/ont/crs/isbody/Earth> ;
+    ns1:eccentricity 6.69438e-03 ;
+    ns1:flatteningParameter 3.352811e-03 ;
+    ns1:isSphere false ;
+    ns1:semiMajorAxis "6378137.0"^^xsd:string ;
+    ns1:semiMinorAxis "6356752.314245179"^^xsd:string ;
+    skos:definition "+a=6378137.0 +f=0.0033528106647475126"^^xsd:string .
+
+<http://www.opengis.net/ont/crs/primeMeridian/Greenwich> a ns1:PrimeMeridian ;
+    rdfs:label "Greenwich"@en ;
+    ns1:asProjJSON "{'$schema':'https://proj.org/schemas/v0.7/projjson.schema.json','type':'PrimeMeridian','name':'Greenwich','longitude':0,'id':{'authority':'EPSG','code':8901}}"^^xsd:string ;
+    ns1:asWKT "PRIMEM['Greenwich',0,ANGLEUNIT['degree',0.0174532925199433],ID['EPSG',8901]]"^^xsd:string ;
+    ns1:longitude 0e+00 ;
+    ns1:unit <http://www.ontology-of-units-of-measure.org/resource/om-2/http://www.ontology-of-units-of-measure.org/resource/om-2/degree> .
+
 geo:Geometry a owl:Class .
 
-<http://www.wikidata.org/entity/Q1000> rdfs:label "Gabon"@en .
+<http://www.wikidata.org/entity/Q1000> a rdfs:Resource ;
+    rdfs:label "Gabon"@en .
 
-<http://www.wikidata.org/entity/Q114> rdfs:label "Kenya"@en .
+<http://www.wikidata.org/entity/Q114> a rdfs:Resource ;
+    rdfs:label "Kenya"@en .
 
-<http://www.wikidata.org/entity/Q211> rdfs:label "Latvia"@en .
+<http://www.wikidata.org/entity/Q211> a rdfs:Resource ;
+    rdfs:label "Latvia"@en .
 
-<http://www.wikidata.org/entity/Q36> rdfs:label "Poland"@en .
+<http://www.wikidata.org/entity/Q36> a rdfs:Resource ;
+    rdfs:label "Poland"@en .
 
-<http://www.wikidata.org/entity/Q977> rdfs:label "Djibouti"@en .
+<http://www.wikidata.org/entity/Q977> a rdfs:Resource ;
+    rdfs:label "Djibouti"@en .
 
 ap:author_Albelda_Eduardo a foaf:Person ;
     rdfs:label "Albelda, Eduardo"@en ;
@@ -66888,6 +66837,8 @@ ap:author_ez_Francisco_José a foaf:Person ;
     foaf:family_Name "ez"@en ;
     foaf:firstName "Francisco José"@en .
 
+om:degree a om:Unit .
+
 ap:author_Arnaud_Pascal a foaf:Person ;
     rdfs:label "Arnaud, Pascal"@en ;
     foaf:family_Name "Arnaud"@en ;
@@ -66923,120 +66874,169 @@ ap:author_au_Assaf a foaf:Person ;
     foaf:family_Name "au"@en ;
     foaf:firstName "Assaf"@en .
 
-<http://www.wikidata.org/entity/Q188736> rdfs:label "Bosnia"@en .
+<http://www.wikidata.org/entity/Q188736> a rdfs:Resource ;
+    rdfs:label "Bosnia"@en .
 
-<http://www.wikidata.org/entity/Q183> rdfs:label "Germany"@en .
+<http://www.wikidata.org/entity/Q183> a rdfs:Resource ;
+    rdfs:label "Germany"@en .
 
-<http://www.wikidata.org/entity/Q20> rdfs:label "Norway"@en .
+<http://www.wikidata.org/entity/Q20> a rdfs:Resource ;
+    rdfs:label "Norway"@en .
 
-<http://www.wikidata.org/entity/Q34> rdfs:label "Sweden"@en .
+<http://www.wikidata.org/entity/Q34> a rdfs:Resource ;
+    rdfs:label "Sweden"@en .
 
 ap:author_Morhange_Christophe a foaf:Person ;
     rdfs:label "Morhange, Christophe"@en ;
     foaf:family_Name "Morhange"@en ;
     foaf:firstName "Christophe"@en .
 
-<http://www.wikidata.org/entity/Q35> rdfs:label "Denmark"@en .
+<http://www.wikidata.org/entity/Q35> a rdfs:Resource ;
+    rdfs:label "Denmark"@en .
 
-<http://www.wikidata.org/entity/Q234> rdfs:label "Flanders"@en .
+<http://www.wikidata.org/entity/Q234> a rdfs:Resource ;
+    rdfs:label "Flanders"@en .
 
-<http://www.wikidata.org/entity/Q924> rdfs:label "Tanzania"@en .
+<http://www.wikidata.org/entity/Q924> a rdfs:Resource ;
+    rdfs:label "Tanzania"@en .
 
-<http://www.wikidata.org/wiki/Q29> rdfs:label "Spain Ibiza"@en .
+<http://www.wikidata.org/wiki/Q29> a rdfs:Resource ;
+    rdfs:label "Spain Ibiza"@en .
 
-<http://www.wikidata.org/entity/Q215> rdfs:label "Slovenia"@en .
+<http://www.wikidata.org/entity/Q215> a rdfs:Resource ;
+    rdfs:label "Slovenia"@en .
 
-<http://www.wikidata.org/entity/Q236> rdfs:label "Montenegro"@en .
+<http://www.wikidata.org/entity/Q236> a rdfs:Resource ;
+    rdfs:label "Montenegro"@en .
 
-<http://www.wikidata.org/entity/Q39760> rdfs:label "Gaza"@en .
+<http://www.wikidata.org/entity/Q39760> a rdfs:Resource ;
+    rdfs:label "Gaza"@en .
 
-<http://www.wikidata.org/entity/Q794> rdfs:label "Iran"@en .
+<http://www.wikidata.org/entity/Q794> a rdfs:Resource ;
+    rdfs:label "Iran"@en .
 
-<http://www.wikidata.org/entity/Q230> rdfs:label "Georgia Black S."@en .
+<http://www.wikidata.org/entity/Q230> a rdfs:Resource ;
+    rdfs:label "Georgia Black S."@en .
 
-<http://www.wikidata.org/entity/Q854> rdfs:label "Sri Lanka"@en .
+<http://www.wikidata.org/entity/Q854> a rdfs:Resource ;
+    rdfs:label "Sri Lanka"@en .
 
-<http://www.wikidata.org/entity/Q842> rdfs:label "Oman"@en .
+<http://www.wikidata.org/entity/Q842> a rdfs:Resource ;
+    rdfs:label "Oman"@en .
 
-<http://www.wikidata.org/entity/Q27> rdfs:label "Ireland"@en .
+<http://www.wikidata.org/entity/Q27> a rdfs:Resource ;
+    rdfs:label "Ireland"@en .
 
-<http://www.wikidata.org/entity/Q986> rdfs:label "Eritrea"@en .
+<http://www.wikidata.org/entity/Q986> a rdfs:Resource ;
+    rdfs:label "Eritrea"@en .
 
-<http://www.wikidata.org/entity/Q1045> rdfs:label "Somalia"@en .
+<http://www.wikidata.org/entity/Q1045> a rdfs:Resource ;
+    rdfs:label "Somalia"@en .
 
-<http://www.wikidata.org/entity/Q858> rdfs:label "Syria"@en .
+<http://www.wikidata.org/entity/Q858> a rdfs:Resource ;
+    rdfs:label "Syria"@en .
 
-<http://www.wikidata.org/entity/Q233> rdfs:label "Malta"@en,
+<http://www.wikidata.org/entity/Q233> a rdfs:Resource ;
+    rdfs:label "Malta"@en,
         "Malta: Comino"@en,
         "Malta: Gozo"@en .
 
-<http://www.wikidata.org/entity/Q843> rdfs:label "Pakistan"@en .
+<http://www.wikidata.org/entity/Q843> a rdfs:Resource ;
+    rdfs:label "Pakistan"@en .
 
-<http://www.wikidata.org/entity/Q8828> rdfs:label "Spain Mallorca"@en .
+<http://www.wikidata.org/entity/Q8828> a rdfs:Resource ;
+    rdfs:label "Spain Mallorca"@en .
 
-<http://www.wikidata.org/entity/Q222> rdfs:label "Albania"@en .
+<http://www.wikidata.org/entity/Q222> a rdfs:Resource ;
+    rdfs:label "Albania"@en .
 
-<http://www.wikidata.org/entity/Q1049> rdfs:label "Sudan"@en .
+<http://www.wikidata.org/entity/Q1049> a rdfs:Resource ;
+    rdfs:label "Sudan"@en .
 
-ont:Pila rdfs:label "X"@en .
+ont:Pila a rdfs:Resource ;
+    rdfs:label "X"@en .
 
-<http://www.wikidata.org/entity/Q805> rdfs:label "Yemen Ind Oc."@en,
+<http://www.wikidata.org/entity/Q805> a rdfs:Resource ;
+    rdfs:label "Yemen Ind Oc."@en,
         "Yemen: Red Sea"@en,
         "Yemen: Socotra"@en .
 
-<http://www.wikidata.org/entity/Q55> rdfs:label "Netherlands"@en .
+<http://www.wikidata.org/entity/Q55> a rdfs:Resource ;
+    rdfs:label "Netherlands"@en .
 
-<http://www.wikidata.org/entity/Q801> rdfs:label "Israel"@en .
+<http://www.wikidata.org/entity/Q801> a rdfs:Resource ;
+    rdfs:label "Israel"@en .
 
-<http://www.wikidata.org/entity/Q218> rdfs:label "Romania Black S."@en .
+<http://www.wikidata.org/entity/Q218> a rdfs:Resource ;
+    rdfs:label "Romania Black S."@en .
 
-<http://www.wikidata.org/entity/Q668> rdfs:label "India"@en .
+<http://www.wikidata.org/entity/Q668> a rdfs:Resource ;
+    rdfs:label "India"@en .
 
-<http://www.wikidata.org/entity/Q851> rdfs:label "Saudi Arabia: Red Sea"@en .
+<http://www.wikidata.org/entity/Q851> a rdfs:Resource ;
+    rdfs:label "Saudi Arabia: Red Sea"@en .
 
-<http://www.wikidata.org/entity/Q822> rdfs:label "Lebanon"@en .
+<http://www.wikidata.org/entity/Q822> a rdfs:Resource ;
+    rdfs:label "Lebanon"@en .
 
-ont:Shipyard rdfs:label "X"@en,
+ont:Shipyard a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-<http://www.wikidata.org/entity/Q219> rdfs:label "Bulgaria Black S."@en .
+<http://www.wikidata.org/entity/Q219> a rdfs:Resource ;
+    rdfs:label "Bulgaria Black S."@en .
 
-<http://www.wikidata.org/entity/Q159> rdfs:label "Russia"@en,
+<http://www.wikidata.org/entity/Q159> a rdfs:Resource ;
+    rdfs:label "Russia"@en,
         "Russia Black S."@en .
 
-<http://www.wikidata.org/entity/Q1028> rdfs:label "Morocco"@en .
+<http://www.wikidata.org/entity/Q1028> a rdfs:Resource ;
+    rdfs:label "Morocco"@en .
 
-ont:Warehouse rdfs:label "X"@en,
+ont:Warehouse a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-<http://www.wikidata.org/entity/Q229> rdfs:label "Cyprus"@en .
+<http://www.wikidata.org/entity/Q229> a rdfs:Resource ;
+    rdfs:label "Cyprus"@en .
 
-ont:Shipshed rdfs:label "X"@en,
+ont:Shipshed a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-<http://www.wikidata.org/entity/Q45> rdfs:label "Portugal"@en .
+<http://www.wikidata.org/entity/Q45> a rdfs:Resource ;
+    rdfs:label "Portugal"@en .
 
-<http://www.wikidata.org/entity/Q262> rdfs:label "Algeria"@en .
+<http://www.wikidata.org/entity/Q262> a rdfs:Resource ;
+    rdfs:label "Algeria"@en .
 
-<http://www.wikidata.org/entity/Q948> rdfs:label "Tunisia"@en .
+<http://www.wikidata.org/entity/Q948> a rdfs:Resource ;
+    rdfs:label "Tunisia"@en .
 
-<http://www.wikidata.org/entity/Q212> rdfs:label "Ukraine Black S."@en .
+<http://www.wikidata.org/entity/Q212> a rdfs:Resource ;
+    rdfs:label "Ukraine Black S."@en .
 
-<http://www.wikidata.org/entity/Q1016> rdfs:label "Libya"@en .
+<http://www.wikidata.org/entity/Q1016> a rdfs:Resource ;
+    rdfs:label "Libya"@en .
 
-ont:Slipway rdfs:label "X"@en,
+ont:Slipway a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-ont:Lighthouse rdfs:label "X"@en,
+ont:Lighthouse a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-<http://www.wikidata.org/entity/Q224> rdfs:label "Croatia"@en .
+<http://www.wikidata.org/entity/Q224> a rdfs:Resource ;
+    rdfs:label "Croatia"@en .
 
-<http://www.wikidata.org/entity/Q79> rdfs:label "Egypt: G. of Suez"@en,
+<http://www.wikidata.org/entity/Q79> a rdfs:Resource ;
+    rdfs:label "Egypt: G. of Suez"@en,
         "Egypt: Med Sea"@en,
         "Egypt: Red Sea"@en .
 
-<http://www.wikidata.org/entity/Q29> rdfs:label "Spain Baleares"@en,
+<http://www.wikidata.org/entity/Q29> a rdfs:Resource ;
+    rdfs:label "Spain Baleares"@en,
         "Spain Cabrera"@en,
         "Spain East"@en,
         "Spain Formentera"@en,
@@ -67046,19 +67046,24 @@ ont:Lighthouse rdfs:label "X"@en,
         "Spain South"@en,
         "Spain: Canaria"@en .
 
-<http://www.wikidata.org/entity/Q142> rdfs:label "France Corsica"@en,
+<http://www.wikidata.org/entity/Q142> a rdfs:Resource ;
+    rdfs:label "France Corsica"@en,
         "France South"@en,
         "France West"@en .
 
-<http://www.wikidata.org/entity/Q145> rdfs:label "UK"@en .
+<http://www.wikidata.org/entity/Q145> a rdfs:Resource ;
+    rdfs:label "UK"@en .
 
-ont:Quay rdfs:label "X"@en,
+ont:Quay a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-ont:VillaMaritima rdfs:label "X"@en,
+ont:VillaMaritima a rdfs:Resource ;
+    rdfs:label "X"@en,
         "X?"@en .
 
-<http://www.wikidata.org/entity/Q38> rdfs:label "Italy Adriatic"@en,
+<http://www.wikidata.org/entity/Q38> a rdfs:Resource ;
+    rdfs:label "Italy Adriatic"@en,
         "Italy Lampedusa"@en,
         "Italy Linosa"@en,
         "Italy Pantelleria"@en,
@@ -67066,7 +67071,8 @@ ont:VillaMaritima rdfs:label "X"@en,
         "Italy Sicily"@en,
         "Italy West"@en .
 
-<http://www.wikidata.org/entity/Q43> rdfs:label "TR: Black Sea"@en,
+<http://www.wikidata.org/entity/Q43> a rdfs:Resource ;
+    rdfs:label "TR: Black Sea"@en,
         "TR: Black Sea N"@en,
         "TR: Bosph N"@en,
         "TR: Bosph S"@en,
@@ -67075,7 +67081,8 @@ ont:VillaMaritima rdfs:label "X"@en,
         "TR: South"@en,
         "TR: West"@en .
 
-<http://www.wikidata.org/entity/Q41> rdfs:label "GR: Attica +"@en,
+<http://www.wikidata.org/entity/Q41> a rdfs:Resource ;
+    rdfs:label "GR: Attica +"@en,
         "GR: Crete North"@en,
         "GR: Crete South"@en,
         "GR: Cyclades Isl."@en,
